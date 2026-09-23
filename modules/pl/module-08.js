@@ -97,18 +97,15 @@ window.MODULE_DATA[8] = {
       "explanation": "Product description tworzy specyfikację jakościową dla pojedynczego produktu."
     },
     {
-      "type": "list",
-      "question": "Które DWA dokumenty są bezpośrednio powiązane z Praktyką Jakości?",
+      "type": "standard",
+      "question": "Które DWA dokumenty są bezpośrednio powiązane z Praktyką Jakości? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Podejście do Zarządzania Jakością (Quality management approach).  2. Rejestr Jakości (Quality register).  3. Rejestr Akcjonariuszy.  4. Harmonogram Główny Wykonawcy.",
       "options": [
-        "1. Podejście do Zarządzania Jakością (Quality management approach)",
-        "2. Rejestr Jakości (Quality register)",
-        "3. Rejestr Akcjonariuszy",
-        "4. Harmonogram Główny Wykonawcy"
+        "1 i 2",
+        "1 i 3",
+        "1 i 4",
+        "2 i 3"
       ],
-      "correct": [
-        0,
-        1
-      ],
+      "correct": 0,
       "explanation": "Dokumenty zarządcze jakości to Podejście do Jakości oraz Rejestr Jakości."
     },
     {
@@ -148,38 +145,36 @@ window.MODULE_DATA[8] = {
       "explanation": "Kryteria akceptacji określają warunki odbioru końcowego produktu projektu."
     },
     {
-      "type": "list",
-      "question": "Które DWA elementy zawarte są w Opisie Produktu (Product description)?",
+      "type": "standard",
+      "question": "Które DWA elementy zawarte są w Opisie Produktu (Product description)? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Kryteria jakościowe dla produktu.  2. Metody kontroli jakości i odpowiedzialności testowe.  3. Numer konta bankowego inwestora.  4. Lista wszystkich pracowników firmy.",
       "options": [
-        "1. Kryteria jakościowe dla produktu",
-        "2. Metody kontroli jakości i odpowiedzialności testowe",
-        "3. Numer konta bankowego inwestora",
-        "4. Lista wszystkich pracowników firmy"
+        "1 i 2",
+        "1 i 3",
+        "1 i 4",
+        "2 i 3"
       ],
-      "correct": [
-        0,
-        1
-      ],
+      "correct": 0,
       "explanation": "Product description określa specyfikację, kryteria jakości i metody kontroli danego elementu."
     },
     {
-      "type": "negative",
-      "question": "Co NIE JEST zadaniem Kontroli Jakości (Quality control)?",
+      "type": "standard",
+      "question": "Czym zajmuje się kontrola jakości?",
       "options": [
-        "Przeprowadzanie inspekcji i testów produktów.",
-        "Zapisywanie wyników kontroli w Rejestrze Jakości.",
-        "Audytowanie niezależności całej organizacji na zlecenie zarządu.",
-        "Weryfikacja czy produkt spełnia specyfikację z Opisu Produktu."
+        "Sprawdza produkty względem kryteriów jakości",
+        "Zatwierdza uzasadnienie biznesowe",
+        "Definiuje tolerancję całego projektu",
+        "Audytuje niezależnie system jakości organizacji"
       ],
-      "correct": 2,
-      "explanation": "Audytowanie całościowe organizacji leży w gestii Zapewnienia Jakości (Quality assurance)."
+      "correct": 0,
+      "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
     },
     {
       "question": "Czy planowanie jakości jest SLA lub SLT?",
       "options": [
         "Tak, zawsze",
         "Nie, jest szersze; SLA i cele usługi mogą dostarczać wymagań",
-        "Tak, jeśli projekt jest IT"
+        "Tak, jeśli projekt jest IT",
+        "Tak, są to tożsame nazwy procesu kontroli"
       ],
       "correct": 1,
       "explanation": "Planowanie obejmuje również techniki, standardy, role i akceptację."
@@ -189,7 +184,8 @@ window.MODULE_DATA[8] = {
       "options": [
         "Czy mechanizmy planowania i kontroli pozwolą potwierdzić jakość",
         "Tylko pojedynczy wynik funkcji",
-        "Wyłącznie opłacalność projektu"
+        "Wyłącznie opłacalność projektu",
+        "Wyłącznie czy produkt ukończono w terminie"
       ],
       "correct": 0,
       "explanation": "Zapewnienie jakości ocenia adekwatność kontroli i jest zwykle niezależne od zespołu projektu."
@@ -199,7 +195,8 @@ window.MODULE_DATA[8] = {
       "options": [
         "Tak",
         "Tylko jeśli ma dużo testów",
-        "Nie, akceptacja wymaga właściwych dowodów i decyzji"
+        "Nie, akceptacja wymaga właściwych dowodów i decyzji",
+        "Tak, wynik testu automatycznie zastępuje zgodę użytkownika"
       ],
       "correct": 2,
       "explanation": "Automatyczne testy pokrywają określony zakres wymagań."
@@ -209,6 +206,7 @@ window.MODULE_DATA[8] = {
       "options": [
         "W Rejestrze Jakości",
         "Tylko w Business Case",
+        "Wyłącznie w Rejestrze Ryzyk",
         "Wyłącznie w Rejestrze Ryzyk"
       ],
       "correct": 0,
@@ -219,7 +217,8 @@ window.MODULE_DATA[8] = {
       "options": [
         "Zawiera tylko daty testów",
         "Śledzi produkty i ich status, w tym akceptację",
-        "Zastępuje wszystkie opisy"
+        "Zastępuje wszystkie opisy",
+        "Zastępuje Uzasadnienie Biznesowe"
       ],
       "correct": 1,
       "explanation": "Produkt może mieć wiele kontroli jakości."
@@ -229,7 +228,8 @@ window.MODULE_DATA[8] = {
       "options": [
         "Zawsze tylko jego autor",
         "Osoba niezależna od wytwórcy",
-        "Wyłącznie Executive"
+        "Wyłącznie Executive",
+        "Każda osoba, niezależnie od znajomości kryteriów jakości"
       ],
       "correct": 1,
       "explanation": "Rozdzielenie ról ogranicza konflikt interesów."

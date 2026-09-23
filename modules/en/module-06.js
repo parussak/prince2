@@ -2,7 +2,7 @@ window.MODULE_DATA = window.MODULE_DATA || {};
 window.MODULE_DATA[6] = {
   "title": "Chapter 6: Organizing",
   "navLabel": "6. Organizing",
-  "contentHtml": "\n<h1 class=\"module-heading\">Chapter 6: Organizing</h1><p class=\"ov-source\">PDF • module 3 • pages 88–115. This chapter covers the project management team and its accountabilities.</p>\n<div class=\"scenario-box\">\n<p><em>Artur asks Zosia at the meeting: \"Zosia, I understand your enthusiasm, but who actually makes the final decision about spending money on the next stage?\"</em></p>\n<p><em>Zosia pulls out the prepared diagram of the Project Management Team and replies: \"You are the executive and the single point of accountability on the project board. I manage the project from day to day, but it is the project board that authorizes each management stage!\"</em></p>\n</div>\n<div class=\"card\">\n<h2 class=\"card-title\">🏛️ 4 organizational levels in PRINCE2</h2>\n<p style=\"margin-bottom: 1rem; color: var(--text-dark);\">PRINCE2 clearly separates strategic supervision from day-to-day management. Each level has its own competencies and tolerances:</p>\n<div class=\"tile-grid\">\n<div class=\"flip-tile\" onclick=\"this.classList.toggle('flipped')\">\n<div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\">\n<div class=\"tile-front\" style=\"grid-area:1 / 1;border-top: 4px solid #64748b;\">\n<div>\n<div class=\"tile-icon\">🏢</div>\n<div class=\"tile-title\">1. Commissioning a project</div>\n<div class=\"tile-desc\">Business layer - outside the structure of the project management team.</div>\n</div>\n<div class=\"flip-prompt\">🔄 Click for details</div>\n</div>\n<div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\">\n<div class=\"tile-back-header\">\n<span class=\"tile-back-title\">Business layer</span>\n<span class=\"tile-back-badge\">Level 1</span>\n</div>\n<div class=\"tile-back-body\">The business layer prepares the project order to complete it with the outline that the project board agrees to. Appoints the Executive and establishes project tolerances.</div>\n<div class=\"flip-prompt\">🔄 Click to return</div>\n</div>\n</div>\n</div>\n<div class=\"flip-tile\" onclick=\"this.classList.toggle('flipped')\">\n<div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\">\n<div class=\"tile-front\" style=\"grid-area:1 / 1;border-top: 4px solid #0284c7;\">\n<div>\n<div class=\"tile-icon\">👑</div>\n<div class=\"tile-title\">2. Directing</div>\n<div class=\"tile-desc\">Project Board – strategic supervision and key decisions.</div>\n</div>\n<div class=\"flip-prompt\">🔄 Click for details</div>\n</div>\n<div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\">\n<div class=\"tile-back-header\">\n<span class=\"tile-back-title\">Project Board</span>\n<span class=\"tile-back-badge\">Level 2</span>\n</div>\n<div class=\"tile-back-body\">Represents Business (Executive), Users (Senior User) and Suppliers (Senior Supplier). Approves plans and stages.</div>\n<div class=\"flip-prompt\">🔄 Click to return</div>\n</div>\n</div>\n</div>\n<div class=\"flip-tile\" onclick=\"this.classList.toggle('flipped')\">\n<div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\">\n<div class=\"tile-front\" style=\"grid-area:1 / 1;border-top: 4px solid #0d9488;\">\n<div>\n<div class=\"tile-icon\">📋</div>\n<div class=\"tile-title\">3. Management</div>\n<div class=\"tile-desc\">Project Manager – daily operational control.</div>\n</div>\n<div class=\"flip-prompt\">🔄 Click for details</div>\n</div>\n<div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\">\n<div class=\"tile-back-header\">\n<span class=\"tile-back-title\">Project Manager</span>\n<span class=\"tile-back-badge\">Level 3</span>\n</div>\n<div class=\"tile-back-body\">Manages the stage within tolerance, assigns work to Team Managers and reports to the Project Board.</div>\n<div class=\"flip-prompt\">🔄 Click to return</div>\n</div>\n</div>\n</div>\n<div class=\"flip-tile\" onclick=\"this.classList.toggle('flipped')\">\n<div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\">\n<div class=\"tile-front\" style=\"grid-area:1 / 1;border-top: 4px solid #7c3aed;\">\n<div>\n<div class=\"tile-icon\">⚙️</div>\n<div class=\"tile-title\">4. Delivering</div>\n<div class=\"tile-desc\">Team Manager and contractors – product production.</div>\n</div>\n<div class=\"flip-prompt\">🔄 Click for details</div>\n</div>\n<div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\">\n<div class=\"tile-back-header\">\n<span class=\"tile-back-title\">Team Manager</span>\n<span class=\"tile-back-badge\">Level 4</span>\n</div>\n<div class=\"tile-back-body\">Responsible for the direct production of specialized products in accordance with work packages (Work Packages).</div>\n<div class=\"flip-prompt\">🔄 Click to return</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"remember-box\">\n<div class=\"remember-badge\">💡 Remember for the exam!</div>\n<div class=\"remember-text\">\n<strong>The Project Manager CANNOT be a member of the Project Board or act as an Executive.</strong>The separation of the Management and Directing levels is fundamental and often asked in the exam.</div>\n</div>\n<div class=\"card quiz-section\">\n<h2 class=\"card-title\">SnakeBite Scenario: Organizing and Roles</h2>\n<div id=\"m3-story-quiz\"></div>\n</div>\n<div class=\"hard-knowledge-header\">\n<div class=\"hard-knowledge-title\">🎓 Hard knowledge for the Foundation exam (Organizing)</div>\n<div class=\"hard-knowledge-subtitle\">Official definitions, roles on the Project Board and a question test.</div>\n</div>\n<div class=\"hard-knowledge-content\">\n<div class=\"remember-box\"><div class=\"remember-badge\">💡 Remember</div><div class=\"remember-text\">The purpose of the Organizing practice is to define and establish a project accountability and responsibility structure (who).</div></div>\n<h3 style=\"margin:1.5rem 0 0.8rem;font-size:1.05rem;\">Roles in the Project Board</h3><div class=\"definition-item\"><div class=\"definition-term\">Project chairman<span class=\"definition-term-en\">(Executive - Artur)</span></div><p>A single point of accountability for the project, determined by the business.<strong>This accountability CANNOT be delegated.</strong>He represents business and chairs the Project Board.</p></div>\n<div class=\"definition-item\"><div class=\"definition-term\">Primary user/users<span class=\"definition-term-en\">(Senior User - Maya)</span></div><p>Represents the user community. Is accountable for the approach taken to capture user requirements and benefit specifications aligned with the business case.</p></div>\n<div class=\"definition-item\"><div class=\"definition-term\">Main supplier(s).<span class=\"definition-term-en\">(Senior Supplier - Kamil)</span></div><p>Is responsible for the quality of products supplied by suppliers<strong>and for the technical integrity of the project.</strong></p></div>\n<h3 style=\"margin:1.5rem 0 0.8rem;font-size:1.05rem;\">Management and Delivery</h3><div class=\"definition-item\"><div class=\"definition-term\">Project manager<span class=\"definition-term-en\">(Project Manager - Zosia)</span></div><p>Responsible for ongoing project management. Has the authority to conduct the project on behalf of the Project Board, within agreed tolerances and constraints. Manages 7 areas:<strong>benefits, costs, time, risk, quality, scope, sustainability.</strong></p></div>\n<div class=\"definition-item\"><div class=\"definition-term\">Team leader<span class=\"definition-term-en\">(Team Manager - Tomek)</span></div><p>Responsible for carrying out work in accordance with agreed specifications and within tolerances agreed with the Project Manager. The project manager assigns work to the team leader in the form<strong>description of the Work Package</strong>, in accordance with the Commercial Management Approach.</p></div><div class=\"remember-box\"><div class=\"remember-badge\">💡 Remember</div><div class=\"remember-text\"><strong>Project arrangements are not just formal contracts.</strong>The Project Manager must secure ALL project arrangements: both formal contracts with external suppliers and informal arrangements with colleagues - e.g. when and how changes/arrangements are made. In SnakeBite, this applies to both the contract for the graphics engine and Zosia's arrangements with Tomek.</div></div>\n<h3 style=\"margin:1.5rem 0 0.8rem;font-size:1.05rem;\">Other roles</h3><div class=\"definition-item\"><div class=\"definition-term\">Project supervision<span class=\"definition-term-en\">(Project Assurance)</span></div><p>Project Board members are accountable for the oversight of their areas. The council MAY appoint separate people for this task, but<strong>These can NEVER be: The Project Manager, Team Members or Project Support.</strong>Appointing persons to perform supervisory tasks does not transfer the accountability of the members of the Board.</p></div>\n<div class=\"definition-item\"><div class=\"definition-term\">Project support<span class=\"definition-term-en\">(Project Support)</span></div><p>Administrative services, tool guidance, planning, etc. Default is the responsibility of the Project Manager, but CAN be delegated. Project support can be established as a project office.</p></div>\n<h3 style=\"margin:1.5rem 0 0.8rem;font-size:1.05rem;\">3 sides of the deal</h3><div class=\"tile-grid\"><div aria-label=\"Business: flip tile\" aria-pressed=\"false\" class=\"flip-tile\" onclick=\"this.classList.toggle('flipped'); this.setAttribute('aria-pressed', this.classList.contains('flipped'))\" onkeydown=\"if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click()}\" role=\"button\" tabindex=\"0\"><div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\"><div class=\"tile-front\" style=\"grid-area:1 / 1;\"><div><div class=\"tile-title\">Business</div><div class=\"tile-desc\">Meeting business needs and providing value for money.</div></div><div class=\"flip-prompt\">🔄 Click for details</div></div><div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\"><div class=\"tile-back-header\"><span class=\"tile-back-title\">Executive - Arthur</span></div><div class=\"tile-back-body\">Represented by the Executive. Artur examines whether SnakeBite meets the needs of PixelBite Games and provides value for money.</div><div class=\"flip-prompt\">🔄 Click to return</div></div></div></div><div aria-label=\"User: flip tile\" aria-pressed=\"false\" class=\"flip-tile\" onclick=\"this.classList.toggle('flipped'); this.setAttribute('aria-pressed', this.classList.contains('flipped'))\" onkeydown=\"if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click()}\" role=\"button\" tabindex=\"0\"><div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\"><div class=\"tile-front\" style=\"grid-area:1 / 1;\"><div><div class=\"tile-title\">User</div><div class=\"tile-desc\">Will use project results to realize benefits; will operate, maintain or support results; the results of the project will have an impact on it.</div></div><div class=\"flip-prompt\">🔄 Click for details</div></div><div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\"><div class=\"tile-back-header\"><span class=\"tile-back-title\">Senior User - Maya</span></div><div class=\"tile-back-body\">Represented by the Senior User(s). Maya represents the SnakeBite user community, including those who use and support the results.</div><div class=\"flip-prompt\">🔄 Click to return</div></div></div></div><div aria-label=\"Supplier: flip tile\" aria-pressed=\"false\" class=\"flip-tile\" onclick=\"this.classList.toggle('flipped'); this.setAttribute('aria-pressed', this.classList.contains('flipped'))\" onkeydown=\"if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click()}\" role=\"button\" tabindex=\"0\"><div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\"><div class=\"tile-front\" style=\"grid-area:1 / 1;\"><div><div class=\"tile-title\">Supplier</div><div class=\"tile-desc\">Provides resources with specific skills needed to produce products.</div></div><div class=\"flip-prompt\">🔄 Click for details</div></div><div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\"><div class=\"tile-back-header\"><span class=\"tile-back-title\">Senior Supplier - Kamil</span></div><div class=\"tile-back-body\">Represented by Senior Supplier(s). Kamil provides perspective on the resources and skills needed to produce SnakeBite.</div><div class=\"flip-prompt\">🔄 Click to return</div></div></div></div></div>\n<h3 style=\"margin:1.5rem 0 0.8rem;font-size:1.05rem;\">📄 Management products in practice Organizing</h3><div class=\"doc-table-container\"><table class=\"doc-table\"><thead><tr><th>Management document</th><th>Creator</th><th>Description and role in the project</th></tr></thead><tbody><tr><td><strong>Approach to Contract Management</strong><br/><em>Commercial Management Approach</em></td><td>Project manager</td><td>It defines the approach to commercial arrangements and contracts as well as the principles of cooperation. Applies to both external suppliers and internal arrangements.</td></tr><tr><td><strong>Role Description</strong><br/><em>Roles Description</em></td><td>Project manager</td><td>It defines the accountability, responsibility, authority and reporting of a given role in the project management team.</td></tr></tbody></table></div><nav aria-label=\"Related modules\"><h3 style=\"margin:1.5rem 0 0.8rem;font-size:1.05rem;\">Relationships with other modules</h3><p>Team structure and role descriptions are part of the DIP (PID) - see the full structure of this document in<a href=\"#module-4\" onclick=\"switchModule(4); return false;\">Module 4</a>.</p><p>You have already seen the project log (with registers of issues, quality and risks).<a href=\"#module-1\" onclick=\"switchModule(1); return false;\">Module 1</a>.</p><p>Work Breakdown Structure linking products to work packages - see<a href=\"#module-6\" onclick=\"switchModule(6); return false;\">Module 6 (Plan)</a>.</p></nav>\n<div class=\"quiz-section\">\n<div id=\"m3-exam-quiz\"></div>\n</div>\n</div>\n<div style=\"text-align: center; margin-top: 2rem;\"><h2 style=\"color: var(--accent-purple);\">🎴 Flashcards - Module 3</h2></div>\n<div class=\"flashcards-container\" id=\"m3-flashcards\"></div>\n",
+  "contentHtml": "\n<h1 class=\"module-heading\">Chapter 6: Organizing</h1><p class=\"ov-source\">PDF • module 3 • pages 88–115. This chapter covers the project management team and its accountabilities.</p>\n<div class=\"scenario-box\">\n<p><em>Artur asks Zosia at the meeting: \"Zosia, I understand your enthusiasm, but who actually makes the final decision about spending money on the next stage?\"</em></p>\n<p><em>Zosia pulls out the prepared diagram of the Project Management Team and replies: \"You are the executive and the single point of accountability on the project board. I manage the project from day to day, but it is the project board that authorizes each management stage!\"</em></p>\n</div>\n<div class=\"card\">\n<h2 class=\"card-title\">🏛️ 4 organizational levels in PRINCE2</h2>\n<p style=\"margin-bottom: 1rem; color: var(--text-dark);\">PRINCE2 clearly separates strategic supervision from day-to-day management. Each level has its own competencies and tolerances:</p>\n<div class=\"tile-grid\">\n<div class=\"flip-tile\" onclick=\"this.classList.toggle('flipped')\">\n<div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\">\n<div class=\"tile-front\" style=\"grid-area:1 / 1;border-top: 4px solid #64748b;\">\n<div>\n<div class=\"tile-icon\">🏢</div>\n<div class=\"tile-title\">1. Commissioning a project</div>\n<div class=\"tile-desc\">Business layer - outside the structure of the project management team.</div>\n</div>\n<div class=\"flip-prompt\">🔄 Click for details</div>\n</div>\n<div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\">\n<div class=\"tile-back-header\">\n<span class=\"tile-back-title\">Business layer</span>\n<span class=\"tile-back-badge\">Level 1</span>\n</div>\n<div class=\"tile-back-body\">The business layer prepares the project mandate to complete it with the outline that the project board agrees to. Appoints the Executive and establishes project tolerances.</div>\n<div class=\"flip-prompt\">🔄 Click to return</div>\n</div>\n</div>\n</div>\n<div class=\"flip-tile\" onclick=\"this.classList.toggle('flipped')\">\n<div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\">\n<div class=\"tile-front\" style=\"grid-area:1 / 1;border-top: 4px solid #0284c7;\">\n<div>\n<div class=\"tile-icon\">👑</div>\n<div class=\"tile-title\">2. Directing</div>\n<div class=\"tile-desc\">Project Board – strategic supervision and key decisions.</div>\n</div>\n<div class=\"flip-prompt\">🔄 Click for details</div>\n</div>\n<div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\">\n<div class=\"tile-back-header\">\n<span class=\"tile-back-title\">Project Board</span>\n<span class=\"tile-back-badge\">Level 2</span>\n</div>\n<div class=\"tile-back-body\">Represents Business (Executive), Users (Senior User) and Suppliers (Senior Supplier). Approves plans and stages.</div>\n<div class=\"flip-prompt\">🔄 Click to return</div>\n</div>\n</div>\n</div>\n<div class=\"flip-tile\" onclick=\"this.classList.toggle('flipped')\">\n<div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\">\n<div class=\"tile-front\" style=\"grid-area:1 / 1;border-top: 4px solid #0d9488;\">\n<div>\n<div class=\"tile-icon\">📋</div>\n<div class=\"tile-title\">3. Management</div>\n<div class=\"tile-desc\">Project Manager – daily operational control.</div>\n</div>\n<div class=\"flip-prompt\">🔄 Click for details</div>\n</div>\n<div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\">\n<div class=\"tile-back-header\">\n<span class=\"tile-back-title\">Project Manager</span>\n<span class=\"tile-back-badge\">Level 3</span>\n</div>\n<div class=\"tile-back-body\">Manages the stage within tolerance, assigns work to Team Managers and reports to the Project Board.</div>\n<div class=\"flip-prompt\">🔄 Click to return</div>\n</div>\n</div>\n</div>\n<div class=\"flip-tile\" onclick=\"this.classList.toggle('flipped')\">\n<div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\">\n<div class=\"tile-front\" style=\"grid-area:1 / 1;border-top: 4px solid #7c3aed;\">\n<div>\n<div class=\"tile-icon\">⚙️</div>\n<div class=\"tile-title\">4. Delivering</div>\n<div class=\"tile-desc\">Team Manager and contractors – product production.</div>\n</div>\n<div class=\"flip-prompt\">🔄 Click for details</div>\n</div>\n<div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\">\n<div class=\"tile-back-header\">\n<span class=\"tile-back-title\">Team Manager</span>\n<span class=\"tile-back-badge\">Level 4</span>\n</div>\n<div class=\"tile-back-body\">Responsible for the direct production of specialized products in accordance with work packages (Work Packages).</div>\n<div class=\"flip-prompt\">🔄 Click to return</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"remember-box\">\n<div class=\"remember-badge\">💡 Remember for the exam!</div>\n<div class=\"remember-text\">\n<strong>The Project Manager CANNOT be a member of the Project Board or act as an Executive.</strong>The separation of the Management and Directing levels is fundamental and often asked in the exam.</div>\n</div>\n<div class=\"card quiz-section\">\n<h2 class=\"card-title\">SnakeBite Scenario: Organizing and Roles</h2>\n<div id=\"m3-story-quiz\"></div>\n</div>\n<div class=\"hard-knowledge-header\">\n<div class=\"hard-knowledge-title\">🎓 Hard knowledge for the Foundation exam (Organizing)</div>\n<div class=\"hard-knowledge-subtitle\">Official definitions, roles on the Project Board and a question test.</div>\n</div>\n<div class=\"hard-knowledge-content\">\n<div class=\"remember-box\"><div class=\"remember-badge\">💡 Remember</div><div class=\"remember-text\">The purpose of the Organizing practice is to define and establish a project accountability and responsibility structure (who).</div></div>\n<h3 style=\"margin:1.5rem 0 0.8rem;font-size:1.05rem;\">Roles in the Project Board</h3><div class=\"definition-item\"><div class=\"definition-term\">project executive<span class=\"definition-term-en\">(Executive - Artur)</span></div><p>A single point of accountability for the project, determined by the business.<strong>This accountability CANNOT be delegated.</strong>He represents business and chairs the Project Board.</p></div>\n<div class=\"definition-item\"><div class=\"definition-term\">Senior user<span class=\"definition-term-en\">(Senior User - Maya)</span></div><p>Represents the user community. Is accountable for the approach taken to capture user requirements and benefit specifications aligned with the business case.</p></div>\n<div class=\"definition-item\"><div class=\"definition-term\">Main supplier(s).<span class=\"definition-term-en\">(Senior Supplier - Kamil)</span></div><p>Is responsible for the quality of products supplied by suppliers<strong>and for the technical integrity of the project.</strong></p></div>\n<h3 style=\"margin:1.5rem 0 0.8rem;font-size:1.05rem;\">Management and Delivery</h3><div class=\"definition-item\"><div class=\"definition-term\">Project manager<span class=\"definition-term-en\">(Project Manager - Zosia)</span></div><p>Responsible for ongoing project management. Has the authority to conduct the project on behalf of the Project Board, within agreed tolerances and constraints. Manages 7 areas:<strong>benefits, costs, time, risk, quality, scope, sustainability.</strong></p></div>\n<div class=\"definition-item\"><div class=\"definition-term\">Team manager<span class=\"definition-term-en\">(Team Manager - Tomek)</span></div><p>Responsible for carrying out work in accordance with agreed specifications and within tolerances agreed with the Project Manager. The project manager assigns work to the team manager in the form<strong>description of the Work Package</strong>, in accordance with the Commercial Management Approach.</p></div><div class=\"remember-box\"><div class=\"remember-badge\">💡 Remember</div><div class=\"remember-text\"><strong>Project arrangements are not just formal contracts.</strong>The Project Manager must secure ALL project arrangements: both formal contracts with external suppliers and informal arrangements with colleagues - e.g. when and how changes/arrangements are made. In SnakeBite, this applies to both the contract for the graphics engine and Zosia's arrangements with Tomek.</div></div>\n<h3 style=\"margin:1.5rem 0 0.8rem;font-size:1.05rem;\">Other roles</h3><div class=\"definition-item\"><div class=\"definition-term\">Project supervision<span class=\"definition-term-en\">(Project Assurance)</span></div><p>Project Board members are accountable for the oversight of their areas. The Project Board may appoint separate people for this task, but<strong>These can NEVER be: The Project Manager, Team Members or Project Support.</strong>Appointing persons to perform supervisory tasks does not transfer the accountability of the members of the Board.</p></div>\n<div class=\"definition-item\"><div class=\"definition-term\">Project support<span class=\"definition-term-en\">(Project Support)</span></div><p>Administrative services, tool guidance, planning, etc. Default is the responsibility of the Project Manager, but CAN be delegated. Project support can be established as a project office.</p></div>\n<h3 style=\"margin:1.5rem 0 0.8rem;font-size:1.05rem;\">3 sides of the deal</h3><div class=\"tile-grid\"><div aria-label=\"Business: flip tile\" aria-pressed=\"false\" class=\"flip-tile\" onclick=\"this.classList.toggle('flipped'); this.setAttribute('aria-pressed', this.classList.contains('flipped'))\" onkeydown=\"if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click()}\" role=\"button\" tabindex=\"0\"><div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\"><div class=\"tile-front\" style=\"grid-area:1 / 1;\"><div><div class=\"tile-title\">Business</div><div class=\"tile-desc\">Meeting business needs and providing value for money.</div></div><div class=\"flip-prompt\">🔄 Click for details</div></div><div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\"><div class=\"tile-back-header\"><span class=\"tile-back-title\">Executive - Arthur</span></div><div class=\"tile-back-body\">Represented by the Executive. Artur examines whether SnakeBite meets the needs of PixelBite Games and provides value for money.</div><div class=\"flip-prompt\">🔄 Click to return</div></div></div></div><div aria-label=\"User: flip tile\" aria-pressed=\"false\" class=\"flip-tile\" onclick=\"this.classList.toggle('flipped'); this.setAttribute('aria-pressed', this.classList.contains('flipped'))\" onkeydown=\"if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click()}\" role=\"button\" tabindex=\"0\"><div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\"><div class=\"tile-front\" style=\"grid-area:1 / 1;\"><div><div class=\"tile-title\">User</div><div class=\"tile-desc\">Will use project results to realize benefits; will operate, maintain or support results; the results of the project will have an impact on it.</div></div><div class=\"flip-prompt\">🔄 Click for details</div></div><div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\"><div class=\"tile-back-header\"><span class=\"tile-back-title\">Senior User - Maya</span></div><div class=\"tile-back-body\">Represented by the Senior User(s). Maya represents the SnakeBite user community, including those who use and support the results.</div><div class=\"flip-prompt\">🔄 Click to return</div></div></div></div><div aria-label=\"Supplier: flip tile\" aria-pressed=\"false\" class=\"flip-tile\" onclick=\"this.classList.toggle('flipped'); this.setAttribute('aria-pressed', this.classList.contains('flipped'))\" onkeydown=\"if(event.key==='Enter'||event.key===' '){event.preventDefault();this.click()}\" role=\"button\" tabindex=\"0\"><div class=\"flip-tile-inner\" style=\"display:grid;height:auto;\"><div class=\"tile-front\" style=\"grid-area:1 / 1;\"><div><div class=\"tile-title\">Supplier</div><div class=\"tile-desc\">Provides resources with specific skills needed to produce products.</div></div><div class=\"flip-prompt\">🔄 Click for details</div></div><div class=\"tile-back\" style=\"position:relative;grid-area:1 / 1;\"><div class=\"tile-back-header\"><span class=\"tile-back-title\">Senior Supplier - Kamil</span></div><div class=\"tile-back-body\">Represented by Senior Supplier(s). Kamil provides perspective on the resources and skills needed to produce SnakeBite.</div><div class=\"flip-prompt\">🔄 Click to return</div></div></div></div></div>\n<h3 style=\"margin:1.5rem 0 0.8rem;font-size:1.05rem;\">📄 Management products in practice Organizing</h3><div class=\"doc-table-container\"><table class=\"doc-table\"><thead><tr><th>Management document</th><th>Creator</th><th>Description and role in the project</th></tr></thead><tbody><tr><td><strong>Commercial management approach</strong><br/><em>Commercial Management Approach</em></td><td>Project manager</td><td>It defines the approach to commercial arrangements and contracts as well as the principles of cooperation. Applies to both external suppliers and internal arrangements.</td></tr><tr><td><strong>Role Description</strong><br/><em>Roles Description</em></td><td>Project manager</td><td>It defines the accountability, responsibility, authority and reporting of a given role in the project management team.</td></tr></tbody></table></div><nav aria-label=\"Related modules\"><h3 style=\"margin:1.5rem 0 0.8rem;font-size:1.05rem;\">Relationships with other modules</h3><p>Team structure and role descriptions are part of the PID (PID) - see the full structure of this document in<a href=\"#module-4\" onclick=\"switchModule(4); return false;\">Module 4</a>.</p><p>You have already seen the project log (with registers of issues, quality and risks).<a href=\"#module-1\" onclick=\"switchModule(1); return false;\">Module 1</a>.</p><p>Work Breakdown Structure linking products to work packages - see<a href=\"#module-6\" onclick=\"switchModule(6); return false;\">Module 6 (Plan)</a>.</p></nav>\n<div class=\"quiz-section\">\n<div id=\"m3-exam-quiz\"></div>\n</div>\n</div>\n<div style=\"text-align: center; margin-top: 2rem;\"><h2 style=\"color: var(--accent-purple);\">🎴 Flashcards - Module 3</h2></div>\n<div class=\"flashcards-container\" id=\"m3-flashcards\"></div>\n",
   "storyQuiz": [
     {
       "question": "1. Artur (Sponsor) is ready to provide funds for the SnakeBite game. What official role does he play in the Project Management Team?",
@@ -32,7 +32,7 @@ window.MODULE_DATA[6] = {
         "Senior Supplier",
         "Senior User",
         "Project Manager",
-        "Project chairman"
+        "project executive"
       ],
       "correct": 0,
       "explanation": "The primary supplier(s) is accountable for the quality of the products delivered by the suppliers AND for the technical integrity of the project."
@@ -80,7 +80,7 @@ window.MODULE_DATA[6] = {
         "Yes, if Maya agrees."
       ],
       "correct": 2,
-      "explanation": "The project chair is the single point of accountability for the project. This accountability CANNOT be delegated."
+      "explanation": "The project executive is the single point of accountability for the project. This accountability CANNOT be delegated."
     },
     {
       "type": "standard",
@@ -111,12 +111,12 @@ window.MODULE_DATA[6] = {
       "question": "10. Zosia gives Tom the implementation of the achievement system. How should she assign this work?",
       "options": [
         "Verbal only, no specifications.",
-        "Through the description of the Task Group, with agreed specifications and tolerances.",
+        "Through the description of the work package, with agreed specifications and tolerances.",
         "By giving him the responsibility of the Executive.",
         "By asking him to set the project tolerances himself."
       ],
       "correct": 1,
-      "explanation": "The project manager assigns work in the form of a Task Group description in accordance with the Contract Management Approach. The team leader performs it within the agreed tolerances."
+      "explanation": "The project manager assigns work in the form of a work package description in accordance with the Commercial management approach. The team manager performs it within the agreed tolerances."
     },
     {
       "type": "standard",
@@ -193,18 +193,15 @@ window.MODULE_DATA[6] = {
       "explanation": "The Executive has ultimate, sole responsibility for the success of the project."
     },
     {
-      "type": "list",
-      "question": "Which TWO role combinations are incompatible with independent PRINCE2 governance?",
+      "type": "standard",
+      "question": "Which TWO role combinations are incompatible with independent PRINCE2 governance? Choose ONE pair of true statements. 1. Executive and project manager on the same project.  2. Project assurance and project manager on the same project.  3. Senior user and senior supplier representing the same stakeholders.  4. Project manager and team manager on a small project.",
       "options": [
-        "Executive and project manager on the same project",
-        "Project assurance and project manager on the same project",
-        "Senior user and senior supplier representing the same stakeholders",
-        "Project manager and team manager on a small project"
+        "1 and 2",
+        "1 and 3",
+        "1 and 4",
+        "2 and 3"
       ],
-      "correct": [
-        0,
-        1
-      ],
+      "correct": 0,
       "explanation": "The PM cannot be an Executive or perform Project Assurance (supervision must be independent of the PM)."
     },
     {
@@ -244,31 +241,28 @@ window.MODULE_DATA[6] = {
       "explanation": "Project Support supports PMs in administrative tasks."
     },
     {
-      "type": "list",
-      "question": "Which TWO tasks are the responsibilities of a Senior User?",
+      "type": "standard",
+      "question": "Which TWO tasks are the responsibilities of a Senior User? Choose ONE pair of true statements. 1. Determining the quality requirements and expectations of users.  2. Confirmation that the delivered products meet the acceptance criteria.  3. Personal database programming.  4. Keeping the company's accounting.",
       "options": [
-        "1. Determining the quality requirements and expectations of users",
-        "2. Confirmation that the delivered products meet the acceptance criteria",
-        "3. Personal database programming",
-        "4. Keeping the company's accounting"
+        "1 and 2",
+        "1 and 3",
+        "1 and 4",
+        "2 and 3"
       ],
-      "correct": [
-        0,
-        1
-      ],
+      "correct": 0,
       "explanation": "The Senior User defines requirements and verifies and receives products on behalf of users."
     },
     {
-      "type": "negative",
-      "question": "Which of the following units is NOT part of the Project Management Team?",
+      "type": "standard",
+      "question": "What is the delivery level of the project organization?",
       "options": [
-        "Project Board",
-        "Project Manager",
-        "Business Layer (business layer)",
-        "Team Managers"
+        "Team managers and team members",
+        "Corporate management",
+        "The project board",
+        "Programme management"
       ],
-      "correct": 2,
-      "explanation": "The business layer - Project Engagement level - resides outside the project management team."
+      "correct": 0,
+      "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
     },
     {
       "type": "standard",
@@ -295,31 +289,28 @@ window.MODULE_DATA[6] = {
       "explanation": "business layer → Orientation → Management → Deliver."
     },
     {
-      "type": "list",
-      "question": "Which TWO statements apply to the Executive?",
+      "type": "standard",
+      "question": "Which TWO statements apply to the Executive? Choose ONE pair of true statements. 1. It is determined by business.  2. He can delegate his responsibility for the project to the PM.  3. It is a single point of accountability for the project.  4. He must also act as a Project Manager.",
       "options": [
-        "It is determined by business.",
-        "He can delegate his responsibility for the project to the PM.",
-        "It is a single point of accountability for the project.",
-        "He must also act as a Project Manager."
+        "1 and 3",
+        "1 and 2",
+        "1 and 4",
+        "2 and 3"
       ],
-      "correct": [
-        0,
-        2
-      ],
+      "correct": 0,
       "explanation": "The Executive is appointed by the business and is a single point of accountability. This accountability cannot be delegated."
     },
     {
-      "type": "negative",
-      "question": "Which statement about the Project Manager is NOT true?",
+      "type": "standard",
+      "question": "Which statement describes the project manager?",
       "options": [
-        "Manages the project on an ongoing basis.",
-        "Acts on behalf of the Project Board within agreed tolerances.",
-        "It also manages benefits and sustainability.",
-        "May be a member of the Project Board if not Executive."
+        "Manages a stage within delegated tolerance",
+        "Must sit on the project board",
+        "Replaces the executive",
+        "Sets the project tolerance alone"
       ],
-      "correct": 3,
-      "explanation": "The PM cannot be a member of the Project Board. The separation of Management from Direction is not limited to the prohibition of combining PM and Executive."
+      "correct": 0,
+      "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
     },
     {
       "type": "standard",
@@ -346,31 +337,28 @@ window.MODULE_DATA[6] = {
       "explanation": "The primary supplier(s) is accountable for both the quality of the suppliers' products and the technical integrity of the project."
     },
     {
-      "type": "list",
-      "question": "Which TWO statements about Project Management are correct?",
+      "type": "standard",
+      "question": "Which TWO statements about Project Management are correct? Choose ONE pair of true statements. 1. Board members are accountable for the oversight of their areas.  2. Project support may be taken over by Project Assurance.  3. The Board may appoint separate persons for supervisory tasks.  4. The project manager may supervise himself on behalf of the Board.",
       "options": [
-        "Board members are accountable for the oversight of their areas.",
-        "Project support may be taken over by Project Assurance.",
-        "The Board may appoint separate persons for supervisory tasks.",
-        "The project manager may supervise himself on behalf of the Board."
+        "1 and 3",
+        "1 and 2",
+        "1 and 4",
+        "2 and 3"
       ],
-      "correct": [
-        0,
-        2
-      ],
+      "correct": 0,
       "explanation": "The Board may appoint persons for oversight tasks, maintaining accountability. They cannot be PMs, team members or Project Support."
     },
     {
-      "type": "negative",
-      "question": "Which statement about design arrangements is NOT true?",
+      "type": "standard",
+      "question": "What is the scope of the commercial management approach?",
       "options": [
-        "Informal internal arrangements must be secured.",
-        "Formal contracts with external suppliers should be secured.",
-        "The Contract Management approach applies only to signed contracts with external suppliers.",
-        "Arrangements may include when and how changes are made."
+        "Covers appropriate commercial arrangements and supplier relationships",
+        "Applies only to signed external contracts",
+        "Replaces the quality management approach",
+        "Is an end stage report"
       ],
-      "correct": 2,
-      "explanation": "The Project Manager must secure ALL arrangements, including informal arrangements with colleagues."
+      "correct": 0,
+      "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
     },
     {
       "type": "standard",
@@ -397,31 +385,28 @@ window.MODULE_DATA[6] = {
       "explanation": "The work package description defines agreed products, constraints and controls."
     },
     {
-      "type": "list",
-      "question": "Which TWO statements about Project Support are correct?",
+      "type": "standard",
+      "question": "Which TWO statements about Project Support are correct? Choose ONE pair of true statements. 1. By default, the Project Manager is responsible for them.  2. It cannot be delegated.  3. Can be established as a project office.  4. Always includes independent project supervision.",
       "options": [
-        "By default, the Project Manager is responsible for them.",
-        "It cannot be delegated.",
-        "Can be established as a project office.",
-        "Always includes independent project supervision."
+        "1 and 3",
+        "1 and 2",
+        "1 and 4",
+        "2 and 3"
       ],
-      "correct": [
-        0,
-        2
-      ],
+      "correct": 0,
       "explanation": "Project support is the PM's responsibility by default, can be delegated and can take the form of a project office. He cannot perform Project Assurance."
     },
     {
-      "type": "negative",
-      "question": "Which assignment of a party of interest to its representative is NOT correct?",
+      "type": "standard",
+      "question": "Who represents user interests on the project board?",
       "options": [
-        "Business - Executive.",
-        "User - Senior Supplier.",
-        "Supplier - Senior Supplier.",
-        "User - Senior User."
+        "The senior user",
+        "The senior supplier",
+        "The team manager",
+        "Quality assurance"
       ],
-      "correct": 1,
-      "explanation": "The User is represented by the Senior User; Senior Supplier represents the supplier. The business is represented by the Executive."
+      "correct": 0,
+      "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
     },
     {
       "type": "standard",
@@ -433,7 +418,7 @@ window.MODULE_DATA[6] = {
         "Quality assurance"
       ],
       "correct": 0,
-      "explanation": "Preparing a project order belongs to the business layer, i.e. the Project order level."
+      "explanation": "Preparing a project mandate belongs to the business layer, i.e. the Project order level."
     },
     {
       "type": "missing-word",
@@ -448,31 +433,28 @@ window.MODULE_DATA[6] = {
       "explanation": "The business meets business needs and provides value for money. It is represented by the Executive."
     },
     {
-      "type": "list",
-      "question": "Which TWO conditions apply to the Team Manager's performance of work?",
+      "type": "standard",
+      "question": "Which TWO conditions apply to the Team Manager's performance of work? Choose ONE pair of true statements. 1. The works are in accordance with the agreed specifications.  2. He sets the tolerances himself, without consulting the PM.  3. The works are within the tolerances agreed with the Project Manager.  4. Assumes Executive accountability for the project.",
       "options": [
-        "The works are in accordance with the agreed specifications.",
-        "He sets the tolerances himself, without consulting the PM.",
-        "The works are within the tolerances agreed with the Project Manager.",
-        "Assumes Executive accountability for the project."
+        "1 and 3",
+        "1 and 2",
+        "1 and 4",
+        "2 and 3"
       ],
-      "correct": [
-        0,
-        2
-      ],
-      "explanation": "The team leader is responsible for carrying out the work in accordance with the specifications and within the tolerances agreed with the PM."
+      "correct": 0,
+      "explanation": "The team manager is responsible for carrying out the work in accordance with the specifications and within the tolerances agreed with the PM."
     },
     {
-      "type": "negative",
-      "question": "Which of these is not a project management responsibility in the organizing practice?",
+      "type": "standard",
+      "question": "Which task belongs to the project manager?",
       "options": [
-        "Benefits.",
-        "Sustainability.",
-        "Risk.",
-        "Sale."
+        "Managing the stage work",
+        "Selling the product after closure as a PRINCE2 role",
+        "Setting overall programme tolerance",
+        "Personally performing every quality test"
       ],
-      "correct": 3,
-      "explanation": "The seven areas are benefits, costs, time, risk, quality, scope and sustainability."
+      "correct": 0,
+      "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
     }
   ],
   "flashcards": [
@@ -486,7 +468,7 @@ window.MODULE_DATA[6] = {
     },
     {
       "q": "Who is ultimately responsible for the project's success?",
-      "a": "Project chairman (Executive)."
+      "a": "project executive (Executive)."
     },
     {
       "q": "What functions cannot be performed by the Project Manager?",

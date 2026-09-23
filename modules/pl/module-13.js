@@ -2,7 +2,7 @@ window.MODULE_DATA = window.MODULE_DATA || {};
 window.MODULE_DATA[13] = {
   "title": "Rozdział 13: Uruchamianie projektu oraz inicjowanie projektu",
   "navLabel": "4. Uruchamianie projektu oraz inicjowanie projektu",
-  "contentHtml": "\n<h1 class=\"module-heading\">Moduł 4: Uruchamianie projektu oraz inicjowanie projektu</h1><p class=\"ov-source\">PDF • moduł 4 • strony 116–133. Dotychczasowy moduł 5; cała jego zawartość została zachowana.</p>\n<div class=\"scenario-box\">\n<p><em>Zanim Zosia dostała zielone światło na wydanie 500 tys. zł, PixelBite Games przeprowadziło proces **Starting up a project (SU)**. Powstał krótki **Zarys Projektu (Project Brief)**. Artur (Zleceniodawca) sprawdził, czy gra w ogóle ma sens.</em></p>\n<p><em>Dopiero po decyzji Rady Projektu w procesie **Directing a project (DP)**, Zosia weszła w proces **Initiating a project (IP)**, gdzie stworzyła pełną **Dokumentację Inicjującą Projekt (PID)** oraz dokładnie zaplanowała pierwszy etap realizacyjny.</em></p>\n</div>\n<div class=\"card\">\n<h2 class=\"card-title\">🔄 Porównanie Procesów SU vs IP</h2>\n<div class=\"doc-table-container\">\n<table class=\"doc-table\">\n<thead>\n<tr>\n<th>Cecha</th>\n<th>Starting up a project (SU)</th>\n<th>Initiating a project (IP)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Kiedy zachodzi?</strong></td>\n<td>Przedprojektowo (przed Etapem Inicjowania)</td>\n<td>W pierwszym etapie zarządczym (Etap Inicjowania)</td>\n</tr>\n<tr>\n<td><strong>Główny cel</strong></td>\n<td>Czy projekt jest zasadny i warty inicjowania?</td>\n<td>Jak dokładnie zorganizować i przeprowadzić projekt?</td>\n</tr>\n<tr>\n<td><strong>Główny produkt</strong></td>\n<td><strong>Zarys Projektu (Project Brief)</strong></td>\n<td><strong>Dokumentacja Inicjująca Projekt (PID)</strong></td>\n</tr>\n<tr>\n<td><strong>Horyzont czasowy</strong></td>\n<td>Bardzo krótki (kilka dni/tygodni)</td>\n<td>Pełne, szczegółowe planowanie całego projektu</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<div class=\"remember-box\">\n<div class=\"remember-badge\">💡 Zapamiętaj na egzamin!</div>\n<div class=\"remember-text\">\n          W PRINCE2 istnieją minimum **DWA etapy zarządcze**: Etap Inicjowania (w którym zachodzi proces IP) oraz co najmniej jeden Etap Realizacyjny!\n        </div>\n</div>\n<div class=\"card quiz-section\">\n<h2 class=\"card-title\">Scenariusz SnakeBite: SU &amp; IP</h2>\n<div id=\"m4-story-quiz\"></div>\n</div>\n<div class=\"hard-knowledge-header\">\n<div class=\"hard-knowledge-title\">🎓 Twarda wiedza pod egzamin Foundation (SU &amp; IP)</div>\n<div class=\"hard-knowledge-subtitle\">Oficjalne definicje, struktura PID i test pytaniowy.</div>\n</div>\n<div class=\"hard-knowledge-content\">\n<div class=\"definition-item\">\n<div class=\"definition-term\">Dokumentacja Inicjująca Projekt <span class=\"definition-term-en\">(PID - Project Initiation Documentation)</span></div>\n<div style=\"font-size: 0.92rem; color: #334155; margin-top: 0.2rem;\">Zbiór dokumentów stanowiący pojedyncze źródło prawdy o projekcie. Zawiera Business Case, Plany, Strategie i Struktury Organizacyjne.</div>\n</div>\n<div class=\"quiz-section\">\n<div id=\"m4-exam-quiz\"></div>\n</div>\n</div>\n<div style=\"text-align: center; margin-top: 2rem;\"><h2 style=\"color: var(--accent-purple);\">🎴 Fiszki - Moduł 4</h2></div>\n<div class=\"flashcards-container\" id=\"m4-flashcards\"></div>\n",
+  "contentHtml": "\n<h1 class=\"module-heading\">Moduł 4: Uruchamianie projektu oraz inicjowanie projektu</h1><p class=\"ov-source\">PDF • moduł 4 • strony 116–133. Dotychczasowy moduł 5; cała jego zawartość została zachowana.</p>\n<div class=\"scenario-box\">\n<p><em>Zanim Zosia dostała zielone światło na wydanie 500 tys. zł, PixelBite Games przeprowadziło proces **Starting up a project (SU)**. Powstał krótki **Zarys Projektu (Project Brief)**. Artur (Zleceniodawca) sprawdził, czy gra w ogóle ma sens.</em></p>\n<p><em>Dopiero po decyzji Rady Projektu w procesie **Directing a project (DP)**, Zosia weszła w proces **Initiating a project (IP)**, gdzie stworzyła pełną **Dokumentację Inicjującą Projekt (PID)** oraz dokładnie zaplanowała pierwszy etap realizacyjny.</em></p>\n</div>\n<div class=\"card\">\n<h2 class=\"card-title\">🔄 Porównanie Procesów SU vs IP</h2>\n<div class=\"doc-table-container\">\n<table class=\"doc-table\">\n<thead>\n<tr>\n<th>Cecha</th>\n<th>Starting up a project (SU)</th>\n<th>Initiating a project (IP)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Kiedy zachodzi?</strong></td>\n<td>Przedprojektowo (przed Etapem Inicjowania)</td>\n<td>W pierwszym etapie zarządczym (Etap Inicjowania)</td>\n</tr>\n<tr>\n<td><strong>Główny cel</strong></td>\n<td>Czy projekt jest zasadny i warty inicjowania?</td>\n<td>Jak dokładnie zorganizować i przeprowadzić projekt?</td>\n</tr>\n<tr>\n<td><strong>Główny produkt</strong></td>\n<td><strong>Zarys Projektu (Project Brief)</strong></td>\n<td><strong>Dokumentacja Inicjująca Projekt (PID)</strong></td>\n</tr>\n<tr>\n<td><strong>Horyzont czasowy</strong></td>\n<td>Bardzo krótki (kilka dni/tygodni)</td>\n<td>Plan Projektu wysokiego poziomu oraz ustalenia zarządcze; szczegółowy Plan Następnego Etapu powstaje przy granicy etapu</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<div class=\"remember-box\">\n<div class=\"remember-badge\">💡 Zapamiętaj na egzamin!</div>\n<div class=\"remember-text\">\n          W PRINCE2 istnieją minimum **DWA etapy zarządcze**: Etap Inicjowania (w którym zachodzi proces IP) oraz co najmniej jeden Etap Realizacyjny!\n        </div>\n</div>\n<div class=\"card quiz-section\">\n<h2 class=\"card-title\">Scenariusz SnakeBite: SU &amp; IP</h2>\n<div id=\"m4-story-quiz\"></div>\n</div>\n<div class=\"hard-knowledge-header\">\n<div class=\"hard-knowledge-title\">🎓 Twarda wiedza pod egzamin Foundation (SU &amp; IP)</div>\n<div class=\"hard-knowledge-subtitle\">Oficjalne definicje, struktura PID i test pytaniowy.</div>\n</div>\n<div class=\"hard-knowledge-content\">\n<div class=\"definition-item\">\n<div class=\"definition-term\">Dokumentacja Inicjująca Projekt <span class=\"definition-term-en\">(PID - Project Initiation Documentation)</span></div>\n<div style=\"font-size: 0.92rem; color: #334155; margin-top: 0.2rem;\">Zbiór dokumentów stanowiący pojedyncze źródło prawdy o projekcie. Zawiera Business Case, Plany, Strategie i Struktury Organizacyjne.</div>\n</div>\n<div class=\"quiz-section\">\n<div id=\"m4-exam-quiz\"></div>\n</div>\n</div>\n<div style=\"text-align: center; margin-top: 2rem;\"><h2 style=\"color: var(--accent-purple);\">🎴 Fiszki - Moduł 4</h2></div>\n<div class=\"flashcards-container\" id=\"m4-flashcards\"></div>\n",
   "storyQuiz": [
     {
       "question": "1. W studiu PixelBite pada pomysł stworzenia gry SnakeBite. Jaki proces PRINCE2 uruchamia się jako pierwszy, jeszcze przed podjęciem decyzji o finansowaniu inicjowania?",
@@ -97,18 +97,15 @@ window.MODULE_DATA[13] = {
       "explanation": "PID powstaje w procesie IP i zbiera wszystkie kluczowe uzgodnienia projektowe."
     },
     {
-      "type": "list",
-      "question": "Które DWA zadania są wykonywane w procesie Starting up a project (SU)?",
+      "type": "standard",
+      "question": "Które DWA zadania są wykonywane w procesie Starting up a project (SU)? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Mianowanie Zleceniodawcy (Executive) i Kierownika Projektu (PM).  2. Opracowanie Zarysu Projektu (Project Brief).  3. Odbiór końcowy gier od dostawców.  4. Wykonanie pełnego audytu finansowego firmy po 3 latach.",
       "options": [
-        "1. Mianowanie Zleceniodawcy (Executive) i Kierownika Projektu (PM)",
-        "2. Opracowanie Zarysu Projektu (Project Brief)",
-        "3. Odbiór końcowy gier od dostawców",
-        "4. Wykonanie pełnego audytu finansowego firmy po 3 latach"
+        "1 i 2",
+        "1 i 3",
+        "1 i 4",
+        "2 i 3"
       ],
-      "correct": [
-        0,
-        1
-      ],
+      "correct": 0,
       "explanation": "W SU powołuje się kluczowe role (Executive, PM) oraz przygotowuje Project Brief."
     },
     {
@@ -148,31 +145,28 @@ window.MODULE_DATA[13] = {
       "explanation": "Directing a project (DP) to ciągły proces decyzyjny Rady Projektu."
     },
     {
-      "type": "list",
-      "question": "Które DWA elementy wchodzą w skład Dokumentacji Inicjującej Projekt (PID)?",
+      "type": "standard",
+      "question": "Które DWA elementy wchodzą w skład Dokumentacji Inicjującej Projekt (PID)? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Uzasadnienie Biznesowe (Business Case).  2. Plan Projektu (Project Plan).  3. Wykaz osobistych majątków pracowników.  4. Kod źródłowy napisany w języku C#.",
       "options": [
-        "1. Uzasadnienie Biznesowe (Business Case)",
-        "2. Plan Projektu (Project Plan)",
-        "3. Wykaz osobistych majątków pracowników",
-        "4. Kod źródłowy napisany w języku C#"
+        "1 i 2",
+        "1 i 3",
+        "1 i 4",
+        "2 i 3"
       ],
-      "correct": [
-        0,
-        1
-      ],
+      "correct": 0,
       "explanation": "PID zawiera m.in. Business Case, Plan Projektu, Podejścia/Strategie i opisy struktur."
     },
     {
-      "type": "negative",
-      "question": "Które ze stwierdzeń na temat cyklu życia PRINCE2 JEST FAŁSZYWE?",
+      "type": "standard",
+      "question": "Kiedy odbywa się proces Przygotowanie Projektu (SU)?",
       "options": [
-        "Projekt PRINCE2 musi dzielić się na co najmniej 2 etapy zarządcze.",
-        "Etap Inicjowania jest pierwszym etapem zarządczym w projekcie.",
-        "Proces SU zachodzi wewnątrz pierwszego etapu realizacyjnego.",
-        "Na koniec każdego etapu zarządczego następuje weryfikacja opłacalności."
+        "Przed decyzją o inicjowaniu projektu",
+        "Dopiero po pierwszym etapie dostawczym",
+        "Wyłącznie podczas zamykania projektu",
+        "Jako ostatnia czynność w etapie końcowym"
       ],
-      "correct": 2,
-      "explanation": "Proces SU zachodzi PRZEDPIROJEKTOWO, przed pierwszym etapem zarządczym!"
+      "correct": 0,
+      "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
     }
   ],
   "flashcards": [

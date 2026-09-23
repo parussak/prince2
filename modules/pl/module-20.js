@@ -9,6 +9,7 @@ window.MODULE_DATA[20] = {
       "options": [
         "Cztery",
         "Pięć",
+        "Siedem",
         "Siedem"
       ],
       "correct": 1,
@@ -19,7 +20,8 @@ window.MODULE_DATA[20] = {
       "options": [
         "Nie, korzyści wymagają pomiaru i mogą wystąpić później",
         "Tak, to to samo",
-        "Tak, jeśli zakończono testy"
+        "Tak, jeśli zakończono testy",
+        "Tak, same produkty gwarantują osiągnięcie korzyści"
       ],
       "correct": 0,
       "explanation": "Produkt, rezultat i korzyść to odrębne pojęcia."
@@ -29,7 +31,8 @@ window.MODULE_DATA[20] = {
       "options": [
         "Liczba spotkań",
         "Wielkość zespołu",
-        "Zrównoważony rozwój"
+        "Zrównoważony rozwój",
+        "Tolerancja budżetu zmian"
       ],
       "correct": 2,
       "explanation": "PRINCE2 7 obejmuje siedem aspektów efektywności."
@@ -41,7 +44,8 @@ window.MODULE_DATA[20] = {
       "options": [
         "Tak",
         "Nie",
-        "Tylko w IT"
+        "Tylko w IT",
+        "Tak, każdy proces jest osobnym etapem o ustalonej długości"
       ],
       "correct": 1,
       "explanation": "Procesy współdziałają i część z nich powtarza się w etapach."
@@ -51,10 +55,131 @@ window.MODULE_DATA[20] = {
       "options": [
         "Prognoza przekroczenia właściwej tolerancji",
         "Każda różnica względem planu",
-        "Dopiero faktyczne przekroczenie"
+        "Dopiero faktyczne przekroczenie",
+        "Zakończenie dowolnego spotkania zespołu"
       ],
       "correct": 0,
       "explanation": "Zarządzanie przez wyjątki opiera się na prognozie i poziomach uprawnień."
+    },
+    {
+      "type": "standard",
+      "question": "Który element zintegrowany wpływa na dostosowanie PRINCE2 do projektu?",
+      "options": [
+        "Kontekst projektu",
+        "Struktura podziału prac",
+        "Raport z punktu kontrolnego",
+        "Budżet zmian"
+      ],
+      "correct": 0,
+      "explanation": "Kontekst projektu wpływa na sposób stosowania pozostałych elementów."
+    },
+    {
+      "type": "standard",
+      "question": "Kto jest rozliczalny za realizację korzyści projektu?",
+      "options": [
+        "Główny Użytkownik",
+        "Główny Dostawca",
+        "Kierownik Zespołu",
+        "Wsparcie Projektu"
+      ],
+      "correct": 0,
+      "explanation": "Główny Użytkownik odpowiada za realizację korzyści; Zleceniodawca za uzasadnienie biznesowe w trakcie projektu."
+    },
+    {
+      "type": "standard",
+      "question": "Który raport Kierownik Zespołu przekazuje Kierownikowi Projektu w trakcie grupy zadań?",
+      "options": [
+        "Raport z Punktu Kontrolnego",
+        "Raport Okresowy",
+        "Raport Końcowy Projektu",
+        "Raport o Wyjątku"
+      ],
+      "correct": 0,
+      "explanation": "Raport z Punktu Kontrolnego informuje Kierownika Projektu o postępie grupy zadań."
+    },
+    {
+      "type": "standard",
+      "question": "Który produkt zarządczy określa kryteria jakości konkretnego produktu?",
+      "options": [
+        "Opis Produktu",
+        "Uzasadnienie Biznesowe",
+        "Raport o Zagadnieniu",
+        "Podejście do Zarządzania Ryzykiem"
+      ],
+      "correct": 0,
+      "explanation": "Opis Produktu określa jego kryteria jakości i sposób ich sprawdzania."
+    },
+    {
+      "type": "standard",
+      "question": "Kto autoryzuje następny etap zarządczy?",
+      "options": [
+        "Komitet Sterujący",
+        "Kierownik Zespołu",
+        "Wsparcie Projektu",
+        "Poszczególny dostawca"
+      ],
+      "correct": 0,
+      "explanation": "Komitet Sterujący rozważa Plan Następnego Etapu i podejmuje decyzję o jego autoryzacji."
+    },
+    {
+      "type": "standard",
+      "question": "Który plan zastępuje plan objęty zatwierdzonym wyjątkiem?",
+      "options": [
+        "Plan Nadzwyczajny",
+        "Plan Zespołu",
+        "Opis Produktu",
+        "Podejście do Zarządzania Korzyściami"
+      ],
+      "correct": 0,
+      "explanation": "Zatwierdzony Plan Nadzwyczajny zastępuje plan etapu lub projektu objęty wyjątkiem."
+    },
+    {
+      "type": "standard",
+      "question": "Czym jest odstępstwo od specyfikacji?",
+      "options": [
+        "Niedostarczeniem uzgodnionego produktu lub prognozą niedostarczenia zgodnie z ustaleniami",
+        "Niepewnym przyszłym zdarzeniem",
+        "Zatwierdzoną korzyścią biznesową",
+        "Ukończoną kontrolą jakości"
+      ],
+      "correct": 0,
+      "explanation": "Odstępstwo od specyfikacji dotyczy uzgodnionego wymagania, które nie zostało lub prawdopodobnie nie zostanie spełnione."
+    },
+    {
+      "type": "standard",
+      "question": "Który cel wykonania jest wyraźnie ujęty w PRINCE2 7?",
+      "options": [
+        "Zrównoważony rozwój",
+        "Wielkość zespołu",
+        "Lokalizacja dostawcy",
+        "Długość codziennego spotkania"
+      ],
+      "correct": 0,
+      "explanation": "Zrównoważony rozwój należy do siedmiu celów wykonania projektu."
+    },
+    {
+      "type": "standard",
+      "question": "Kto autoryzuje zamknięcie projektu po otrzymaniu rekomendacji?",
+      "options": [
+        "Komitet Sterujący",
+        "Kierownik Zespołu",
+        "Wsparcie Projektu",
+        "Recenzent jakości"
+      ],
+      "correct": 0,
+      "explanation": "Kierownik Projektu rekomenduje zamknięcie, a Komitet Sterujący je autoryzuje."
+    },
+    {
+      "type": "standard",
+      "question": "Gdzie określa się odpowiedzialność i termin przeglądów korzyści po projekcie?",
+      "options": [
+        "Podejście do Zarządzania Korzyściami",
+        "Raport z Punktu Kontrolnego",
+        "Rejestr Jakości",
+        "Opis Grupy Zadań"
+      ],
+      "correct": 0,
+      "explanation": "Podejście do Zarządzania Korzyściami określa przeglądy korzyści po zakończeniu projektu."
     }
   ],
   "flashcards": [

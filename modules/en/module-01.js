@@ -1,8 +1,8 @@
 window.MODULE_DATA = window.MODULE_DATA || {};
 window.MODULE_DATA[1] = {
-  title: "Chapter 1: Wprowadzenie do PRINCE2",
-  _placeholder: true,
-  storyQuiz: [],
-  examQuiz: [],
-  flashcards: []
+  "title": "Chapter 1: Introduction to PRINCE2",
+  "storyQuiz": [],
+  "examQuiz": [],
+  "flashcards": [],
+  "contentHtml": "<div class=\"card\"><h1 class=\"module-heading\"></h1><h2>Introduction to PRINCE2</h2><p>PRINCE2 is a project management method. Its five integrated elements are principles, people, practices, processes and project context. A project is a temporary organization established to deliver business products for an agreed purpose. The seven performance targets cover time, cost, quality, scope, benefits, risk and sustainability.</p><h3>SnakeBite</h3><p>Artur proposes the SnakeBite game. Zosia first asks about the purpose, products, decision makers and allowable deviation so that the method can be tailored to this project.</p></div>"
 };

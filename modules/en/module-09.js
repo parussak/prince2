@@ -2,7 +2,7 @@ window.MODULE_DATA = window.MODULE_DATA || {};
 window.MODULE_DATA[9] = {
   "title": "Chapter 9: Risk",
   "navLabel": "9. Risk",
-  "contentHtml": "<h1 class=\"module-heading\">Chapter 9: Risk</h1><div class=\"card\"><h2 class=\"card-title\">Purpose and SnakeBite example</h2><p>Risk is an uncertain event or set of events that would affect project objectives if it occurred. A negative effect is a threat; a positive one is an opportunity. Kamil warns that cloud capacity might fail during holiday testing: a threat. Maya sees a chance for app store promotion: an opportunity. Zosia describes each risk by its cause, uncertain event and effect; she evaluates probability, impact, proximity and speed where relevant, and assigns an owner.</p><p>The risk management approach describes responsibilities, procedures, categories, appetite and reporting rules. The risk register records individual risks, assessments, owners and responses. A risk owner manages an individual risk; a risk action owner carries out a specific response. For a cloud overload threat, guaranteed capacity could avoid it; insurance could transfer some financial impact. For a promotion opportunity, an action may enhance or exploit it. A response may create a secondary risk; remaining exposure is residual risk.</p></div><figure class=\"study-figure\"><div class=\"study-flow\"><div class=\"study-step\"><span>1</span><strong>Identify cause and event</strong></div><div class=\"study-step\"><span>2</span><strong>Assess probability and impact</strong></div><div class=\"study-step\"><span>3</span><strong>Plan owner and response</strong></div><div class=\"study-step\"><span>4</span><strong>Implement and communicate</strong></div></div><figcaption><strong>How to read this sequence:</strong> Follow the steps left to right. Each step supplies information for the next decision at the appropriate management level.</figcaption></figure><div class=\"card\"><h2 class=\"card-title\">Key terms, responsibilities and management products</h2><p><strong>Procedure:</strong> identify → assess → plan → implement → communicate, with communication throughout. Threat responses include avoid, reduce, transfer, accept and share; opportunity responses include exploit, enhance, reject and share as appropriate. Risk appetite expresses an organization’s willingness to take risk; tolerance sets the permissible exposure. A contingency plan defines a response if a risk occurs; an exception plan is a response to a forecast management tolerance breach. Scale the controls to exposure, even in a small project.</p><div class=\"definition-item\"><strong>Threat versus opportunity?</strong><p>A threat could have a negative effect; an opportunity could have a positive one.</p></div><div class=\"definition-item\"><strong>What is a risk budget?</strong><p>Funds set aside for approved risk responses where the project uses such a budget.</p></div><div class=\"definition-item\"><strong>What is proximity?</strong><p>How soon a risk could occur.</p></div><div class=\"definition-item\"><strong>What is velocity?</strong><p>How quickly its effect would be felt after it occurred.</p></div><div class=\"definition-item\"><strong>Residual versus secondary risk?</strong><p>Residual risk remains after a response; secondary risk is introduced by that response.</p></div><div class=\"definition-item\"><strong>What is risk tolerance?</strong><p>The exposure the relevant authority permits before escalation.</p></div></div><div class=\"card quiz-section\"><h2 class=\"card-title\">SnakeBite scenario: review the decisions</h2><div id=\"m8-story-quiz\"></div></div><div class=\"hard-knowledge-header\"><div class=\"hard-knowledge-title\">Foundation exam practice</div></div><div class=\"quiz-section\"><div id=\"m8-exam-quiz\"></div></div><div class=\"flashcards-container\" id=\"m8-flashcards\"></div>",
+  "contentHtml": "<h1 class=\"module-heading\">Chapter 9: Risk</h1><div class=\"card\"><h2 class=\"card-title\">Purpose and SnakeBite example</h2><p>Risk is an uncertain event or set of events that would affect project objectives if it occurred. A negative effect is a threat; a positive one is an opportunity. Kamil warns that cloud capacity might fail during holiday testing: a threat. Maya sees a chance for app store promotion: an opportunity. Zosia describes each risk by its cause, uncertain event and effect; she evaluates probability, impact, proximity and speed where relevant, and assigns an owner.</p><p>The risk management approach describes responsibilities, procedures, categories, appetite and reporting rules. The risk register records individual risks, assessments, owners and responses. A risk owner manages an individual risk; a risk action owner carries out a specific response. For a cloud overload threat, guaranteed capacity could avoid it; insurance could transfer some financial impact. For a promotion opportunity, an action may enhance or exploit it. A response may create a secondary risk; remaining exposure is residual risk.</p></div><figure class=\"study-figure\"><div class=\"study-flow\"><div class=\"study-step\"><span>1</span><strong>Identify cause and event</strong></div><div class=\"study-step\"><span>2</span><strong>Assess probability and impact</strong></div><div class=\"study-step\"><span>3</span><strong>Plan owner and response</strong></div><div class=\"study-step\"><span>4</span><strong>Implement and communicate</strong></div></div><figcaption><strong>How to read this sequence:</strong> Follow the steps left to right. Each step supplies information for the next decision at the appropriate management level.</figcaption></figure><div class=\"card\"><h2 class=\"card-title\">Key terms, responsibilities and management products</h2><p><strong>Procedure:</strong> identify → assess → plan → implement → communicate, with communication throughout. Threat responses include avoid, reduce, transfer, accept and share; opportunities can be exploited or enhanced; transfer, share and accept apply to risks as appropriate. Contingent plans can supplement a response. Risk appetite expresses an organization’s willingness to take risk; tolerance sets the permissible exposure. A contingency plan defines a response if a risk occurs; an exception plan is a response to a forecast management tolerance breach. Scale the controls to exposure, even in a small project.</p><div class=\"definition-item\"><strong>Threat versus opportunity?</strong><p>A threat could have a negative effect; an opportunity could have a positive one.</p></div><div class=\"definition-item\"><strong>What is a risk budget?</strong><p>Funds set aside for approved risk responses where the project uses such a budget.</p></div><div class=\"definition-item\"><strong>What is proximity?</strong><p>How soon a risk could occur.</p></div><div class=\"definition-item\"><strong>What is velocity?</strong><p>How quickly its effect would be felt after it occurred.</p></div><div class=\"definition-item\"><strong>Residual versus secondary risk?</strong><p>Residual risk remains after a response; secondary risk is introduced by that response.</p></div><div class=\"definition-item\"><strong>What is risk tolerance?</strong><p>The exposure the relevant authority permits before escalation.</p></div></div><section class=\"card\"><h2 class=\"card-title\">Additional textbook-aligned explanation</h2><h3>Describe and assess a risk</h3><p>A risk is an uncertain event or set of events that, if it occurs, affects objectives. Record cause, event and effect, probability and impact; consider proximity or velocity where useful. The risk register records owners and responses, while the risk management approach sets scales, procedures, responsibilities and risk budget arrangements. A risk owner manages the risk; an action owner performs a specified response. An issue already requires attention, whereas the event in a risk remains uncertain.</p><h3>Risk responses and decision authority</h3><p>For threats, consider avoid, reduce, transfer, share or accept; for opportunities consider exploit, enhance, transfer, share or accept, as appropriate. A contingent plan is prepared for a specified trigger. There is no separate “reject opportunity” response in the textbook table. The risk budget funds agreed risk responses; it does not increase the project manager’s authority beyond delegated tolerance. A response may create a secondary risk that must also be assessed.</p><h3>SnakeBite supplier dependency</h3><p>The external API provider may miss an agreed delivery date. Zosia records the potential cause, event and impact on the stage plan, appoints an owner and considers a fallback. When delay becomes a current fact, she also records an issue. If the forecast stage tolerance will be exceeded, she escalates an exception to the project board instead of hiding it in a risk log.</p></section><div class=\"card quiz-section\"><h2 class=\"card-title\">SnakeBite scenario: review the decisions</h2><div id=\"m8-story-quiz\"></div></div><div class=\"hard-knowledge-header\"><div class=\"hard-knowledge-title\">Foundation exam practice</div></div><div class=\"quiz-section\"><div id=\"m8-exam-quiz\"></div></div><div class=\"flashcards-container\" id=\"m8-flashcards\"></div>",
   "storyQuiz": [
     {
       "question": "Cloud performance may drop in December and delay testing. What kind of risk is this?",
@@ -97,19 +97,16 @@ window.MODULE_DATA[9] = {
       "type": "missing-word"
     },
     {
-      "question": "Which TWO factors are central when assessing an individual risk?",
+      "question": "Which TWO factors are central when assessing an individual risk? Choose ONE pair of true statements. 1. Probability.  2. Impact.  3. Employee job title.  4. Code repository name.",
       "options": [
-        "Probability",
-        "Impact",
-        "Employee job title",
-        "Code repository name"
+        "1 and 2",
+        "1 and 3",
+        "1 and 4",
+        "2 and 3"
       ],
-      "correct": [
-        0,
-        1
-      ],
+      "correct": 0,
       "explanation": "Risk assessment considers how likely the event is and its effect.",
-      "type": "list"
+      "type": "standard"
     },
     {
       "question": "Which statement about threat responses is FALSE?",
@@ -148,31 +145,28 @@ window.MODULE_DATA[9] = {
       "type": "missing-word"
     },
     {
-      "question": "Which TWO steps belong to the PRINCE2 risk procedure?",
+      "question": "Which TWO steps belong to the PRINCE2 risk procedure? Choose ONE pair of true statements. 1. Identify.  2. Assess.  3. Close project.  4. Approve invoice.",
       "options": [
-        "Identify",
-        "Assess",
-        "Close project",
-        "Approve invoice"
-      ],
-      "correct": [
-        0,
-        1
-      ],
-      "explanation": "Identifying and assessing risks precedes choosing responses.",
-      "type": "list"
-    },
-    {
-      "question": "Which statement about the risk register is FALSE?",
-      "options": [
-        "It records only risks that have already occurred",
-        "It can record both threats and opportunities",
-        "It can identify risk owners",
-        "It records assessments and responses"
+        "1 and 2",
+        "1 and 3",
+        "1 and 4",
+        "2 and 3"
       ],
       "correct": 0,
-      "explanation": "It records uncertain risks before they materialize.",
-      "type": "negative"
+      "explanation": "Identifying and assessing risks precedes choosing responses.",
+      "type": "standard"
+    },
+    {
+      "question": "What belongs in the risk register?",
+      "options": [
+        "Identified risks and their status",
+        "Only issues that have already occurred",
+        "Only expenditure from the change budget",
+        "Only completed product quality checks"
+      ],
+      "correct": 0,
+      "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority.",
+      "type": "standard"
     },
     {
       "question": "How should a risk be described?",

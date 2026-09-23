@@ -2,7 +2,7 @@ window.MODULE_DATA = window.MODULE_DATA || {};
 window.MODULE_DATA[7] = {
   "title": "Chapter 7: Plans",
   "navLabel": "7. Plans",
-  "contentHtml": "<h1 class=\"module-heading\">Chapter 7: Plans</h1><div class=\"card\"><h2 class=\"card-title\">Purpose and SnakeBite example</h2><p>The plans practice explains what will be delivered, how, by whom, when and at what cost. Plans are a basis for communicating, monitoring progress and deciding whether a stage or project remains viable. A project plan describes the whole project; a stage plan supports the project manager’s control of one management stage; a team plan may help a team manager organize a work package. An exception plan is a replacement plan prepared following a decision about an exception, rather than a compulsory fourth management level.</p><p>SnakeBite example: Marek wants to start coding before anyone describes the game. Zosia first agrees on the project product and its acceptance criteria with Maya. She then breaks the game into engine, artwork, audio and integration products and sequences dependencies. The game engine must be ready before an integration test. Only then can she estimate effort, resources and schedule. If the stage forecast exceeds its tolerance, she escalates and prepares an exception plan if the board requests one.</p></div><figure class=\"study-figure\"><div class=\"study-flow\"><div class=\"study-step\"><span>1</span><strong>Product hierarchy (PBS)</strong></div><div class=\"study-step\"><span>2</span><strong>Product dependencies (PFD)</strong></div><div class=\"study-step\"><span>3</span><strong>Estimates, schedule and risks</strong></div><div class=\"study-step\"><span>4</span><strong>Stage control or exception decision</strong></div></div><figcaption><strong>How to read this sequence:</strong> Follow the steps left to right. Each step supplies information for the next decision at the appropriate management level.</figcaption></figure><div class=\"card\"><h2 class=\"card-title\">Key terms, responsibilities and management products</h2><p><strong>Product based planning:</strong> project product description → product breakdown structure → product descriptions → product flow diagram. The hierarchy (PBS) answers “what”; the flow diagram (PFD) answers “in what order and with which dependencies”. Estimating, scheduling and risk analysis turn the product sequence into a controlled plan.</p><p><strong>Planning horizon:</strong> plan in more detail where information is reliable. Effort is work required; duration also depends on availability and waiting. Float is delay an activity can absorb without moving the planned finish. External dependencies need explicit owners and monitoring. Work package descriptions agree deliverables, controls and tolerances with team managers. Plan training and operational support so that intended benefits are sustained.</p><div class=\"definition-item\"><strong>What are the planning levels?</strong><p>Project plan, stage plan and team plan; an exception plan can replace an affected plan.</p></div><div class=\"definition-item\"><strong>Plan versus schedule?</strong><p>A plan also covers products, resources, control, quality and risks; a schedule focuses on timing.</p></div><div class=\"definition-item\"><strong>What is a critical path?</strong><p>A sequence of dependent activities for which delay would delay the planned completion.</p></div><div class=\"definition-item\"><strong>What is an external dependency?</strong><p>A product or event outside the project’s control that the plan needs.</p></div><div class=\"definition-item\"><strong>How do you prevent scope creep?</strong><p>Agree product descriptions and control proposed changes to their approved baselines.</p></div><div class=\"definition-item\"><strong>What are the sustainability perspectives in planning?</strong><p>Consider sustainability of delivery, the product and the long term benefits.</p></div></div><div class=\"card quiz-section\"><h2 class=\"card-title\">SnakeBite scenario: review the decisions</h2><div id=\"m6-story-quiz\"></div></div><div class=\"hard-knowledge-header\"><div class=\"hard-knowledge-title\">Foundation exam practice</div></div><div class=\"quiz-section\"><div id=\"m6-exam-quiz\"></div></div><div class=\"flashcards-container\" id=\"m6-flashcards\"></div>",
+  "contentHtml": "<h1 class=\"module-heading\">Chapter 7: Plans</h1><div class=\"card\"><h2 class=\"card-title\">Purpose and SnakeBite example</h2><p>The plans practice explains what will be delivered, how, by whom, when and at what cost. Plans are a basis for communicating, monitoring progress and deciding whether a stage or project remains viable. A project plan describes the whole project; a stage plan supports the project manager’s control of one management stage; a team plan may help a team manager organize a work package. An exception plan is a replacement plan prepared following a decision about an exception, rather than a compulsory fourth management level.</p><p>SnakeBite example: Marek wants to start coding before anyone describes the game. Zosia first agrees on the project product and its acceptance criteria with Maya. She then breaks the game into engine, artwork, audio and integration products and sequences dependencies. The game engine must be ready before an integration test. Only then can she estimate effort, resources and schedule. If the stage forecast exceeds its tolerance, she escalates and prepares an exception plan if the board requests one.</p></div><figure class=\"study-figure\"><div class=\"study-flow\"><div class=\"study-step\"><span>1</span><strong>Product hierarchy (PBS)</strong></div><div class=\"study-step\"><span>2</span><strong>Product dependencies (PFD)</strong></div><div class=\"study-step\"><span>3</span><strong>Estimates, schedule and risks</strong></div><div class=\"study-step\"><span>4</span><strong>Stage control or exception decision</strong></div></div><figcaption><strong>How to read this sequence:</strong> Follow the steps left to right. Each step supplies information for the next decision at the appropriate management level.</figcaption></figure><div class=\"card\"><h2 class=\"card-title\">Key terms, responsibilities and management products</h2><p><strong>Product based planning:</strong> for a project plan, begin with the project product description; then create the product breakdown structure, individual product descriptions and product flow diagram. For stage and team plans, use the latter three as needed. The hierarchy (PBS) answers “what”; the flow diagram (PFD) answers “in what order and with which dependencies”. Estimating, scheduling and risk analysis turn the product sequence into a controlled plan.</p><p><strong>Planning horizon:</strong> plan in more detail where information is reliable. Effort is work required; duration also depends on availability and waiting. Float is delay an activity can absorb without moving the planned finish. External dependencies need explicit owners and monitoring. Work package descriptions agree deliverables, controls and tolerances with team managers. Plan training and operational support so that intended benefits are sustained.</p><div class=\"definition-item\"><strong>What are the planning levels?</strong><p>Project plan, stage plan and team plan; an exception plan can replace an affected plan.</p></div><div class=\"definition-item\"><strong>Plan versus schedule?</strong><p>A plan also covers products, resources, control, quality and risks; a schedule focuses on timing.</p></div><div class=\"definition-item\"><strong>What is a critical path?</strong><p>A sequence of dependent activities for which delay would delay the planned completion.</p></div><div class=\"definition-item\"><strong>What is an external dependency?</strong><p>A product or event outside the project’s control that the plan needs.</p></div><div class=\"definition-item\"><strong>How do you prevent scope creep?</strong><p>Agree product descriptions and control proposed changes to their approved baselines.</p></div><div class=\"definition-item\"><strong>What are the sustainability perspectives in planning?</strong><p>Consider sustainability of delivery, the product and the long term benefits.</p></div></div><section class=\"card\"><h2 class=\"card-title\">Additional textbook-aligned explanation</h2><h3>The four levels and the planning horizon</h3><p>The project plan shows the whole project at a high level and supports the project board’s decisions. A stage plan provides the detail required to control its stage. The team plan, where used, supports delivery of assigned work packages. An exception plan replaces an affected project or stage plan after authorization; it is a type of plan rather than a fourth level. Plan in detail only as far ahead as reliable information permits; revisit the rest at the next stage boundary.</p><h3>The iterative planning technique</h3><p>Begin by defining and analysing products: for a project plan create a project product description, and then develop a product breakdown structure, product descriptions and a product flow diagram. At stage and team levels use the latter three as appropriate. Identify and organize work packages, estimate the effort and resources, construct a schedule, prepare the budget, document the plan and analyse risks. Repeat steps when new information changes the products, dependencies or estimates. A product flow diagram shows sequence and dependencies; a product breakdown structure shows the product hierarchy; a work breakdown structure decomposes work, not products.</p><h3>SnakeBite planning decision</h3><p>Zosia specifies the game release and acceptance criteria before asking Tomek for estimates. The ranking API depends on a supplier activation date beyond the project’s control. She records that external dependency, includes time for testing and support training, and checks whether the proposed schedule and cost remain within the approved stage tolerances. She does not interpret 20 hours of effort as necessarily 20 elapsed hours.</p></section><div class=\"card quiz-section\"><h2 class=\"card-title\">SnakeBite scenario: review the decisions</h2><div id=\"m6-story-quiz\"></div></div><div class=\"hard-knowledge-header\"><div class=\"hard-knowledge-title\">Foundation exam practice</div></div><div class=\"quiz-section\"><div id=\"m6-exam-quiz\"></div></div><div class=\"flashcards-container\" id=\"m6-flashcards\"></div>",
   "storyQuiz": [
     {
       "question": "What is the first product to describe when Zosia plans SnakeBite by products?",
@@ -97,19 +97,16 @@ window.MODULE_DATA[7] = {
       "type": "missing-word"
     },
     {
-      "question": "Which TWO are PRINCE2 planning levels?",
+      "question": "Which TWO are PRINCE2 planning levels? Choose ONE pair of true statements. 1. Project plan.  2. Stage plan.  3. Daily log.  4. Risk register.",
       "options": [
-        "Project plan",
-        "Stage plan",
-        "Daily log",
-        "Risk register"
+        "1 and 2",
+        "1 and 3",
+        "1 and 4",
+        "2 and 3"
       ],
-      "correct": [
-        0,
-        1
-      ],
+      "correct": 0,
       "explanation": "Project and stage plans describe work at different management levels.",
-      "type": "list"
+      "type": "standard"
     },
     {
       "question": "Which statement about exception plans is FALSE?",
@@ -136,7 +133,7 @@ window.MODULE_DATA[7] = {
       "type": "missing-word"
     },
     {
-      "question": "What should be described first in the product based planning technique?",
+      "question": "When developing a project plan, what is described first in the product analysis part of the planning technique?",
       "options": [
         "The project product",
         "Product register",
@@ -144,35 +141,32 @@ window.MODULE_DATA[7] = {
         "A checkpoint report"
       ],
       "correct": 0,
-      "explanation": "The project product description establishes the overall scope and acceptance criteria.",
+      "explanation": "The project product description is produced for the project plan; it is not rewritten for every stage or team plan (manual, figure 7.4).",
       "type": "standard"
     },
     {
-      "question": "Which TWO are developed while estimating and scheduling a plan?",
+      "question": "Which TWO are developed while estimating and scheduling a plan? Choose ONE pair of true statements. 1. Required resources.  2. Schedule.  3. Personal brand.  4. Social media popularity.",
       "options": [
-        "Required resources",
-        "Schedule",
-        "Personal brand",
-        "Social media popularity"
-      ],
-      "correct": [
-        0,
-        1
-      ],
-      "explanation": "Estimates inform the resources and timetable.",
-      "type": "list"
-    },
-    {
-      "question": "Which statement about board approval of plans is FALSE?",
-      "options": [
-        "The board must approve every team plan",
-        "The board authorizes the project plan",
-        "The board authorizes the next stage plan",
-        "The board may authorize an exception plan"
+        "1 and 2",
+        "1 and 3",
+        "1 and 4",
+        "2 and 3"
       ],
       "correct": 0,
-      "explanation": "The team manager uses a team plan to organize work package delivery.",
-      "type": "negative"
+      "explanation": "Estimates inform the resources and timetable.",
+      "type": "standard"
+    },
+    {
+      "question": "Who normally approves a team plan?",
+      "options": [
+        "The project manager",
+        "The project board as a stage plan",
+        "Corporate management",
+        "Quality assurance as a project plan"
+      ],
+      "correct": 0,
+      "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority.",
+      "type": "standard"
     },
     {
       "question": "Why does PRINCE2 use the plans practice?",

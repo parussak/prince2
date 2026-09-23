@@ -2,15 +2,15 @@ window.MODULE_DATA = window.MODULE_DATA || {};
 window.MODULE_DATA[19] = {
   "title": "Chapter 19: Closing a project",
   "navLabel": "19. Closing a project",
-  "contentHtml": "<h1 class=\"module-heading\">Chapter 19: Closing a project</h1><div class=\"card\"><h2 class=\"card-title\">Purpose, decisions and SnakeBite scenario</h2><p>The process provides a clear point for confirming acceptance and recognizing whether approved objectives were achieved. It is used after planned delivery or when the board directs premature closure. The project manager gathers acceptance evidence, verifies handover to operations, assesses performance against the project initiation documentation and project plan, prepares an end project report and lessons report, and recommends closure. The project board makes the formal decision under directing a project.</p><p>SnakeBite example: Maya accepts the finished game against its agreed criteria. Zosia hands the release, operating instructions and maintenance responsibility to PixelBite’s business as usual team. She assigns an owner to the remaining API risk and records a proposed multiplayer mode as a follow-on action. Sales benefits will be measurable later, so the benefits management approach sets a post-project review. If funding were withdrawn early, Zosia would still assess useful deliverables and open obligations before recommending orderly closure.</p></div><figure class=\"study-figure\"><div class=\"study-flow\"><div class=\"study-step\"><span>1</span><strong>Confirm acceptance or premature stop</strong></div><div class=\"study-step\"><span>2</span><strong>Handover products and open actions</strong></div><div class=\"study-step\"><span>3</span><strong>Assess performance, lessons and benefits</strong></div><div class=\"study-step\"><span>4</span><strong>Recommend closure to the board</strong></div></div><figcaption><strong>How to read this flow:</strong> Follow the project information and decisions in order; the board’s authority begins where the project manager’s delegated authority ends.</figcaption></figure><div class=\"card\"><h2 class=\"card-title\">Key concepts and management products</h2><p><strong>Planned closure:</strong> verify delivery, acceptance and handover, then compare results and release resources. <strong>Premature closure:</strong> assess what exists, protect valuable products, assign unfinished work and settle outstanding commitments. <strong>End project report</strong> evaluates performance; the <strong>lessons report</strong> communicates experience; <strong>follow-on action recommendations</strong> assign unresolved issues, risks and improvements. Benefits may continue to be measured after closure. The project manager recommends, while the project board authorizes closure.</p><div class=\"definition-item\"><strong>Who recommends closure?</strong><p>The project manager.</p></div><div class=\"definition-item\"><strong>Who authorizes closure?</strong><p>The project board.</p></div><div class=\"definition-item\"><strong>What is BAU?</strong><p>Business as usual: operational use and support after project handover.</p></div><div class=\"definition-item\"><strong>What is an end project report?</strong><p>A review of final project performance against approved baselines.</p></div><div class=\"definition-item\"><strong>What happens to open risks and issues?</strong><p>They are assigned through follow-on action recommendations.</p></div><div class=\"definition-item\"><strong>Can benefits be reviewed after closure?</strong><p>Yes; the benefits management approach schedules the later review.</p></div></div><div class=\"card\"><strong id=\"study-score-13\">Score: 0/0</strong> <button class=\"btn-submit\" type=\"button\" onclick=\"resetStudyModule(13)\">Reset answers for this chapter</button></div><div class=\"card quiz-section\"><h2 class=\"card-title\">SnakeBite scenario questions</h2><div id=\"m13-story-quiz\"></div></div><div class=\"hard-knowledge-header\"><div class=\"hard-knowledge-title\">Foundation exam questions</div></div><div class=\"quiz-section\"><div id=\"m13-exam-quiz\"></div></div><div class=\"flashcards-container\" id=\"m13-flashcards\"></div>",
+  "contentHtml": "<h1 class=\"module-heading\">Chapter 19: Closing a project</h1><div class=\"card\"><h2 class=\"card-title\">Purpose, decisions and SnakeBite scenario</h2><p>The process provides a clear point for confirming acceptance and recognizing whether approved objectives were achieved. It is used after planned delivery or when the board directs premature closure. The project manager gathers acceptance evidence, verifies handover to operations, assesses performance against the project initiation documentation and project plan, prepares an end project report and lessons report, and recommends closure. The project board makes the formal decision under directing a project.</p><p>SnakeBite example: Maya accepts the finished game against its agreed criteria. Zosia hands the release, operating instructions and maintenance responsibility to PixelBite’s business as usual team. She assigns an owner to the remaining API risk and records a proposed multiplayer mode as a follow-on action. Sales benefits will be measurable later, so the benefits management approach sets a post-project review. If funding were withdrawn early, Zosia would still assess useful deliverables and open obligations before recommending orderly closure.</p></div><figure class=\"study-figure\"><div class=\"study-flow\"><div class=\"study-step\"><span>1</span><strong>Confirm acceptance or premature stop</strong></div><div class=\"study-step\"><span>2</span><strong>Handover products and open actions</strong></div><div class=\"study-step\"><span>3</span><strong>Assess performance, lessons and benefits</strong></div><div class=\"study-step\"><span>4</span><strong>Recommend closure to the board</strong></div></div><figcaption><strong>How to read this flow:</strong> Follow the project information and decisions in order; the board’s authority begins where the project manager’s delegated authority ends.</figcaption></figure><div class=\"card\"><h2 class=\"card-title\">Key concepts and management products</h2><p><strong>Planned closure:</strong> verify delivery, acceptance and handover, then compare results and release resources. <strong>Premature closure:</strong> assess what exists, protect valuable products, assign unfinished work and settle outstanding commitments. <strong>End project report</strong> evaluates performance; the <strong>lessons report</strong> communicates experience; <strong>follow-on action recommendations</strong> assign unresolved issues, risks and improvements. Benefits may continue to be measured after closure. The project manager recommends, while the project board authorizes closure.</p><div class=\"definition-item\"><strong>Who recommends closure?</strong><p>The project manager.</p></div><div class=\"definition-item\"><strong>Who authorizes closure?</strong><p>The project board.</p></div><div class=\"definition-item\"><strong>What is BAU?</strong><p>Business as usual: operational use and support after project handover.</p></div><div class=\"definition-item\"><strong>What is an end project report?</strong><p>A review of final project performance against approved baselines.</p></div><div class=\"definition-item\"><strong>What happens to open risks and issues?</strong><p>They are assigned through follow-on action recommendations.</p></div><div class=\"definition-item\"><strong>Can benefits be reviewed after closure?</strong><p>Yes; the benefits management approach schedules the later review.</p></div></div><div class=\"card\"><strong id=\"study-score-13\">Score: 0/0</strong> <button class=\"btn-submit\" type=\"button\" onclick=\"resetStudyModule(13)\">Reset answers for this chapter</button></div><section class=\"card\"><h2 class=\"card-title\">Additional textbook-aligned explanation</h2><h3>Planned and premature closure</h3><p>Planned closure verifies that agreed products have been delivered and accepted against the acceptance criteria. Premature closure still collects and safeguards useful products, assesses outstanding obligations and stops work in a controlled way. The project manager prepares and recommends closure; the project board authorizes it. Product acceptance does not prove that every forecast benefit has already been realized.</p><h3>Evaluation and follow-on actions</h3><p>The end project report evaluates results against the PID, project plan and business case; the lessons report captures experience for future work. Identify remaining issues, risks and follow-on action recommendations, assign owners, and hand accepted products and operational responsibility to business as usual. Update the benefits management approach to say who will measure benefits after project closure and when.</p><h3>SnakeBite handover</h3><p>Maya accepts the release after verifying its stated criteria, while the service team accepts ongoing API support. Zosia reports actual costs and deviations, assigns an owner to a remaining maintenance risk, schedules post-launch benefits reviews and recommends closure. Artur and the project board decide whether to close the project.</p></section><div class=\"card quiz-section\"><h2 class=\"card-title\">SnakeBite scenario questions</h2><div id=\"m13-story-quiz\"></div></div><div class=\"hard-knowledge-header\"><div class=\"hard-knowledge-title\">Foundation exam questions</div></div><div class=\"quiz-section\"><div id=\"m13-exam-quiz\"></div></div><div class=\"flashcards-container\" id=\"m13-flashcards\"></div>",
   "storyQuiz": [
     {
       "question": "Maya accepts SnakeBite and Zosia hands it over to regular operations. What is that environment called?",
       "options": [
         "Business as usual (BAU)",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Treat passing a test as the same as formal product acceptance",
+        "Close the project while unresolved commitments have no owner",
+        "Assume all forecast benefits have already been realized at handover"
       ],
       "correct": 0,
       "explanation": "Accepted project products are transitioned to operational ownership."
@@ -74,9 +74,9 @@ window.MODULE_DATA[19] = {
       "question": "What confirms that SnakeBite meets its acceptance criteria?",
       "options": [
         "Quality evidence and formal acceptance by the appropriate recipient",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Treat passing a test as the same as formal product acceptance",
+        "Close the project while unresolved commitments have no owner",
+        "Assume all forecast benefits have already been realized at handover"
       ],
       "correct": 0,
       "explanation": "Completing tests alone is not acceptance."
@@ -129,9 +129,9 @@ window.MODULE_DATA[19] = {
       "question": "What happens to an open API maintenance risk at closure?",
       "options": [
         "Transfer it to follow-on actions with an owner",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Use a checkpoint report to authorize closure",
+        "Discard incomplete products without assessing their value",
+        "Leave ongoing operational responsibilities with the disbanded project team"
       ],
       "correct": 0,
       "explanation": "Risks do not vanish when project governance ends."
@@ -151,9 +151,9 @@ window.MODULE_DATA[19] = {
       "question": "What should be handed over to operations?",
       "options": [
         "Accepted products and responsibility for ongoing support",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Use a checkpoint report to authorize closure",
+        "Discard incomplete products without assessing their value",
+        "Leave ongoing operational responsibilities with the disbanded project team"
       ],
       "correct": 0,
       "explanation": "The operational owner must be able to use and maintain the products."
@@ -164,9 +164,9 @@ window.MODULE_DATA[19] = {
       "question": "What is the purpose of closing a project?",
       "options": [
         "To confirm acceptance and bring the project to a controlled end",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Treat passing a test as the same as formal product acceptance",
+        "Close the project while unresolved commitments have no owner",
+        "Assume all forecast benefits have already been realized at handover"
       ],
       "correct": 0,
       "explanation": "Closure gives a clear point to release resources and assign follow-on work.",
@@ -224,9 +224,9 @@ window.MODULE_DATA[19] = {
       "question": "What happens to project resources during controlled closure?",
       "options": [
         "They are released back to the organization",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Use a checkpoint report to authorize closure",
+        "Discard incomplete products without assessing their value",
+        "Leave ongoing operational responsibilities with the disbanded project team"
       ],
       "correct": 0,
       "explanation": "Closure includes confirming that project responsibilities can end.",
@@ -337,9 +337,9 @@ window.MODULE_DATA[19] = {
       "question": "What is transferred into business as usual?",
       "options": [
         "Accepted products and responsibility for their operation",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Use a checkpoint report to authorize closure",
+        "Discard incomplete products without assessing their value",
+        "Leave ongoing operational responsibilities with the disbanded project team"
       ],
       "correct": 0,
       "explanation": "Handover includes ownership and support arrangements."
@@ -370,9 +370,9 @@ window.MODULE_DATA[19] = {
       "question": "What must be checked before planned closure?",
       "options": [
         "Delivery, acceptance, handover and follow-on actions",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Treat passing a test as the same as formal product acceptance",
+        "Close the project while unresolved commitments have no owner",
+        "Assume all forecast benefits have already been realized at handover"
       ],
       "correct": 0,
       "explanation": "These checks show whether the project can end cleanly."
@@ -381,9 +381,9 @@ window.MODULE_DATA[19] = {
       "question": "What should be assessed during premature closure?",
       "options": [
         "Products completed and outstanding obligations",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Use a checkpoint report to authorize closure",
+        "Discard incomplete products without assessing their value",
+        "Leave ongoing operational responsibilities with the disbanded project team"
       ],
       "correct": 0,
       "explanation": "Controlled closure accounts for both assets and commitments."

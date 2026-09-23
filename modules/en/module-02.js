@@ -97,18 +97,15 @@ window.MODULE_DATA[2] = {
       "explanation": "All seven principles must be applied for a project to be managed using PRINCE2; PINO is a colloquial label, not an official process."
     },
     {
-      "type": "list",
-      "question": "Which TWO of the following are integrated elements of PRINCE2 7?",
+      "type": "standard",
+      "question": "Which TWO of the following are integrated elements of PRINCE2 7? Choose ONE pair of true statements. 1. People.  2. Practices.  3. Gantt charts.  4. Jira software.",
       "options": [
-        "People",
-        "Practices",
-        "Gantt charts",
-        "Jira software"
+        "1 and 2",
+        "1 and 3",
+        "1 and 4",
+        "2 and 3"
       ],
-      "correct": [
-        0,
-        1
-      ],
+      "correct": 0,
       "explanation": "The textbook identifies five integrated elements: principles, people, practices, processes and the project context."
     },
     {
@@ -148,31 +145,28 @@ window.MODULE_DATA[2] = {
       "explanation": "The Starting up a project (SU) process takes place before the project and checks whether it is worth proceeding to initiation."
     },
     {
-      "type": "list",
-      "question": "Which TWO objectives belong to the seven Performance Targets/Aspects used to control a project in PRINCE2 7?",
+      "type": "standard",
+      "question": "Which TWO objectives belong to the seven Performance Targets/Aspects used to control a project in PRINCE2 7? Choose ONE pair of true statements. 1. Time.  2. Sustainability.  3. Number of social media followers.  4. The project manager’s personal brand.",
       "options": [
-        "Time",
-        "Sustainability",
-        "Number of social media followers",
-        "The project manager’s personal brand"
+        "1 and 2",
+        "1 and 3",
+        "1 and 4",
+        "2 and 3"
       ],
-      "correct": [
-        0,
-        1
-      ],
+      "correct": 0,
       "explanation": "The seven performance aspects are Time, Cost, Quality, Scope, Benefits, Risk, and Sustainability."
     },
     {
-      "type": "negative",
-      "question": "Which of the following features does NOT apply to the Project Initiation Documentation (PID)?",
+      "type": "standard",
+      "question": "Which statement correctly describes the project initiation documentation (PID)?",
       "options": [
-        "It is created entirely during the Starting up a Project (SU) process.",
-        "It serves as the single source of truth for project management.",
-        "It is approved by the Project Board at the end of the Initiation Stage.",
-        "It contains the Business Case and management strategies/approaches."
+        "It is assembled during initiating a project",
+        "It is completed entirely during starting up a project",
+        "It replaces every stage plan",
+        "It contains only quality test results"
       ],
       "correct": 0,
-      "explanation": "The PID is not created during SU. SU produces the Project Brief; the PID is created during the IP (Initiating a project) process."
+      "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
     }
   ],
   "flashcards": [

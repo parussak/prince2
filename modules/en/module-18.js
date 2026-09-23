@@ -2,7 +2,7 @@ window.MODULE_DATA = window.MODULE_DATA || {};
 window.MODULE_DATA[18] = {
   "title": "Chapter 18: Managing a stage boundary",
   "navLabel": "18. Managing a stage boundary",
-  "contentHtml": "<h1 class=\"module-heading\">Chapter 18: Managing a stage boundary</h1><div class=\"card\"><h2 class=\"card-title\">Purpose, decisions and SnakeBite scenario</h2><p>The process gives the project board enough information to decide whether to continue investing in the project. The project manager reviews the current stage, updates the project plan and business case, prepares the next stage plan and records lessons. On request after a forecast exception, the manager instead prepares an exception plan for the board’s approval. The board makes the authorization decision through directing a project.</p><p>SnakeBite example: the beta is complete, but the API’s ongoing cost has risen. Zosia compares beta results with the authorized stage plan in an end stage report. She updates forecasts and the business case, then prepares the release stage plan. Maya contributes user testing evidence. Artur and the project board examine what was delivered, whether the game still justifies investment and whether the next stage is achievable before authorizing release.</p></div><figure class=\"study-figure\"><div class=\"study-flow\"><div class=\"study-step\"><span>1</span><strong>Evaluate stage results</strong></div><div class=\"study-step\"><span>2</span><strong>Update business case and project plan</strong></div><div class=\"study-step\"><span>3</span><strong>Prepare next stage or exception plan</strong></div><div class=\"study-step\"><span>4</span><strong>Board decides whether to authorize</strong></div></div><figcaption><strong>How to read this flow:</strong> Follow the project information and decisions in order; the board’s authority begins where the project manager’s delegated authority ends.</figcaption></figure><div class=\"card\"><h2 class=\"card-title\">Key concepts and management products</h2><p><strong>Normal boundary:</strong> review stage → prepare end stage report → update project plan and business case → plan next stage → ask the board to authorize it. <strong>Exception route:</strong> the project manager first reports a forecast tolerance breach; if the board asks for replanning, an exception plan is prepared and submitted for authorization. An exception report explains a problem and possible responses; an approved exception plan replaces the affected plan. The project plan remains the whole project view, while the next stage plan gives near term delivery detail.</p><div class=\"definition-item\"><strong>What is the purpose of a stage boundary?</strong><p>To give the board enough information to decide whether to authorize the next stage.</p></div><div class=\"definition-item\"><strong>Who prepares the next stage plan?</strong><p>Project manager.</p></div><div class=\"definition-item\"><strong>What does an end stage report cover?</strong><p>Results, deviations, product status and lessons from the completed stage.</p></div><div class=\"definition-item\"><strong>What is updated at a stage boundary?</strong><p>Project plan, business case, lessons and relevant management products.</p></div><div class=\"definition-item\"><strong>What triggers an exception plan?</strong><p>A board request after an exception report.</p></div><div class=\"definition-item\"><strong>Who authorizes the next stage?</strong><p>Project board under directing a project.</p></div></div><div class=\"card\"><strong id=\"study-score-10\">Score: 0/0</strong> <button class=\"btn-submit\" type=\"button\" onclick=\"resetStudyModule(10)\">Reset answers for this chapter</button></div><div class=\"card quiz-section\"><h2 class=\"card-title\">SnakeBite scenario questions</h2><div id=\"m10-story-quiz\"></div></div><div class=\"hard-knowledge-header\"><div class=\"hard-knowledge-title\">Foundation exam questions</div></div><div class=\"quiz-section\"><div id=\"m10-exam-quiz\"></div></div><div class=\"flashcards-container\" id=\"m10-flashcards\"></div>",
+  "contentHtml": "<h1 class=\"module-heading\">Chapter 18: Managing a stage boundary</h1><div class=\"card\"><h2 class=\"card-title\">Purpose, decisions and SnakeBite scenario</h2><p>The process gives the project board enough information to decide whether to continue investing in the project. The project manager reviews the current stage, updates the project plan and business case, prepares the next stage plan and records lessons. On request after a forecast exception, the manager instead prepares an exception plan for the board’s approval. The board makes the authorization decision through directing a project.</p><p>SnakeBite example: the beta is complete, but the API’s ongoing cost has risen. Zosia compares beta results with the authorized stage plan in an end stage report. She updates forecasts and the business case, then prepares the release stage plan. Maya contributes user testing evidence. Artur and the project board examine what was delivered, whether the game still justifies investment and whether the next stage is achievable before authorizing release.</p></div><figure class=\"study-figure\"><div class=\"study-flow\"><div class=\"study-step\"><span>1</span><strong>Evaluate stage results</strong></div><div class=\"study-step\"><span>2</span><strong>Update business case and project plan</strong></div><div class=\"study-step\"><span>3</span><strong>Prepare next stage or exception plan</strong></div><div class=\"study-step\"><span>4</span><strong>Board decides whether to authorize</strong></div></div><figcaption><strong>How to read this flow:</strong> Follow the project information and decisions in order; the board’s authority begins where the project manager’s delegated authority ends.</figcaption></figure><div class=\"card\"><h2 class=\"card-title\">Key concepts and management products</h2><p><strong>Normal boundary:</strong> review stage → prepare end stage report → update project plan and business case → plan next stage → ask the board to authorize it. <strong>Exception route:</strong> the project manager first reports a forecast tolerance breach; if the board asks for replanning, an exception plan is prepared and submitted for authorization. An exception report explains a problem and possible responses; an approved exception plan replaces the affected plan. The project plan remains the whole project view, while the next stage plan gives near term delivery detail.</p><div class=\"definition-item\"><strong>What is the purpose of a stage boundary?</strong><p>To give the board enough information to decide whether to authorize the next stage.</p></div><div class=\"definition-item\"><strong>Who prepares the next stage plan?</strong><p>Project manager.</p></div><div class=\"definition-item\"><strong>What does an end stage report cover?</strong><p>Results, deviations, product status and lessons from the completed stage.</p></div><div class=\"definition-item\"><strong>What is updated at a stage boundary?</strong><p>Project plan, business case, lessons and relevant management products.</p></div><div class=\"definition-item\"><strong>What triggers an exception plan?</strong><p>A board request after an exception report.</p></div><div class=\"definition-item\"><strong>Who authorizes the next stage?</strong><p>Project board under directing a project.</p></div></div><div class=\"card\"><strong id=\"study-score-10\">Score: 0/0</strong> <button class=\"btn-submit\" type=\"button\" onclick=\"resetStudyModule(10)\">Reset answers for this chapter</button></div><section class=\"card\"><h2 class=\"card-title\">Additional textbook-aligned explanation</h2><h3>Normal stage boundary</h3><p>The project manager reviews the current stage and prepares an end stage report. The business case and project plan are updated with actuals and revised forecasts, lessons are recorded, and a detailed next stage plan is developed. The project board considers this evidence in directing a project and authorizes, changes or stops the next stage. Completion of work in the current stage does not itself authorize the following stage.</p><h3>Exception route</h3><p>A forecast breach triggers an exception report through the proper escalation route. The project board may request an exception plan to replace the affected stage plan; a project-level exception is taken to the business layer as appropriate. The plan sets out revised products, costs, time and other targets and requires authorization. An exception report explains the deviation and options; it is not a replacement plan.</p><h3>SnakeBite boundary decision</h3><p>At the beta boundary, Zosia compares API delivery and test outcomes with the stage plan and revises the business case when support costs rise. She uses lessons on vendor delays in the detailed next stage plan. Artur and the board decide whether the project remains justified and whether to authorize the release stage.</p></section><div class=\"card quiz-section\"><h2 class=\"card-title\">SnakeBite scenario questions</h2><div id=\"m10-story-quiz\"></div></div><div class=\"hard-knowledge-header\"><div class=\"hard-knowledge-title\">Foundation exam questions</div></div><div class=\"quiz-section\"><div id=\"m10-exam-quiz\"></div></div><div class=\"flashcards-container\" id=\"m10-flashcards\"></div>",
   "storyQuiz": [
     {
       "question": "The beta is complete. Can Zosia authorize the next management stage herself?",
@@ -30,9 +30,9 @@ window.MODULE_DATA[18] = {
       "question": "What must Zosia update when forecast maintenance costs increase?",
       "options": [
         "Business case and relevant forecasts",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Treat the updated project plan as authorization of the next stage",
+        "Ask the team manager to approve a replacement stage plan",
+        "Omit the end stage report when the stage is within tolerance"
       ],
       "correct": 0,
       "explanation": "Continued business justification may be affected."
@@ -74,9 +74,9 @@ window.MODULE_DATA[18] = {
       "question": "Why update the business case after changes to API costs?",
       "options": [
         "To test continued business justification",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Treat the updated project plan as authorization of the next stage",
+        "Ask the team manager to approve a replacement stage plan",
+        "Omit the end stage report when the stage is within tolerance"
       ],
       "correct": 0,
       "explanation": "The project should remain desirable, viable and achievable."
@@ -96,9 +96,9 @@ window.MODULE_DATA[18] = {
       "question": "The board requests a replacement plan for an exception. What does Zosia prepare?",
       "options": [
         "Exception plan for authorization",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Treat the updated project plan as authorization of the next stage",
+        "Ask the team manager to approve a replacement stage plan",
+        "Omit the end stage report when the stage is within tolerance"
       ],
       "correct": 0,
       "explanation": "It is prepared in response to a board decision on an exception."
@@ -118,9 +118,9 @@ window.MODULE_DATA[18] = {
       "question": "What does Maya contribute to the stage boundary assessment?",
       "options": [
         "User test results and evidence of product fitness",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Treat the updated project plan as authorization of the next stage",
+        "Ask the team manager to approve a replacement stage plan",
+        "Omit the end stage report when the stage is within tolerance"
       ],
       "correct": 0,
       "explanation": "The senior user represents user expectations and benefits."
@@ -186,9 +186,9 @@ window.MODULE_DATA[18] = {
       "question": "Why should the business case be reviewed at the boundary?",
       "options": [
         "To check whether the project remains justified",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Use the next stage plan in place of the revised business case",
+        "Prepare an exception plan for every normal stage boundary",
+        "Use an exception report as the authorized replacement plan"
       ],
       "correct": 0,
       "explanation": "Updated costs and benefits inform further investment."
@@ -208,9 +208,9 @@ window.MODULE_DATA[18] = {
       "question": "The board asks for a replacement plan after an exception. What is prepared?",
       "options": [
         "Exception plan for the board to consider",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Use the next stage plan in place of the revised business case",
+        "Prepare an exception plan for every normal stage boundary",
+        "Use an exception report as the authorized replacement plan"
       ],
       "correct": 0,
       "explanation": "An exception plan can replace the affected plan after approval."
@@ -230,9 +230,9 @@ window.MODULE_DATA[18] = {
       "question": "What evidence does Maya provide at the stage boundary?",
       "options": [
         "User test outcomes and acceptance information",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Use the next stage plan in place of the revised business case",
+        "Prepare an exception plan for every normal stage boundary",
+        "Use an exception report as the authorized replacement plan"
       ],
       "correct": 0,
       "explanation": "User feedback informs the next decision."
@@ -263,9 +263,9 @@ window.MODULE_DATA[18] = {
       "question": "What is a useful result of lessons learned in the preceding stage?",
       "options": [
         "Better estimates and controls for the next stage",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Treat the updated project plan as authorization of the next stage",
+        "Ask the team manager to approve a replacement stage plan",
+        "Omit the end stage report when the stage is within tolerance"
       ],
       "correct": 0,
       "explanation": "Lessons inform the next stage plan."
@@ -274,9 +274,9 @@ window.MODULE_DATA[18] = {
       "question": "Beta results cast doubt on expected benefits. What should the project manager do?",
       "options": [
         "Update the business case and present the assessment to the board",
-        "To avoid documenting the decision and its owner",
-        "To let the team change the approved scope without authorization",
-        "To postpone the decision until after the project closes"
+        "Use the next stage plan in place of the revised business case",
+        "Prepare an exception plan for every normal stage boundary",
+        "Use an exception report as the authorized replacement plan"
       ],
       "correct": 0,
       "explanation": "The board decides whether to continue investing."

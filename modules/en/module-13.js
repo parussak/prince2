@@ -2,7 +2,7 @@ window.MODULE_DATA = window.MODULE_DATA || {};
 window.MODULE_DATA[13] = {
   "title": "Chapter 13: Starting a Project and Initializing a Project",
   "navLabel": "4. Starting the project and initiating the project",
-  "contentHtml": "\n<h1 class=\"module-heading\">Module 4: Project launch and project initiation</h1><p class=\"ov-source\">PDF • module 4 • pages 116–133. Current module 5; all its contents have been preserved.</p>\n<div class=\"scenario-box\">\n<p><em>Before Zosia got the green light to spend PLN 500,000. PLN, PixelBite Games carried out the **Starting up a project (SU)** process. A short **Project Brief** was created. Artur (the Client) checked whether the game made sense at all.</em></p>\n<p><em>Only after the decision of the Project Council in the **Directing a project (DP)** process, Zosia entered the **Initiating a project (IP)** process, where she created full **Project Initiation Documentation (PID)** and carefully planned the first stage of implementation.</em></p>\n</div>\n<div class=\"card\">\n<h2 class=\"card-title\">🔄 SU vs IP Process Comparison</h2>\n<div class=\"doc-table-container\">\n<table class=\"doc-table\">\n<thead>\n<tr>\n<th>Characteristic</th>\n<th>Starting up a project (SU)</th>\n<th>Initiating a project (IP)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>When does it occur?</strong></td>\n<td>Pre-design (before the Initiation Stage)</td>\n<td>In the first management stage (Initiation Stage)</td>\n</tr>\n<tr>\n<td><strong>Main goal</strong></td>\n<td>Is the project justified and worth initiating?</td>\n<td>How exactly to organize and carry out the project?</td>\n</tr>\n<tr>\n<td><strong>Main product</strong></td>\n<td><strong>Project Brief</strong></td>\n<td><strong>Project Initiation Documentation (PID)</strong></td>\n</tr>\n<tr>\n<td><strong>Time horizon</strong></td>\n<td>Very short (a few days/weeks)</td>\n<td>Full, detailed planning of the entire project</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<div class=\"remember-box\">\n<div class=\"remember-badge\">💡 Remember for the exam!</div>\n<div class=\"remember-text\">In PRINCE2, there are at least **TWO management stages**: the Initiation Stage (where the IP process takes place) and at least one Execution Stage!</div>\n</div>\n<div class=\"card quiz-section\">\n<h2 class=\"card-title\">SnakeBite Scenario: SU & IP</h2>\n<div id=\"m4-story-quiz\"></div>\n</div>\n<div class=\"hard-knowledge-header\">\n<div class=\"hard-knowledge-title\">🎓 Hard knowledge for the Foundation exam (SU & IP)</div>\n<div class=\"hard-knowledge-subtitle\">Official definitions, PID structure and question test.</div>\n</div>\n<div class=\"hard-knowledge-content\">\n<div class=\"definition-item\">\n<div class=\"definition-term\">Project Initiation Documentation<span class=\"definition-term-en\">(PID - Project Initiation Documentation)</span></div>\n<div style=\"font-size: 0.92rem; color: #334155; margin-top: 0.2rem;\">A collection of documents constituting a single source of truth about the project. Includes Business Case, Plans, Strategies and Organizational Structures.</div>\n</div>\n<div class=\"quiz-section\">\n<div id=\"m4-exam-quiz\"></div>\n</div>\n</div>\n<div style=\"text-align: center; margin-top: 2rem;\"><h2 style=\"color: var(--accent-purple);\">🎴 Flashcards - Module 4</h2></div>\n<div class=\"flashcards-container\" id=\"m4-flashcards\"></div>\n",
+  "contentHtml": "\n<h1 class=\"module-heading\">Module 4: Project launch and project initiation</h1><p class=\"ov-source\">PDF • module 4 • pages 116–133. Current module 5; all its contents have been preserved.</p>\n<div class=\"scenario-box\">\n<p><em>Before Zosia got the green light to spend PLN 500,000. PLN, PixelBite Games carried out the **Starting up a project (SU)** process. A short **Project Brief** was created. Artur (the executive) checked whether the game made sense at all.</em></p>\n<p><em>Only after the decision of the Project Board in the **Directing a project (DP)** process, Zosia entered the **Initiating a project (IP)** process, where she created full **Project Initiation Documentation (PID)** and carefully planned the first stage of implementation.</em></p>\n</div>\n<div class=\"card\">\n<h2 class=\"card-title\">🔄 SU vs IP Process Comparison</h2>\n<div class=\"doc-table-container\">\n<table class=\"doc-table\">\n<thead>\n<tr>\n<th>Characteristic</th>\n<th>Starting up a project (SU)</th>\n<th>Initiating a project (IP)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>When does it occur?</strong></td>\n<td>Pre-project (before the initiation stage)</td>\n<td>In the first management stage (Initiation Stage)</td>\n</tr>\n<tr>\n<td><strong>Main goal</strong></td>\n<td>Is the project justified and worth initiating?</td>\n<td>How exactly to organize and carry out the project?</td>\n</tr>\n<tr>\n<td><strong>Main product</strong></td>\n<td><strong>Project Brief</strong></td>\n<td><strong>Project Initiation Documentation (PID)</strong></td>\n</tr>\n<tr>\n<td><strong>Time horizon</strong></td>\n<td>Very short (a few days/weeks)</td>\n<td>A high-level project plan and management arrangements; the next stage plan is detailed at the stage boundary</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<div class=\"remember-box\">\n<div class=\"remember-badge\">💡 Remember for the exam!</div>\n<div class=\"remember-text\">In PRINCE2, there are at least **TWO management stages**: the Initiation Stage (where the IP process takes place) and at least one Execution Stage!</div>\n</div>\n<section class=\"card\"><h2 class=\"card-title\">Additional textbook-aligned explanation</h2><h3>Starting up and initiating: distinct authorizations</h3><p>Starting up a project checks whether there is a worthwhile, viable basis for initiating. The project mandate triggers a project brief and an initiation stage plan; the project board decides whether to authorize initiation. In initiating a project, the project manager develops the project initiation documentation (PID), including the business case, a high-level project plan, management approaches and project controls. The project board then decides whether to authorize the project. An initiation authorization is not approval of the whole project.</p><h3>Plan detail at the stage boundary</h3><p>The project plan gives a high-level view of the whole investment. The next delivery stage is planned in sufficient detail before it starts, normally at the previous stage boundary. The stage plan permits delegated day-to-day control; any exception plan needs the relevant authority’s approval. In SnakeBite, Artur evaluates the business case and PID before authorizing delivery, while Zosia later develops detailed plans for the following stage.</p></section><div class=\"card quiz-section\">\n<h2 class=\"card-title\">SnakeBite Scenario: SU & IP</h2>\n<div id=\"m4-story-quiz\"></div>\n</div>\n<div class=\"hard-knowledge-header\">\n<div class=\"hard-knowledge-title\">🎓 Hard knowledge for the Foundation exam (SU & IP)</div>\n<div class=\"hard-knowledge-subtitle\">Official definitions, PID structure and question test.</div>\n</div>\n<div class=\"hard-knowledge-content\">\n<div class=\"definition-item\">\n<div class=\"definition-term\">Project Initiation Documentation<span class=\"definition-term-en\">(PID - Project Initiation Documentation)</span></div>\n<div style=\"font-size: 0.92rem; color: #334155; margin-top: 0.2rem;\">A collection of documents constituting a single source of truth about the project. Includes Business Case, Plans, Strategies and Organizational Structures.</div>\n</div>\n<div class=\"quiz-section\">\n<div id=\"m4-exam-quiz\"></div>\n</div>\n</div>\n<div style=\"text-align: center; margin-top: 2rem;\"><h2 style=\"color: var(--accent-purple);\">🎴 Flashcards - Module 4</h2></div>\n<div class=\"flashcards-container\" id=\"m4-flashcards\"></div>\n",
   "storyQuiz": [
     {
       "question": "1. The PixelBite studio comes up with the idea to create a SnakeBite game. Which PRINCE2 process is launched first, before the decision on initiation financing is made?",
@@ -97,18 +97,15 @@ window.MODULE_DATA[13] = {
       "explanation": "The PID is created in the IP process and collects all key project arrangements."
     },
     {
-      "type": "list",
-      "question": "Which TWO tasks are performed in the Starting up a project (SU) process?",
+      "type": "standard",
+      "question": "Which TWO tasks are performed in the Starting up a project (SU) process? Choose ONE pair of true statements. 1. Appointment of the project executive and the Project Manager (PM).  2. Development of the Project Brief.  3. Final acceptance of games from suppliers.  4. Performing a full financial audit of the company after 3 years.",
       "options": [
-        "1. Appointment of the Principal (Executive) and the Project Manager (PM)",
-        "2. Development of the Project Brief",
-        "3. Final acceptance of games from suppliers",
-        "4. Performing a full financial audit of the company after 3 years"
+        "1 and 2",
+        "1 and 3",
+        "1 and 4",
+        "2 and 3"
       ],
-      "correct": [
-        0,
-        1
-      ],
+      "correct": 0,
       "explanation": "In the SU, key roles are appointed (Executive, PM) and a Project Brief is prepared."
     },
     {
@@ -148,31 +145,28 @@ window.MODULE_DATA[13] = {
       "explanation": "Directing a project (DP) is the Project Board's continuous decision-making process."
     },
     {
-      "type": "list",
-      "question": "Which TWO elements are included in the Project Initiation Documentation (PID)?",
+      "type": "standard",
+      "question": "Which TWO elements are included in the Project Initiation Documentation (PID)? Choose ONE pair of true statements. 1. Business Case.  2. Project Plan.  3. List of personal assets of employees.  4. Source code written in C#.",
       "options": [
-        "1. Business Case",
-        "2. Project Plan",
-        "3. List of personal assets of employees",
-        "4. Source code written in C#"
+        "1 and 2",
+        "1 and 3",
+        "1 and 4",
+        "2 and 3"
       ],
-      "correct": [
-        0,
-        1
-      ],
+      "correct": 0,
       "explanation": "PID includes, among others: Business Case, Project Plan, Approaches/Strategies and structure descriptions."
     },
     {
-      "type": "negative",
-      "question": "Which of these statements about the PRINCE2 lifecycle is FALSE?",
+      "type": "standard",
+      "question": "When does starting up a project take place?",
       "options": [
-        "A PRINCE2 project must be divided into at least 2 management stages.",
-        "The Initiation Stage is the first management stage in the project.",
-        "The SU process takes place within the first implementation stage.",
-        "At the end of each management stage, profitability is verified."
+        "Before the decision to authorize initiation",
+        "Only after the first delivery stage",
+        "Only during project closure",
+        "As the final task of the last delivery stage"
       ],
-      "correct": 2,
-      "explanation": "The SU process takes place BEFORE the project, before the first management stage!"
+      "correct": 0,
+      "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
     }
   ],
   "flashcards": [
