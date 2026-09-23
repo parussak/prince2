@@ -1,0 +1,68 @@
+[
+  {
+    "question": "1. W studiu PixelBite pada pomysł stworzenia gry SnakeBite. Jaki proces PRINCE2 uruchamia się jako pierwszy, jeszcze przed podjęciem decyzji o finansowaniu inicjowania?",
+    "options": [
+      "Initiating a project (IP)",
+      "Starting up a project (SU)",
+      "Directing a project (DP)",
+      "Controlling a stage (CS)"
+    ],
+    "correct": 1,
+    "explanation": "Starting up a project (SU) to proces przedprojektowy chroniący firmę przed wchodzeniem w bezsensowne inicjatywy."
+  },
+  {
+    "question": "2. Podczas procesu SU Zosia i Artur tworzą krótki dokument syntezujący cel gry, szacowane koszty i role. Jak nazywa się ten dokument?",
+    "options": [
+      "Dokumentacja Inicjująca Projekt (PID)",
+      "Zarys Projektu (Project Brief)",
+      "Plan Etapu 2",
+      "Rejestr Jakości"
+    ],
+    "correct": 1,
+    "explanation": "Project Brief (Zarys Projektu) to kluczowy produkt procesu SU, stanowiący podstawę do decyzji o przejściu do IP."
+  },
+  {
+    "question": "3. Rada Projektu daje zgodę na etap inicjowania. Zosia wchodzi w proces Initiating a project (IP). Co jest jej głównym zadaniem?",
+    "options": [
+      "Napisanie całego kodu gry.",
+      "Opracowanie PID, w tym doprecyzowanie Business Case, planów i podejść zarządczych.",
+      "Sprzedaż gry na Steamie.",
+      "Zamknięcie spółki."
+    ],
+    "correct": 1,
+    "explanation": "Proces IP służy zbudowaniu solidnych fundamentów zarządczych zawartych w PID."
+  },
+  {
+    "question": "4. W którym procesie Rada Projektu podejmuje kluczowe decyzje o zatwierdzeniu etapu, wyrażeniu zgody na IP oraz zatwierdzeniu PID?",
+    "options": [
+      "Directing a project (DP)",
+      "Controlling a stage (CS)",
+      "Managing product delivery (MP)",
+      "Closing a project (CP)"
+    ],
+    "correct": 0,
+    "explanation": "Directing a project (DP) to proces realizowany przez Radę Projektu trwający przez cały cykl życia."
+  },
+  {
+    "question": "5. Co znajduje się w Planie Inicjowania Projektu (Initiation Stage Plan)?",
+    "options": [
+      "Plan prac i zasobów potrzebnych do przeprowadzenia samego procesu IP i stworzenia PID.",
+      "Pełny kod źródłowy silnika 3D.",
+      "Umowy ze wszystkimi graczami na świecie.",
+      "Raport końcowy z zamknięcia."
+    ],
+    "correct": 0,
+    "explanation": "Initiation Stage Plan tworzy się w SU, aby zaplanować budżet i czas na wykonanie samego etapu inicjowania (IP)."
+  },
+  {
+    "question": "6. Jaka jest różnica między Zarysem Projektu (Project Brief) a PID?",
+    "options": [
+      "Project Brief to krótki wstęp z SU; PID to pełna, szczegółowa baza zarządcza powstała w IP.",
+      "Nie ma różnicy.",
+      "Project Brief tworzą programiści, a PID zarząd.",
+      "PID zawiera tylko faktury."
+    ],
+    "correct": 0,
+    "explanation": "Project Brief powstaje w SU jako zarys; na jego bazie w IP rozbudowuje się kompleksowy PID."
+  }
+]

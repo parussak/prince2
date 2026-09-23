@@ -1,0 +1,68 @@
+[
+  {
+    "question": "1. Artur wylicza, że stworzenie SnakeBite kosztuje 500k zł, a prognozowany zysk z aplikacji to 1.3 mln zł. Gdzie spisuje się te kalkulacje finansowe?",
+    "options": [
+      "W Uzasadnieniu Biznesowym (Business Case)",
+      "W Rejestrze Jakości",
+      "W Dzienniku Projektu",
+      "W Opisie Roli Lidera Zespołu"
+    ],
+    "correct": 0,
+    "explanation": "Business Case zawiera finansowe i strategiczne uzasadnienie opłacalności inwestycji."
+  },
+  {
+    "question": "2. Zosia oddaje gotową plik aplikacji .apk do sklepu Google Play. Czym w terminologii PRINCE2 jest ten plik?",
+    "options": [
+      "Produktem (Output)",
+      "Rezultatem (Outcome)",
+      "Korzyścią (Benefit)",
+      "Niekorzyścią (Disbenefit)"
+    ],
+    "correct": 0,
+    "explanation": "Produkt (Output) to bezpośredni, specjalistyczny wytwór prac projektowych."
+  },
+  {
+    "question": "3. Gracze ściągają aplikację i zaczynają spędzać w niej średnio 30 minut dziennie. Czym jest ta zmiana zachowania użytkowników?",
+    "options": [
+      "Rezultatem (Outcome)",
+      "Produktem (Output)",
+      "Niekorzyścią",
+      "Planem Wyjątku"
+    ],
+    "correct": 0,
+    "explanation": "Rezultat (Outcome) to zmiana wynikająca z użytkowania produktów przez odbiorców."
+  },
+  {
+    "question": "4. Dział finansowy PixelBite odnotowuje wpłatę 800 tys. zł czystego zysku z mikropłatności. Jak nazywa się ten mierzalny pozytywny efekt?",
+    "options": [
+      "Korzyść (Benefit)",
+      "Produkt (Output)",
+      "Rezultat (Outcome)",
+      "Tolerancja"
+    ],
+    "correct": 0,
+    "explanation": "Korzyść (Benefit) to mierzalna poprawa wynikająca z rezultatu, stanowiąca cel inwestycji."
+  },
+  {
+    "question": "5. Skargi graczy na przeciążenie serwerów i koszty ich dodatkowego chłodzenia zostały przewidziane w kalkulacji jako ujemny skutek projektu. Co to jest?",
+    "options": [
+      "Niekorzyść (Disbenefit)",
+      "Ryzyko unikania",
+      "Błąd programistyczny",
+      "Wyjątek etapu"
+    ],
+    "correct": 0,
+    "explanation": "Niekorzyść (Disbenefit) to postrzegany jako negatywny, ale zaakceptowany skutek uboczny projektu."
+  },
+  {
+    "question": "6. Kto sporządza Podejście do Zarządzania Korzyściami (Benefits Management Approach), określające jak i kiedy korzyści będą mierzone po premierze?",
+    "options": [
+      "Kierownik Projektu (PM) na zlecenie i pod odpowiedzialnością Zleceniodawcy (Executive).",
+      "Analityk gier indie.",
+      "Grafik komputerowy.",
+      "Zewnętrzny sklep z aplikacjami."
+    ],
+    "correct": 0,
+    "explanation": "Kierownik Projektu opracowuje podejście na zlecenie Zleceniodawcy. Główny Użytkownik uzgadnia podejście i odpowiada za realizację korzyści."
+  }
+]

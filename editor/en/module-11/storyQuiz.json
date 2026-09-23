@@ -1,0 +1,156 @@
+[
+  {
+    "question": "The graphic engine is forecast to finish three weeks late against a one week stage time tolerance. What should Zosia do?",
+    "options": [
+      "Send an exception report to the project board",
+      "Checkpoint report",
+      "Highlight report",
+      "End stage report"
+    ],
+    "correct": 0,
+    "explanation": "A forecast beyond stage tolerance requires escalation."
+  },
+  {
+    "question": "Artur receives an exception report. What may the project board decide?",
+    "options": [
+      "Request an exception plan, change tolerances within its authority, or close the project",
+      "End project report",
+      "Lessons report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "The board makes the management level decision."
+  },
+  {
+    "question": "What report does Zosia send Artur regularly about stage progress?",
+    "options": [
+      "Highlight report",
+      "Exception plan",
+      "Project log",
+      "Stage plan"
+    ],
+    "correct": 0,
+    "explanation": "The project manager sends highlight reports to the project board."
+  },
+  {
+    "question": "A work package is forecast two days late within a three day tolerance. What should the team manager do?",
+    "options": [
+      "Manage within tolerance and report progress to the project manager",
+      "Work package tolerance",
+      "Stage tolerance",
+      "Project board"
+    ],
+    "correct": 0,
+    "explanation": "A delay within tolerance does not automatically require an exception."
+  },
+  {
+    "question": "Where does Zosia keep day to day informal notes before formal entries are required?",
+    "options": [
+      "Daily log in the project log",
+      "Checkpoint report",
+      "Highlight report",
+      "End stage report"
+    ],
+    "correct": 0,
+    "explanation": "The project log includes a daily log."
+  },
+  {
+    "question": "Why does managing by exception save project board time?",
+    "options": [
+      "The board receives regular summaries and intervenes when tolerance is forecast to be exceeded",
+      "End project report",
+      "Lessons report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "Authority is delegated within agreed tolerances."
+  },
+  {
+    "question": "What does a forecast mean in progress control?",
+    "options": [
+      "An estimate of the future state using current information",
+      "Exception plan",
+      "Project log",
+      "Stage plan"
+    ],
+    "correct": 0,
+    "explanation": "Forecasts support decisions before an exception occurs."
+  },
+  {
+    "question": "Does a two day delay always constitute an exception?",
+    "options": [
+      "No; compare the forecast with the relevant tolerance",
+      "Work package tolerance",
+      "Stage tolerance",
+      "Project board"
+    ],
+    "correct": 0,
+    "explanation": "A deviation alone does not establish an exception."
+  },
+  {
+    "question": "Who receives a checkpoint report from the team manager?",
+    "options": [
+      "Project manager",
+      "Checkpoint report",
+      "Highlight report",
+      "End stage report"
+    ],
+    "correct": 0,
+    "explanation": "Checkpoint reports communicate team progress to the project manager."
+  },
+  {
+    "question": "Who receives a highlight report from the project manager?",
+    "options": [
+      "Project board",
+      "End project report",
+      "Lessons report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "Highlight reports provide periodic board level status."
+  },
+  {
+    "question": "When should Zosia send an exception report?",
+    "options": [
+      "When the stage forecast exceeds its tolerance",
+      "Exception plan",
+      "Project log",
+      "Stage plan"
+    ],
+    "correct": 0,
+    "explanation": "The project manager escalates a forecast stage exception."
+  },
+  {
+    "question": "Which report summarizes the whole project at closure?",
+    "options": [
+      "End project report",
+      "Work package tolerance",
+      "Stage tolerance",
+      "Project board"
+    ],
+    "correct": 0,
+    "explanation": "It compares overall performance against the project baseline."
+  },
+  {
+    "question": "How many project performance targets does PRINCE2 7 include?",
+    "options": [
+      "Seven, including sustainability",
+      "Checkpoint report",
+      "Highlight report",
+      "End stage report"
+    ],
+    "correct": 0,
+    "explanation": "Sustainability joins time, cost, quality, scope, benefits and risk."
+  },
+  {
+    "question": "What does Tomek do when a work package is forecast outside its tolerance?",
+    "options": [
+      "Escalate to the project manager",
+      "End project report",
+      "Lessons report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "The team manager cannot unilaterally change delegated tolerance."
+  }
+]

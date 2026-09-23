@@ -1,0 +1,164 @@
+[
+  {
+    "type": "standard",
+    "question": "Jaka jest definicja Ryzyka (Risk) w metodyce PRINCE2?",
+    "options": [
+      "Pewne zdarzenie, które na 100% zniszczy budżet.",
+      "Niepewne zdarzenie lub zestaw zdarzeń, które – jeśli nastąpią – wpłyną na osiągnięcie celów projektu.",
+      "Błąd w kodzie znaleziony przez testera.",
+      "Rezygnacja pracownika z pracy."
+    ],
+    "correct": 1,
+    "explanation": "Ryzyko w PRINCE2 to niepewność (zarówno zagrożenia, jak i szanse) wpływająca na cele."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nOdpowiednikiem strategii Unikania (Avoid) dla szans, polegającym na podjęciu działań dających 100% pewności jej wystąpienia, jest Wykorzystanie [...].",
+    "options": [
+      "(Exploit)",
+      "(Enhance)",
+      "(Share)",
+      "(Reject)"
+    ],
+    "correct": 0,
+    "explanation": "Exploit (Wykorzystanie) to reakcja na szansę eliminująca niepewność tak, by szansa na 100% się zmaterializowała."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA wymiary są podstawowymi parametrami oceny ryzyka w PRINCE2? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Prawdopodobieństwo (Probability).  2. Wpływ (Impact).  3. Liczba stron w dokumencie.  4. Kolor czcionki w rejestrze.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "Ocena ryzyka opiera się na analizie Prawdopodobieństwa oraz Wpływu (a także Bliskości i Szybkości)."
+  },
+  {
+    "type": "negative",
+    "question": "Która z wymienionych reakcji NIE JEST strategią reakcji na ZAGROŻENIE (Threat)?",
+    "options": [
+      "Unikanie (Avoid)",
+      "Redukcja (Reduce)",
+      "Wzmocnienie (Enhance)",
+      "Przekazanie (Transfer)"
+    ],
+    "correct": 2,
+    "explanation": "Wzmocnienie (Enhance) jest strategią reakcji na SZANSĘ (Opportunity), a nie na zagrożenie!"
+  },
+  {
+    "type": "standard",
+    "question": "Jaka jest rola Właściciela Ryzyka (Risk Owner)?",
+    "options": [
+      "Osoba wyznaczona do monitorowania danego ryzyka i zarządzania wdrożeniem strategii reakcji.",
+      "Osoba, która płaci kary finansowe ze swoich prywatnych oszczędności.",
+      "Programista piszący kod.",
+      "Zewnętrzny ubezpieczyciel."
+    ],
+    "correct": 0,
+    "explanation": "Risk Owner odpowiada za nadzór nad danym ryzykiem i dobór właściwej strategii."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nDokument określający procedury, techniki, kategorie oraz apetyt na ryzyko w projekcie to Podejście do Zarządzania [...].",
+    "options": [
+      "Jakością",
+      "Ryzykiem (Risk Management Approach)",
+      "Komunikacją",
+      "Zmianą"
+    ],
+    "correct": 1,
+    "explanation": "Podejście do Zarządzania Ryzykiem definiuje zasady postępowania z ryzykiem w projekcie."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA kroki wchodzą w skład 5-krokowej Procedury Zarządzania Ryzykiem w PRINCE2? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Identyfikacja (Identify).  2. Ocena (Assess).  3. Kasowanie rejestrów.  4. Ignorowanie sygnałów ostrzegawczych.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "5 kroków to: Identify, Assess, Plan, Implement, Communicate."
+  },
+  {
+    "type": "standard",
+    "question": "Co należy zapisywać w Rejestrze Ryzyk?",
+    "options": [
+      "Zidentyfikowane ryzyka i ich status",
+      "Wyłącznie problemy już występujące",
+      "Tylko wydatki z budżetu zmian",
+      "Tylko zakończone kontrole produktów"
+    ],
+    "correct": 0,
+    "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+  },
+  {
+    "question": "Jak poprawnie opisać ryzyko?",
+    "options": [
+      "Przyczyna, niepewne zdarzenie, wpływ na cel",
+      "Tylko nazwa dostawcy",
+      "Tylko numer zadania",
+      "Wyłącznie jako listę zastosowanych reakcji"
+    ],
+    "correct": 0,
+    "explanation": "Niepewność musi mieć związek z celem projektu."
+  },
+  {
+    "question": "Kiedy komunikujemy ryzyka?",
+    "options": [
+      "Tylko na końcu cyklu",
+      "Przez cały proces",
+      "Tylko po wystąpieniu szkody",
+      "Dopiero przy zamykaniu projektu"
+    ],
+    "correct": 1,
+    "explanation": "Komunikacja towarzyszy identyfikacji, ocenie, planowaniu i wdrażaniu."
+  },
+  {
+    "question": "Risk owner a risk action owner?",
+    "options": [
+      "To zawsze jedna osoba",
+      "Właściciel ryzyka zarządza całością, właściciel działania wykonuje przypisaną reakcję",
+      "Właściciel działania zatwierdza każdy projekt",
+      "Obie role mają identyczną odpowiedzialność za ryzyko"
+    ],
+    "correct": 1,
+    "explanation": "Role mogą być połączone, ale ich zakres jest różny."
+  },
+  {
+    "question": "Nowe ryzyko wywołane zmianą dostawcy w ramach reakcji to:",
+    "options": [
+      "Ryzyko wtórne",
+      "Ryzyko rezydualne",
+      "Tolerancja jakości",
+      "Ryzyko, które już wystąpiło i jest zamknięte"
+    ],
+    "correct": 0,
+    "explanation": "Ryzyko wtórne powstaje wskutek reakcji; rezydualne pozostaje po niej."
+  },
+  {
+    "question": "Czy plan warunkowy i Plan Nadzwyczajny są synonimami?",
+    "options": [
+      "Tak",
+      "Nie",
+      "Tylko przy szansach",
+      "Tak, oba dokumenty zastępują plan etapu"
+    ],
+    "correct": 1,
+    "explanation": "Pierwszy dotyczy reakcji na ryzyko, drugi zarządzania wyjątkiem."
+  },
+  {
+    "question": "Czy mały projekt zawsze wymaga tylko lekkiej kontroli ryzyka?",
+    "options": [
+      "Tak",
+      "Nie, skutki mogą być nieproporcjonalnie duże",
+      "Tak, jeśli jest krótki",
+      "Tak, o ile budżet projektu jest niewielki"
+    ],
+    "correct": 1,
+    "explanation": "Skala i potencjalny wpływ wymagają osobnej oceny."
+  }
+]

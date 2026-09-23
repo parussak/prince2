@@ -1,0 +1,74 @@
+[
+  {
+    "q": "Maya proposes a two player mode beyond the approved scope. What does she raise?",
+    "a": "Request for change. A proposal to change an approved baseline."
+  },
+  {
+    "q": "The score saving fails an agreed requirement. How is this classified?",
+    "a": "Off specification. The product does not meet an agreed requirement."
+  },
+  {
+    "q": "Does recording a change authorize Tomek to implement it?",
+    "a": "No, approval by the authorized role is needed. Recording an issue is not approval."
+  },
+  {
+    "q": "Maya proposes an achievements screen outside the approved specification. What is it?",
+    "a": "Request for change. A proposal to change the baseline."
+  },
+  {
+    "q": "The ranking API misses its agreed response time. What is it?",
+    "a": "Off specification. The product does not meet its agreed quality specification."
+  },
+  {
+    "q": "Maya asks whether the slower ranking can be accepted. What is a concession?",
+    "a": "Authorized acceptance of an off specification without correction. A concession needs the appropriate authority."
+  },
+  {
+    "q": "Where should Zosia record project issues?",
+    "a": "Issue register. The issue register tracks issues and decisions."
+  },
+  {
+    "q": "When should an issue report be prepared?",
+    "a": "When detailed assessment and decision are needed. It records the assessment and recommendation."
+  },
+  {
+    "q": "A supplier may change the API limit. What distinguishes a risk?",
+    "a": "It concerns an uncertain future event. An uncertain event is managed as a risk."
+  },
+  {
+    "q": "Who approves a baseline change?",
+    "a": "The role with delegated authority. Follow the agreed limits of delegation."
+  },
+  {
+    "q": "What is the change budget used for?",
+    "a": "Funding approved changes under agreed rules. Funds do not replace approval."
+  },
+  {
+    "q": "Which set contains issue categories?",
+    "a": "Problem or concern, external event, business opportunity, request for change, off specification. Different issues require consideration and control."
+  },
+  {
+    "q": "What makes up a project baseline?",
+    "a": "Current approved product versions under change control. Approved versions are controlled."
+  },
+  {
+    "q": "Which register tracks product status and versions?",
+    "a": "Product register. It tracks product status and approvals."
+  },
+  {
+    "q": "What should be assessed for a significant change?",
+    "a": "Impact on project targets, funding and authority. An informed decision needs impact and authority."
+  },
+  {
+    "q": "Maya proposes a two player mode beyond the approved scope. What does she raise?",
+    "a": "Request for change. A proposal to change an approved baseline."
+  },
+  {
+    "q": "The score saving fails an agreed requirement. How is this classified?",
+    "a": "Off specification. The product does not meet an agreed requirement."
+  },
+  {
+    "q": "Does recording a change authorize Tomek to implement it?",
+    "a": "No, approval by the authorized role is needed. Recording an issue is not approval."
+  }
+]

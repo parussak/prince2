@@ -1,0 +1,98 @@
+[
+  {
+    "q": "Wymień 4 poziomy zarządzania w PRINCE2.",
+    "a": "Zlecanie projektu (warstwa biznesowa) → Ukierunkowywanie (rada projektu) → Zarządzanie (kierownik projektu) → Dostarczanie (kierownicy zespołów)."
+  },
+  {
+    "q": "Kto tworzy Radę Projektu?",
+    "a": "Przewodniczący projektu (Executive), Główny Użytkownik (Senior User), Główny Dostawca (Senior Supplier)."
+  },
+  {
+    "q": "Kto ponosi ostateczną odpowiedzialność za sukces projektu?",
+    "a": "Przewodniczący projektu (Executive)."
+  },
+  {
+    "q": "Jakich funkcji nie może pełnić Kierownik projektu?",
+    "a": "Nie może być członkiem Rady Projektu (w tym Executive) ani wykonywać Nadzoru projektu (Project Assurance)."
+  },
+  {
+    "q": "Czym zajmuje się Project Assurance?",
+    "a": "Niezależnym monitorowaniem prac w imieniu Rady Projektu (biznesu, użytkowników, dostawców)."
+  },
+  {
+    "q": "Czym zajmuje się Project Support?",
+    "a": "Administracją, prowadzeniem rejestrów i wsparciem narzędziowym PM."
+  },
+  {
+    "q": "Jak nazywa się rola odpowiedzialna za dostarczenie Grupy Zadań (Work Package)?",
+    "a": "Kierownik zespołu (Team Manager)."
+  },
+  {
+    "q": "Czy Rada Projektu może mieć tylko jednego członka?",
+    "a": "Tak, jeśli Przewodniczący projektu przejmie również role Senior User i Senior Supplier."
+  },
+  {
+    "q": "Jaki jest cel praktyki Organizacja?",
+    "a": "Przeznaczeniem praktyki Organizacja jest zdefiniowanie i ustanowienie struktury rozliczalności i odpowiedzialności projektu (kto)."
+  },
+  {
+    "q": "Co przygotowuje warstwa biznesowa?",
+    "a": "Zlecenie projektu tak, żeby ukończyć je z takim zarysem, na jaki zgodzi się rada projektu."
+  },
+  {
+    "q": "Kto wyznacza Executive i czy jego rozliczalność można delegować?",
+    "a": "Wyznacza go biznes. Jest pojedynczym punktem rozliczalności za projekt; tej rozliczalności NIE MOŻNA delegować."
+  },
+  {
+    "q": "Za jakie podejście jest rozliczalny Senior User?",
+    "a": "Za podejście do uchwycenia wymagań użytkownika i specyfikacji korzyści dopasowanych do uzasadnienia biznesowego."
+  },
+  {
+    "q": "Za jakie dwa obszary jest rozliczalny Senior Supplier?",
+    "a": "Za jakość produktów dostarczanych przez dostawców oraz techniczną integralność projektu."
+  },
+  {
+    "q": "Wymień 7 obszarów zarządzania Kierownika projektu.",
+    "a": "Korzyści, koszty, czas, ryzyko, jakość, zakres, zrównoważony rozwój."
+  },
+  {
+    "q": "W czyim imieniu działa Kierownik projektu i w jakich granicach?",
+    "a": "W imieniu Rady Projektu, w ramach uzgodnionych tolerancji i ograniczeń."
+  },
+  {
+    "q": "Jak PM przydziela pracę Kierownikowi zespołu?",
+    "a": "W formie opisu Grupy Zadań (Work Package), zgodnie z Podejściem do Zarządzania Kontraktami (Commercial Management Approach)."
+  },
+  {
+    "q": "Czy zabezpieczanie ustaleń dotyczy tylko formalnych umów?",
+    "a": "Nie. PM zabezpiecza WSZYSTKIE ustalenia: formalne kontrakty z dostawcami zewnętrznymi i nieformalne ustalenia ze współpracownikami, np. kiedy i jak wprowadza się zmiany."
+  },
+  {
+    "q": "Komu NIE WOLNO powierzyć Nadzoru projektu?",
+    "a": "Kierownikowi projektu, członkom zespołu ani Wsparciu projektu."
+  },
+  {
+    "q": "Czy wyznaczenie osób do Nadzoru projektu przenosi rozliczalność Rady?",
+    "a": "Nie. Członkowie Rady nadal są rozliczalni za nadzór nad swoimi obszarami."
+  },
+  {
+    "q": "Kto domyślnie odpowiada za Wsparcie projektu?",
+    "a": "Kierownik Projektu. Może delegować tę odpowiedzialność; Wsparcie projektu może zostać ustanowione jako biuro projektu."
+  },
+  {
+    "q": "Jakie potrzeby reprezentuje Biznes?",
+    "a": "Zaspokajanie potrzeb biznesu i zapewnianie stosunku wartości do ceny (value for money). Reprezentant: Executive."
+  },
+  {
+    "q": "Kogo obejmuje strona interesu Użytkownik?",
+    "a": "Osoby wykorzystujące wyniki dla korzyści, operujące nimi, utrzymujące lub wspierające je, a także osoby, na które wyniki wpływają. Reprezentant: Senior User."
+  },
+  {
+    "q": "Co wnosi strona interesu Dostawca?",
+    "a": "Zasoby o określonych umiejętnościach potrzebne do wytworzenia produktów. Reprezentant: Senior Supplier."
+  },
+  {
+    "q": "Jakie granice pracy obowiązują Kierownika zespołu?",
+    "a": "Uzgodnione specyfikacje i tolerancje uzgodnione z Kierownikiem Projektu."
+  }
+]

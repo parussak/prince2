@@ -1,0 +1,34 @@
+[
+  {
+    "q": "Jaka jest różnica w czasie między SU a IP?",
+    "a": "SU to krótki proces przedprojektowy; IP to pierwszy pełny etap zarządczy (Inicjowanie)."
+  },
+  {
+    "q": "Co jest głównym produktem procesu SU?",
+    "a": "Project Brief (Zarys Projektu) oraz Plan Etapu Inicjowania."
+  },
+  {
+    "q": "Co jest głównym produktem procesu IP?",
+    "a": "PID (Dokumentacja Inicjująca Projekt)."
+  },
+  {
+    "q": "Jaki proces odpowiada za podejmowanie decyzji przez Radę Projektu?",
+    "a": "Directing a project (DP)."
+  },
+  {
+    "q": "Ile etapów zarządczych musi posiadać projekt PRINCE2?",
+    "a": "Minimum dwa: Etap Inicjowania oraz co najmniej jeden Etap Realizacyjny."
+  },
+  {
+    "q": "Kto tworzy Zarys Projektu (Project Brief)?",
+    "a": "Kierownik Projektu przy wsparciu Zleceniodawcy w procesie SU."
+  },
+  {
+    "q": "Czy projekt może zakończyć się po procesie SU?",
+    "a": "Tak, jeśli Rada Projektu uzna w procesie DP, że projekt nie ma zasadności biznesowej."
+  },
+  {
+    "q": "Co zawiera PID?",
+    "a": "Business Case, Plan Projektu, Podejścia zarządcze (Ryzyko, Jakość, Komunikacja), Struktury Ról."
+  }
+]

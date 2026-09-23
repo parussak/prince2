@@ -1,0 +1,82 @@
+[
+  {
+    "q": "What is Product (Output)?",
+    "a": "A specialized product provided by the project (e.g. a ready-made IT system)."
+  },
+  {
+    "q": "What is Outcome?",
+    "a": "Change in behavior/performance resulting from use of the Product."
+  },
+  {
+    "q": "What is a Benefit?",
+    "a": "Measurable improvement that is an investment goal (e.g. increase in profit by 20%)."
+  },
+  {
+    "q": "What is Disbenefit?",
+    "a": "An accepted, planned negative side effect of the project."
+  },
+  {
+    "q": "Who is responsible for the Business Case?",
+    "a": "The Executive."
+  },
+  {
+    "q": "When is a Business Case verified?",
+    "a": "In SU, IP, at each stage boundary (SB), when reporting exceptions, and at project closure."
+  },
+  {
+    "q": "What does the Benefits Management Approach include?",
+    "a": "Determining how and when benefits will be measured (also after project closure)."
+  },
+  {
+    "q": "What is the difference between a Disbenefit and a Risk?",
+    "a": "A Risk is uncertain; a Disbenefit is a certain, planned negative effect."
+  },
+  {
+    "q": "Practice and the Business Case document?",
+    "a": "The practice creates mechanisms for continuous assessment of validity. The document presents investment arguments based on costs, benefits and risks."
+  },
+  {
+    "q": "Desirable / viable / achievable?",
+    "a": "Desirable: the costs, benefits and risks are appropriately balanced. Viable: the Products can be delivered. Achievable: using the Products can produce the intended Outcomes and Benefits."
+  },
+  {
+    "q": "How is the Business Case evolving?",
+    "a": "Mandate → initial justification in the Project Brief (SU) → full justification (IP) → updates during the project → post-closure Benefits reviews."
+  },
+  {
+    "q": "Develop, check, maintain, confirm?",
+    "a": "Develop the investment justification; check that it remains valid; maintain actuals and forecasts; confirm that Benefits are being achieved."
+  },
+  {
+    "q": "Output and outcome?",
+    "a": "Output is the delivered product. Outcome is a change in behavior or conditions resulting from the implementation of a change."
+  },
+  {
+    "q": "What connects Products and Outcomes?",
+    "a": "A Capability: the complete set of Products needed to achieve an Outcome. The mere existence of Products does not guarantee that they will be used."
+  },
+  {
+    "q": "What is a Disbenefit?",
+    "a": "A measurable deterioration resulting from an Outcome that is negative for the organization and its objectives. It is not synonymous with an uncertain Risk."
+  },
+  {
+    "q": "What do we compare when evaluating an investment?",
+    "a": "Benefits and Disbenefits against project costs and additional operating and maintenance costs, taking Risk and timing into account."
+  },
+  {
+    "q": "Three basic business options?",
+    "a": "Don't change anything; do the minimum; do more than the minimum. No change provides a baseline."
+  },
+  {
+    "q": "What is the purpose of the Sustainability Management Approach?",
+    "a": "It establishes the actions, reviews and controls needed to achieve the sustainability objectives. It is part of the PID/PID."
+  },
+  {
+    "q": "Content of a sustainability management approach?",
+    "a": "Scope of goals; methods, terms and basis of measurement; responsibility; resources; tools and techniques; standards and references."
+  },
+  {
+    "q": "Who confirms the benefits after the project?",
+    "a": "The Primary User is responsible for confirming the anticipated benefits. The business provides activities and resources even after the project organization is dissolved."
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "question": "What is a risk in PRINCE2?",
+    "options": [
+      "An uncertain event or set of events that would affect objectives if it occurred",
+      "Risk register",
+      "Risk management approach",
+      "Risk owner"
+    ],
+    "correct": 0,
+    "explanation": "A risk can be a threat or an opportunity.",
+    "type": "standard"
+  },
+  {
+    "question": "The opportunity response that makes an opportunity certain is [...].",
+    "options": [
+      "Exploit",
+      "Transfer",
+      "Avoid",
+      "Reject"
+    ],
+    "correct": 0,
+    "explanation": "Exploit is an opportunity response intended to ensure the opportunity occurs.",
+    "type": "missing-word"
+  },
+  {
+    "question": "Which TWO factors are central when assessing an individual risk? Choose ONE pair of true statements. 1. Probability.  2. Impact.  3. Employee job title.  4. Code repository name.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "Risk assessment considers how likely the event is and its effect.",
+    "type": "standard"
+  },
+  {
+    "question": "Which statement about threat responses is FALSE?",
+    "options": [
+      "Enhance is a threat response",
+      "Avoid can remove a threat",
+      "Transfer can shift financial exposure",
+      "Reduce can lower probability or impact"
+    ],
+    "correct": 0,
+    "explanation": "Enhance increases the likelihood or impact of an opportunity.",
+    "type": "negative"
+  },
+  {
+    "question": "What does a risk owner do?",
+    "options": [
+      "Monitor the risk and manage implementation of the agreed response",
+      "Risk register",
+      "Risk management approach",
+      "Risk owner"
+    ],
+    "correct": 0,
+    "explanation": "Ownership concerns the whole risk, not just a single action.",
+    "type": "standard"
+  },
+  {
+    "question": "The management product defining risk procedures, techniques and appetite is the risk management [...].",
+    "options": [
+      "Approach",
+      "Report",
+      "Package",
+      "Register"
+    ],
+    "correct": 0,
+    "explanation": "The risk management approach sets the project rules for managing risk.",
+    "type": "missing-word"
+  },
+  {
+    "question": "Which TWO steps belong to the PRINCE2 risk procedure? Choose ONE pair of true statements. 1. Identify.  2. Assess.  3. Close project.  4. Approve invoice.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "Identifying and assessing risks precedes choosing responses.",
+    "type": "standard"
+  },
+  {
+    "question": "What belongs in the risk register?",
+    "options": [
+      "Identified risks and their status",
+      "Only issues that have already occurred",
+      "Only expenditure from the change budget",
+      "Only completed product quality checks"
+    ],
+    "correct": 0,
+    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority.",
+    "type": "standard"
+  },
+  {
+    "question": "How should a risk be described?",
+    "options": [
+      "Cause, uncertain event, and effect on objectives",
+      "Risk register",
+      "Risk management approach",
+      "Risk owner"
+    ],
+    "correct": 0,
+    "explanation": "This structure makes a risk actionable."
+  },
+  {
+    "question": "When should risks be communicated?",
+    "options": [
+      "Throughout the risk management procedure",
+      "Risk action owner",
+      "Secondary risk",
+      "Residual risk"
+    ],
+    "correct": 0,
+    "explanation": "Communication is continuous, not an isolated final step."
+  },
+  {
+    "question": "What is the difference between risk owner and risk action owner?",
+    "options": [
+      "The owner manages the risk; the action owner performs an assigned response",
+      "Avoid",
+      "Reduce",
+      "Transfer"
+    ],
+    "correct": 0,
+    "explanation": "Responsibility for the risk and for a particular action can be separated."
+  },
+  {
+    "question": "What is a new risk caused by changing suppliers in response to another risk?",
+    "options": [
+      "Secondary risk",
+      "Accept",
+      "Exploit",
+      "Enhance"
+    ],
+    "correct": 0,
+    "explanation": "A response can introduce a further risk."
+  },
+  {
+    "question": "Is a contingency plan the same as an exception plan?",
+    "options": [
+      "No; they have different triggers and purposes",
+      "Risk register",
+      "Risk management approach",
+      "Risk owner"
+    ],
+    "correct": 0,
+    "explanation": "An exception plan responds to a management level exception."
+  },
+  {
+    "question": "Does a small project always need only light risk control?",
+    "options": [
+      "No; possible consequences can still be substantial",
+      "Risk action owner",
+      "Secondary risk",
+      "Residual risk"
+    ],
+    "correct": 0,
+    "explanation": "Tailor risk controls to risk exposure, not size alone."
+  }
+]

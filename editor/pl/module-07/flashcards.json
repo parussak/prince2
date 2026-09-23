@@ -1,0 +1,98 @@
+[
+  {
+    "q": "Czym jest Planowanie Oparte na Produktach?",
+    "a": "Techniką planowania nakazującą identyfikację i opisanie produktów przed ustaleniem działań i harmonogramu."
+  },
+  {
+    "q": "Wymień 4 kroki planowania opartego na produktach.",
+    "a": "1. Opis Produktu Projektu, 2. PBS, 3. Opisy Produktów, 4. PFD."
+  },
+  {
+    "q": "Wymień 4 poziomy planów w PRINCE2.",
+    "a": "Plan Projektu, Plan Etapu, Plan Zespołu, Plan Wyjątku."
+  },
+  {
+    "q": "Co przedstawia PBS (Product breakdown structure)?",
+    "a": "Hierarchiczne drzewo wszystkich produktów wchodzących w zakres projektu."
+  },
+  {
+    "q": "Co przedstawia PFD (Product flow diagram)?",
+    "a": "Kolejność oraz zależności (dependencies) pomiędzy wytwarzanymi produktami."
+  },
+  {
+    "q": "Kto zatwierdza Plan Projektu i Plany Etapów?",
+    "a": "Rada Projektu (Project Board)."
+  },
+  {
+    "q": "Kiedy tworzy się Plan Wyjątku?",
+    "a": "Na polecenie Rady Projektu w reakcji na Raport o Wyjątku."
+  },
+  {
+    "q": "Kto tworzy Plan Zespołu?",
+    "a": "Lider Zespołu (Team Manager) na potrzeby realizacji Paczki Prac."
+  },
+  {
+    "q": "Przeznaczenie praktyki Plany?",
+    "a": "Komunikacja i kontrola przez określenie produktów i sposobu ich dostarczenia w celu spełnienia Uzasadnienia Biznesowego."
+  },
+  {
+    "q": "Plan a harmonogram?",
+    "a": "Plan obejmuje zakres, produkty, zasoby, budżet, harmonogram, założenia i kontrolę. Harmonogram jest jego częścią."
+  },
+  {
+    "q": "Horyzont planowania?",
+    "a": "Okres, dla którego da się planować z rozsądną pewnością. Szczegóły rozwijamy bliżej realizacji."
+  },
+  {
+    "q": "Trzy poziomy a cztery typy planów?",
+    "a": "Poziomy: projekt, etap, zespół. Plan Nadzwyczajny jest dodatkowym typem planu, a nie czwartym poziomem."
+  },
+  {
+    "q": "Kiedy planujemy etap inicjowania?",
+    "a": "W procesie uruchamiania projektu — SU."
+  },
+  {
+    "q": "Czy etapy zarządcze mogą się nakładać?",
+    "a": "Nie. Grupy Zadań i prace specjalistyczne mogą być równoległe."
+  },
+  {
+    "q": "Pełna technika planowania?",
+    "a": "Produkty → Grupy Zadań → szacunki → harmonogram → budżet → dokumentacja; ryzyka analizujemy przez cały czas, a działania mogą być iteracyjne."
+  },
+  {
+    "q": "PBS, PFD, WBS?",
+    "a": "PBS: hierarchia produktów. PFD: ich przepływ i zależności. WBS: podział pracy i przypisanie Grup Zadań."
+  },
+  {
+    "q": "Zależność zewnętrzna?",
+    "a": "Zależność produktu projektu od produktu lub działania poza zakresem projektu; nie mamy nad nią pełnej kontroli."
+  },
+  {
+    "q": "Techniki szacowania?",
+    "a": "Top-down, bottom-up, porównawcza, parametryczna, analityka danych i wiedza ekspertów, np. Delphi lub planning poker."
+  },
+  {
+    "q": "Nakład a czas trwania?",
+    "a": "Nakład to ilość pracy; czas trwania zależy również od dostępności zasobów, kalendarza i oczekiwania."
+  },
+  {
+    "q": "Ścieżka a łańcuch krytyczny?",
+    "a": "Ścieżka dotyczy kolejności i zapasu czasu; łańcuch uwzględnia również ograniczenia zasobów."
+  },
+  {
+    "q": "Co zawiera Opis Grupy Zadań?",
+    "a": "Pracę i produkty, osobę odpowiedzialną, procedury, ograniczenia, kontrolę zmian, raportowanie, cele i tolerancje, zatwierdzanie i uzgodnienia wykonania."
+  },
+  {
+    "q": "Trzy perspektywy sustainability w planach?",
+    "a": "Cykl życia produktu; wpływ sposobu dostarczania; utrzymanie korzyści dzięki wsparciu i innym potrzebnym działaniom."
+  },
+  {
+    "q": "Jak ograniczyć scope creep?",
+    "a": "Powiązać prace w Planach Etapów i Zespołów z zatwierdzonym Planem Projektu; zmiany zakresu poddawać uzgodnionej kontroli."
+  },
+  {
+    "q": "Kto przygotowuje Plan Zespołu?",
+    "a": "Kierownik Zespołu. Plan jest opcjonalny i może przyjąć formę odpowiednio prowadzonej tablicy pracy."
+  }
+]

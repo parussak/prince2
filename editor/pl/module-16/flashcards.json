@@ -1,0 +1,70 @@
+[
+  {
+    "q": "Kontrolowanie etapu (CS) — co zapamiętać?",
+    "a": "Kierownik projektu przydziela i monitoruje pracę, przegląda stan etapu, raportuje postępy, zajmuje się zagadnieniami i ryzykiem oraz reaguje na odchylenia."
+  },
+  {
+    "q": "Zarządzanie dostarczaniem produktów (MP) — co zapamiętać?",
+    "a": "Kierownik zespołu przyjmuje Grupę Zadań, zarządza jej wykonaniem i przekazuje ukończone produkty. MP łączy dostarczanie specjalistyczne z zarządzaniem projektem."
+  },
+  {
+    "q": "Grupa Zadań — co zapamiętać?",
+    "a": "Uzgodnienie między kierownikiem projektu a kierownikiem zespołu dotyczące produktów i warunków ich dostarczenia. Nie jest po prostu listą zadań bez kryteriów jakości."
+  },
+  {
+    "q": "Dwa kierunki raportowania — co zapamiętać?",
+    "a": "Raport z Punktu Kontrolnego trafia od kierownika zespołu do kierownika projektu. Raport Okresowy trafia od kierownika projektu do Rady."
+  },
+  {
+    "q": "Granice uprawnień — co zapamiętać?",
+    "a": "Zespół eskaluje prognozowane przekroczenie tolerancji Grupy Zadań do kierownika projektu; kierownik projektu eskaluje prognozowane przekroczenie tolerancji etapu do Rady."
+  },
+  {
+    "q": "Kto autoryzuje Grupę Zadań w etapie?",
+    "a": "Kierownik projektu. Kierownik projektu uzgadnia i autoryzuje pracę w CS."
+  },
+  {
+    "q": "Co kierownik zespołu robi przed wykonaniem Grupy Zadań?",
+    "a": "Ocenia i przyjmuje uzgodniony pakiet. MP rozpoczyna się od przyjęcia pakietu prac."
+  },
+  {
+    "q": "Który raport przenosi postęp od zespołu do kierownika projektu?",
+    "a": "Raport z Punktu Kontrolnego. Raport z Punktu Kontrolnego informuje kierownika projektu o pakiecie."
+  },
+  {
+    "q": "Który raport kierownik projektu cyklicznie przekazuje Radzie?",
+    "a": "Raport Okresowy. Raport Okresowy obrazuje postęp etapu dla Rady."
+  },
+  {
+    "q": "Do kogo Tomek eskaluje prognozowane przekroczenie tolerancji pakietu?",
+    "a": "Do Zosi, kierownika projektu. Granica uprawnień pakietu biegnie między kierownikiem zespołu a kierownikiem projektu."
+  },
+  {
+    "q": "Co robi Zosia, gdy prognoza przekracza tolerancję etapu?",
+    "a": "Eskalacja do Rady przez Raport Nadzwyczajny. Prognozowany wyjątek etapu wymaga informacji i decyzji Rady."
+  },
+  {
+    "q": "Co potwierdza ukończenie pakietu po wykonaniu i ocenie?",
+    "a": "Zgłoszenie ukończenia Grupy Zadań kierownikowi projektu. MP kończy się przekazaniem ukończonych produktów zgodnie z uzgodnieniem."
+  },
+  {
+    "q": "Jakie kryteria ocenia Tomek podczas dostarczania rankingu?",
+    "a": "Uzgodnione kryteria jakości Opisu Produktu. Opis Produktu wyznacza podstawę kontroli jakości."
+  },
+  {
+    "q": "Który proces przede wszystkim ocenia status etapu i podejmuje działania korygujące?",
+    "a": "Kontrolowanie etapu. To zadania kierownika projektu w CS."
+  },
+  {
+    "q": "Który proces kontroluje relację między kierownikiem projektu i zespołu przy dostawie?",
+    "a": "Zarządzanie dostarczaniem produktów. MP obejmuje przyjęcie, wykonanie, ocenę i zgłoszenie ukończenia pakietu."
+  },
+  {
+    "q": "Co stanowi podstawę uzgodnienia zakresu i tolerancji z Tomkiem?",
+    "a": "Opis Grupy Zadań. Opis Grupy Zadań wyznacza produkty, ograniczenia, tolerancje i raportowanie."
+  },
+  {
+    "q": "Co robi Zosia, jeśli prognozowany poślizg mieści się w tolerancji etapu?",
+    "a": "Może podjąć działanie korygujące w swoich uprawnieniach. W ramach tolerancji kierownik projektu zarządza bieżąco."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "question": "1. The PixelBite studio comes up with the idea to create a SnakeBite game. Which PRINCE2 process is launched first, before the decision on initiation financing is made?",
+    "options": [
+      "Initiating a project (IP)",
+      "Starting up a project (SU)",
+      "Directing a project (DP)",
+      "Controlling a stage (CS)"
+    ],
+    "correct": 1,
+    "explanation": "Starting up a project (SU) is a pre-project process that protects the company from entering into pointless initiatives."
+  },
+  {
+    "question": "2. During the SU process, Zosia and Artur create a short document synthesizing the game's goal, estimated costs and roles. What is the name of this document?",
+    "options": [
+      "Project Initiation Documentation (PID)",
+      "Project Brief",
+      "Stage 2 Plan",
+      "Quality Register"
+    ],
+    "correct": 1,
+    "explanation": "Project Brief is a key product of the SU process and forms the basis for the decision to move to IP."
+  },
+  {
+    "question": "3. The Project Board authorizes the initiation stage. Zosia enters the Initiating a project (IP) process. What is its main task?",
+    "options": [
+      "Writing the entire game code.",
+      "Development of PID, including clarification of the Business Case, plans and management approaches.",
+      "Game sales on Steam.",
+      "Closing the company."
+    ],
+    "correct": 1,
+    "explanation": "The IP process serves to build solid management foundations included in the PID."
+  },
+  {
+    "question": "4. In which process does the Project Board make key decisions about stage approval, IP consent and PID approval?",
+    "options": [
+      "Directing a project (DP)",
+      "Controlling a stage (CS)",
+      "Managing product delivery (MP)",
+      "Closing a project (CP)"
+    ],
+    "correct": 0,
+    "explanation": "Directing a project (DP) is a process carried out by the Project Board throughout the entire life cycle."
+  },
+  {
+    "question": "5. What is in the Project Initiation Stage Plan?",
+    "options": [
+      "A plan of the work and resources needed to carry out the IP process itself and create the PID.",
+      "Full source code of the 3D engine.",
+      "Agreements with all players in the world.",
+      "Final closure report."
+    ],
+    "correct": 0,
+    "explanation": "The Initiation Stage Plan is created in the SU to plan the budget and time for the implementation of the initiation stage (IP) itself."
+  },
+  {
+    "question": "6. What is the difference between a Project Brief and a PID?",
+    "options": [
+      "Project Brief is a short introduction from SU; PID is a complete, detailed management database created in IP.",
+      "There is no difference.",
+      "Project Brief is created by programmers, and PID is created by the management.",
+      "PID only contains invoices."
+    ],
+    "correct": 0,
+    "explanation": "Project Brief is created at SU as an outline; on its basis, a comprehensive PID is developed in the IP."
+  }
+]

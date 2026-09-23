@@ -1,0 +1,70 @@
+[
+  {
+    "q": "What is the purpose of a stage boundary?",
+    "a": "To give the board enough information to decide whether to authorize the next stage."
+  },
+  {
+    "q": "Who prepares the next stage plan?",
+    "a": "Project manager."
+  },
+  {
+    "q": "What does an end stage report cover?",
+    "a": "Results, deviations, product status and lessons from the completed stage."
+  },
+  {
+    "q": "What is updated at a stage boundary?",
+    "a": "Project plan, business case, lessons and relevant management products."
+  },
+  {
+    "q": "What triggers an exception plan?",
+    "a": "A board request after an exception report."
+  },
+  {
+    "q": "Who authorizes the next stage?",
+    "a": "Project board under directing a project."
+  },
+  {
+    "q": "The beta is complete. Can Zosia authorize the next management stage herself?",
+    "a": "No; the project board authorizes it. The board decides whether to commit funds to the next stage."
+  },
+  {
+    "q": "Which report summarizes the stage that has just finished?",
+    "a": "End stage report. It gives the board evidence of performance against the stage plan."
+  },
+  {
+    "q": "What must Zosia update when forecast maintenance costs increase?",
+    "a": "Business case and relevant forecasts. Continued business justification may be affected."
+  },
+  {
+    "q": "Who prepares the next stage plan at a stage boundary?",
+    "a": "Project manager. The project manager prepares a detailed plan for board approval."
+  },
+  {
+    "q": "Who authorizes the start of the next stage?",
+    "a": "Project board. It reviews the stage end information and decides."
+  },
+  {
+    "q": "Which report evaluates the beta against its approved stage plan?",
+    "a": "End stage report. It compares performance with the authorized plan."
+  },
+  {
+    "q": "Why update the business case after changes to API costs?",
+    "a": "To test continued business justification. The project should remain desirable, viable and achievable."
+  },
+  {
+    "q": "Which plan updates the view of the entire investment?",
+    "a": "Project plan. The project plan gives an overall view across management stages."
+  },
+  {
+    "q": "The board requests a replacement plan for an exception. What does Zosia prepare?",
+    "a": "Exception plan for authorization. It is prepared in response to a board decision on an exception."
+  },
+  {
+    "q": "How does an exception plan differ from an exception report?",
+    "a": "The plan proposes replacement delivery; the report explains a forecast exception. One proposes a route forward, the other supplies the escalation."
+  },
+  {
+    "q": "What does Maya contribute to the stage boundary assessment?",
+    "a": "User test results and evidence of product fitness. The senior user represents user expectations and benefits."
+  }
+]

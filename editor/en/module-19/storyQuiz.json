@@ -1,0 +1,156 @@
+[
+  {
+    "question": "Maya accepts SnakeBite and Zosia hands it over to regular operations. What is that environment called?",
+    "options": [
+      "Business as usual (BAU)",
+      "Treat passing a test as the same as formal product acceptance",
+      "Close the project while unresolved commitments have no owner",
+      "Assume all forecast benefits have already been realized at handover"
+    ],
+    "correct": 0,
+    "explanation": "Accepted project products are transitioned to operational ownership."
+  },
+  {
+    "question": "Where are unfunded proposals for later development recorded at closure?",
+    "options": [
+      "Follow-on action recommendations",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "Unresolved proposals are passed to an owner outside the project."
+  },
+  {
+    "question": "Which process supports controlled premature closure of an unviable project?",
+    "options": [
+      "Closing a project",
+      "Controlling a stage",
+      "Managing product delivery",
+      "Managing a stage boundary"
+    ],
+    "correct": 0,
+    "explanation": "The process applies to both planned and premature closure."
+  },
+  {
+    "question": "Which management product records experiences for future projects?",
+    "options": [
+      "Lessons report",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "It captures learning from project delivery."
+  },
+  {
+    "question": "Who makes the final decision to close the project formally?",
+    "options": [
+      "Project board",
+      "Project manager",
+      "Team manager",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "The project manager recommends closure; the board authorizes it."
+  },
+  {
+    "question": "How is the benefits management approach handled at closure?",
+    "options": [
+      "Update the timing and ownership of post-project benefits reviews",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "Some benefits are measured after the project closes."
+  },
+  {
+    "question": "What confirms that SnakeBite meets its acceptance criteria?",
+    "options": [
+      "Quality evidence and formal acceptance by the appropriate recipient",
+      "Treat passing a test as the same as formal product acceptance",
+      "Close the project while unresolved commitments have no owner",
+      "Assume all forecast benefits have already been realized at handover"
+    ],
+    "correct": 0,
+    "explanation": "Completing tests alone is not acceptance."
+  },
+  {
+    "question": "Who prepares a recommendation to close the project?",
+    "options": [
+      "Project manager",
+      "Team manager",
+      "Project board",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "The board considers the project manager’s recommendation."
+  },
+  {
+    "question": "Who formally authorizes closure after Zosia’s recommendation?",
+    "options": [
+      "Project board",
+      "Project manager",
+      "Team manager",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "Closure is a directing level decision."
+  },
+  {
+    "question": "Does closing a project cover premature closure?",
+    "options": [
+      "Yes; the project is wound down in a controlled manner",
+      "Yes, because product acceptance proves all intended benefits",
+      "Yes, because processes and stages always match one to one",
+      "No, because the project manager cannot plan any stages"
+    ],
+    "correct": 0,
+    "explanation": "Even an early ending requires handover and accountability."
+  },
+  {
+    "question": "Against which baselines is overall performance assessed at closure?",
+    "options": [
+      "Project initiation documentation, project plan and business case",
+      "Quality register",
+      "Daily log",
+      "Stage plan"
+    ],
+    "correct": 0,
+    "explanation": "The end project report compares outcomes with the approved baseline."
+  },
+  {
+    "question": "What happens to an open API maintenance risk at closure?",
+    "options": [
+      "Transfer it to follow-on actions with an owner",
+      "Use a checkpoint report to authorize closure",
+      "Discard incomplete products without assessing their value",
+      "Leave ongoing operational responsibilities with the disbanded project team"
+    ],
+    "correct": 0,
+    "explanation": "Risks do not vanish when project governance ends."
+  },
+  {
+    "question": "When sales benefits arise after launch, what should Zosia arrange?",
+    "options": [
+      "Post-project review in the benefits management approach",
+      "At the start of every management stage",
+      "Only after the project has closed",
+      "Whenever a team member asks, without examining the forecast"
+    ],
+    "correct": 0,
+    "explanation": "The benefits review is planned even when measurements occur later."
+  },
+  {
+    "question": "What should be handed over to operations?",
+    "options": [
+      "Accepted products and responsibility for ongoing support",
+      "Use a checkpoint report to authorize closure",
+      "Discard incomplete products without assessing their value",
+      "Leave ongoing operational responsibilities with the disbanded project team"
+    ],
+    "correct": 0,
+    "explanation": "The operational owner must be able to use and maintain the products."
+  }
+]

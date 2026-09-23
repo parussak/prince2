@@ -1,0 +1,74 @@
+[
+  {
+    "q": "Cel DP — co zapamiętać?",
+    "a": "Zapewnić Radzie możliwość sprawowania ogólnego kierownictwa i kontroli, przy delegowaniu codziennego zarządzania kierownikowi projektu."
+  },
+  {
+    "q": "Zezwolenie na inicjowanie — co zapamiętać?",
+    "a": "Decyzja o zainwestowaniu w szczegółowe przygotowanie projektu na podstawie informacji z uruchamiania."
+  },
+  {
+    "q": "Zezwolenie na realizację projektu — co zapamiętać?",
+    "a": "Decyzja o realizacji na podstawie wystarczających podstaw zarządczych, planów i zasadności biznesowej."
+  },
+  {
+    "q": "Zezwolenie na etap lub plan nadzwyczajny — co zapamiętać?",
+    "a": "Kontrolowane zobowiązanie zasobów na dalsze prace; nie należy mylić tej decyzji z przygotowaniem planu przez kierownika projektu."
+  },
+  {
+    "q": "Doraźne wskazówki — co zapamiętać?",
+    "a": "Rada reaguje na eskalacje, zmiany otoczenia i potrzeby kierownika projektu przez cały cykl życia."
+  },
+  {
+    "q": "Zezwolenie na zamknięcie — co zapamiętać?",
+    "a": "Rada potwierdza możliwość zakończenia projektu; kierownik projektu wcześniej przygotowuje zamknięcie w CP."
+  },
+  {
+    "q": "Kto autoryzuje inicjowanie SnakeBite?",
+    "a": "Rada Projektu. Rada ocenia Zarys Projektu i Plan Etapu Inicjowania."
+  },
+  {
+    "q": "Kto autoryzuje realizację projektu po inicjowaniu?",
+    "a": "Rada Projektu. Rada rozważa DIP i Uzasadnienie Biznesowe."
+  },
+  {
+    "q": "Kto kieruje codziennymi pracami w granicach tolerancji etapu?",
+    "a": "Zosia, kierownik projektu. PM prowadzi bieżące zarządzanie w ramach delegacji."
+  },
+  {
+    "q": "Co Rada ocenia przy granicy etapu?",
+    "a": "Wynik etapu, zasadność i Plan Następnego Etapu. Zarządzanie etapowe opiera dalsze zobowiązania na aktualnych danych."
+  },
+  {
+    "q": "Co robi Rada z Raportem Nadzwyczajnym?",
+    "a": "Ocenia wyjątek i udziela decyzji lub wskazówek. DP obejmuje bieżące ukierunkowywanie i reagowanie na wyjątki."
+  },
+  {
+    "q": "Gdzie kieruje się prognozowane przekroczenie tolerancji projektu?",
+    "a": "Do warstwy biznesowej ponad Radą. Rada działa w granicach tolerancji delegowanej przez biznes."
+  },
+  {
+    "q": "Na podstawie czego Rada autoryzuje zamknięcie?",
+    "a": "Rekomendacji i Raportu Końcowego Projektu. PM przygotowuje CP, Rada formalnie zamyka w DP."
+  },
+  {
+    "q": "Kto stanowi pojedynczy punkt rozliczalności za projekt?",
+    "a": "Artur jako Przewodniczący projektu. Executive odpowiada za projekt na poziomie Rady."
+  },
+  {
+    "q": "Jaka jest rola Głównego Użytkownika w Radzie?",
+    "a": "Reprezentować potrzeby użytkowników i korzyści. Senior User wnosi perspektywę użytkowników."
+  },
+  {
+    "q": "Jaka jest rola Głównego Dostawcy w Radzie?",
+    "a": "Reprezentować dostawców i integralność techniczną. Senior Supplier wnosi perspektywę dostawców i techniczną integralność."
+  },
+  {
+    "q": "Jak Rada komunikuje się z zarządzaniem korporacyjnym, programem lub klientem?",
+    "a": "Przekazuje istotne informacje i eskaluje wyjątki projektu. Warstwa biznesowa wyznacza granice Rady i otrzymuje stosowne eskalacje."
+  },
+  {
+    "q": "Co oznacza zarządzanie przez wyjątki dla Rady?",
+    "a": "Decyzje i nadzór w punktach kontrolnych oraz przy wyjątkach. Rada deleguje bieżące zarządzanie PM i utrzymuje kontrolę przez tolerancje."
+  }
+]

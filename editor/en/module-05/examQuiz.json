@@ -1,0 +1,197 @@
+[
+  {
+    "type": "standard",
+    "question": "What is the correct definition of a Business Case in PRINCE2?",
+    "options": [
+      "Developer vacation schedule.",
+      "A management product recording the justification for undertaking and continuing the project",
+      "Code unit test list.",
+      "Smartphone user manual."
+    ],
+    "correct": 1,
+    "explanation": "It summarizes why the project is desirable, viable and achievable and supports continued investment decisions."
+  },
+  {
+    "type": "missing-word",
+    "question": "Complete the sentence below:\nMeasurable improvement resulting from the result (Outcome), constituting a goal for the investor, is in PRINCE2 [...].",
+    "options": [
+      "Product (Output)",
+      "Benefit",
+      "Issue",
+      "Tolerance"
+    ],
+    "correct": 1,
+    "explanation": "Benefit is a measurable, positive effect of using products."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO elements are included in the PRINCE2 value chain (Value Chain)? Choose ONE pair of true statements. 1. Outcome. 2. Benefit. 3. Fixed Assets of the City Hall. 4. Register of Contractual Penalties.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "The value chain is: Product (Output) -> Outcome -> Benefit."
+  },
+  {
+    "type": "negative",
+    "question": "Which of the following statements about Disbenefit is NOT true?",
+    "options": [
+      "This is a consciously anticipated and accepted negative effect of the project.",
+      "It is included in the Business Case balance sheet.",
+      "It is the same as a Risk and disappears after 2 days.",
+      "An example of a Disbenefit is a temporary decrease in the operational department's efficiency during training."
+    ],
+    "correct": 2,
+    "explanation": "A Disbenefit is NOT a Risk: a Risk is uncertain, whereas a Disbenefit is a certain negative effect!"
+  },
+  {
+    "type": "standard",
+    "question": "Who is accountable for realizing the benefits specified in the business case?",
+    "options": [
+      "Project manager",
+      "Project executive",
+      "Senior user",
+      "Team manager"
+    ],
+    "correct": 2,
+    "explanation": "The senior user is accountable for realizing the benefits; the project executive is accountable for the business case during the project."
+  },
+  {
+    "type": "missing-word",
+    "question": "Complete the sentence below:\nThe document specifying the schedule and procedures for measuring post-project benefits is the Benefits Management [...].",
+    "options": [
+      "Quality",
+      "Benefits Management Approach",
+      "Risk",
+      "Procurement"
+    ],
+    "correct": 1,
+    "explanation": "The Benefits Management Approach defines how and when Benefits will be measured and verified."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO goals guide the Managing a Stage Boundary Business Case review? Choose ONE pair of true statements. 1. Confirmation whether the project is still commercially viable. 2. Decision to continue or possibly close the project early. 3. Buying a new coffee machine for the office. 4. Change of the company's trade name.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "At stage boundaries, we confirm that the Business Case remains justified before committing further funding."
+  },
+  {
+    "type": "standard",
+    "question": "What belongs in a business case?",
+    "options": [
+      "Expected benefits, disbenefits, costs and risks",
+      "Only detailed source code",
+      "Only the team product description",
+      "Only unit test results"
+    ],
+    "correct": 0,
+    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
+  },
+  {
+    "question": "What is the purpose of the Business Case practice?",
+    "options": [
+      "Just getting the initial budget",
+      "Continuous assessment of the desirability, viability and achievability of the project's intended outcomes",
+      "Replacing the Project Plan",
+      "Only proving that the product can be built"
+    ],
+    "correct": 1,
+    "explanation": "The practice supports decisions to continue investing throughout the project."
+  },
+  {
+    "question": "On what does the Business Case document base the investment's justification?",
+    "options": [
+      "On costs compared to benefits, taking into account risks",
+      "Only on revenue",
+      "On the number of finished products",
+      "Only on the project manager’s preference"
+    ],
+    "correct": 0,
+    "explanation": "The document includes estimated costs, expected benefits and risks, as well as the method and deadline for measuring benefits."
+  },
+  {
+    "question": "The game is technically possible, but it will not reach the recipients. Which test is at risk?",
+    "options": [
+      "Viable - delivery of the products",
+      "Achievable - achieving results and benefits",
+      "None if the project is within budget",
+      "Quality control - whether the software passes unit tests"
+    ],
+    "correct": 1,
+    "explanation": "Delivering a product is not enough if its use does not lead to the expected Outcomes and Benefits."
+  },
+  {
+    "question": "Where is the initial Business Case?",
+    "options": [
+      "In the Project Brief",
+      "Only in the End Project Report",
+      "In the Quality Register",
+      "Only in the Project Plan"
+    ],
+    "correct": 0,
+    "explanation": "An outline Business Case is created in Starting up a Project (SU) as part of the Project Brief and is developed further in Initiating a Project (IP)."
+  },
+  {
+    "question": "What does maintain mean in business case management?",
+    "options": [
+      "One-time document approval",
+      "Product acceptance",
+      "Updating performance data and forecasts",
+      "Funding any change request automatically"
+    ],
+    "correct": 2,
+    "explanation": "Maintaining the Business Case means incorporating actual progress, updated forecasts, and version control."
+  },
+  {
+    "question": "What is a Capability in the value chain?",
+    "options": [
+      "A complete set of products needed to achieve the result",
+      "Purely financial benefit",
+      "A list of risks",
+      "A report sent to the project board"
+    ],
+    "correct": 0,
+    "explanation": "A Capability is created by the appropriate combination of Products; using it enables change."
+  },
+  {
+    "question": "Which example is an Outcome?",
+    "options": [
+      "Tested payment system",
+      "Players use a new shopping channel",
+      "Game source code",
+      "Customers can download the game"
+    ],
+    "correct": 1,
+    "explanation": "An Outcome is a change in behavior or conditions; the other examples are Products."
+  },
+  {
+    "question": "Where do we record activities, reviews and control of sustainability goals?",
+    "options": [
+      "In the Sustainability Management Approach",
+      "Only in the description of the tester role",
+      "Only in the financial report",
+      "Only in the supplier invoice"
+    ],
+    "correct": 0,
+    "explanation": "The approach is part of the PID/PID and defines how the sustainability objectives will be achieved and controlled."
+  },
+  {
+    "question": "Does closing the project end the need to confirm benefits?",
+    "options": [
+      "Yes, all benefits must already exist",
+      "No, some reviews take place after the project",
+      "Yes, if the products have been received",
+      "Yes, benefits are never reviewed after closure"
+    ],
+    "correct": 1,
+    "explanation": "The business must ensure further reviews; the Senior User is accountable for confirming the Benefits."
+  }
+]

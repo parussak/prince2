@@ -1,0 +1,66 @@
+[
+  {
+    "q": "Threat versus opportunity?",
+    "a": "A threat could have a negative effect; an opportunity could have a positive one."
+  },
+  {
+    "q": "What is a risk budget?",
+    "a": "Funds set aside for approved risk responses where the project uses such a budget."
+  },
+  {
+    "q": "What is proximity?",
+    "a": "How soon a risk could occur."
+  },
+  {
+    "q": "What is velocity?",
+    "a": "How quickly its effect would be felt after it occurred."
+  },
+  {
+    "q": "Residual versus secondary risk?",
+    "a": "Residual risk remains after a response; secondary risk is introduced by that response."
+  },
+  {
+    "q": "What is risk tolerance?",
+    "a": "The exposure the relevant authority permits before escalation."
+  },
+  {
+    "q": "Cloud performance may drop in December and delay testing. What kind of risk is this?",
+    "a": "Threat. An uncertain event with a potentially negative impact is a threat."
+  },
+  {
+    "q": "An app store feature may bring new players if SnakeBite launches in time. What is this?",
+    "a": "Opportunity. An uncertain event with potential positive impact is an opportunity."
+  },
+  {
+    "q": "Zosia buys guaranteed server capacity to eliminate an overload threat. Which response is this?",
+    "a": "Avoid. Avoiding removes the cause or effect of a threat."
+  },
+  {
+    "q": "PixelBite buys insurance against server outage penalties. Which response is this?",
+    "a": "Transfer. Insurance transfers part of the financial impact to another party."
+  },
+  {
+    "q": "A team manager monitors cloud load and implements an agreed response. Which role is this?",
+    "a": "Risk action owner. The risk action owner carries out a specified response."
+  },
+  {
+    "q": "Where are risk description, likelihood, impact, owner and response recorded?",
+    "a": "Risk register. The risk register is the record for identified risks and their responses."
+  },
+  {
+    "q": "What is a risk in PRINCE2?",
+    "a": "An uncertain event or set of events that would affect objectives if it occurred. A risk can be a threat or an opportunity."
+  },
+  {
+    "q": "The opportunity response that makes an opportunity certain is [...].",
+    "a": "Exploit. Exploit is an opportunity response intended to ensure the opportunity occurs."
+  },
+  {
+    "q": "Which TWO factors are central when assessing an individual risk?",
+    "a": "Probability; Impact. Risk assessment considers how likely the event is and its effect."
+  },
+  {
+    "q": "Which response belongs to opportunities rather than threats?",
+    "a": "Enhance. Enhance increases the likelihood or impact of an opportunity."
+  }
+]

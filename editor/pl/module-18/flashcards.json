@@ -1,0 +1,70 @@
+[
+  {
+    "q": "Cel procesu SB — co zapamiętać?",
+    "a": "Dostarczyć Radzie wystarczające informacje do oceny etapu, potwierdzenia zasadności projektu i zatwierdzenia dalszych prac."
+  },
+  {
+    "q": "Planowanie następnego etapu — co zapamiętać?",
+    "a": "Szczegółowy Plan Następnego Etapu powstaje przy wykorzystaniu aktualnych danych i doświadczeń, a nie przez bezrefleksyjne kopiowanie planu pierwotnego."
+  },
+  {
+    "q": "Aktualizowanie podstaw decyzji — co zapamiętać?",
+    "a": "Aktualizuje się Plan Projektu i Uzasadnienie Biznesowe oraz informacje o ryzykach i zagadnieniach. Raport Końcowy Etapu pokazuje wykonanie i doświadczenia."
+  },
+  {
+    "q": "Plan Nadzwyczajny — co zapamiętać?",
+    "a": "Przygotowywany na żądanie Rady w odpowiedzi na wyjątek. Po zatwierdzeniu zastępuje plan, którego tolerancje mają zostać przekroczone."
+  },
+  {
+    "q": "Przygotowanie a zatwierdzenie — co zapamiętać?",
+    "a": "Zosia przygotowuje informacje w SB. Rada zatwierdza kolejny etap lub Plan Nadzwyczajny w procesie ukierunkowywania projektu (DP)."
+  },
+  {
+    "q": "Kto przygotowuje Plan Następnego Etapu na granicy etapu?",
+    "a": "Kierownik projektu. Kierownik projektu przygotowuje plan do decyzji Rady."
+  },
+  {
+    "q": "Kto autoryzuje rozpoczęcie następnego etapu?",
+    "a": "Rada Projektu. Zarządzanie etapowe wymaga decyzji Rady przy granicy."
+  },
+  {
+    "q": "Który produkt ocenia wykonanie bety wobec zatwierdzonego planu?",
+    "a": "Raport Końcowy Etapu. Raport Końcowy Etapu podsumowuje wyniki etapu."
+  },
+  {
+    "q": "Dlaczego Zosia aktualizuje Uzasadnienie Biznesowe?",
+    "a": "Aby sprawdzić ciągłą zasadność projektu. Koszty, korzyści i ryzyko mogły zmienić ocenę inwestycji."
+  },
+  {
+    "q": "Który plan daje zaktualizowany obraz całego przedsięwzięcia?",
+    "a": "Plan Projektu. Plan Projektu jest planem całości; Plan Etapu uszczegóławia najbliższy etap."
+  },
+  {
+    "q": "Co robi Zosia po żądaniu Rady w związku z wyjątkiem?",
+    "a": "Przygotowuje Plan Nadzwyczajny do autoryzacji. Plan Nadzwyczajny sporządza się w SB na żądanie Rady."
+  },
+  {
+    "q": "Czym Plan Nadzwyczajny różni się od Raportu Nadzwyczajnego?",
+    "a": "Plan proponuje zastąpienie planu; raport sygnalizuje wyjątek. Raport ostrzega i wyjaśnia; plan określa proponowane dalsze działania."
+  },
+  {
+    "q": "Jaką informację Maya wnosi do oceny granicy etapu?",
+    "a": "Wyniki testów i zgodność produktów z oczekiwaniami użytkowników. Perspektywa Głównego Użytkownika wspiera decyzję o dalszych pracach."
+  },
+  {
+    "q": "Co ma uzasadnić prośba o następny etap?",
+    "a": "Zaktualizowana ocena etapu, planu i zasadności. Rada potrzebuje wyników, planu i aktualnego Uzasadnienia Biznesowego."
+  },
+  {
+    "q": "Kiedy Plan Etapu otrzymuje szczegółowość?",
+    "a": "Przed danym etapem, na granicy poprzedniego. Planowanie kroczące uszczegóławia bliski etap."
+  },
+  {
+    "q": "Co jest wynikiem wykorzystania doświadczeń minionego etapu?",
+    "a": "Lepsza ocena i plan następnego etapu. Lekcje wspierają aktualizację planów i podejść."
+  },
+  {
+    "q": "Co powinien zrobić PM, gdy wyniki bety podważają korzyści projektu?",
+    "a": "Zaktualizować Uzasadnienie Biznesowe i przedstawić ocenę Radzie. Ciągła zasadność podlega ponownej ocenie na granicy etapu."
+  }
+]

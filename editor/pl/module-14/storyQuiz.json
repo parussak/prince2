@@ -1,0 +1,123 @@
+[
+  {
+    "question": "Kto prowadzi proces ukierunkowywania projektu?",
+    "options": [
+      "Kierownik zespołu",
+      "Rada Projektu",
+      "Wsparcie projektu",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 1,
+    "explanation": "DP służy realizacji odpowiedzialności Rady."
+  },
+  {
+    "question": "Rada zatwierdziła inicjowanie. Czy oznacza to już zgodę na pełną realizację?",
+    "options": [
+      "Nie, to odrębne decyzje",
+      "Tak, zawsze",
+      "Tak, jeśli istnieje Zarys Projektu",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 0,
+    "explanation": "Najpierw tworzy się podstawy do świadomej decyzji o realizacji."
+  },
+  {
+    "question": "Kto na co dzień zarządza SnakeBite w ustalonych tolerancjach?",
+    "options": [
+      "Cała Rada",
+      "Poziom biznesu",
+      "Zosia",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 2,
+    "explanation": "Codzienne zarządzanie delegowane jest kierownikowi projektu."
+  },
+  {
+    "question": "Po Zarysie Projektu Artur prosi o zgodę na dalsze przygotowanie. Kto autoryzuje inicjowanie SnakeBite?",
+    "options": [
+      "Rada Projektu",
+      "Kierownik zespołu",
+      "Testerzy",
+      "Wsparcie projektu"
+    ],
+    "correct": 0,
+    "explanation": "Rada ocenia Zarys Projektu i Plan Etapu Inicjowania."
+  },
+  {
+    "question": "Zosia zakończyła inicjowanie i przedstawia DIP. Kto autoryzuje realizację projektu po inicjowaniu?",
+    "options": [
+      "Rada Projektu",
+      "Tomek samodzielnie",
+      "Wyłącznie dostawca API",
+      "Użytkownik końcowy"
+    ],
+    "correct": 0,
+    "explanation": "Rada rozważa DIP i Uzasadnienie Biznesowe."
+  },
+  {
+    "question": "Tomek prosi Artura o przydzielanie codziennych zadań. Kto kieruje codziennymi pracami w granicach tolerancji etapu?",
+    "options": [
+      "Zosia, kierownik projektu",
+      "Artur przez przydział ticketów",
+      "Warstwa biznesowa",
+      "Wszyscy członkowie Rady bez PM"
+    ],
+    "correct": 0,
+    "explanation": "PM prowadzi bieżące zarządzanie w ramach delegacji."
+  },
+  {
+    "question": "Beta dobiega końca i Zosia przedstawia plan wydania. Co Rada ocenia przy granicy etapu?",
+    "options": [
+      "Wynik etapu, zasadność i Plan Następnego Etapu",
+      "Wyłącznie liczbę commitów",
+      "Wyłącznie harmonogram Tomka",
+      "Wyłącznie nazwę releasu"
+    ],
+    "correct": 0,
+    "explanation": "Zarządzanie etapowe opiera dalsze zobowiązania na aktualnych danych."
+  },
+  {
+    "question": "Zosia eskaluje prognozowany wyjątek etapu. Co robi Rada z Raportem Nadzwyczajnym?",
+    "options": [
+      "Ocenia wyjątek i udziela decyzji lub wskazówek",
+      "Automatycznie przyjmuje wszystkie zmiany",
+      "Zastępuje nim opis produktu",
+      "Przepisuje plan zespołu bez PM"
+    ],
+    "correct": 0,
+    "explanation": "DP obejmuje bieżące ukierunkowywanie i reagowanie na wyjątki."
+  },
+  {
+    "question": "Prognoza narusza tolerancję całego projektu. Gdzie kieruje się prognozowane przekroczenie tolerancji projektu?",
+    "options": [
+      "Do warstwy biznesowej ponad Radą",
+      "Wyłącznie do programisty",
+      "Do użytkownika testowego",
+      "Do Rejestru Jakości bez decyzji"
+    ],
+    "correct": 0,
+    "explanation": "Rada działa w granicach tolerancji delegowanej przez biznes."
+  },
+  {
+    "question": "Zosia zebrała dowody akceptacji wydania. Na podstawie czego Rada autoryzuje zamknięcie?",
+    "options": [
+      "Rekomendacji i Raportu Końcowego Projektu",
+      "Wyłącznie zielonego CI",
+      "Wyłącznie wiadomości Tomka",
+      "Wyłącznie daty w kalendarzu"
+    ],
+    "correct": 0,
+    "explanation": "PM przygotowuje CP, Rada formalnie zamyka w DP."
+  },
+  {
+    "question": "Artur pyta o jednoosobową rozliczalność za projekt. Kto stanowi pojedynczy punkt rozliczalności za projekt?",
+    "options": [
+      "Artur jako Przewodniczący projektu",
+      "Zosia jako kierownik projektu",
+      "Tomek jako kierownik zespołu",
+      "Każdy tester oddzielnie"
+    ],
+    "correct": 0,
+    "explanation": "Executive odpowiada za projekt na poziomie Rady."
+  }
+]

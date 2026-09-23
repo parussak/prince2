@@ -1,0 +1,35 @@
+[
+  {
+    "question": "Ile zintegrowanych elementów obejmuje PRINCE2 7?",
+    "options": [
+      "Cztery",
+      "Pięć",
+      "Siedem",
+      "Siedem"
+    ],
+    "correct": 1,
+    "explanation": "Pryncypia, ludzie, praktyki, procesy i kontekst projektu."
+  },
+  {
+    "question": "Czy odbiór gry dowodzi osiągnięcia wszystkich korzyści?",
+    "options": [
+      "Nie, korzyści wymagają pomiaru i mogą wystąpić później",
+      "Tak, to to samo",
+      "Tak, jeśli zakończono testy",
+      "Tak, same produkty gwarantują osiągnięcie korzyści"
+    ],
+    "correct": 0,
+    "explanation": "Produkt, rezultat i korzyść to odrębne pojęcia."
+  },
+  {
+    "question": "Który aspekt uzupełnia czas, koszt, jakość, zakres, ryzyko i korzyści?",
+    "options": [
+      "Liczba spotkań",
+      "Wielkość zespołu",
+      "Zrównoważony rozwój",
+      "Tolerancja budżetu zmian"
+    ],
+    "correct": 2,
+    "explanation": "PRINCE2 7 obejmuje siedem aspektów efektywności."
+  }
+]

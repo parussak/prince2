@@ -1,0 +1,156 @@
+[
+  {
+    "question": "Which report does the team manager send to the project manager?",
+    "options": [
+      "Checkpoint report",
+      "Highlight report",
+      "Exception report",
+      "End stage report"
+    ],
+    "correct": 0,
+    "explanation": "Checkpoint reports convey progress on work packages."
+  },
+  {
+    "question": "What is the main purpose of controlling a stage?",
+    "options": [
+      "Day to day management of the authorized stage",
+      "Skip the agreed quality criteria if the work package is complete",
+      "Ask the project board to accept every work package directly",
+      "Transfer day-to-day stage control to project assurance"
+    ],
+    "correct": 0,
+    "explanation": "The project manager assigns and monitors work and responds to issues."
+  },
+  {
+    "question": "Who authorizes a work package within the stage?",
+    "options": [
+      "Project manager",
+      "Team manager",
+      "Project board",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "Authorizing work packages is an activity of controlling a stage."
+  },
+  {
+    "question": "What precedes the team manager’s execution of a work package?",
+    "options": [
+      "Review and acceptance of the agreed package",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "The team manager first confirms the package can be delivered."
+  },
+  {
+    "question": "Which report conveys team progress to the project manager?",
+    "options": [
+      "Checkpoint report",
+      "Highlight report",
+      "Exception report",
+      "End stage report"
+    ],
+    "correct": 0,
+    "explanation": "It is produced at the agreed frequency."
+  },
+  {
+    "question": "Which report conveys periodic stage progress to the board?",
+    "options": [
+      "Highlight report",
+      "Checkpoint report",
+      "Exception report",
+      "End stage report"
+    ],
+    "correct": 0,
+    "explanation": "The project manager summarizes progress for the board."
+  },
+  {
+    "question": "Where does a team manager escalate a work package forecast exception?",
+    "options": [
+      "To the project manager",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "Escalate to the next management level."
+  },
+  {
+    "question": "How is a forecast stage exception escalated?",
+    "options": [
+      "Through an exception report to the project board",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "The board decides what to do with a stage exception."
+  },
+  {
+    "question": "What follows completion and quality review of a work package?",
+    "options": [
+      "Notify the project manager and hand over the completed products",
+      "Authorize a new management stage whenever a work package starts",
+      "Treat a checkpoint report as the board’s authorization to increase stage tolerance",
+      "Have the team manager approve changes to the project baseline"
+    ],
+    "correct": 0,
+    "explanation": "Completion is reported and the products are handed over."
+  },
+  {
+    "question": "Which criteria determine whether the ranking API meets quality expectations?",
+    "options": [
+      "Criteria in the agreed product description",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "Delivery must satisfy the agreed description."
+  },
+  {
+    "question": "Which process assesses stage status and takes corrective action within tolerance?",
+    "options": [
+      "Controlling a stage",
+      "Managing product delivery",
+      "Managing a stage boundary",
+      "Directing a project"
+    ],
+    "correct": 0,
+    "explanation": "The project manager monitors and controls an authorized stage."
+  },
+  {
+    "question": "Which process governs acceptance, execution and delivery of work packages?",
+    "options": [
+      "Managing product delivery",
+      "Controlling a stage",
+      "Managing a stage boundary",
+      "Directing a project"
+    ],
+    "correct": 0,
+    "explanation": "It is the team side of the relationship with controlling a stage."
+  },
+  {
+    "question": "What establishes the agreed scope, controls and tolerance of Tomek’s assignment?",
+    "options": [
+      "Work package description",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "The work package description defines the delivery agreement."
+  },
+  {
+    "question": "A schedule slip remains within stage tolerance. What may Zosia do?",
+    "options": [
+      "Take corrective action within her delegated authority",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "The project manager can act while the stage forecast remains within tolerance."
+  }
+]

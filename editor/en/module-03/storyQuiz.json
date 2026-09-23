@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Bartek (developer) and Tomek (designer) are arguing about the performance of the retro graphics. Zosia organizes a workshop to establish shared priorities and build trust. Which area of the People Element did she apply?",
+    "options": [
+      "Organizational Change Management (OCM)",
+      "Culture & Team",
+      "Supplier Contract Management",
+      "Delegating Tolerance"
+    ],
+    "correct": 1,
+    "explanation": "The Culture & Team area covers building shared values, resolving conflicts, fostering trust, and creating a collaborative atmosphere."
+  },
+  {
+    "question": "PixelBite employees fear that the new game will replace the studio's established flagship productions. Zosia prepares workshops and a plan to transform their habits. What action did she take?",
+    "options": [
+      "She implemented Organizational Change Management (OCM).",
+      "She exceeded the risk tolerance.",
+      "She abandoned quality acceptance.",
+      "She entered the error in the Project Journal."
+    ],
+    "correct": 0,
+    "explanation": "In PRINCE2 7, OCM guides people through changes in attitudes, behaviours, and habits so that they accept the new situation."
+  },
+  {
+    "question": "Zosia notices that Artur (the Sponsor) is giving instructions to the development team without involving the Team Leader. Zosia talks to Artur about respecting the structure. What does Zosia demonstrate?",
+    "options": [
+      "Leadership and the building of organizational culture.",
+      "Exception Management.",
+      "A lack of authority in the method.",
+      "Stage closure."
+    ],
+    "correct": 0,
+    "explanation": "Leadership in PRINCE2 means motivating, influencing, and protecting the principles of collaboration between the team and stakeholders."
+  },
+  {
+    "question": "The marketing department does not know when it will receive materials to promote the game. Zosia creates a document defining the frequency and format of reports for each department. Which document did she prepare?",
+    "options": [
+      "Communication Management Approach",
+      "Exception Plan",
+      "Project Product Description",
+      "Acceptance Log"
+    ],
+    "correct": 0,
+    "explanation": "The Communication Management Approach defines how, when, and with whom information will be exchanged."
+  },
+  {
+    "question": "During a technical crisis, Zosia does not look for someone to blame. Instead, she focuses on solving the problem and encourages developers to admit mistakes honestly. What is she building in the team?",
+    "options": [
+      "Psychological Safety as part of the team culture.",
+      "Information silos.",
+      "Increased legal risk.",
+      "The SU process."
+    ],
+    "correct": 0,
+    "explanation": "Psychological safety allows a team to report problems without fear of punishment."
+  },
+  {
+    "question": "Why does PRINCE2 7 make people an integrated element of the method?",
+    "options": [
+      "Because processes and procedures alone cannot guarantee success if people do not collaborate and accept change.",
+      "To increase the number of questions on the exam.",
+      "To replace financial management.",
+      "For legal reasons only."
+    ],
+    "correct": 0,
+    "explanation": "Delivery depends on relationships among those working on the project and those affected by its outcomes."
+  }
+]

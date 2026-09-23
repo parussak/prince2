@@ -1,0 +1,156 @@
+[
+  {
+    "question": "The forecast exceeds the tolerances of the entire project. Where is the Project Board escalating the matter?",
+    "options": [
+      "To Tomek",
+      "To the business level",
+      "To testers",
+      "The project manager"
+    ],
+    "correct": 1,
+    "explanation": "The Project Board also acts within the limits of delegated authority."
+  },
+  {
+    "question": "Who allows the project to be closed?",
+    "options": [
+      "Project Board",
+      "The team leader himself",
+      "Support only",
+      "The project manager"
+    ],
+    "correct": 0,
+    "explanation": "Zosia recommends closure in CP, the Project Board allows in DP."
+  },
+  {
+    "question": "Who authorizes initiation of SnakeBite?",
+    "options": [
+      "Project Board",
+      "Team leader",
+      "Testers",
+      "Project support"
+    ],
+    "correct": 0,
+    "explanation": "The Board evaluates the Project Brief and the initiation stage plan."
+  },
+  {
+    "question": "Who authorizes the implementation of the project after initiation?",
+    "options": [
+      "Project Board",
+      "Tomek alone",
+      "API provider only",
+      "End user"
+    ],
+    "correct": 0,
+    "explanation": "The Board is considering the PID and the Business Case."
+  },
+  {
+    "question": "Who manages the day-to-day operations within the stage tolerances?",
+    "options": [
+      "Zosia, project manager",
+      "Artur through ticket allocation",
+      "Business layer",
+      "All Project Board members without PM"
+    ],
+    "correct": 0,
+    "explanation": "The PM carries out day-to-day management within the delegation."
+  },
+  {
+    "question": "What does the Project Board assess at the stage boundary?",
+    "options": [
+      "Stage result, validity and Next Stage Plan",
+      "Only the number of commits",
+      "Only Tomek's schedule",
+      "Only the name of the release"
+    ],
+    "correct": 0,
+    "explanation": "Phased management bases further commitments on current data."
+  },
+  {
+    "question": "What does the Project Board do with the Exception Report?",
+    "options": [
+      "Evaluates the exception and provides decisions or directions",
+      "Automatically accepts all changes",
+      "It replaces the product description",
+      "Rewrites the team's plan without a PM"
+    ],
+    "correct": 0,
+    "explanation": "DP includes ongoing targeting and response to exceptions."
+  },
+  {
+    "question": "Where does projected project tolerance exceedance go?",
+    "options": [
+      "To the business layer above the Project Board",
+      "To the developer only",
+      "To the test user",
+      "To the Quality Register without a decision"
+    ],
+    "correct": 0,
+    "explanation": "The Project Board operates within the limits of tolerance delegated by business."
+  },
+  {
+    "question": "On what basis does the Project Board authorize a closure?",
+    "options": [
+      "Recommendations and End Project Report",
+      "Only green CI",
+      "Only Tomek's news",
+      "Calendar dates only"
+    ],
+    "correct": 0,
+    "explanation": "The PM prepares the CP, the Project Board formally closes the DP."
+  },
+  {
+    "question": "Who is the single point of accountability for the project?",
+    "options": [
+      "Artur as project executive",
+      "Zosia as project manager",
+      "Tomek as team leader",
+      "Each tester separately"
+    ],
+    "correct": 0,
+    "explanation": "The Executive is responsible for the project at Project Board level."
+  },
+  {
+    "question": "What is the role of the Senior User on the Board?",
+    "options": [
+      "Represent user needs and benefits",
+      "Authorize all exceptions yourself",
+      "Lead the team's daily tasks",
+      "Replace Project Plan"
+    ],
+    "correct": 0,
+    "explanation": "Senior User brings the users' perspective."
+  },
+  {
+    "question": "What is the role of the Senior Supplier on the Project Board?",
+    "options": [
+      "Represent suppliers and technical integrity",
+      "Close the project yourself",
+      "Maintain a Risk Register instead of PM",
+      "Approve the benefits after the project yourself"
+    ],
+    "correct": 0,
+    "explanation": "The Senior Supplier brings supplier perspective and technical integrity."
+  },
+  {
+    "question": "How does the Board communicate with corporate, program or client management?",
+    "options": [
+      "Communicates relevant information and escalates project exceptions",
+      "I always delegate daily testing to them",
+      "Only at the end of each day",
+      "Instead of conducting stage authorizations"
+    ],
+    "correct": 0,
+    "explanation": "The business layer sets the boundaries of the Project Board and receives appropriate escalations."
+  },
+  {
+    "question": "What does management by exception mean for the Project Board?",
+    "options": [
+      "Decisions and supervision at checkpoints and exceptions",
+      "Daily management of Tomek's backlog",
+      "Lack of interest in reports",
+      "Any tolerance change without business"
+    ],
+    "correct": 0,
+    "explanation": "The board delegates day-to-day management to PM and maintains control through tolerances."
+  }
+]

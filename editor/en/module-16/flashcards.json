@@ -1,0 +1,70 @@
+[
+  {
+    "q": "Project manager versus team manager?",
+    "a": "The project manager controls the stage; the team manager accepts, executes and delivers a work package."
+  },
+  {
+    "q": "What is a work package description?",
+    "a": "The agreed specialist products, constraints and controls for a team’s assignment."
+  },
+  {
+    "q": "Which report does the team manager send?",
+    "a": "Checkpoint report to the project manager."
+  },
+  {
+    "q": "Which report does the project manager send periodically?",
+    "a": "Highlight report to the project board."
+  },
+  {
+    "q": "What if work package tolerance is forecast to be breached?",
+    "a": "The team manager escalates to the project manager."
+  },
+  {
+    "q": "What if stage tolerance is forecast to be breached?",
+    "a": "The project manager escalates to the board through an exception report."
+  },
+  {
+    "q": "Tomek forecasts a work package tolerance breach. Whom does he inform?",
+    "a": "Zosia, the project manager. The team manager escalates a forecast work package exception to the project manager."
+  },
+  {
+    "q": "Who accepts, delivers and hands over a work package?",
+    "a": "Team manager. Managing product delivery defines the team manager’s interaction with the project manager."
+  },
+  {
+    "q": "Zosia forecasts a breach of stage tolerance. What should she do?",
+    "a": "Escalate the exception to the project board. The project manager lacks authority to change stage tolerances unilaterally."
+  },
+  {
+    "q": "Who authorizes a work package during a stage?",
+    "a": "Project manager. Controlling a stage includes authorizing work packages."
+  },
+  {
+    "q": "What does Tomek do before starting an assigned work package?",
+    "a": "Review and accept the agreed work package. Acceptance confirms that scope, constraints and controls are workable."
+  },
+  {
+    "q": "Which report tells Zosia how Tomek’s API work package is progressing?",
+    "a": "Checkpoint report. Team managers report work package progress to project managers."
+  },
+  {
+    "q": "Which periodic report does Zosia send to the project board?",
+    "a": "Highlight report. Highlight reports give the board a summary of stage progress."
+  },
+  {
+    "q": "Whom does Tomek tell about a forecast work package tolerance breach?",
+    "a": "The project manager. Work package tolerance is delegated by the project manager."
+  },
+  {
+    "q": "What does Zosia do when her stage forecast exceeds tolerance?",
+    "a": "Send an exception report to the project board. A forecast stage exception must be escalated to the board."
+  },
+  {
+    "q": "How is completed work package delivery reported to the project manager?",
+    "a": "Notify the project manager that the work package is complete. The team manager hands over completed products and reports completion."
+  },
+  {
+    "q": "What quality basis does Tomek use when delivering the ranking API?",
+    "a": "The agreed product description criteria. Quality criteria are agreed in the product description."
+  }
+]

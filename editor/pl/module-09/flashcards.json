@@ -1,0 +1,66 @@
+[
+  {
+    "q": "Czym różni się Zagrożenie (Threat) od Szansy (Opportunity)?",
+    "a": "Zagrożenie ma wpływ negatywny; Szansa ma wpływ pozytywny na cele."
+  },
+  {
+    "q": "Wymień 4 wymiary oceny ryzyka w PRINCE2 7.",
+    "a": "Prawdopodobieństwo, Wpływ, Bliskość (Proximity), Szybkość (Velocity)."
+  },
+  {
+    "q": "Wymień strategie reakcji na Zagrożenia.",
+    "a": "Avoid, Reduce, Transfer, Share, Contingency, Accept."
+  },
+  {
+    "q": "Wymień strategie reakcji na Szanse.",
+    "a": "Wykorzystanie (exploit), wzmocnienie (enhance), przeniesienie (transfer), dzielenie (share) i akceptacja ryzyka (accept); można też przygotować plan warunkowy. Reject nie jest osobną opcją z tabeli 9.1."
+  },
+  {
+    "q": "Jaka jest różnica między Risk Owner a Risk Actionee?",
+    "a": "Owner odpowiada za strategię ryzyka; Actionee wykonuje konkretne działania operacyjne."
+  },
+  {
+    "q": "Wymień 5 kroków procedury zarządzania ryzykiem.",
+    "a": "1. Identify, 2. Assess, 3. Plan, 4. Implement, 5. Communicate."
+  },
+  {
+    "q": "Co to jest Apetyt na Ryzyko (Risk Appetite)?",
+    "a": "Poziom ryzyka, jaki organizacja jest skłonna zaakceptować w dążeniu do celów."
+  },
+  {
+    "q": "Jaki dokument określa zasadę postępowania z ryzykiem w projekcie?",
+    "a": "Podejście do Zarządzania Ryzykiem (Risk Management Approach)."
+  },
+  {
+    "q": "Apetyt a tolerancja ryzyka?",
+    "a": "Apetyt określa gotowość biznesu do podejmowania ryzyka; tolerancja wyznacza mierzalne dopuszczalne granice dla celów."
+  },
+  {
+    "q": "Pięć działań zarządzania ryzykiem?",
+    "a": "Identyfikuj, oceniaj, planuj, wdrażaj; komunikuj przez cały czas."
+  },
+  {
+    "q": "Przyczyna, zdarzenie, skutek?",
+    "a": "Źródło niepewności, to co może się wydarzyć, oraz wpływ na cel projektu."
+  },
+  {
+    "q": "Ryzyko rezydualne a wtórne?",
+    "a": "Rezydualne pozostaje po reakcji; wtórne powstaje wskutek reakcji."
+  },
+  {
+    "q": "Plan warunkowy?",
+    "a": "Przygotowana reakcja uruchamiana przy określonym sygnale; może uzupełniać różne strategie."
+  },
+  {
+    "q": "Budżet ryzyka?",
+    "a": "Środki na określone reakcje na zagrożenia i szanse, nie swobodna rezerwa na wszystko."
+  },
+  {
+    "q": "Podejście a Rejestr Ryzyk?",
+    "a": "Podejście określa sposób zarządzania; rejestr dokumentuje konkretne ryzyka, oceny, działania, właścicieli i historię."
+  },
+  {
+    "q": "Proximity a velocity?",
+    "a": "Kiedy zdarzenie może wystąpić vs jak szybko po wystąpieniu wpłynie na cele."
+  }
+]

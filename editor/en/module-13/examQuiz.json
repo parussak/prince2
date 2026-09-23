@@ -1,0 +1,98 @@
+[
+  {
+    "type": "standard",
+    "question": "What is the main goal of the Starting up a project (SU) process?",
+    "options": [
+      "Delivery of the finished final product to the customer.",
+      "Ensuring that the initial project assumptions are met and that there is a justification for initiating the Initiation process.",
+      "Detailed planning of all implementation stages.",
+      "Ceremonial celebration of market success."
+    ],
+    "correct": 1,
+    "explanation": "SU answers the question: 'Do we have a good enough reason to spend money on initiating a project?'"
+  },
+  {
+    "type": "missing-word",
+    "question": "Complete the sentence below:\nThe documentation created in the IP process, constituting a single source of truth about project management, is [...].",
+    "options": [
+      "Project Brief",
+      "PID (Project Initiation Documentation)",
+      "Daily Log",
+      "Checkpoint Report"
+    ],
+    "correct": 1,
+    "explanation": "The PID is created in the IP process and collects all key project arrangements."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO tasks are performed in the Starting up a project (SU) process? Choose ONE pair of true statements. 1. Appointment of the project executive and the Project Manager (PM).  2. Development of the Project Brief.  3. Final acceptance of games from suppliers.  4. Performing a full financial audit of the company after 3 years.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "In the SU, key roles are appointed (Executive, PM) and a Project Brief is prepared."
+  },
+  {
+    "type": "negative",
+    "question": "Which of the following activities DOES NOT belong in the Initiating a project (IP) process?",
+    "options": [
+      "Development of a Detailed Business Case.",
+      "Creating Approaches to Quality, Risk and Communication.",
+      "The first, preliminary definition of roles before the decision to initiate (takes place in the SU).",
+      "Preparation of the Project Plan."
+    ],
+    "correct": 2,
+    "explanation": "The initial filling of roles and the appointment of PMs takes place in the SU, before the start of the IP."
+  },
+  {
+    "type": "standard",
+    "question": "Who decides on the transition from the SU process to the IP process (gives consent to initiation)?",
+    "options": [
+      "Project Manager alone.",
+      "Project Board in the Directing a project (DP) process.",
+      "Chief Programmer.",
+      "External advertising agency."
+    ],
+    "correct": 1,
+    "explanation": "The decision to authorize initiation is made solely by the Project Board in the DP process."
+  },
+  {
+    "type": "missing-word",
+    "question": "Complete the sentence below:\nThe process that lasts continuously from the beginning of the project to its closure and enables the Project Board to make strategic decisions is Directing a [...].",
+    "options": [
+      "Stage",
+      "Project (DP)",
+      "Product",
+      "Team"
+    ],
+    "correct": 1,
+    "explanation": "Directing a project (DP) is the Project Board's continuous decision-making process."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO elements are included in the Project Initiation Documentation (PID)? Choose ONE pair of true statements. 1. Business Case.  2. Project Plan.  3. List of personal assets of employees.  4. Source code written in C#.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "PID includes, among others: Business Case, Project Plan, Approaches/Strategies and structure descriptions."
+  },
+  {
+    "type": "standard",
+    "question": "When does starting up a project take place?",
+    "options": [
+      "Before the decision to authorize initiation",
+      "Only after the first delivery stage",
+      "Only during project closure",
+      "As the final task of the last delivery stage"
+    ],
+    "correct": 0,
+    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
+  }
+]

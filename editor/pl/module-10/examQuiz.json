@@ -1,0 +1,156 @@
+[
+  {
+    "question": "Co należy ocenić przed decyzją o zmianie?",
+    "options": [
+      "Wpływ na projekt i zasadność biznesową",
+      "Tylko liczbę ekranów gry",
+      "Tylko opinię programisty",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 0,
+    "explanation": "Wpływ może obejmować wszystkie siedem aspektów efektywności."
+  },
+  {
+    "question": "Kto zatwierdza zmianę?",
+    "options": [
+      "Zawsze dowolny użytkownik",
+      "Rola z odpowiednimi uprawnieniami",
+      "Zawsze wyłącznie kierownik zespołu",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 1,
+    "explanation": "Decydują uzgodnione uprawnienia i ograniczenia delegacji."
+  },
+  {
+    "question": "Jak zakwalifikować prośbę Mayi o nowy ekran w zatwierdzonej specyfikacji?",
+    "options": [
+      "Wniosek o zmianę",
+      "Odstępstwo od specyfikacji",
+      "Raport z Punktu Kontrolnego",
+      "Już spełnione kryterium akceptacji"
+    ],
+    "correct": 0,
+    "explanation": "To propozycja zmiany zatwierdzonej linii bazowej."
+  },
+  {
+    "question": "Jak zakwalifikować ranking, który nie osiąga uzgodnionego czasu odpowiedzi?",
+    "options": [
+      "Odstępstwo od specyfikacji",
+      "Wniosek o nową funkcję",
+      "Wyłącznie szansa biznesowa",
+      "Plan Projektu"
+    ],
+    "correct": 0,
+    "explanation": "Produkt nie spełni uzgodnionych specyfikacji jakości."
+  },
+  {
+    "question": "Czym jest koncesja?",
+    "options": [
+      "Zatwierdzone odstępstwo od specyfikacji bez działania korygującego",
+      "Każde opóźnienie dostawcy",
+      "Dowolna niezatwierdzona zmiana",
+      "Niepewne zdarzenie w rejestrze ryzyk"
+    ],
+    "correct": 0,
+    "explanation": "Koncesja wymaga uprawnionej akceptacji oraz aktualizacji linii bazowej."
+  },
+  {
+    "question": "Gdzie rejestrować zagadnienia projektu?",
+    "options": [
+      "W Rejestrze Zagadnień w Dzienniku Projektu",
+      "Wyłącznie w harmonogramie zespołu",
+      "W Rejestrze Ryzyk jako pewne zdarzenia",
+      "Wyłącznie w kodzie źródłowym"
+    ],
+    "correct": 0,
+    "explanation": "Rejestr Zagadnień śledzi zagadnienia i decyzje."
+  },
+  {
+    "question": "Kiedy przygotować Raport Zagadnienia?",
+    "options": [
+      "Gdy sprawa wymaga szczegółowej oceny i decyzji",
+      "Automatycznie dla każdego komentarza w czacie",
+      "Wyłącznie po zamknięciu projektu",
+      "Zamiast każdego Opisu Produktu"
+    ],
+    "correct": 0,
+    "explanation": "Raport opisuje analizę wybranego zagadnienia i rekomendację."
+  },
+  {
+    "question": "Co odróżnia ryzyko od zagadnienia?",
+    "options": [
+      "Ryzyko dotyczy niepewnego przyszłego zdarzenia",
+      "Ryzyko zawsze jest już pewnym faktem",
+      "Zagadnienie zawsze ma dodatni wpływ",
+      "Ryzyko można zatwierdzić budżetem zmian"
+    ],
+    "correct": 0,
+    "explanation": "Niepewność zdarzenia prowadzi do zarządzania ryzykiem."
+  },
+  {
+    "question": "Kto zatwierdza zmianę w linii bazowej?",
+    "options": [
+      "Rola mająca delegowane uprawnienia do tej decyzji",
+      "Dowolny programista",
+      "Każdy zgłaszający zagadnienie",
+      "Wyłącznie narzędzie backlogowe"
+    ],
+    "correct": 0,
+    "explanation": "Zatwierdzenie zależy od uzgodnionego poziomu uprawnień."
+  },
+  {
+    "question": "Do czego służy budżet zmian?",
+    "options": [
+      "Do finansowania zatwierdzonych zmian zgodnie z regułami planu",
+      "Do ukrywania przekroczenia tolerancji",
+      "Do automatycznego zwiększenia zakresu",
+      "Wyłącznie do kosztów utrzymania po projekcie"
+    ],
+    "correct": 0,
+    "explanation": "Dostępność środków nie zastępuje zatwierdzenia zmiany."
+  },
+  {
+    "question": "Która lista odpowiada klasyfikacji zagadnień w PRINCE2 7?",
+    "options": [
+      "Problem/obawa, zdarzenie zewnętrzne, szansa biznesowa, wniosek o zmianę, odstępstwo",
+      "Wyłącznie usterka, zadanie i ryzyko",
+      "Wyłącznie zmiana zakresu i koszt",
+      "Wyłącznie problem i szansa"
+    ],
+    "correct": 0,
+    "explanation": "Podręcznik podaje pięć kategorii zagadnień."
+  },
+  {
+    "question": "Co tworzy linię bazową projektu?",
+    "options": [
+      "Aktualne zatwierdzone wersje produktów pod kontrolą zmian",
+      "Wszystkie pomysły z tablicy",
+      "Jedynie kod na gałęzi develop",
+      "Wyłącznie historia spotkań"
+    ],
+    "correct": 0,
+    "explanation": "Linia bazowa to zatwierdzone wersje produktów zarządczych i projektowych pod kontrolą zmian."
+  },
+  {
+    "question": "Który rejestr pomaga ustalić status i wersje produktów?",
+    "options": [
+      "Rejestr Produktów",
+      "Rejestr Ryzyk",
+      "Raport Okresowy",
+      "Raport z Lekcji"
+    ],
+    "correct": 0,
+    "explanation": "Rejestr Produktów wspiera śledzenie statusu i zatwierdzeń produktów."
+  },
+  {
+    "question": "Co trzeba ocenić przy istotnym wniosku o zmianę?",
+    "options": [
+      "Wpływ na cele projektu oraz źródło finansowania i uprawnienia",
+      "Wyłącznie liczbę głosów w zespole",
+      "Wyłącznie estetykę interfejsu",
+      "Wyłącznie nazwę wniosku"
+    ],
+    "correct": 0,
+    "explanation": "Analiza wpływu obejmuje siedem celów wykonania i właściwą decyzję."
+  }
+]

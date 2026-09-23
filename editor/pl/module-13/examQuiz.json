@@ -1,0 +1,98 @@
+[
+  {
+    "type": "standard",
+    "question": "Jaki jest główny cel procesu Starting up a project (SU)?",
+    "options": [
+      "Dostarczenie gotowego produktu końcowego klientowi.",
+      "Upewnienie się, że wstępne założenia projektu są spełnione oraz że istnieje uzasadnienie do rozpoczęcia procesu Inicjowania.",
+      "Szczegółowe zaplanowanie wszystkich etapów realizacyjnych.",
+      "Uroczyste świętowanie sukcesu rynkowego."
+    ],
+    "correct": 1,
+    "explanation": "SU odpowiada na pytanie: 'Czy mamy wystarczająco dobry powód, by wydać pieniądze na inicjowanie projektu?'"
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nDokumentacja tworzona w procesie IP stanowiąca pojedyncze źródło prawdy o zarządzaniu projektem to [...].",
+    "options": [
+      "Project Brief",
+      "PID (Project Initiation Documentation)",
+      "Daily Log",
+      "Checkpoint Report"
+    ],
+    "correct": 1,
+    "explanation": "PID powstaje w procesie IP i zbiera wszystkie kluczowe uzgodnienia projektowe."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA zadania są wykonywane w procesie Starting up a project (SU)? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Mianowanie Zleceniodawcy (Executive) i Kierownika Projektu (PM).  2. Opracowanie Zarysu Projektu (Project Brief).  3. Odbiór końcowy gier od dostawców.  4. Wykonanie pełnego audytu finansowego firmy po 3 latach.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "W SU powołuje się kluczowe role (Executive, PM) oraz przygotowuje Project Brief."
+  },
+  {
+    "type": "negative",
+    "question": "Które z działań NIE NALEŻY do procesu Initiating a project (IP)?",
+    "options": [
+      "Opracowanie Szczegółowego Uzasadnienia Biznesowego (Business Case).",
+      "Stworzenie Podejść do Jakości, Ryzyka i Komunikacji.",
+      "Pierwsze, wstępne zdefiniowanie ról przed decyzją o inicjowaniu (odbywa się w SU).",
+      "Przygotowanie Planu Projektu (Project Plan)."
+    ],
+    "correct": 2,
+    "explanation": "Wstępne obsadzenie ról i mianowanie PM odbywa się w SU, jeszcze przed rozpoczęciem IP."
+  },
+  {
+    "type": "standard",
+    "question": "Kto decyduje o przejściu z procesu SU do procesu IP (wyraża zgodę na inicjowanie)?",
+    "options": [
+      "Kierownik Projektu samodzielnie.",
+      "Rada Projektu w procesie Directing a project (DP).",
+      "Główny Programista.",
+      "Zewnętrzna agencja reklamowa."
+    ],
+    "correct": 1,
+    "explanation": "Decyzję o rozpoczęciu inicjowania podejmuje wyłącznie Rada Projektu w procesie DP."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nProces, który trwa nieprzerwanie od rozpoczęcia projektu aż do jego zamknięcia i służy Radzie Projektu do podejmowania strategicznych decyzji, to Directing a [...].",
+    "options": [
+      "Stage",
+      "Project (DP)",
+      "Product",
+      "Team"
+    ],
+    "correct": 1,
+    "explanation": "Directing a project (DP) to ciągły proces decyzyjny Rady Projektu."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA elementy wchodzą w skład Dokumentacji Inicjującej Projekt (PID)? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Uzasadnienie Biznesowe (Business Case).  2. Plan Projektu (Project Plan).  3. Wykaz osobistych majątków pracowników.  4. Kod źródłowy napisany w języku C#.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "PID zawiera m.in. Business Case, Plan Projektu, Podejścia/Strategie i opisy struktur."
+  },
+  {
+    "type": "standard",
+    "question": "Kiedy odbywa się proces Przygotowanie Projektu (SU)?",
+    "options": [
+      "Przed decyzją o inicjowaniu projektu",
+      "Dopiero po pierwszym etapie dostawczym",
+      "Wyłącznie podczas zamykania projektu",
+      "Jako ostatnia czynność w etapie końcowym"
+    ],
+    "correct": 0,
+    "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+  }
+]

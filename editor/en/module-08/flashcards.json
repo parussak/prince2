@@ -1,0 +1,66 @@
+[
+  {
+    "q": "What are user quality expectations?",
+    "a": "A high level description of what users expect from the finished project product."
+  },
+  {
+    "q": "What is a quality tolerance?",
+    "a": "Permitted variation around a quality criterion, where one has been agreed."
+  },
+  {
+    "q": "Who agrees acceptance criteria?",
+    "a": "The user and business interests approve criteria through the project’s agreed authority."
+  },
+  {
+    "q": "Quality assurance versus project assurance?",
+    "a": "Quality assurance reviews quality arrangements independently; project assurance checks the project for the board."
+  },
+  {
+    "q": "Quality register versus product register?",
+    "a": "The first records checks and their results; the second tracks product status and approval."
+  },
+  {
+    "q": "Maya wants smooth gameplay on phones. What should Zosia do with this expectation?",
+    "a": "Turn the user quality expectation into measurable acceptance criteria. A general expectation needs testable criteria."
+  },
+  {
+    "q": "Kamil runs unit tests and measures frames per second. Which activity is this?",
+    "a": "Quality control. Quality control checks a specific product against its criteria."
+  },
+  {
+    "q": "An independent auditor checks whether the agreed test approach is followed. Which activity is this?",
+    "a": "Quality assurance. Quality assurance assesses whether the quality system and methods are appropriate and followed."
+  },
+  {
+    "q": "Which management product sets project wide testing standards, methods and responsibilities?",
+    "a": "Quality management approach. It defines how quality will be planned, controlled and assured."
+  },
+  {
+    "q": "Where are planned and completed quality checks and their results recorded?",
+    "a": "Quality register. The quality register tracks quality control activities and outcomes."
+  },
+  {
+    "q": "How does a project product description differ from an individual product description?",
+    "a": "The first describes the whole project product and its acceptance; the second describes a particular product. Their scope and purpose differ."
+  },
+  {
+    "q": "What is the key difference between quality control and quality assurance?",
+    "a": "Control checks products; assurance independently assesses the quality approach. They operate at different levels."
+  },
+  {
+    "q": "A description of criteria and methods for one product is a product [...].",
+    "a": "Description. A product description states the quality criteria and the quality methods for a product."
+  },
+  {
+    "q": "Which TWO management products support the quality practice?",
+    "a": "Quality management approach; Quality register. The approach defines the method; the register records planned and completed checks."
+  },
+  {
+    "q": "Which statement about quality assurance is FALSE?",
+    "a": "It consists of writing unit tests for the application. Unit tests are a form of quality control."
+  },
+  {
+    "q": "Planned and completed quality reviews and results are recorded in the quality [...].",
+    "a": "Register. The quality register is the record of quality control activities."
+  }
+]

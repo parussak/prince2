@@ -1,0 +1,230 @@
+[
+  {
+    "type": "standard",
+    "question": "Jaki jest główny cel procesu Closing a Project (CP)?",
+    "options": [
+      "Napisanie pierwszej wersji kodu aplikacji.",
+      "Zapewnienie stałego punktu, w którym potwierdzany jest odbiór produktów i kontrolowane zamknięcie projektu.",
+      "Wykupienie nowej licencji na oprogramowanie.",
+      "Zatwierdzenie Planu Inicjowania."
+    ],
+    "correct": 1,
+    "explanation": "CP zapewnia kontrolowane i uporządkowane zamknięcie prac i przekazanie produktów."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nDokument przekazujący do działalności operacyjnej (BAU) nierozwiązane zagadnienia oraz rekomendacje rozwoju to Rekomendacje Działań [...].",
+    "options": [
+      "Korygujących",
+      "Następczych (Follow-on action recommendations)",
+      "Awarjnych",
+      "Zwrotnych"
+    ],
+    "correct": 1,
+    "explanation": "Rekomendacje działań następczych zawierają wykaz otwartych spraw dla zespołu operacyjnego."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA dokumenty są bezpośrednio tworzone lub aktualizowane w procesie CP?<br>1. Raport Końcowy Projektu (End project report)<br>2. Raport z Lekcji (Lessons report)<br>3. Zarys Projektu (Project Brief)<br>4. Dokumentacja Inicjująca Projekt (PID)<br>Która kombinacja jest poprawna?",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "2 i 4",
+      "3 i 4"
+    ],
+    "correct": 0,
+    "explanation": "W CP powstaje Raport Końcowy Projektu oraz Raport z Lekcji."
+  },
+  {
+    "type": "negative",
+    "question": "Które ze stwierdzeń NIE JEST prawdziwe dla procesu Closing a Project (CP)?",
+    "options": [
+      "Jest uruchamiany również w przypadku przedwczesnego skasowania projektu.",
+      "Kierownik Projektu zamyka w nim projekt samodzielnie bez pytania Rady o zgodę.",
+      "Obejmuje przekazanie produktów do środowiska BAU.",
+      "Weryfikuje wydajność projektu względem pierwotnych linii bazowych."
+    ],
+    "correct": 1,
+    "explanation": "PM nie ma uprawnień do samodzielnego zamknięcia – wniosek zatwierdza Rada Projektu w procesie DP."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nDocelowe środowisko operacyjne organizacji, do którego przekazywane są produkty projektu po zamknięciu, określa się skrótem [...].",
+    "options": [
+      "PID",
+      "BAU (Business as Usual)",
+      "PBS",
+      "PFD"
+    ],
+    "correct": 1,
+    "explanation": "BAU (Business as Usual) oznacza stałą działalność operacyjną firmy."
+  },
+  {
+    "type": "standard",
+    "question": "Co dzieje się z niezagospodarowanymi zasobami i sprzętem pod koniec procesu CP?",
+    "options": [
+      "Są wyrzucane.",
+      "Następuje formalne zwolnienie zasobów i ich powrót do organizacji.",
+      "Przechodzą na własność PM.",
+      "Są zamrażane na 10 lat."
+    ],
+    "correct": 1,
+    "explanation": "Zwolnienie zasobów projektowych jest jednym z wymogów kontrolowanego zamknięcia."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA cele realizuje proces CP w przypadku PRZEDWCZESNEGO zamknięcia projektu?<br>1. Zabezpieczenie i udokumentowanie dotychczas wytworzonych produktów<br>2. Odzyskanie i zwolnienie zaangażowanych zasobów<br>3. Udawanie przed inwestorami, że projekt nadal trwa<br>4. Automatyczne wypłacenie premii całemu zespołowi<br>Która kombinacja jest poprawna?",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "2 i 4",
+      "3 i 4"
+    ],
+    "correct": 0,
+    "explanation": "Przedwczesne zamknięcie wymaga zabezpieczenia dorobku oraz uwolnienia zasobów."
+  },
+  {
+    "type": "standard",
+    "question": "Które działanie wykonuje kierownik projektu przy zamknięciu projektu?",
+    "options": [
+      "Samodzielnie autoryzuje zamknięcie.",
+      "Zwalnia Radę z oceny projektu.",
+      "Przygotowuje Raport Końcowy Projektu.",
+      "Jednoosobowo rozwiązuje spółkę inwestora."
+    ],
+    "correct": 2,
+    "explanation": "Kierownik projektu przygotowuje Raport Końcowy Projektu i rekomendację zamknięcia; Rada autoryzuje zamknięcie."
+  },
+  {
+    "question": "Co potwierdza spełnienie kryteriów akceptacji SnakeBite?",
+    "options": [
+      "Dowody jakości i formalna akceptacja właściwego odbiorcy",
+      "Samo ukończenie kodowania",
+      "Wyłącznie Raport Okresowy",
+      "Wyłącznie zamknięcie repozytorium"
+    ],
+    "correct": 0,
+    "explanation": "Akceptacja odnosi się do Opisu Produktu Końcowego Projektu."
+  },
+  {
+    "question": "Kto przygotowuje rekomendację zamknięcia?",
+    "options": [
+      "Kierownik projektu",
+      "Kierownik zespołu samodzielnie",
+      "Każdy programista",
+      "Biuro rachunkowe"
+    ],
+    "correct": 0,
+    "explanation": "PM wykonuje CP i zwraca się do Rady o decyzję."
+  },
+  {
+    "question": "Kto formalnie autoryzuje zamknięcie?",
+    "options": [
+      "Rada Projektu",
+      "Kierownik projektu bez Rady",
+      "Wyłącznie zespół testowy",
+      "System CI"
+    ],
+    "correct": 0,
+    "explanation": "Autoryzacja zamknięcia należy do DP."
+  },
+  {
+    "question": "Czy CP stosuje się przy przedwczesnym zamknięciu?",
+    "options": [
+      "Tak, przygotowuje kontrolowane zakończenie",
+      "Nie, projekt znika bez śladu",
+      "Tylko gdy wszystkie produkty są gotowe",
+      "Wyłącznie w projektach bez dostawców"
+    ],
+    "correct": 0,
+    "explanation": "Przedwczesne zamknięcie wymaga oceny i przekazania odpowiedzialności."
+  },
+  {
+    "question": "Z czym Zosia porównuje wynik całości w Raporcie Końcowym Projektu?",
+    "options": [
+      "Z DIP, Planem Projektu i Uzasadnieniem Biznesowym",
+      "Wyłącznie z ostatnim sprintem",
+      "Wyłącznie z budżetem Tomka",
+      "Wyłącznie z listą commitów"
+    ],
+    "correct": 0,
+    "explanation": "Raport ocenia wyniki wobec zatwierdzonych podstaw projektu."
+  },
+  {
+    "question": "Co zrobić z otwartym ryzykiem utrzymania API?",
+    "options": [
+      "Ująć je w zaleceniach działań następczych i przypisać właściciela",
+      "Usunąć je bez informacji",
+      "Uznać za osiągniętą korzyść",
+      "Automatycznie przedłużyć etap"
+    ],
+    "correct": 0,
+    "explanation": "Po zamknięciu ktoś musi przejąć odpowiedzialność."
+  },
+  {
+    "question": "Co zrobić z korzyściami możliwymi do pomiaru dopiero po wydaniu?",
+    "options": [
+      "Zaplanować przegląd zgodnie z Podejściem do Zarządzania Korzyściami",
+      "Uznawać je już za osiągnięte",
+      "Zignorować je po zamknięciu",
+      "Zastąpić je liczbą testów"
+    ],
+    "correct": 0,
+    "explanation": "Pomiar korzyści może następować po rozwiązaniu projektu."
+  },
+  {
+    "question": "Co powinno zostać przekazane do eksploatacji?",
+    "options": [
+      "Zaakceptowane produkty i odpowiedzialność za ich utrzymanie",
+      "Wyłącznie hasło do repozytorium",
+      "Wyłącznie Raport z Punktu Kontrolnego",
+      "Wyłącznie niezaakceptowane szkice"
+    ],
+    "correct": 0,
+    "explanation": "Przekazanie zapewnia ciągłość działania po projekcie."
+  },
+  {
+    "question": "Co ocenia Raport Końcowy Projektu?",
+    "options": [
+      "Wykonanie projektu i odchylenia względem jego podstaw",
+      "Wyłącznie codzienny status zespołu",
+      "Wyłącznie liczbę błędów w backlogu",
+      "Wyłącznie kandydatury do Rady"
+    ],
+    "correct": 0,
+    "explanation": "To podsumowanie całości na zamknięcie."
+  },
+  {
+    "question": "Czego dotyczy Raport z Lekcji?",
+    "options": [
+      "Doświadczeń przydatnych w przyszłych projektach",
+      "Wyłącznie prognozy kosztów jutro",
+      "Wyłącznie zatwierdzenia nowego etapu",
+      "Wyłącznie odbioru pojedynczego API"
+    ],
+    "correct": 0,
+    "explanation": "Lekcje dokumentują wiedzę do ponownego użycia."
+  },
+  {
+    "question": "Co należy zrobić przy planowanym zamknięciu?",
+    "options": [
+      "Sprawdzić dostarczenie, akceptację, przekazanie i działania następcze",
+      "Przerwać rejestrację otwartych spraw",
+      "Pozwolić zespołowi samodzielnie autoryzować zamknięcie",
+      "Zaniechać przeglądu korzyści"
+    ],
+    "correct": 0,
+    "explanation": "CP przygotowuje kontrolowaną rekomendację dla Rady."
+  },
+  {
+    "question": "Co jest prawidłowe przy przedwczesnym zamknięciu?",
+    "options": [
+      "Ocenić osiągnięte produkty oraz nierozstrzygnięte zobowiązania",
+      "Uznawać wszystkie produkty za ukończone",
+      "Pominąć Raport Końcowy Projektu",
+      "Ukryć powody decyzji"
+    ],
+    "correct": 0,
+    "explanation": "Należy bezpiecznie rozliczyć to, co powstało, i pozostające sprawy."
+  }
+]

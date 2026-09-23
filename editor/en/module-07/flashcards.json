@@ -1,0 +1,98 @@
+[
+  {
+    "q": "What are the planning levels?",
+    "a": "Project plan, stage plan and team plan; an exception plan can replace an affected plan."
+  },
+  {
+    "q": "Plan versus schedule?",
+    "a": "A plan also covers products, resources, control, quality and risks; a schedule focuses on timing."
+  },
+  {
+    "q": "What is a critical path?",
+    "a": "A sequence of dependent activities for which delay would delay the planned completion."
+  },
+  {
+    "q": "What is an external dependency?",
+    "a": "A product or event outside the project’s control that the plan needs."
+  },
+  {
+    "q": "How do you prevent scope creep?",
+    "a": "Agree product descriptions and control proposed changes to their approved baselines."
+  },
+  {
+    "q": "What are the sustainability perspectives in planning?",
+    "a": "Consider sustainability of delivery, the product and the long term benefits."
+  },
+  {
+    "q": "What is the first product to describe when Zosia plans SnakeBite by products?",
+    "a": "Project product description. It states the overall product and acceptance criteria."
+  },
+  {
+    "q": "Zosia divides the game into a hierarchy of engine, art and audio products. Which tool is this?",
+    "a": "Product breakdown structure (PBS). A PBS groups the products by part and whole."
+  },
+  {
+    "q": "Which tool shows that the engine must be completed before art integration?",
+    "a": "Product flow diagram (PFD). A PFD shows product sequence and dependencies."
+  },
+  {
+    "q": "A team manager prepares an internal schedule for a work package. Which plan is this?",
+    "a": "Team plan. A team plan helps the team organize its specialist work."
+  },
+  {
+    "q": "The project board requests a replacement plan after a forecast exception. Which plan does Zosia prepare?",
+    "a": "Exception plan. An exception plan responds to an exception and replaces the affected plan when approved."
+  },
+  {
+    "q": "When does estimating resources and scheduling occur in product based planning?",
+    "a": "After identifying products, describing them and mapping dependencies. Products and their dependencies establish the basis for estimates."
+  },
+  {
+    "q": "What is the sequence in product based planning?",
+    "a": "Project product description, PBS, product descriptions, PFD. Describe the overall product before decomposing and sequencing products."
+  },
+  {
+    "q": "A hierarchical view of all products in scope is the product breakdown [...].",
+    "a": "Structure (PBS). PBS stands for product breakdown structure."
+  },
+  {
+    "q": "Which TWO are PRINCE2 planning levels?",
+    "a": "Project plan; Stage plan. Project and stage plans describe work at different management levels."
+  },
+  {
+    "q": "Which statement about an exception plan is FALSE?",
+    "a": "It is produced automatically at the start of every stage. An exception plan is prepared in response to an exception decision."
+  },
+  {
+    "q": "A diagram showing the sequence and dependencies between products is a product flow [...].",
+    "a": "Diagram (PFD). The PFD shows the order in which products are developed."
+  },
+  {
+    "q": "What should be described first in the product based planning technique?",
+    "a": "The project product. The project product description establishes the overall scope and acceptance criteria."
+  },
+  {
+    "q": "Which TWO are developed while estimating and scheduling a plan?",
+    "a": "Required resources; Schedule. Estimates inform the resources and timetable."
+  },
+  {
+    "q": "Which plan is normally managed without direct project board approval?",
+    "a": "Team plan. The team manager uses a team plan to organize work package delivery."
+  },
+  {
+    "q": "Why does PRINCE2 use the plans practice?",
+    "a": "To define products and how they will be delivered, enabling communication and control. A plan provides a shared basis for delivery and progress control."
+  },
+  {
+    "q": "What is a planning horizon?",
+    "a": "The period for which a plan can be prepared with reasonable confidence. Nearer work can normally be planned in more detail."
+  },
+  {
+    "q": "When is the initiation stage plan prepared?",
+    "a": "During starting up a project. Starting up produces the plan for the initiation stage."
+  },
+  {
+    "q": "Is an exception plan a fourth level in the plan hierarchy?",
+    "a": "No; it is a plan used to respond to an exception. Exception plans can replace project or stage plans."
+  }
+]

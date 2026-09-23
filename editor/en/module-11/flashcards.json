@@ -1,0 +1,82 @@
+[
+  {
+    "q": "What is tolerance?",
+    "a": "Permissible deviation from a plan for a delegated level of management."
+  },
+  {
+    "q": "Who authorizes an exception plan?",
+    "a": "The project board authorizes a replacement stage or project plan within its authority."
+  },
+  {
+    "q": "What is the daily log?",
+    "a": "Part of the project log for informal issues, notes and observations."
+  },
+  {
+    "q": "What are the seven performance targets?",
+    "a": "Benefits, cost, time, quality, scope, risk and sustainability."
+  },
+  {
+    "q": "The graphic engine is forecast to finish three weeks late against a one week stage time tolerance. What should Zosia do?",
+    "a": "Send an exception report to the project board. A forecast beyond stage tolerance requires escalation."
+  },
+  {
+    "q": "Artur receives an exception report. What may the project board decide?",
+    "a": "Request an exception plan, change tolerances within its authority, or close the project. The board makes the management level decision."
+  },
+  {
+    "q": "What report does Zosia send Artur regularly about stage progress?",
+    "a": "Highlight report. The project manager sends highlight reports to the project board."
+  },
+  {
+    "q": "A work package is forecast two days late within a three day tolerance. What should the team manager do?",
+    "a": "Manage within tolerance and report progress to the project manager. A delay within tolerance does not automatically require an exception."
+  },
+  {
+    "q": "Where does Zosia keep day to day informal notes before formal entries are required?",
+    "a": "Daily log in the project log. The project log includes a daily log."
+  },
+  {
+    "q": "Why does managing by exception save project board time?",
+    "a": "The board receives regular summaries and intervenes when tolerance is forecast to be exceeded. Authority is delegated within agreed tolerances."
+  },
+  {
+    "q": "What does a forecast mean in progress control?",
+    "a": "An estimate of the future state using current information. Forecasts support decisions before an exception occurs."
+  },
+  {
+    "q": "Does a two day delay always constitute an exception?",
+    "a": "No; compare the forecast with the relevant tolerance. A deviation alone does not establish an exception."
+  },
+  {
+    "q": "Who receives a checkpoint report from the team manager?",
+    "a": "Project manager. Checkpoint reports communicate team progress to the project manager."
+  },
+  {
+    "q": "Who receives a highlight report from the project manager?",
+    "a": "Project board. Highlight reports provide periodic board level status."
+  },
+  {
+    "q": "When should Zosia send an exception report?",
+    "a": "When the stage forecast exceeds its tolerance. The project manager escalates a forecast stage exception."
+  },
+  {
+    "q": "Which report summarizes the whole project at closure?",
+    "a": "End project report. It compares overall performance against the project baseline."
+  },
+  {
+    "q": "How many project performance targets does PRINCE2 7 include?",
+    "a": "Seven, including sustainability. Sustainability joins time, cost, quality, scope, benefits and risk."
+  },
+  {
+    "q": "What does Tomek do when a work package is forecast outside its tolerance?",
+    "a": "Escalate to the project manager. The team manager cannot unilaterally change delegated tolerance."
+  },
+  {
+    "q": "How many performance targets are used to control a PRINCE2 7 project?",
+    "a": "Seven. The seven targets include sustainability."
+  },
+  {
+    "q": "A report from the project manager about a forecast tolerance breach is an exception [...].",
+    "a": "Report. The exception report supports an authorized decision."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "question": "1. Maya (Główny Użytkownik) mówi: 'Chcę, żeby gra płynnie działała na smartfonach'. Co zrobiła Zosia z tą wypowiedzią?",
+    "options": [
+      "Zapisała jako ogólne Oczekiwania Jakościowe Użytkownika i przekształciła w mierzalne Kryteria Akceptacji.",
+      "Zignorowała uwagi użytkowników.",
+      "Od razu zamknęła projekt.",
+      "Wpisała do Rejestru Jakości jako wyjątek."
+    ],
+    "correct": 0,
+    "explanation": "Ogólne oczekiwania użytkownika przekształca się na mierzalne wymagania i kryteria akceptacji."
+  },
+  {
+    "question": "2. Kamil (Senior Supplier) uruchamia testy jednostkowe silnika i sprawdza liczbę FPS. Jaki proces realizuje?",
+    "options": [
+      "Zapewnienie jakości (Quality assurance)",
+      "Kontrolę jakości (Quality control)",
+      "Planowanie wyjątku",
+      "Zarządzanie Zmianą"
+    ],
+    "correct": 1,
+    "explanation": "Kontrola jakości (Quality control) polega na weryfikacji i testowaniu konkretnych produktów."
+  },
+  {
+    "question": "3. Niezależny audytor z centrali sprawdza, czy Zosia i Kamil stosują procedury testowe opisane w dokumentach. Co realizuje audytor?",
+    "options": [
+      "Kontrolę jakości pojedynczego kodu",
+      "Zapewnienie jakości (Quality assurance)",
+      "Kodowanie gry",
+      "Odbiór końcowy"
+    ],
+    "correct": 1,
+    "explanation": "Zapewnienie jakości to niezależna weryfikacja czy procesy i podejście do jakości są stosowane prawidłowo."
+  },
+  {
+    "question": "4. Zosia tworzy dokument definiujący standardy testowania, narzędzia oraz procedury jakościowe dla całego projektu. Co to za dokument?",
+    "options": [
+      "Podejście do Zarządzania Jakością (Quality management approach)",
+      "Rejestr Ryzyk",
+      "Plan Wyjątku",
+      "Opis Produktu Projektu"
+    ],
+    "correct": 0,
+    "explanation": "Podejście do Zarządzania Jakością określa jak jakość będzie zapewniana i kontrolowana w projekcie."
+  },
+  {
+    "question": "5. Gdzie PM rejestruje planowane testy, terminy sprawdzianów jakościowych oraz nazwisko osoby, która zatwierdziła produkt?",
+    "options": [
+      "W Rejestrze Jakości (Quality register)",
+      "W Rejestrze Ryzyk",
+      "W Dzienniku Projektu",
+      "W Opisie Produktu"
+    ],
+    "correct": 0,
+    "explanation": "Rejestr Jakości zawiera ewidencję wszystkich sprawdzianów i odbiorów jakościowych."
+  },
+  {
+    "question": "6. Czym różni się Opis Produktu Projektu od Opisu Produktu?",
+    "options": [
+      "Niczym, to ten sam dokument.",
+      "Opis Produktu Projektu dotyczy całości i powstaje w SU, a Opis Produktu dotyczy pojedynczego komponentu.",
+      "Opis Produktu pisze sponsor, a Opis Produktu Projektu tester.",
+      "Opis Produktu dotyczy finansów."
+    ],
+    "correct": 1,
+    "explanation": "Project product description dotyczy całego projektu (SU), a Product description pojedynczego elementu (IP/SB)."
+  }
+]

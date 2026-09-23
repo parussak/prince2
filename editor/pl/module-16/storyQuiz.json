@@ -1,0 +1,123 @@
+[
+  {
+    "question": "Tomek przewiduje przekroczenie tolerancji Grupy Zadań. Kogo informuje?",
+    "options": [
+      "Zosię, kierownika projektu",
+      "Bezpośrednio poziom biznesu",
+      "Wyłącznie testerów",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 0,
+    "explanation": "Granica uprawnień zespołu prowadzi do kierownika projektu."
+  },
+  {
+    "question": "Kto przyjmuje, wykonuje i przekazuje Grupę Zadań?",
+    "options": [
+      "Rada Projektu",
+      "Kierownik zespołu",
+      "Nadzór projektu",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 1,
+    "explanation": "To trzy główne działania MP."
+  },
+  {
+    "question": "Zosia prognozuje przekroczenie tolerancji etapu. Co powinna zrobić?",
+    "options": [
+      "Poczekać na faktyczne opóźnienie",
+      "Samodzielnie zwiększyć tolerancję",
+      "Eskalować wyjątek do Rady",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 2,
+    "explanation": "Eskalacja wynika z prognozy, nie dopiero z zaistniałego przekroczenia."
+  },
+  {
+    "question": "Zosia uzgodniła z Tomkiem zakres integracji rankingu. Kto autoryzuje Grupę Zadań w etapie?",
+    "options": [
+      "Kierownik projektu",
+      "Kierownik zespołu",
+      "Główny dostawca",
+      "Wsparcie projektu"
+    ],
+    "correct": 0,
+    "explanation": "Kierownik projektu uzgadnia i autoryzuje pracę w CS."
+  },
+  {
+    "question": "Tomek przed rozpoczęciem pracy sprawdza wykonalność. Co kierownik zespołu robi przed wykonaniem Grupy Zadań?",
+    "options": [
+      "Ocenia i przyjmuje uzgodniony pakiet",
+      "Autoryzuje etap",
+      "Zamyka projekt",
+      "Zmienia Uzasadnienie Biznesowe"
+    ],
+    "correct": 0,
+    "explanation": "MP rozpoczyna się od przyjęcia pakietu prac."
+  },
+  {
+    "question": "Tomek co tydzień przekazuje Zosi stan API. Który raport przenosi postęp od zespołu do kierownika projektu?",
+    "options": [
+      "Raport z Punktu Kontrolnego",
+      "Raport Okresowy",
+      "Raport Końcowy Etapu",
+      "Raport Końcowy Projektu"
+    ],
+    "correct": 0,
+    "explanation": "Raport z Punktu Kontrolnego informuje kierownika projektu o pakiecie."
+  },
+  {
+    "question": "Zosia informuje Artura i Radę o postępie etapu. Który raport kierownik projektu cyklicznie przekazuje Radzie?",
+    "options": [
+      "Raport Okresowy",
+      "Raport z Punktu Kontrolnego",
+      "Raport z Lekcji",
+      "Opis Produktu"
+    ],
+    "correct": 0,
+    "explanation": "Raport Okresowy obrazuje postęp etapu dla Rady."
+  },
+  {
+    "question": "Limit API zagraża terminowi pakietu Tomka. Do kogo Tomek eskaluje prognozowane przekroczenie tolerancji pakietu?",
+    "options": [
+      "Do Zosi, kierownika projektu",
+      "Bezpośrednio do warstwy biznesowej",
+      "Do użytkownika końcowego",
+      "Do biura rachunkowego"
+    ],
+    "correct": 0,
+    "explanation": "Granica uprawnień pakietu biegnie między kierownikiem zespołu a kierownikiem projektu."
+  },
+  {
+    "question": "Nowa prognoza zagroziła już tolerancji całego etapu. Co robi Zosia, gdy prognoza przekracza tolerancję etapu?",
+    "options": [
+      "Eskalacja do Rady przez Raport Nadzwyczajny",
+      "Samodzielne podniesienie tolerancji etapu",
+      "Czekanie na ostateczne przekroczenie",
+      "Ukrycie problemu w raporcie zespołu"
+    ],
+    "correct": 0,
+    "explanation": "Prognozowany wyjątek etapu wymaga informacji i decyzji Rady."
+  },
+  {
+    "question": "Testy rankingu zostały zakończone. Co potwierdza ukończenie pakietu po wykonaniu i ocenie?",
+    "options": [
+      "Zgłoszenie ukończenia Grupy Zadań kierownikowi projektu",
+      "Sam wpis w backlogu",
+      "Autoryzacja zamknięcia całego projektu",
+      "Zgoda warstwy biznesowej"
+    ],
+    "correct": 0,
+    "explanation": "MP kończy się przekazaniem ukończonych produktów zgodnie z uzgodnieniem."
+  },
+  {
+    "question": "Zosia porównuje opóźnienia z uzgodnioną jakością rankingu. Jakie kryteria ocenia Tomek podczas dostarczania rankingu?",
+    "options": [
+      "Uzgodnione kryteria jakości Opisu Produktu",
+      "Wyłącznie subiektywną opinię programisty",
+      "Wyłącznie liczbę commitów",
+      "Wyłącznie koszt licencji"
+    ],
+    "correct": 0,
+    "explanation": "Opis Produktu wyznacza podstawę kontroli jakości."
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "question": "How many performance targets are used to control a PRINCE2 7 project?",
+    "options": [
+      "Seven",
+      "Exception plan",
+      "Project log",
+      "Stage plan"
+    ],
+    "correct": 0,
+    "explanation": "The seven targets include sustainability.",
+    "type": "standard"
+  },
+  {
+    "question": "A report from the project manager about a forecast tolerance breach is an exception [...].",
+    "options": [
+      "Report",
+      "Plan",
+      "Register",
+      "Log"
+    ],
+    "correct": 0,
+    "explanation": "The exception report supports an authorized decision.",
+    "type": "missing-word"
+  },
+  {
+    "question": "Which TWO are regular progress reports at different management levels?",
+    "options": [
+      "Highlight report; Checkpoint report",
+      "End stage report",
+      "End project report",
+      "Lessons report"
+    ],
+    "correct": 0,
+    "explanation": "The project manager reports to the board; the team manager reports to the project manager.",
+    "type": "standard"
+  },
+  {
+    "question": "Which action is outside the project manager’s delegated stage authority?",
+    "options": [
+      "Increase the stage cost tolerance without authorization",
+      "Review checkpoint reports",
+      "Send a highlight report to the board",
+      "Escalate a forecast exception"
+    ],
+    "correct": 0,
+    "explanation": "The project board sets stage tolerances.",
+    "type": "negative"
+  },
+  {
+    "question": "What is an exception plan?",
+    "options": [
+      "A replacement plan prepared in response to an exception decision",
+      "Exception plan",
+      "Project log",
+      "Stage plan"
+    ],
+    "correct": 0,
+    "explanation": "Approval replaces the plan at the affected level.",
+    "type": "standard"
+  },
+  {
+    "question": "A team manager reports progress on a work package through a checkpoint [...].",
+    "options": [
+      "Report",
+      "Register",
+      "Plan",
+      "Log"
+    ],
+    "correct": 0,
+    "explanation": "Checkpoint reports keep the project manager informed.",
+    "type": "missing-word"
+  },
+  {
+    "question": "Which TWO ideas belong to the progress practice?",
+    "options": [
+      "Management stages; Tolerances and exceptions",
+      "Checkpoint report",
+      "Highlight report",
+      "End stage report"
+    ],
+    "correct": 0,
+    "explanation": "Progress uses controls and tolerances for decisions.",
+    "type": "standard"
+  },
+  {
+    "question": "Which statement about the project log is correct?",
+    "options": [
+      "The project manager maintains it",
+      "End project report",
+      "Lessons report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "It supports control and includes the daily log.",
+    "type": "standard"
+  },
+  {
+    "question": "What does a forecast express?",
+    "options": [
+      "An estimate of future performance based on available data",
+      "Exception plan",
+      "Project log",
+      "Stage plan"
+    ],
+    "correct": 0,
+    "explanation": "It differs from current deviation."
+  },
+  {
+    "question": "Does a two day delay automatically mean an exception?",
+    "options": [
+      "No; the relevant forecast must be compared with tolerance",
+      "Work package tolerance",
+      "Stage tolerance",
+      "Project board"
+    ],
+    "correct": 0,
+    "explanation": "Exceptions are forecast breaches of tolerance."
+  },
+  {
+    "question": "Who receives a checkpoint report?",
+    "options": [
+      "Project manager, from the team manager",
+      "Checkpoint report",
+      "Highlight report",
+      "End stage report"
+    ],
+    "correct": 0,
+    "explanation": "This report communicates work package progress."
+  },
+  {
+    "question": "Who receives a highlight report?",
+    "options": [
+      "Project board, from the project manager",
+      "End project report",
+      "Lessons report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "It is a periodic board level update."
+  },
+  {
+    "question": "When is an exception report sent to the project board?",
+    "options": [
+      "When a stage is forecast to exceed its tolerance",
+      "Exception plan",
+      "Project log",
+      "Stage plan"
+    ],
+    "correct": 0,
+    "explanation": "The report escalates the forecast exception."
+  },
+  {
+    "question": "Which report assesses the whole project at closure?",
+    "options": [
+      "End project report",
+      "Work package tolerance",
+      "Stage tolerance",
+      "Project board"
+    ],
+    "correct": 0,
+    "explanation": "It summarizes final project performance."
+  },
+  {
+    "question": "How many performance targets does PRINCE2 7 use?",
+    "options": [
+      "Seven, including sustainability",
+      "Checkpoint report",
+      "Highlight report",
+      "End stage report"
+    ],
+    "correct": 0,
+    "explanation": "The other targets are benefits, cost, time, quality, scope and risk."
+  },
+  {
+    "question": "What should a team manager do about a forecast work package exception?",
+    "options": [
+      "Notify the project manager",
+      "End project report",
+      "Lessons report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "Escalation follows the delegated authority level."
+  },
+  {
+    "question": "What is a deviation?",
+    "options": [
+      "A difference between actual performance and the plan",
+      "Exception plan",
+      "Project log",
+      "Stage plan"
+    ],
+    "correct": 0,
+    "explanation": "A deviation can exist without a forecast exception."
+  },
+  {
+    "question": "Which report captures and shares lessons?",
+    "options": [
+      "Lessons report",
+      "Work package tolerance",
+      "Stage tolerance",
+      "Project board"
+    ],
+    "correct": 0,
+    "explanation": "Lessons can be used by current and future projects."
+  },
+  {
+    "question": "Which report evaluates a stage at its boundary?",
+    "options": [
+      "End stage report",
+      "Checkpoint report",
+      "Highlight report",
+      "End project report"
+    ],
+    "correct": 0,
+    "explanation": "It supports the decision on the next stage."
+  },
+  {
+    "question": "What does the board do with a forecast stage exception?",
+    "options": [
+      "Review the exception report and decide within its authority",
+      "End project report",
+      "Lessons report",
+      "Exception plan"
+    ],
+    "correct": 0,
+    "explanation": "The project manager supplies facts and options; the board decides."
+  }
+]

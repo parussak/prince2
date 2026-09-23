@@ -1,0 +1,156 @@
+[
+  {
+    "question": "Kiedy powstaje Plan Nadzwyczajny?",
+    "options": [
+      "Obowiązkowo na każdej granicy etapu",
+      "Zamiast każdego raportu",
+      "Na żądanie Rady w odpowiedzi na wyjątek",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 2,
+    "explanation": "Nie jest rutynowym planem kolejnego etapu."
+  },
+  {
+    "question": "Gdzie zapada decyzja o zatwierdzeniu kolejnego etapu?",
+    "options": [
+      "W DP",
+      "W MP",
+      "W kontroli jakości",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 0,
+    "explanation": "SB przygotowuje informacje; DP obejmuje decyzję Rady."
+  },
+  {
+    "question": "Kto przygotowuje Plan Następnego Etapu na granicy etapu?",
+    "options": [
+      "Kierownik projektu",
+      "Kierownik zespołu bez udziału PM",
+      "Warstwa biznesowa",
+      "Użytkownik końcowy"
+    ],
+    "correct": 0,
+    "explanation": "Kierownik projektu przygotowuje plan do decyzji Rady."
+  },
+  {
+    "question": "Kto autoryzuje rozpoczęcie następnego etapu?",
+    "options": [
+      "Rada Projektu",
+      "Kierownik projektu",
+      "Kierownik zespołu",
+      "Wsparcie projektu"
+    ],
+    "correct": 0,
+    "explanation": "Zarządzanie etapowe wymaga decyzji Rady przy granicy."
+  },
+  {
+    "question": "Który produkt ocenia wykonanie bety wobec zatwierdzonego planu?",
+    "options": [
+      "Raport Końcowy Etapu",
+      "Raport z Punktu Kontrolnego",
+      "Opis Grupy Zadań",
+      "Mandat Projektu"
+    ],
+    "correct": 0,
+    "explanation": "Raport Końcowy Etapu podsumowuje wyniki etapu."
+  },
+  {
+    "question": "Dlaczego Zosia aktualizuje Uzasadnienie Biznesowe?",
+    "options": [
+      "Aby sprawdzić ciągłą zasadność projektu",
+      "Aby zastąpić testy jakości",
+      "Aby delegować rozliczalność Artura",
+      "Aby automatycznie zatwierdzić następny etap"
+    ],
+    "correct": 0,
+    "explanation": "Koszty, korzyści i ryzyko mogły zmienić ocenę inwestycji."
+  },
+  {
+    "question": "Który plan daje zaktualizowany obraz całego przedsięwzięcia?",
+    "options": [
+      "Plan Projektu",
+      "Plan Zespołu",
+      "Opis Grupy Zadań",
+      "Raport z Lekcji"
+    ],
+    "correct": 0,
+    "explanation": "Plan Projektu jest planem całości; Plan Etapu uszczegóławia najbliższy etap."
+  },
+  {
+    "question": "Co robi Zosia po żądaniu Rady w związku z wyjątkiem?",
+    "options": [
+      "Przygotowuje Plan Nadzwyczajny do autoryzacji",
+      "Samodzielnie zwiększa tolerancję etapu",
+      "Usuwa Raport Nadzwyczajny",
+      "Automatycznie zamyka projekt"
+    ],
+    "correct": 0,
+    "explanation": "Plan Nadzwyczajny sporządza się w SB na żądanie Rady."
+  },
+  {
+    "question": "Czym Plan Nadzwyczajny różni się od Raportu Nadzwyczajnego?",
+    "options": [
+      "Plan proponuje zastąpienie planu; raport sygnalizuje wyjątek",
+      "Oba są tym samym dokumentem",
+      "Raport jest opisem produktu specjalistycznego",
+      "Plan wyłącznie archiwizuje lekcje"
+    ],
+    "correct": 0,
+    "explanation": "Raport ostrzega i wyjaśnia; plan określa proponowane dalsze działania."
+  },
+  {
+    "question": "Jaką informację Maya wnosi do oceny granicy etapu?",
+    "options": [
+      "Wyniki testów i zgodność produktów z oczekiwaniami użytkowników",
+      "Jednoosobową autoryzację następnego etapu",
+      "Zmianę tolerancji projektu bez Rady",
+      "Decyzję o rozwiązaniu Rady"
+    ],
+    "correct": 0,
+    "explanation": "Perspektywa Głównego Użytkownika wspiera decyzję o dalszych pracach."
+  },
+  {
+    "question": "Co ma uzasadnić prośba o następny etap?",
+    "options": [
+      "Zaktualizowana ocena etapu, planu i zasadności",
+      "Wyłącznie deklaracja, że zespół jest zajęty",
+      "Wyłącznie nazwa kolejnego sprintu",
+      "Wyłącznie podpis dostawcy"
+    ],
+    "correct": 0,
+    "explanation": "Rada potrzebuje wyników, planu i aktualnego Uzasadnienia Biznesowego."
+  },
+  {
+    "question": "Kiedy Plan Etapu otrzymuje szczegółowość?",
+    "options": [
+      "Przed danym etapem, na granicy poprzedniego",
+      "Wyłącznie po zamknięciu projektu",
+      "Zawsze tylko w mandacie",
+      "Dopiero po ukończeniu wszystkich produktów"
+    ],
+    "correct": 0,
+    "explanation": "Planowanie kroczące uszczegóławia bliski etap."
+  },
+  {
+    "question": "Co jest wynikiem wykorzystania doświadczeń minionego etapu?",
+    "options": [
+      "Lepsza ocena i plan następnego etapu",
+      "Automatyczna zmiana linii bazowej bez decyzji",
+      "Zwolnienie Rady z oceny",
+      "Rezygnacja z kontroli jakości"
+    ],
+    "correct": 0,
+    "explanation": "Lekcje wspierają aktualizację planów i podejść."
+  },
+  {
+    "question": "Co powinien zrobić PM, gdy wyniki bety podważają korzyści projektu?",
+    "options": [
+      "Zaktualizować Uzasadnienie Biznesowe i przedstawić ocenę Radzie",
+      "Kontynuować bez informowania Rady",
+      "Samodzielnie zmienić cele warstwy biznesowej",
+      "Skasować pomiar korzyści"
+    ],
+    "correct": 0,
+    "explanation": "Ciągła zasadność podlega ponownej ocenie na granicy etapu."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "question": "1. Artur (Sponsor) oświadcza, że jeśli moda na retro gry przeminie, projekt zostanie natychmiast zamknięty, nawet jeśli wydano już połowę budżetu. Które Pryncypium PRINCE2 jest tu bezpośrednio zademonstrowane?",
+    "options": [
+      "Uczenie się z doświadczeń (Learn from experience)",
+      "Ciągła zasadność biznesowa (Continued business justification)",
+      "Zarządzanie przez wyjątki (Manage by exception)",
+      "Skupienie na produktach (Focus on products)"
+    ],
+    "correct": 1,
+    "explanation": "Ciągła zasadność biznesowa oznacza, że projekt musi posiadać uzasadnienie finansowe lub strategiczne przez cały cykl życia. Jeśli opłacalność znika, projekt należy zamknąć."
+  },
+  {
+    "question": "2. Zosia nie wymyśla procesów od zera, lecz przegląda raporty z zamknięcia poprzedniej gry PixelBite ('Pixel Knight'), aby uniknąć błędów w optymalizacji. Jakie to pryncypium?",
+    "options": [
+      "Zarządzanie etapowo (Manage by stages)",
+      "Uczenie się z doświadczeń (Learn from experience)",
+      "Dostosowanie do kontekstu (Tailor to suit the project)",
+      "Definiowanie ról i odpowiedzialności"
+    ],
+    "correct": 1,
+    "explanation": "Uczenie się z doświadczeń (Learn from experience) nakazuje szukanie lekcji z poprzednich projektów, wyciąganie wniosków w trakcie oraz przekazywanie ich na koniec."
+  },
+  {
+    "question": "3. Maya (Główny Użytkownik) żąda, aby gra spełniała wyśrubowane normy ekologiczne (Sustainability). W której części architektury PRINCE2 7th Ed znajduje się odniesienie do zrównoważonego rozwoju?",
+    "options": [
+      "Jest to 8. dodatkowe Pryncypium.",
+      "Jest to jeden ze wskaźników wydajności (Performance targets / Aspect) w ramach sterowania oraz element Business Case.",
+      "PRINCE2 nie zajmuje się ekologią.",
+      "Jest to osobny proces uruchamiany po CP."
+    ],
+    "correct": 1,
+    "explanation": "W PRINCE2 7th Edition Zrównoważony Rozwój (Sustainability) został dodany jako kluczowy cel/aspekt wydajności projektu (obok czasu, kosztów, jakości, zakresu, korzyści i ryzyka)."
+  },
+  {
+    "question": "4. Artur chce kontrolować finansowanie gry w mniejszych porcjach. Zosia dzieli projekt na 3 etapy zarządcze. Które pryncypium realizują?",
+    "options": [
+      "Zarządzanie Etapowo (Manage by stages)",
+      "Zarządzanie przez wyjątki",
+      "Skupienie na produktach",
+      "Dostosowanie do kontekstu"
+    ],
+    "correct": 0,
+    "explanation": "Zarządzanie etapowo zapewnia przydzielanie zasobów i ocenę opłacalności na granicach kolejnych etapów zarządczych."
+  },
+  {
+    "question": "5. Marek proponuje pominięcie formalnych opisów ról, bo 'wszyscy w studio się znają'. Zosia odmawia. Dlaczego jaśniała rol jest kluczowa w PRINCE2?",
+    "options": [
+      "Bo tak nakazuje prawo pracy.",
+      "Pryncypium 'Defined roles, responsibilities and relationships' wymaga jawnego określenia struktur biznesu, użytkowników i dostawców.",
+      "Żeby zatrudnić więcej kierowników.",
+      "Rolami zarządza wyłącznie zewnętrzny audytor."
+    ],
+    "correct": 1,
+    "explanation": "Jasno zdefiniowane role i odpowiedzialności zapobiegają chaosowi i zapewniają reprezentację biznesu, użytkowników i dostawców."
+  },
+  {
+    "question": "6. Gra SnakeBite jest niewielkim projektem indie. Zosia upraszcza dokumentację i skraca raporty. Z jakiego pryncypium skorzystała?",
+    "options": [
+      "Skupienie na produktach",
+      "Ciągła zasadność biznesowa",
+      "Dostosowanie do środowiska projektu (Tailor to suit the project)",
+      "Zarządzanie przez wyjątki"
+    ],
+    "correct": 2,
+    "explanation": "Dostosowanie (Tailoring) gwarantuje, że metodyka jest proporcjonalna do wielkości, skali, ryzyka i skomplikowania projektu."
+  }
+]

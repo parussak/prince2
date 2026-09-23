@@ -1,0 +1,68 @@
+[
+  {
+    "question": "1. Zosia planuje prace nad SnakeBite w oparciu o produkty. Jaki dokument tworzy w pierwszej kolejności?",
+    "options": [
+      "Diagram Gantta",
+      "Opis Produktu Projektu (Project product description)",
+      "Plan Wyjątku",
+      "Rejestr Jakości"
+    ],
+    "correct": 1,
+    "explanation": "Pierwszym krokiem Techniki Planowania Opartego na Produktach jest opracowanie Opisu Produktu Projektu."
+  },
+  {
+    "question": "2. Zosia tworzy hierarchiczne drzewo dzielące grę na silnik, grafikę i dźwięk. Jak nazywa się to narzędzie?",
+    "options": [
+      "Struktura Podziału Produktów (PBS)",
+      "Diagram Przepływu Produktów (PFD)",
+      "Rejestr Zagadnień",
+      "Plan Zespołu"
+    ],
+    "correct": 0,
+    "explanation": "PBS (Product breakdown structure) to hierarchiczne drzewo podziału wszystkich produktów."
+  },
+  {
+    "question": "3. Aby pokazać Markowi, że integracja grafiki wymaga wcześniejszego ukończenia silnika, Zosia układa produkty w sekwencję. Co przygotowała?",
+    "options": [
+      "Diagram Przepływu Produktów (PFD)",
+      "Strukturę Podziału Prac (WBS)",
+      "Plan Awaryjny",
+      "Podejście do Jakości"
+    ],
+    "correct": 0,
+    "explanation": "PFD (Product flow diagram) pokazuje sekwencję i zależności (dependencies) między produktami."
+  },
+  {
+    "question": "4. Lider Zespołu programistów tworzy własny, wewnętrzny harmonogram prac dla nowej Paczki Prac. Jaki to poziom planu?",
+    "options": [
+      "Plan Projektu",
+      "Plan Etapu",
+      "Plan Zespołu (Team plan)",
+      "Plan Wyjątku"
+    ],
+    "correct": 2,
+    "explanation": "Plan Zespołu jest opcjonalnym planem tworzonym przez TM na potrzeby realizacji Paczki Prac."
+  },
+  {
+    "question": "5. Po wystąpieniu wyjątkowego opóźnienia Rada Projektu nakazuje Zosi przygotowanie planu zastępczego. Co sporządzi Zosia?",
+    "options": [
+      "Plan Wyjątku (Exception plan)",
+      "Plan Zespołu",
+      "Wniosek o Zmianę",
+      "Rejestr Ryzyk"
+    ],
+    "correct": 0,
+    "explanation": "Plan Wyjątku zastępuje dotychczasowy plan etapu lub projektu po wystąpieniu wyjątku."
+  },
+  {
+    "question": "6. Kiedy w technice planowania opartego na produktach następuje szacowanie zasobów i układanie harmonogramu czasowego?",
+    "options": [
+      "Przed zdefiniowaniem produktów.",
+      "Dopiero PO zidentyfikowaniu i opisaniu produktów oraz ułożeniu PFD.",
+      "Jednocześnie z pisaniem kodu.",
+      "Planowanie nie obejmuje harmonogramowania."
+    ],
+    "correct": 1,
+    "explanation": "PRINCE2 nakazuje najpierw zdefiniować produkty, a dopiero potem szacować koszty, zasoby i harmonogram."
+  }
+]

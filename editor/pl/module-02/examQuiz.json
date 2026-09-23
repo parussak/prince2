@@ -1,0 +1,98 @@
+[
+  {
+    "type": "standard",
+    "question": "Ile wynosi dokładna liczba Pryncypiów (Principles) w metodyce PRINCE2 7th Edition?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "W PRINCE2 istnieje dokładnie 7 Pryncypiów. Wszystkie są uniwersalne i obowiązkowe."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nStosowanie metodyki PRINCE2 bez wdrażania wszystkich 7 Pryncypiów określa się potocznie jako projekt [...].",
+    "options": [
+      "Agile-PRINCE",
+      "PINO (PRINCE in Name Only)",
+      "Hybrid-PRINCE",
+      "Draft-PRINCE"
+    ],
+    "correct": 1,
+    "explanation": "Projekt, który deklaruje użycie PRINCE2, ale odrzuca chociaż jedno z 7 pryncypiów, nosi nazwę PINO (PRINCE w samej nazwie)."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA elementy z poniższej listy są ZINTEGROWANYMI ELEMENTAMI (Integrated Elements) architektury PRINCE2 7th Edition? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Ludzie (People).  2. Praktyki (Practices).  3. Wykresy Gantta (Gantt Charts).  4. Oprogramowanie JIRA.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "4 Integrated Elements w PRINCE2 7 edycji to: Pryncypia, Ludzie, Praktyki oraz Procesy."
+  },
+  {
+    "type": "negative",
+    "question": "Które z poniższych twierdzeń NIE JEST jednym z 7 Pryncypiów PRINCE2?",
+    "options": [
+      "Ciągła zasadność biznesowa",
+      "Obowiązkowe użycie oprogramowania MS Project",
+      "Zarządzanie przez wyjątki",
+      "Skupienie na produktach"
+    ],
+    "correct": 1,
+    "explanation": "PRINCE2 jest metodą niezależną od konkretnych narzędzi programistycznych i IT – użycie MS Project nie jest pryncypium."
+  },
+  {
+    "type": "standard",
+    "question": "Co definiuje pojęcie 'Sustainability' (Zrównoważony Rozwój) wprowadzone silniej w PRINCE2 7th Ed?",
+    "options": [
+      "Dbanie wyłącznie o maksymalny zysk finansowy spółki.",
+      "Uwzględnianie wpływu środowiskowego, społecznego i gospodarczego w cyklu życia projektu.",
+      "Gwarancja braku poprawek w kodzie źródłowym.",
+      "Zatrudnianie wyłącznie lokalnych podwykonawców."
+    ],
+    "correct": 1,
+    "explanation": "Sustainability w 7 edycji oznacza integrację celów środowiskowych, społecznych i ekonomicznych (ESG) w zarządzaniu projektem."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nProces, w którym następuje pierwsze pre-projektowe zweryfikowanie czy projekt warto w ogóle inicjować, to [...] a project.",
+    "options": [
+      "Initiating",
+      "Starting up",
+      "Directing",
+      "Controlling"
+    ],
+    "correct": 1,
+    "explanation": "Proces Starting up a project (SU) odbywa się przed projektem i służy do weryfikacji czy warto przystąpić do inicjowania."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA cele należą do 7 Wskaźników Wydajności (Performance Targets / Aspects) sterowania projektem w PRINCE2 7? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Zarządzanie Czasem (Time).  2. Zarządzanie Zrównoważonym Rozwojem (Sustainability).  3. Liczba obserwujących na TikToku.  4. Marka osobista Kierownika Projektu.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "7 aspektów wydajności to: Czas, Koszt, Jakość, Zakres, Korzyści, Ryzyko oraz Zrównoważony Rozwój."
+  },
+  {
+    "type": "standard",
+    "question": "Która cecha opisuje Dokumentację Inicjującą Projekt (PID)?",
+    "options": [
+      "Powstaje w procesie inicjowania projektu",
+      "Powstaje w całości w SU",
+      "Zastępuje każdy Plan Etapu",
+      "Zawiera wyłącznie wyniki kontroli jakości"
+    ],
+    "correct": 0,
+    "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+  }
+]

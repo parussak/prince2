@@ -1,0 +1,68 @@
+[
+  {
+    "question": "1. Bartek (programista) i Tomek (grafik) spierają się o wydajność retro-grafiki. Zosia organizuje warsztat ustalający wspólne priorytety i budujący zaufanie. Jaki obszar elementu People zastosowała?",
+    "options": [
+      "Zarządzanie Zmianą Organizacyjną (OCM)",
+      "Kultura i Zespół (Culture & Team)",
+      "Zarządzanie Umowami z Dostawcami",
+      "Delegowanie Tolerancji"
+    ],
+    "correct": 1,
+    "explanation": "Obszar 'Kultura i Zespół' odpowiada za budowanie wartości, rozwiązywanie konfliktów, zaufanie oraz atmosferę współpracy."
+  },
+  {
+    "question": "2. Pracownicy PixelBite boją się, że nowa gra zastąpi dotychczasowe flagowe produkcje studia. Zosia przygotowuje warsztaty i plan transformacji nawyków. Jakie działanie podjęła?",
+    "options": [
+      "Wdrożyła Zarządzanie Zmianą Organizacyjną (Organizational Change Management - OCM).",
+      "Przekroczyła tolerancję ryzyka.",
+      "Zrezygnowała z odbioru jakościowego.",
+      "Wpisała błąd do Dziennika Projektu."
+    ],
+    "correct": 0,
+    "explanation": "OCM w PRINCE2 7 odpowiada za przeprowadzenie ludzi przez zmianę postaw, zachowań i nawyków w celu akceptacji nowości."
+  },
+  {
+    "question": "3. Zosia zauważa, że Artur (Sponsor) wydaje polecenia zespołowi programistów z pominięciem Lidera Zespołu. Zosia rozmawia z Arturem o szanowaniu struktury. Co reprezentuje Zosia?",
+    "options": [
+      "Przywództwo (Leadership) i budowanie kultury organizacyjnej.",
+      "Zarządzanie Wyjątkami.",
+      "Brak uprawnień w metodyce.",
+      "Zamknięcie etapu."
+    ],
+    "correct": 0,
+    "explanation": "Leadership w PRINCE2 oznacza motywowanie, wywieranie wpływu i obronę zasad współpracy zespołu z interesariuszami."
+  },
+  {
+    "question": "4. Dział marketingu nie wie, kiedy dostanie materiały do promocji gry. Zosia tworzy dokument określający częstotliwość i formę raportów dla każdego działu. Jaki dokument opracowała?",
+    "options": [
+      "Podejście do Zarządzania Komunikacją (Communication Management Approach)",
+      "Plan Wyjątku",
+      "Opis Produktu Projektu",
+      "Dziennik Odbiorów"
+    ],
+    "correct": 0,
+    "explanation": "Podejście do Zarządzania Komunikacją definiuje jak, kiedy i z kim prowadzona jest wymiana informacji."
+  },
+  {
+    "question": "5. Podczas kryzysu technicznego Zosia nie szuka winnych, lecz skupia się na rozwiązaniu problemu, zachęcając programistów do szczerego przyznawania się do błędów. Co buduje w zespole?",
+    "options": [
+      "Bezpieczeństwo Psychologiczne (Psychological Safety) w ramach kultury zespołu.",
+      "Silosy informacyjne.",
+      "Zwiększone ryzyko prawne.",
+      "Proces SU."
+    ],
+    "correct": 0,
+    "explanation": "Bezpieczeństwo psychologiczne w elementach People pozwala zespołowi zgłaszać problemy bez strachu przed karą."
+  },
+  {
+    "question": "6. Dlaczego Element 'People' został dodany jako czwarty filar w 7. edycji PRINCE2?",
+    "options": [
+      "Ponieważ same procesy i procedury nie gwarantują sukcesu, jeśli ludzie nie współpracują i nie akceptują zmian.",
+      "Żeby zwiększyć liczbę pytań na egzaminie.",
+      "Aby zastąpić zarządzanie finansami.",
+      "Tylko ze względów prawnych."
+    ],
+    "correct": 0,
+    "explanation": "Ludzie są spoiwem projektów – bez przywództwa, komunikacji i OCM nawet najlepsze plany kończą się porażką."
+  }
+]

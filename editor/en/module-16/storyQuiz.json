@@ -1,0 +1,123 @@
+[
+  {
+    "question": "Tomek forecasts a work package tolerance breach. Whom does he inform?",
+    "options": [
+      "Zosia, the project manager",
+      "Team manager",
+      "Project board",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "The team manager escalates a forecast work package exception to the project manager."
+  },
+  {
+    "question": "Who accepts, delivers and hands over a work package?",
+    "options": [
+      "Team manager",
+      "Project manager",
+      "Project board",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "Managing product delivery defines the team manager’s interaction with the project manager."
+  },
+  {
+    "question": "Zosia forecasts a breach of stage tolerance. What should she do?",
+    "options": [
+      "Escalate the exception to the project board",
+      "Authorize a new management stage whenever a work package starts",
+      "Treat a checkpoint report as the board’s authorization to increase stage tolerance",
+      "Have the team manager approve changes to the project baseline"
+    ],
+    "correct": 0,
+    "explanation": "The project manager lacks authority to change stage tolerances unilaterally."
+  },
+  {
+    "question": "Who authorizes a work package during a stage?",
+    "options": [
+      "Project manager",
+      "Team manager",
+      "Project board",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "Controlling a stage includes authorizing work packages."
+  },
+  {
+    "question": "What does Tomek do before starting an assigned work package?",
+    "options": [
+      "Review and accept the agreed work package",
+      "Authorize a new management stage whenever a work package starts",
+      "Treat a checkpoint report as the board’s authorization to increase stage tolerance",
+      "Have the team manager approve changes to the project baseline"
+    ],
+    "correct": 0,
+    "explanation": "Acceptance confirms that scope, constraints and controls are workable."
+  },
+  {
+    "question": "Which report tells Zosia how Tomek’s API work package is progressing?",
+    "options": [
+      "Checkpoint report",
+      "Highlight report",
+      "Exception report",
+      "End stage report"
+    ],
+    "correct": 0,
+    "explanation": "Team managers report work package progress to project managers."
+  },
+  {
+    "question": "Which periodic report does Zosia send to the project board?",
+    "options": [
+      "Highlight report",
+      "Checkpoint report",
+      "Exception report",
+      "End stage report"
+    ],
+    "correct": 0,
+    "explanation": "Highlight reports give the board a summary of stage progress."
+  },
+  {
+    "question": "Whom does Tomek tell about a forecast work package tolerance breach?",
+    "options": [
+      "The project manager",
+      "Team manager",
+      "Project board",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "Work package tolerance is delegated by the project manager."
+  },
+  {
+    "question": "What does Zosia do when her stage forecast exceeds tolerance?",
+    "options": [
+      "Send an exception report to the project board",
+      "Authorize a new management stage whenever a work package starts",
+      "Treat a checkpoint report as the board’s authorization to increase stage tolerance",
+      "Have the team manager approve changes to the project baseline"
+    ],
+    "correct": 0,
+    "explanation": "A forecast stage exception must be escalated to the board."
+  },
+  {
+    "question": "How is completed work package delivery reported to the project manager?",
+    "options": [
+      "Notify the project manager that the work package is complete",
+      "Checkpoint report",
+      "Highlight report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "The team manager hands over completed products and reports completion."
+  },
+  {
+    "question": "What quality basis does Tomek use when delivering the ranking API?",
+    "options": [
+      "The agreed product description criteria",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "Quality criteria are agreed in the product description."
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "q": "Czym różni się Quality Control od Quality Assurance?",
+    "a": "Control testuje produkty; Assurance to niezależny audyt procesów i standardów."
+  },
+  {
+    "q": "Co zawiera Opis Produktu (Product description)?",
+    "a": "Specyfikację pojedynczego produktu, jego kryteria jakościowe i metody kontroli."
+  },
+  {
+    "q": "Co zawiera Rejestr Jakości (Quality register)?",
+    "a": "Wykaz wszystkich zaplanowanych i przeprowadzonych testów oraz ich wyników."
+  },
+  {
+    "q": "Co to są Kryteria Akceptacji?",
+    "a": "Mierzalne wymagania, których spełnienie warunkuje odbiór produktu końcowego przez klienta."
+  },
+  {
+    "q": "Czym są Oczekiwania Jakościowe Użytkownika?",
+    "a": "Ogólnym oświadczeniem na początku projektu określającym wymaganą jakość."
+  },
+  {
+    "q": "Kiedy powstaje Opis Produktu Projektu?",
+    "a": "W procesie SU (Starting Up a Project)."
+  },
+  {
+    "q": "Co to jest Tolerancja Jakości?",
+    "a": "Dopuszczalne odchylenie od parametrów jakościowych w Opisie Produktu."
+  },
+  {
+    "q": "Kto odpowiada za zatwierdzenie kryteriów akceptacji?",
+    "a": "Główny Użytkownik oraz Zleceniodawca."
+  },
+  {
+    "q": "Przeznaczenie praktyki Jakość?",
+    "a": "Dokumentować wymagania użytkowników dotyczące produktów i określić sposób ich spełnienia."
+  },
+  {
+    "q": "Planowanie, kontrola, zapewnienie jakości?",
+    "a": "Planowanie ustala wymagania i ramy; kontrola bada zgodność; zapewnienie ocenia, czy planowanie i kontrola są wystarczające."
+  },
+  {
+    "q": "SLA a SLT?",
+    "a": "SLA to uzgodnienie poziomu usługi; SLT to konkretny cel. Mogą dostarczać wymagań, ale nie wyczerpują planowania jakości."
+  },
+  {
+    "q": "Piramida testów i CI?",
+    "a": "Techniki IT wspierające kontrolę, a nie obowiązkowe składniki PRINCE2. Zielony build nie zastępuje akceptacji."
+  },
+  {
+    "q": "Podejście do Zarządzania Jakością?",
+    "a": "Zakres, procedury, role, zasoby, techniki, standardy i odniesienia; część PID."
+  },
+  {
+    "q": "Kryteria akceptacji a specyfikacje jakościowe?",
+    "a": "Pierwsze określają warunki przyjęcia całości; drugie miary i poziomy dla konkretnych produktów."
+  },
+  {
+    "q": "Quality assurance a project assurance?",
+    "a": "Pierwsze zapewnia adekwatność jakości i jest zwykle niezależne od zespołu; drugie wspiera Radę w nadzorze nad prowadzeniem projektu."
+  },
+  {
+    "q": "Rejestr Jakości a Rejestr Produktów?",
+    "a": "Pierwszy zapisuje kontrole i wyniki; drugi produkty, status i akceptację."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "q": "What is the time difference between SU ​​and IP?",
+    "a": "SU is a short pre-project process; IP is the first full management stage (Initiation)."
+  },
+  {
+    "q": "What is the main product of the SU process?",
+    "a": "Project Brief and Initiation Stage Plan."
+  },
+  {
+    "q": "What is the main product of the IP process?",
+    "a": "PID (Project Initiation Documentation)."
+  },
+  {
+    "q": "What is the process behind the Project Board's decision-making?",
+    "a": "Directing a project (DP)."
+  },
+  {
+    "q": "How many management stages must a PRINCE2 project have?",
+    "a": "At least two: the Initiation Stage and at least one delivery stage."
+  },
+  {
+    "q": "Who creates the Project Brief?",
+    "a": "The Project Manager, supported by the Executive, during the SU process."
+  },
+  {
+    "q": "Can the project end after the SU process?",
+    "a": "Yes, if the Project Board determines in the DP process that the project lacks business justification."
+  },
+  {
+    "q": "What does PID contain?",
+    "a": "Business Case, Project Plan, Management Approaches (Risk, Quality, Communication), Role Structures."
+  }
+]

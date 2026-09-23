@@ -1,0 +1,82 @@
+[
+  {
+    "q": "Jaki jest cel procesu CP (Closing a Project)?",
+    "a": "Zapewnienie kontrolowanego zamknięcia, potwierdzenie odbioru i przekazanie produktów do BAU."
+  },
+  {
+    "q": "Kto formalnie zamyka projekt?",
+    "a": "Rada Projektu (Project Board) w procesie DP, na wniosek PM z procesu CP."
+  },
+  {
+    "q": "Co to jest BAU (Business as Usual)?",
+    "a": "Działalność operacyjna firmy, do której przekazywane są produkty projektu."
+  },
+  {
+    "q": "Co zawiera Raport Końcowy Projektu (End project report)?",
+    "a": "Ocena wykonania projektu względem pierwotnych celów i linii bazowych."
+  },
+  {
+    "q": "Co zawiera Raport z Lekcji (Lessons report)?",
+    "a": "Doświadczenia, wnioski i dobre praktyki z projektu do wykorzystania w przyszłości."
+  },
+  {
+    "q": "Co to są Rekomendacje Działań Następczych?",
+    "a": "Wykaz otwartych ryzyk, zagadnień i sugestii rozwoju przekazywany do zespołu BAU."
+  },
+  {
+    "q": "Czy proces CP stosuje się przy przedwczesnym zamknięciu?",
+    "a": "Tak, CP obsługuje również przedwczesne zakończenie projektu (premature closure)."
+  },
+  {
+    "q": "Co dzieje się z korzyściami w procesie CP?",
+    "a": "Oceniane są korzyści już uzyskane, a plan pomiaru pozostałych korzyści jest aktualizowany."
+  },
+  {
+    "q": "Co potwierdza spełnienie kryteriów akceptacji SnakeBite?",
+    "a": "Dowody jakości i formalna akceptacja właściwego odbiorcy. Akceptacja odnosi się do Opisu Produktu Końcowego Projektu."
+  },
+  {
+    "q": "Kto przygotowuje rekomendację zamknięcia?",
+    "a": "Kierownik projektu. PM wykonuje CP i zwraca się do Rady o decyzję."
+  },
+  {
+    "q": "Kto formalnie autoryzuje zamknięcie?",
+    "a": "Rada Projektu. Autoryzacja zamknięcia należy do DP."
+  },
+  {
+    "q": "Czy CP stosuje się przy przedwczesnym zamknięciu?",
+    "a": "Tak, przygotowuje kontrolowane zakończenie. Przedwczesne zamknięcie wymaga oceny i przekazania odpowiedzialności."
+  },
+  {
+    "q": "Z czym Zosia porównuje wynik całości w Raporcie Końcowym Projektu?",
+    "a": "Z DIP, Planem Projektu i Uzasadnieniem Biznesowym. Raport ocenia wyniki wobec zatwierdzonych podstaw projektu."
+  },
+  {
+    "q": "Co zrobić z otwartym ryzykiem utrzymania API?",
+    "a": "Ująć je w zaleceniach działań następczych i przypisać właściciela. Po zamknięciu ktoś musi przejąć odpowiedzialność."
+  },
+  {
+    "q": "Co zrobić z korzyściami możliwymi do pomiaru dopiero po wydaniu?",
+    "a": "Zaplanować przegląd zgodnie z Podejściem do Zarządzania Korzyściami. Pomiar korzyści może następować po rozwiązaniu projektu."
+  },
+  {
+    "q": "Co powinno zostać przekazane do eksploatacji?",
+    "a": "Zaakceptowane produkty i odpowiedzialność za ich utrzymanie. Przekazanie zapewnia ciągłość działania po projekcie."
+  },
+  {
+    "q": "Co ocenia Raport Końcowy Projektu?",
+    "a": "Wykonanie projektu i odchylenia względem jego podstaw. To podsumowanie całości na zamknięcie."
+  },
+  {
+    "q": "Czego dotyczy Raport z Lekcji?",
+    "a": "Doświadczeń przydatnych w przyszłych projektach. Lekcje dokumentują wiedzę do ponownego użycia."
+  },
+  {
+    "q": "Co należy zrobić przy planowanym zamknięciu?",
+    "a": "Sprawdzić dostarczenie, akceptację, przekazanie i działania następcze. CP przygotowuje kontrolowaną rekomendację dla Rady."
+  },
+  {
+    "q": "Co jest prawidłowe przy przedwczesnym zamknięciu?",
+    "a": "Ocenić osiągnięte produkty oraz nierozstrzygnięte zobowiązania. Należy bezpiecznie rozliczyć to, co powstało, i pozostające sprawy."
+  }
+]

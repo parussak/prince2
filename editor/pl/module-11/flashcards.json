@@ -1,0 +1,82 @@
+[
+  {
+    "q": "Czym jest Tolerancja w PRINCE2?",
+    "a": "Dopuszczalnym odchyleniem od planowanych celów (np. czasu, kosztu) bez konieczności eskalacji."
+  },
+  {
+    "q": "Co musi zrobić PM, gdy prognozuje przekroczenie tolerancji?",
+    "a": "Niezwłocznie sporządzić Raport o Wyjątku (Exception Report) do Rady Projektu."
+  },
+  {
+    "q": "Czym rozróżnia się Highlight Report od Checkpoint Report?",
+    "a": "Highlight Report składa PM do Rady; Checkpoint Report składa TM do PM."
+  },
+  {
+    "q": "Wymień 7 sfer tolerancji w PRINCE2 7.",
+    "a": "Czas, Koszt, Jakość, Zakres, Korzyści, Ryzyko, Zrównoważony Rozwój."
+  },
+  {
+    "q": "Kto zatwierdza Plan Wyjątku (Exception Plan)?",
+    "a": "Rada Projektu (Project Board)."
+  },
+  {
+    "q": "Do czego służy Dziennik Projektu (Daily Log)?",
+    "a": "Do roboczego rejestrowania codziennych zdarzeń, problemów i zadań PM."
+  },
+  {
+    "q": "Jaka jest główna zaleta Zarządzania przez Wyjątki?",
+    "a": "Oszczędność czasu wyższego kierownictwa poprzez interwencję tylko w sytuacjach awaryjnych."
+  },
+  {
+    "q": "Czy Lider Zespołu może posiadać własne tolerancje?",
+    "a": "Tak, PM może przydzielić tolerancje dla Paczki Prac (Work Package)."
+  },
+  {
+    "q": "Co oznacza prognoza w kontroli postępu?",
+    "a": "Przewidywanie przyszłego stanu na podstawie danych. Prognoza pozwala ocenić przyszłe przekroczenie tolerancji."
+  },
+  {
+    "q": "Czy dwudniowy poślizg zawsze stanowi wyjątek?",
+    "a": "Nie, istotna jest prognoza względem właściwej tolerancji. Wyjątek zachodzi przy prognozowanym przekroczeniu tolerancji."
+  },
+  {
+    "q": "Do kogo trafia Raport z Punktu Kontrolnego?",
+    "a": "Do kierownika projektu od kierownika zespołu. Ten raport umożliwia PM kontrolę pakietu."
+  },
+  {
+    "q": "Do kogo trafia Raport Okresowy?",
+    "a": "Do Rady Projektu od kierownika projektu. Raport Okresowy wspiera cykliczną kontrolę Rady."
+  },
+  {
+    "q": "Kiedy Zosia przekazuje Raport Nadzwyczajny?",
+    "a": "Gdy prognoza przekracza tolerancję etapu. Wyjątek etapu jest eskalowany do Rady."
+  },
+  {
+    "q": "Który raport służy ocenie całego projektu przy zamknięciu?",
+    "a": "Raport Końcowy Projektu. Raport Końcowy Projektu ocenia wyniki całego projektu."
+  },
+  {
+    "q": "Ile celów wykonania uwzględnia PRINCE2 7?",
+    "a": "Siedem, w tym zrównoważony rozwój. Pełna lista to korzyści, koszty, czas, jakość, zakres, ryzyko i zrównoważony rozwój."
+  },
+  {
+    "q": "Co robi Tomek, gdy prognoza pakietu przekracza jego tolerancję?",
+    "a": "Informuje Zosię, kierownika projektu. Eskaluje na następny poziom delegacji."
+  },
+  {
+    "q": "Co oznacza odchylenie?",
+    "a": "Różnicę między stanem wykonania a planem. Rzeczywiste odchylenie i prognoza przyszłości to odrębne pojęcia."
+  },
+  {
+    "q": "Który raport przekazuje uogólnione doświadczenia projektu?",
+    "a": "Raport z Lekcji. Raport z Lekcji pomaga przyszłym projektom."
+  },
+  {
+    "q": "Który raport podsumowuje etap na jego granicy?",
+    "a": "Raport Końcowy Etapu. Na granicy etapu porównuje się wynik z Planem Etapu."
+  },
+  {
+    "q": "Jak Rada reaguje na prognozowany wyjątek etapu?",
+    "a": "Ocenia Raport Nadzwyczajny i podejmuje decyzję w swoich uprawnieniach. Zarządzanie przez wyjątki wymaga właściwej decyzji na wyższym poziomie."
+  }
+]

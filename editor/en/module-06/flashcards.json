@@ -1,0 +1,98 @@
+[
+  {
+    "q": "List the 4 levels of management in PRINCE2.",
+    "a": "Project commissioning (business layer) → Orientation (project board) → Management (project manager) → Delivery (team managers)."
+  },
+  {
+    "q": "Who constitutes the Project Board?",
+    "a": "Executive, Senior User (Senior User), Senior Supplier (Senior Supplier)."
+  },
+  {
+    "q": "Who is ultimately responsible for the project's success?",
+    "a": "project executive (Executive)."
+  },
+  {
+    "q": "What functions cannot be performed by the Project Manager?",
+    "a": "He cannot be a member of the Project Board (including the Executive) or perform Project Assurance."
+  },
+  {
+    "q": "What does Project Assurance do?",
+    "a": "Independent monitoring of work on behalf of the Project Board (business, users, suppliers)."
+  },
+  {
+    "q": "What does Project Support do?",
+    "a": "Administration, record keeping and PM tool support."
+  },
+  {
+    "q": "What is the name of the role responsible for delivering the Work Package?",
+    "a": "Team Manager."
+  },
+  {
+    "q": "Can the Project Board have only one member?",
+    "a": "Yes, if the Executive also takes on the roles of Senior User and Senior Supplier."
+  },
+  {
+    "q": "What is the goal of the Organization practice?",
+    "a": "The purpose of the Organization practice is to define and establish a project accountability and responsibility structure (who)."
+  },
+  {
+    "q": "What is the business layer preparing?",
+    "a": "Commissioning the project to complete it with an outline that the project board agrees to."
+  },
+  {
+    "q": "Who appoints the Executive and can his or her accountability be delegated?",
+    "a": "It is determined by business. It is a single point of accountability for the project; this accountability CANNOT be delegated."
+  },
+  {
+    "q": "What approach is the Senior User accountable for?",
+    "a": "For the approach to capturing user requirements and benefit specifications aligned with the business case."
+  },
+  {
+    "q": "What two areas is the Senior Supplier responsible for?",
+    "a": "For the quality of products delivered by suppliers and the technical integrity of the project."
+  },
+  {
+    "q": "List the 7 management areas of a project manager.",
+    "a": "Benefits, costs, time, risk, quality, scope, sustainability."
+  },
+  {
+    "q": "On whose behalf does the Project Manager act and within what limits?",
+    "a": "On behalf of the Project Board, within agreed tolerances and limits."
+  },
+  {
+    "q": "How does the PM assign work to the Team Manager?",
+    "a": "In the form of a description of the Work Package, in accordance with the Commercial Management Approach."
+  },
+  {
+    "q": "Does securing arrangements only apply to formal contracts?",
+    "a": "NO. PM secures ALL arrangements: formal contracts with external suppliers and informal arrangements with colleagues, such as when and how changes are made."
+  },
+  {
+    "q": "Who MUST NOT be entrusted with Project Assurance?",
+    "a": "The project manager, team members or project support."
+  },
+  {
+    "q": "Does appointing people to Project Oversight transfer the accountability of the Board?",
+    "a": "NO. Board members remain accountable for the oversight of their areas."
+  },
+  {
+    "q": "Who is responsible for Project Support by default?",
+    "a": "Project Manager. Can delegate this responsibility; Project support can be established as a project office."
+  },
+  {
+    "q": "What needs does Business represent?",
+    "a": "Meeting business needs and providing value for money. Representative: Executive."
+  },
+  {
+    "q": "Who is covered by the User side of interest?",
+    "a": "People who use, operate, maintain or support the results, and those who are affected by the results. Representative: Senior User."
+  },
+  {
+    "q": "What does the Supplier's side of interest bring?",
+    "a": "Resources with specific skills needed to produce products. Representative: Senior Supplier."
+  },
+  {
+    "q": "What work limits apply to the Team Manager?",
+    "a": "Agreed specifications and tolerances agreed with the Project Manager."
+  }
+]

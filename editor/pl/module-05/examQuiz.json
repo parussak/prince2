@@ -1,0 +1,197 @@
+[
+  {
+    "type": "standard",
+    "question": "Jaka jest prawidłowa definicja Uzasadnienia Biznesowego (Business Case) w PRINCE2?",
+    "options": [
+      "Harmonogram urlopów programistów.",
+      "Dokument uzasadniający potrzebę realizacji projektu, stanowiący podstawę do oceny jego opłacalności i zasadności.",
+      "Lista testów jednostkowych kodu.",
+      "Instrukcja obsługi smartfona."
+    ],
+    "correct": 1,
+    "explanation": "Business Case uzasadnia realizację projektu i weryfikuje czy inwestycja się opłaca."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nMierzalna poprawa wynikająca z rezultatu (Outcome), stanowiąca cel dla inwestora, to w PRINCE2 [...].",
+    "options": [
+      "Produkt (Output)",
+      "Korzyść (Benefit)",
+      "Zagadnienie",
+      "Tolerancja"
+    ],
+    "correct": 1,
+    "explanation": "Korzyść (Benefit) jest mierzalnym, pozytywnym efektem używania produktów."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA elementy zaliczają się do łańcucha wartości PRINCE2 (Value Chain)? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Rezultat (Outcome).  2. Korzyść (Benefit).  3. Środki Trwałe Urzędu Miasta.  4. Rejestr Kar Umownych.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "Łańcuch wartości to: Produkt (Output) -> Rezultat (Outcome) -> Korzyść (Benefit)."
+  },
+  {
+    "type": "negative",
+    "question": "Które ze stwierdzeń na temat Niekorzyści (Disbenefit) NIE JEST prawdziwe?",
+    "options": [
+      "Jest to świadomie przewidziany i zaakceptowany negatywny skutek projektu.",
+      "Uwzględnia się ją w bilansie Uzasadnienia Biznesowego.",
+      "Jest tym samym co Ryzyko i znika po 2 dniach.",
+      "Przykładowem niekorzyści może być czasowy spadek sprawności działu operacyjnego podczas szkolenia."
+    ],
+    "correct": 2,
+    "explanation": "Niekorzyść NIE JEST ryzykiem – ryzyko jest niepewne, a niekorzyść jest pewnym, negatywnym skutkiem!"
+  },
+  {
+    "type": "standard",
+    "question": "Kto jest rozliczalny za realizację korzyści zapisanych w Uzasadnieniu Biznesowym?",
+    "options": [
+      "Kierownik Projektu",
+      "Zleceniodawca",
+      "Główny Użytkownik",
+      "Kierownik Zespołu"
+    ],
+    "correct": 2,
+    "explanation": "Główny Użytkownik odpowiada za realizację korzyści; Zleceniodawca odpowiada za Uzasadnienie Biznesowe w trakcie projektu (podręcznik, tabela 5.1)."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nDokument określający harmonogram oraz procedury pomiaru osiąganych korzyści poprojektowych to Podejście do Zarządzania [...].",
+    "options": [
+      "Jakością",
+      "Korzyściami (Benefits Management Approach)",
+      "Ryzykiem",
+      "Zamówieniami"
+    ],
+    "correct": 1,
+    "explanation": "Benefits Management Approach określa zasady i terminy weryfikacji korzyści."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA cele przyświecają przeglądowi Business Case na granicach etapów (Managing a Stage Boundary)? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Potwierdzenie, czy projekt wciąż jest opłacalny biznesowo.  2. Decyzja o kontynuacji lub ewentualnym wcześniejszym zamknięciu projektu.  3. Zakup nowego ekspresu do kawy do biura.  4. Zmiana nazwy handlowej firmy.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "Na granicach etapów sprawdzamy ciągłą zasadność biznesową (Business Case) przed wyłożeniem dalszych kwot."
+  },
+  {
+    "type": "standard",
+    "question": "Co należy uwzględnić w Uzasadnieniu Biznesowym?",
+    "options": [
+      "Oczekiwane korzyści, niekorzyści, koszty i ryzyka",
+      "Wyłącznie kod źródłowy",
+      "Wyłącznie opis produktu zespołu",
+      "Jedynie wyniki testów jednostkowych"
+    ],
+    "correct": 0,
+    "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+  },
+  {
+    "question": "Co jest przeznaczeniem praktyki Uzasadnienie biznesowe?",
+    "options": [
+      "Wyłącznie uzyskanie początkowego budżetu",
+      "Ciągła ocena pożądania, wykonalności i osiągalności efektów projektu",
+      "Zastąpienie Planu Projektu",
+      "Wyłącznie ustalenie harmonogramu zespołu"
+    ],
+    "correct": 1,
+    "explanation": "Praktyka wspiera decyzje o dalszym inwestowaniu przez cały projekt."
+  },
+  {
+    "question": "Na czym dokument Uzasadnienie Biznesowe opiera zasadność inwestycji?",
+    "options": [
+      "Na kosztach zestawionych z korzyściami z uwzględnieniem ryzyk",
+      "Wyłącznie na przychodzie",
+      "Na liczbie gotowych produktów",
+      "Na liczbie członków Komitetu Sterującego"
+    ],
+    "correct": 0,
+    "explanation": "Dokument uwzględnia szacowane koszty, oczekiwane korzyści i ryzyka oraz sposób i termin pomiaru korzyści."
+  },
+  {
+    "question": "Gra jest technicznie możliwa do wykonania, lecz nie dotrze do odbiorców. Który test jest zagrożony?",
+    "options": [
+      "Viable — wykonanie produktów",
+      "Achievable — osiągnięcie rezultatów i korzyści",
+      "Żaden, jeśli projekt mieści się w budżecie",
+      "Viable — utrzymanie projektu jako inwestycji"
+    ],
+    "correct": 1,
+    "explanation": "Wytworzenie produktu nie wystarcza, jeśli jego użycie nie doprowadzi do oczekiwanych efektów."
+  },
+  {
+    "question": "Gdzie znajduje się wstępne Uzasadnienie Biznesowe?",
+    "options": [
+      "W Zarysie Projektu",
+      "Wyłącznie w Raporcie Końcowym Projektu",
+      "W Rejestrze Jakości",
+      "W rejestrze zagadnień"
+    ],
+    "correct": 0,
+    "explanation": "Outline business case powstaje w SU jako część Project Brief; jest rozwijany w IP."
+  },
+  {
+    "question": "Co oznacza maintain w technice zarządzania uzasadnieniem biznesowym?",
+    "options": [
+      "Jednorazowe zatwierdzenie dokumentu",
+      "Odbiór produktów",
+      "Aktualizację danych o wykonaniu i prognoz",
+      "Zastąpienie dokumentu przez protokół odbioru"
+    ],
+    "correct": 2,
+    "explanation": "Utrzymywanie aktualności uwzględnia rzeczywisty postęp i nowe prognozy oraz kontrolę wersji."
+  },
+  {
+    "question": "Czym jest capability w łańcuchu wartości?",
+    "options": [
+      "Kompletnym zestawem produktów potrzebnych do osiągnięcia rezultatu",
+      "Samą korzyścią finansową",
+      "Listą ryzyk",
+      "Pojedynczym działaniem harmonogramu bez produktów"
+    ],
+    "correct": 0,
+    "explanation": "Zdolność powstaje dzięki odpowiedniemu zestawowi produktów; ich wykorzystanie umożliwia zmianę."
+  },
+  {
+    "question": "Który przykład jest rezultatem (outcome)?",
+    "options": [
+      "Przetestowany system płatności",
+      "Gracze korzystają z nowego kanału zakupów",
+      "Kod źródłowy gry",
+      "Sama prognoza przychodów przed uruchomieniem gry"
+    ],
+    "correct": 1,
+    "explanation": "Rezultat to zmiana zachowania lub warunków, a pozostałe przykłady to produkty."
+  },
+  {
+    "question": "Gdzie zapisujemy działania, przeglądy i kontrolę celów sustainability?",
+    "options": [
+      "W podejściu do zarządzania zrównoważonym rozwojem",
+      "Wyłącznie w opisie roli testera",
+      "Wyłącznie w raporcie finansowym",
+      "Wyłącznie w rejestrze zagadnień"
+    ],
+    "correct": 0,
+    "explanation": "Podejście jest częścią PID/DIP i określa sposób zapewnienia osiągnięcia celów."
+  },
+  {
+    "question": "Czy zamknięcie projektu kończy konieczność potwierdzania korzyści?",
+    "options": [
+      "Tak, wszystkie korzyści muszą już istnieć",
+      "Nie, część przeglądów odbywa się po projekcie",
+      "Tak, jeśli odebrano produkty",
+      "Nie, jeśli zakończono etap końcowy"
+    ],
+    "correct": 1,
+    "explanation": "Biznes musi zapewnić dalsze przeglądy; Główny Użytkownik jest rozliczalny za potwierdzenie korzyści."
+  }
+]

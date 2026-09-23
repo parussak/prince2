@@ -1,0 +1,123 @@
+[
+  {
+    "question": "Who leads the project direction process?",
+    "options": [
+      "Team leader",
+      "Project Board",
+      "Project support",
+      "The change management approach"
+    ],
+    "correct": 1,
+    "explanation": "DP serves to implement the Project Board's responsibilities."
+  },
+  {
+    "question": "The Project Board approved the initiation. Does this mean consent to full implementation?",
+    "options": [
+      "No, these are separate decisions",
+      "Yes, always",
+      "Yes, if there is a Project Brief",
+      "The project manager"
+    ],
+    "correct": 0,
+    "explanation": "First, the basis for an informed decision about implementation is created."
+  },
+  {
+    "question": "Who manages SnakeBite within the established tolerances on a day-to-day basis?",
+    "options": [
+      "The entire Project Board",
+      "Business level",
+      "Zosia",
+      "The change management approach"
+    ],
+    "correct": 2,
+    "explanation": "Day-to-day management is delegated to the project manager."
+  },
+  {
+    "question": "After the Project Brief, Artur asks for permission to continue preparation. Who authorizes SnakeBite initiation?",
+    "options": [
+      "Project Board",
+      "Team leader",
+      "Testers",
+      "Project support"
+    ],
+    "correct": 0,
+    "explanation": "The Board evaluates the Project Brief and the initiation stage plan."
+  },
+  {
+    "question": "Zosia has finished initiating and presents PID. Who authorizes the implementation of the project after initiation?",
+    "options": [
+      "Project Board",
+      "Tomek alone",
+      "API provider only",
+      "End user"
+    ],
+    "correct": 0,
+    "explanation": "The Board is considering the PID and the Business Case."
+  },
+  {
+    "question": "Tomek asks Artur to assign daily tasks. Who manages the day-to-day operations within the stage tolerances?",
+    "options": [
+      "Zosia, project manager",
+      "Artur through ticket allocation",
+      "Business layer",
+      "All Project Board members without PM"
+    ],
+    "correct": 0,
+    "explanation": "The PM carries out day-to-day management within the delegation."
+  },
+  {
+    "question": "The beta is coming to an end and Zosia presents her release plan. What does the Project Board assess at the stage boundary?",
+    "options": [
+      "Stage result, validity and Next Stage Plan",
+      "Only the number of commits",
+      "Only Tomek's schedule",
+      "Only the name of the release"
+    ],
+    "correct": 0,
+    "explanation": "Phased management bases further commitments on current data."
+  },
+  {
+    "question": "Zosia escalates the forecast stage exception. What does the Board do with the Exception Report?",
+    "options": [
+      "Evaluates the exception and provides decisions or directions",
+      "Automatically accepts all changes",
+      "It replaces the product description",
+      "Rewrites the team's plan without a PM"
+    ],
+    "correct": 0,
+    "explanation": "DP includes ongoing targeting and response to exceptions."
+  },
+  {
+    "question": "The forecast violates the tolerance of the entire project. Where does projected project tolerance exceedance go?",
+    "options": [
+      "To the business layer above the Project Board",
+      "To the developer only",
+      "To the test user",
+      "To the Quality Register without a decision"
+    ],
+    "correct": 0,
+    "explanation": "The Project Board operates within the limits of tolerance delegated by business."
+  },
+  {
+    "question": "Zosia collected proof of acceptance of the release. On what basis does the Project Board authorize a closure?",
+    "options": [
+      "The recommendation and End Project Report",
+      "Only green CI",
+      "Only Tomek's news",
+      "Calendar dates only"
+    ],
+    "correct": 0,
+    "explanation": "The PM prepares the CP, the Project Board formally closes the DP."
+  },
+  {
+    "question": "Artur asks about single-person accountability for the project. Who is the single point of accountability for the project?",
+    "options": [
+      "Artur as the Executive",
+      "Zosia as project manager",
+      "Tomek as team leader",
+      "Each tester separately"
+    ],
+    "correct": 0,
+    "explanation": "The Executive is responsible for the project at Project Board level."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "q": "What is PINO?",
+    "a": "Informal shorthand for PRINCE2 in name only: a project that does not apply all seven principles is not managed using PRINCE2."
+  },
+  {
+    "q": "Name the five integrated elements of PRINCE2 7.",
+    "a": "Principles, people, practices, processes, and the project context."
+  },
+  {
+    "q": "How many Principles are there in PRINCE2, and are they mandatory?",
+    "a": "There are exactly seven, and all of them are mandatory."
+  },
+  {
+    "q": "What does the principle ‘Focus on products’ mean?",
+    "a": "Planning and delivering the project through the lens of its products and their quality specifications, rather than through activities alone."
+  },
+  {
+    "q": "What is the main purpose of the Starting up a project (SU) process?",
+    "a": "To ensure that the basic assumptions are satisfied and that the project is justified before funds are released for initiation."
+  },
+  {
+    "q": "What does the abbreviation PID stand for?",
+    "a": "Project initiation documentation: the agreed reference for directing and managing the project."
+  },
+  {
+    "q": "Name the seven performance aspects in PRINCE2 7.",
+    "a": "Time, Cost, Quality, Scope, Benefits, Risk, and Sustainability."
+  },
+  {
+    "q": "What does the Tailoring principle involve?",
+    "a": "Adapting the method to the scale, complexity, risk, and organizational context."
+  }
+]

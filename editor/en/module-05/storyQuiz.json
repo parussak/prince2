@@ -1,0 +1,68 @@
+[
+  {
+    "question": "1. Artur calculates that creating SnakeBite costs PLN 500,000 and the projected profit from the application is PLN 1.3 million. Where are these financial calculations recorded?",
+    "options": [
+      "In the Business Case",
+      "In the Quality Register",
+      "In the Project Journal",
+      "In the Team Leader Role Description"
+    ],
+    "correct": 0,
+    "explanation": "The Business Case contains financial and strategic justification for the profitability of the investment."
+  },
+  {
+    "question": "Zosia submits the finished .apk application file to the Google Play Store. What is this file in PRINCE2 terminology?",
+    "options": [
+      "Product (Output)",
+      "Outcome",
+      "Benefit",
+      "Disbenefit"
+    ],
+    "correct": 0,
+    "explanation": "A Product (Output) is a direct, specialized deliverable produced by project work."
+  },
+  {
+    "question": "3. Players download the app and start spending an average of 30 minutes a day on it. What is this change in user behavior?",
+    "options": [
+      "Outcome",
+      "Product (Output)",
+      "Disbenefit",
+      "Exception Plan"
+    ],
+    "correct": 0,
+    "explanation": "An Outcome is a change resulting from users' adoption or use of the Products."
+  },
+  {
+    "question": "4. PixelBite's financial department records a payment of PLN 800,000. PLN of pure profit from micropayments. What is this measurable positive effect called?",
+    "options": [
+      "Benefit",
+      "Product (Output)",
+      "Outcome",
+      "Tolerance"
+    ],
+    "correct": 0,
+    "explanation": "A Benefit is a measurable improvement resulting from an Outcome and represents an investment objective."
+  },
+  {
+    "question": "5. Players' complaints about server overload and the costs of additional cooling were included in the calculation as a negative effect of the project. What is this?",
+    "options": [
+      "Disbenefit",
+      "Risk of avoidance",
+      "Programming error",
+      "Stage exception"
+    ],
+    "correct": 0,
+    "explanation": "A Disbenefit is a negative but anticipated and accepted effect of a project."
+  },
+  {
+    "question": "6. Who prepares the Benefits Management Approach, specifying how and when benefits will be measured post-launch?",
+    "options": [
+      "Project Manager (PM), commissioned by and accountable to the Executive.",
+      "Indie game analyst.",
+      "Computer graphic designer.",
+      "External app store."
+    ],
+    "correct": 0,
+    "explanation": "The project manager develops the approach as delegated by the executive; the senior user agrees it and is accountable for realizing the benefits."
+  }
+]

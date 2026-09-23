@@ -1,0 +1,98 @@
+[
+  {
+    "type": "standard",
+    "question": "What is the main difference between Management and Leadership in PRINCE2 7th Edition?",
+    "options": [
+      "Management concerns finance, while leadership concerns marketing.",
+      "Management focuses on planning, structure, and control, while Leadership focuses on motivating, influencing, and guiding people.",
+      "There is no difference; they are synonyms.",
+      "Leadership is performed exclusively by an external consultant."
+    ],
+    "correct": 1,
+    "explanation": "Management provides operational efficiency through processes, while Leadership motivates and engages people to achieve objectives."
+  },
+  {
+    "type": "missing-word",
+    "question": "Complete the following sentence:\nThe process of supporting individuals and teams in moving from their current state to a desired state so that they adopt changes from the project is Organizational Change [...].",
+    "options": [
+      "Technical",
+      "Management (OCM)",
+      "Budget",
+      "Quality"
+    ],
+    "correct": 1,
+    "explanation": "OCM (Organizational Change Management) focuses on the human side of implementing change."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO topics are covered in the People chapter of PRINCE2 7? Choose ONE pair of true statements. 1. Leading successful teams.  2. Leading successful change.  3. Programming language selection.  4. Server inventory.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "Chapter 3 addresses context, leading successful change, leading successful teams and communication."
+  },
+  {
+    "type": "negative",
+    "question": "Which of the following behaviours is NOT an example of effective Leadership in a project?",
+    "options": [
+      "Actively listening to and supporting team members as they solve problems.",
+      "Publicly blaming and punishing developers for unexpected errors in the code.",
+      "Clearly communicating the project's vision and business objective.",
+      "Building trust and a culture of accountability."
+    ],
+    "correct": 1,
+    "explanation": "Public blame damages psychological safety and contradicts good leadership."
+  },
+  {
+    "type": "standard",
+    "question": "When should Organizational Change Management (OCM) activities begin according to PRINCE2 7?",
+    "options": [
+      "Only after the project has closed.",
+      "At the very beginning of the project, already in SU/IP, and continue throughout the life cycle.",
+      "Only when a strike occurs in the company.",
+      "In the final week before launch."
+    ],
+    "correct": 1,
+    "explanation": "Change management should be considered early and maintained throughout the project, with its approach captured in the PID."
+  },
+  {
+    "type": "missing-word",
+    "question": "Complete the following sentence:\nAn environment in which team members are not afraid to speak openly about mistakes and report risks is known as psychological [...].",
+    "options": [
+      "Financial stability",
+      "Safety",
+      "Physical stability",
+      "Legal certainty"
+    ],
+    "correct": 1,
+    "explanation": "Psychological Safety is the foundation of a healthy team culture in PRINCE2."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO tasks belong to the Project Manager's responsibilities for communication management? Choose ONE pair of true statements. 1. Define how project stakeholders exchange information.  2. Ensure that affected people can provide feedback.  3. Write every advertisement personally.  4. Email each customer individually.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "The PM is responsible for strategically planning and overseeing project communication with stakeholders."
+  },
+  {
+    "type": "standard",
+    "question": "How does PRINCE2 7 address people in a project?",
+    "options": [
+      "Integrates people with principles, practices and processes",
+      "Treats people as an isolated final process",
+      "Excludes organizational culture from planning",
+      "Restricts communication to one-way reports"
+    ],
+    "correct": 0,
+    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
+  }
+]

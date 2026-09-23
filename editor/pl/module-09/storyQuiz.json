@@ -1,0 +1,68 @@
+[
+  {
+    "question": "1. Kamil zgłasza: 'Serwery chmurowe mogą mieć spadek wydajności w grudniu, co opóźni testy o 2 tygodnie'. Jak Zosia klasyfikuje to zdarzenie?",
+    "options": [
+      "Zagrożenie (Threat)",
+      "Szansa (Opportunity)",
+      "Niekorzyść",
+      "Wyjątek etapu"
+    ],
+    "correct": 0,
+    "explanation": "Zagrożenie (Threat) to niepewne zdarzenie, które – jeśli nastąpi – wywrze negatywny wpływ na cele projektu."
+  },
+  {
+    "question": "2. Maya informuje: 'Apple organizuje tydzień gier retro. Jeśli prześlemy naszą grę do weryfikacji do 15 listopada, trafimy na stronę główną App Store!'. Co to jest?",
+    "options": [
+      "Szansa (Opportunity)",
+      "Zagrożenie",
+      "Produkt specjalistyczny",
+      "Inicjowanie"
+    ],
+    "correct": 0,
+    "explanation": "Szansa (Opportunity) to niepewne zdarzenie, które – jeśli zajdzie – przyniesie pozytywne skutki dla korzyści/celów."
+  },
+  {
+    "question": "3. Zosia postanawia kupić dedykowaną, gwarantowaną przepustość serwerów, aby całkowicie wyeliminować ryzyko przeciążenia. Jaką strategię reakcji na zagrożenie zastosowała?",
+    "options": [
+      "Unikanie (Avoid)",
+      "Akceptacja (Accept)",
+      "Przekazanie (Transfer)",
+      "Dzielenie (Share)"
+    ],
+    "correct": 0,
+    "explanation": "Unikanie (Avoid) zmiana planu eliminująca zagrożenie na 100% (np. usunięcie przyczyny)."
+  },
+  {
+    "question": "4. PixelBite kupuje polisę ubezpieczeniową od awarii serwerów. Jeśli serwery padną, ubezpieczyciel pokryje koszty kar. Jaka to strategia?",
+    "options": [
+      "Przekazanie (Transfer)",
+      "Redukcja (Reduce)",
+      "Unikanie",
+      "Plan Awaryjny"
+    ],
+    "correct": 0,
+    "explanation": "Przekazanie (Transfer) polega na przeniesieniu finansowych konsekwencji ryzyka na stronę trzecią."
+  },
+  {
+    "question": "5. Zosia wyznacza Lidera Zespołu (TM) do bieżącego sprawdzania parametrów chmury i wdrożenia skryptu naprawczego, gdy obciążenie skoczy do 90%. Kim jest TM?",
+    "options": [
+      "Risk Actionee (Wykonawca Reakcji na Ryzyko)",
+      "Risk Owner (Właściciel Ryzyka)",
+      "Zleceniodawca",
+      "Audytor"
+    ],
+    "correct": 0,
+    "explanation": "Risk Actionee wykonuje konkretne działania operacyjne w reakcji na sygnał wyzwalający (trigger)."
+  },
+  {
+    "question": "6. Gdzie Zosia zapisuje opis ryzyka, jego prawdopodobieństwo, wpływ, wyznaczoną reakcję oraz Właściciela Ryzyka?",
+    "options": [
+      "W Rejestrze Ryzyk (Risk Register)",
+      "W Rejestrze Jakości",
+      "W Dzienniku Projektu",
+      "W Raportie Końcowym"
+    ],
+    "correct": 0,
+    "explanation": "Rejestr Ryzyk zbiera i śledzi wszystkie zidentyfikowane zagrożenia i szanse wraz z ich parametrami."
+  }
+]

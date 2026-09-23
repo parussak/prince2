@@ -1,0 +1,230 @@
+[
+  {
+    "question": "What is the purpose of closing a project?",
+    "options": [
+      "To confirm acceptance and bring the project to a controlled end",
+      "Treat passing a test as the same as formal product acceptance",
+      "Close the project while unresolved commitments have no owner",
+      "Assume all forecast benefits have already been realized at handover"
+    ],
+    "correct": 0,
+    "explanation": "Closure gives a clear point to release resources and assign follow-on work.",
+    "type": "standard"
+  },
+  {
+    "question": "Unresolved issues and future development are passed on as follow-on action [...].",
+    "options": [
+      "Recommendations",
+      "Register",
+      "Plan",
+      "Budget"
+    ],
+    "correct": 0,
+    "explanation": "These recommendations identify owners and needed action.",
+    "type": "missing-word"
+  },
+  {
+    "question": "Which TWO management products support a review of project performance at closure?",
+    "options": [
+      "End project report and lessons report",
+      "Checkpoint report and team plan",
+      "Issue register and quality register",
+      "Risk management approach and project brief"
+    ],
+    "correct": 0,
+    "explanation": "One assesses results and the other records transferable experience.",
+    "type": "standard"
+  },
+  {
+    "question": "Which statement about closing a project is FALSE?",
+    "options": [
+      "The project manager authorizes closure without consulting the project board",
+      "The project board considers the closure recommendation",
+      "The project manager prepares the end project report",
+      "Premature closure still requires orderly handover"
+    ],
+    "correct": 0,
+    "explanation": "The board authorizes closure after considering a recommendation.",
+    "type": "negative"
+  },
+  {
+    "question": "The organization’s ongoing operating environment is known as [...].",
+    "options": [
+      "BAU",
+      "PID",
+      "PFD",
+      "PBS"
+    ],
+    "correct": 0,
+    "explanation": "BAU means business as usual.",
+    "type": "missing-word"
+  },
+  {
+    "question": "What happens to project resources during controlled closure?",
+    "options": [
+      "They are released back to the organization",
+      "Use a checkpoint report to authorize closure",
+      "Discard incomplete products without assessing their value",
+      "Leave ongoing operational responsibilities with the disbanded project team"
+    ],
+    "correct": 0,
+    "explanation": "Closure includes confirming that project responsibilities can end.",
+    "type": "standard"
+  },
+  {
+    "question": "Which TWO actions matter for premature closure?",
+    "options": [
+      "Safeguard useful products and assign remaining commitments",
+      "Discard unfinished products and cancel every supplier obligation",
+      "Start a new stage and increase tolerance without board approval",
+      "Reject any operational handover and close all risks automatically"
+    ],
+    "correct": 0,
+    "explanation": "Premature closure still requires controlled handover and follow-on ownership.",
+    "type": "standard"
+  },
+  {
+    "question": "Which report does the project manager prepare when recommending closure?",
+    "options": [
+      "End project report",
+      "Checkpoint report",
+      "Highlight report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "It assesses performance and the project’s outcome.",
+    "type": "standard"
+  },
+  {
+    "question": "What demonstrates that acceptance criteria have been met?",
+    "options": [
+      "Quality evidence and formal acceptance",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "The authorized recipient must accept the products."
+  },
+  {
+    "question": "Who drafts the closure recommendation?",
+    "options": [
+      "Project manager",
+      "Team manager",
+      "Project board",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "The manager prepares the evidence for board review."
+  },
+  {
+    "question": "Who authorizes project closure?",
+    "options": [
+      "Project board",
+      "Project manager",
+      "Team manager",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "The board makes the final decision."
+  },
+  {
+    "question": "Is closing a project used when funding is withdrawn early?",
+    "options": [
+      "Yes; it manages premature closure",
+      "Yes, because product acceptance proves all intended benefits",
+      "Yes, because processes and stages always match one to one",
+      "No, because the project manager cannot plan any stages"
+    ],
+    "correct": 0,
+    "explanation": "The process still evaluates what was delivered and what remains open."
+  },
+  {
+    "question": "What does the end project report compare with final results?",
+    "options": [
+      "Project initiation documentation, project plan and business case",
+      "Checkpoint report",
+      "Highlight report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "The comparison highlights performance against approved expectations."
+  },
+  {
+    "question": "Where should an open risk affecting API support be handled?",
+    "options": [
+      "Follow-on action recommendations with an owner",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "The risk passes to post-project governance or operations."
+  },
+  {
+    "question": "How are benefits measurable only six months after launch handled?",
+    "options": [
+      "Schedule a benefits review under the benefits management approach",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "Closing the project is not the end of benefit measurement."
+  },
+  {
+    "question": "What is transferred into business as usual?",
+    "options": [
+      "Accepted products and responsibility for their operation",
+      "Use a checkpoint report to authorize closure",
+      "Discard incomplete products without assessing their value",
+      "Leave ongoing operational responsibilities with the disbanded project team"
+    ],
+    "correct": 0,
+    "explanation": "Handover includes ownership and support arrangements."
+  },
+  {
+    "question": "What does the end project report assess?",
+    "options": [
+      "Overall performance and deviations from approved baselines",
+      "Checkpoint report",
+      "Highlight report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "It informs the board’s closure decision."
+  },
+  {
+    "question": "What is the lessons report for?",
+    "options": [
+      "Sharing experience useful to future projects",
+      "Checkpoint report",
+      "Highlight report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "Lessons should be made available to others."
+  },
+  {
+    "question": "What must be checked before planned closure?",
+    "options": [
+      "Delivery, acceptance, handover and follow-on actions",
+      "Treat passing a test as the same as formal product acceptance",
+      "Close the project while unresolved commitments have no owner",
+      "Assume all forecast benefits have already been realized at handover"
+    ],
+    "correct": 0,
+    "explanation": "These checks show whether the project can end cleanly."
+  },
+  {
+    "question": "What should be assessed during premature closure?",
+    "options": [
+      "Products completed and outstanding obligations",
+      "Use a checkpoint report to authorize closure",
+      "Discard incomplete products without assessing their value",
+      "Leave ongoing operational responsibilities with the disbanded project team"
+    ],
+    "correct": 0,
+    "explanation": "Controlled closure accounts for both assets and commitments."
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "type": "standard",
+    "question": "Jaka jest główna różnica między Zarządzaniem (Management) a Przywództwem (Leadership) w PRINCE2 7th Edition?",
+    "options": [
+      "Zarządzanie dotyczy finansów, a przywództwo marketingu.",
+      "Zarządzanie skupia się na planowaniu, strukturze i kontroli, podczas gdy Przywództwo na motywowaniu, wywieraniu wpływu i prowadzeniu ludzi.",
+      "Nie ma żadnej różnicy, to synonimy.",
+      "Przywództwo wykonuje wyłącznie zewnętrzny konsultant."
+    ],
+    "correct": 1,
+    "explanation": "Zarządzanie dostarcza sprawność operacyjną (procesy), a Przywództwo motywuje i angażuje ludzi do osiągania celów."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nProces wspierania jednostek i zespołów w przejściu ze stanu obecnego do pożądanego w celu przyjęcia zmian z projektu to Zarządzanie Zmianą [...].",
+    "options": [
+      "Techniczną",
+      "Organizacyjną (OCM)",
+      "Budżetową",
+      "Jakościową"
+    ],
+    "correct": 1,
+    "explanation": "OCM (Organizational Change Management) skupia się na ludzkiej stronie wdrażania zmian."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA zagadnienia omawia rozdział Ludzie? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Przewodzenie skutecznym zespołom. 2. Przewodzenie skutecznej zmianie. 3. Wybór języka programowania. 4. Inwentaryzacja serwerów.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "Podręcznik omawia kontekst, przewodzenie skutecznej zmianie i zespołom oraz komunikację; podejście do zarządzania zmianą jest produktem zarządczym."
+  },
+  {
+    "type": "negative",
+    "question": "Które z poniższych zachowań NIE JEST przykładem skutecznego Przywództwa (Leadership) w projekcie?",
+    "options": [
+      "Aktywne słuchanie i wspieranie członków zespołu w rozwiązywaniu problemów.",
+      "Publiczne obwinianie i karanie programistów za nieprzewidziane błędy w kodzie.",
+      "Jasne komunikowanie wizji i celu biznesowego projektu.",
+      "Budowanie zaufania i kultury odpowiedzialności."
+    ],
+    "correct": 1,
+    "explanation": "Publiczne obwinianie niszczy bezpieczeństwo psychologiczne i jest zaprzeczeniem dobrego przywództwa."
+  },
+  {
+    "type": "standard",
+    "question": "Kiedy wg PRINCE2 7 należy rozpocząć działania z zakresu Zarządzania Zmianą Organizacyjną (OCM)?",
+    "options": [
+      "Dopiero po zamknięciu projektu.",
+      "Na samym początku projektu (już w SU/IP) i kontynuować przez cały cykl życia.",
+      "Wyłącznie wtedy, gdy wystąpi strajk w firmie.",
+      "W ostatnim tygodniu przed premierą."
+    ],
+    "correct": 1,
+    "explanation": "OCM musi być planowane od samego początku projektu, aby skutecznie przygotować organizację na przyjęcie produktów."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nŚrodowisko, w którym członkowie zespołu nie boją się otwarcie mówić o błędach i zgłaszać ryzyk, określa się jako bezpieczeństwo [...].",
+    "options": [
+      "Majątkowe",
+      "Psychologiczne",
+      "Fizyczne",
+      "Prawne"
+    ],
+    "correct": 1,
+    "explanation": "Bezpieczeństwo psychologiczne (Psychological Safety) jest fundamentem zdrowej kultury zespołu w PRINCE2."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA zadania należą do obowiązków Kierownika Projektu w zakresie zarządzania komunikacją? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Opracowanie Podejścia do Zarządzania Komunikacją w IP.  2. Zapewnienie dwukierunkowego przepływu informacji z interesariuszami.  3. Pisanie treści wszystkich postów sprzedażowych na Facebooku.  4. Osobiste wysyłanie maili do każdego klienta kupującego grę.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "PM odpowiada za strategiczne zaplanowanie i nadzorowanie komunikacji projektowej z interesariuszami."
+  },
+  {
+    "type": "standard",
+    "question": "Jak PRINCE2 7 uwzględnia ludzi w projekcie?",
+    "options": [
+      "Integruje ich z pryncypiami, praktykami i procesami",
+      "Traktuje ich jako osobny proces końcowy",
+      "Wyłącza kulturę organizacji z planowania",
+      "Ogranicza komunikację do jednokierunkowych raportów"
+    ],
+    "correct": 0,
+    "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+  }
+]

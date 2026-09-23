@@ -1,0 +1,98 @@
+[
+  {
+    "type": "standard",
+    "question": "What is the exact number of Principles in the PRINCE2 7th Edition method?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "PRINCE2 has exactly seven Principles. All of them are universal and mandatory."
+  },
+  {
+    "type": "missing-word",
+    "question": "Complete the following sentence:\nUsing the PRINCE2 method without applying all seven Principles is commonly described as a [...] project.",
+    "options": [
+      "Agile-PRINCE",
+      "PINO (PRINCE in Name Only)",
+      "Hybrid-PRINCE",
+      "Draft-PRINCE"
+    ],
+    "correct": 1,
+    "explanation": "All seven principles must be applied for a project to be managed using PRINCE2; PINO is a colloquial label, not an official process."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO of the following are integrated elements of PRINCE2 7? Choose ONE pair of true statements. 1. People.  2. Practices.  3. Gantt charts.  4. Jira software.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "The textbook identifies five integrated elements: principles, people, practices, processes and the project context."
+  },
+  {
+    "type": "negative",
+    "question": "Which of the following statements is NOT one of the seven PRINCE2 Principles?",
+    "options": [
+      "Continued business justification",
+      "Mandatory use of MS Project",
+      "Manage by exception",
+      "Focus on products"
+    ],
+    "correct": 1,
+    "explanation": "PRINCE2 is independent of specific programming and IT tools; using MS Project is not a Principle."
+  },
+  {
+    "type": "standard",
+    "question": "What does the concept of Sustainability, given greater emphasis in PRINCE2 7th Edition, define?",
+    "options": [
+      "Focusing exclusively on the company’s maximum financial profit.",
+      "Considering environmental, social, and economic impacts throughout the project life cycle.",
+      "Guaranteeing that the source code will never need corrections.",
+      "Hiring only local subcontractors."
+    ],
+    "correct": 1,
+    "explanation": "In the 7th Edition, Sustainability means integrating environmental, social, and economic (ESG) objectives into project management."
+  },
+  {
+    "type": "missing-word",
+    "question": "Complete the following sentence:\nThe process in which the project is first assessed, before the project is initiated, to determine whether it is worth pursuing is [...] a project.",
+    "options": [
+      "Initiating",
+      "Starting up",
+      "Directing",
+      "Controlling"
+    ],
+    "correct": 1,
+    "explanation": "The Starting up a project (SU) process takes place before the project and checks whether it is worth proceeding to initiation."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO objectives belong to the seven Performance Targets/Aspects used to control a project in PRINCE2 7? Choose ONE pair of true statements. 1. Time.  2. Sustainability.  3. Number of social media followers.  4. The project manager’s personal brand.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "The seven performance aspects are Time, Cost, Quality, Scope, Benefits, Risk, and Sustainability."
+  },
+  {
+    "type": "standard",
+    "question": "Which statement correctly describes the project initiation documentation (PID)?",
+    "options": [
+      "It is assembled during initiating a project",
+      "It is completed entirely during starting up a project",
+      "It replaces every stage plan",
+      "It contains only quality test results"
+    ],
+    "correct": 0,
+    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
+  }
+]

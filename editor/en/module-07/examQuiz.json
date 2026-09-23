@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the sequence in product based planning?",
+    "options": [
+      "Project product description, PBS, product descriptions, PFD",
+      "Work package description",
+      "Risk register",
+      "Product register"
+    ],
+    "correct": 0,
+    "explanation": "Describe the overall product before decomposing and sequencing products.",
+    "type": "standard"
+  },
+  {
+    "question": "A hierarchical view of all products in scope is the product breakdown [...].",
+    "options": [
+      "Structure (PBS)",
+      "Register",
+      "Budget",
+      "Tolerance"
+    ],
+    "correct": 0,
+    "explanation": "PBS stands for product breakdown structure.",
+    "type": "missing-word"
+  },
+  {
+    "question": "Which TWO are PRINCE2 planning levels? Choose ONE pair of true statements. 1. Project plan.  2. Stage plan.  3. Daily log.  4. Risk register.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "Project and stage plans describe work at different management levels.",
+    "type": "standard"
+  },
+  {
+    "question": "Which statement about exception plans is FALSE?",
+    "options": [
+      "An exception plan is produced automatically at the start of every stage",
+      "It responds to a decision about an exception",
+      "An approved plan may replace a stage plan",
+      "It helps the board consider continued viability"
+    ],
+    "correct": 0,
+    "explanation": "An exception plan is prepared in response to an exception decision.",
+    "type": "negative"
+  },
+  {
+    "question": "A diagram showing the sequence and dependencies between products is a product flow [...].",
+    "options": [
+      "Diagram (PFD)",
+      "Register",
+      "Report",
+      "Approach"
+    ],
+    "correct": 0,
+    "explanation": "The PFD shows the order in which products are developed.",
+    "type": "missing-word"
+  },
+  {
+    "question": "When developing a project plan, what is described first in the product analysis part of the planning technique?",
+    "options": [
+      "The project product",
+      "Product register",
+      "An external dependency",
+      "A checkpoint report"
+    ],
+    "correct": 0,
+    "explanation": "The project product description is produced for the project plan; it is not rewritten for every stage or team plan (manual, figure 7.4).",
+    "type": "standard"
+  },
+  {
+    "question": "Which TWO are developed while estimating and scheduling a plan? Choose ONE pair of true statements. 1. Required resources.  2. Schedule.  3. Personal brand.  4. Social media popularity.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "Estimates inform the resources and timetable.",
+    "type": "standard"
+  },
+  {
+    "question": "Who normally approves a team plan?",
+    "options": [
+      "The project manager",
+      "The project board as a stage plan",
+      "Corporate management",
+      "Quality assurance as a project plan"
+    ],
+    "correct": 0,
+    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority.",
+    "type": "standard"
+  },
+  {
+    "question": "Why does PRINCE2 use the plans practice?",
+    "options": [
+      "To define products and how they will be delivered, enabling communication and control",
+      "Product description",
+      "Work package description",
+      "Risk register"
+    ],
+    "correct": 0,
+    "explanation": "A plan provides a shared basis for delivery and progress control."
+  },
+  {
+    "question": "What is a planning horizon?",
+    "options": [
+      "The period for which a plan can be prepared with reasonable confidence",
+      "Product register",
+      "An external dependency",
+      "A checkpoint report"
+    ],
+    "correct": 0,
+    "explanation": "Nearer work can normally be planned in more detail."
+  },
+  {
+    "question": "When is the initiation stage plan prepared?",
+    "options": [
+      "During starting up a project",
+      "Project plan",
+      "Stage plan",
+      "Team plan"
+    ],
+    "correct": 0,
+    "explanation": "Starting up produces the plan for the initiation stage."
+  },
+  {
+    "question": "Is an exception plan a fourth level in the plan hierarchy?",
+    "options": [
+      "No; it is a plan used to respond to an exception",
+      "Exception plan",
+      "Product breakdown structure",
+      "Product flow diagram"
+    ],
+    "correct": 0,
+    "explanation": "Exception plans can replace project or stage plans."
+  },
+  {
+    "question": "Can work packages and specialist work overlap in time?",
+    "options": [
+      "Yes, where the plan and dependencies allow",
+      "Product description",
+      "Work package description",
+      "Risk register"
+    ],
+    "correct": 0,
+    "explanation": "Parallel work depends on product dependencies and resources."
+  },
+  {
+    "question": "When should risks be considered while planning?",
+    "options": [
+      "Throughout plan development",
+      "Product register",
+      "An external dependency",
+      "A checkpoint report"
+    ],
+    "correct": 0,
+    "explanation": "Risk assessment informs both estimates and responses."
+  },
+  {
+    "question": "Which tool represents the product hierarchy?",
+    "options": [
+      "Product breakdown structure",
+      "Project plan",
+      "Stage plan",
+      "Team plan"
+    ],
+    "correct": 0,
+    "explanation": "A PBS represents part whole relationships."
+  },
+  {
+    "question": "A service outside project scope must be available for launch. What is it?",
+    "options": [
+      "An external dependency",
+      "Exception plan",
+      "Product breakdown structure",
+      "Product flow diagram"
+    ],
+    "correct": 0,
+    "explanation": "The project depends on a product or activity outside its control."
+  },
+  {
+    "question": "What is bottom up estimating?",
+    "options": [
+      "Adding estimates for lower level components",
+      "Product description",
+      "Work package description",
+      "Risk register"
+    ],
+    "correct": 0,
+    "explanation": "Detailed estimates are rolled up to the whole plan."
+  },
+  {
+    "question": "Does 20 hours of effort imply a duration of 20 hours?",
+    "options": [
+      "No; availability and waiting time affect duration",
+      "Product register",
+      "An external dependency",
+      "A checkpoint report"
+    ],
+    "correct": 0,
+    "explanation": "Effort and elapsed time are different measures."
+  },
+  {
+    "question": "What does float or slack represent?",
+    "options": [
+      "Delay an activity can absorb without delaying the planned completion",
+      "Project plan",
+      "Stage plan",
+      "Team plan"
+    ],
+    "correct": 0,
+    "explanation": "Float is scheduling flexibility along a dependency path."
+  },
+  {
+    "question": "Which management product authorizes and defines work assigned to a team?",
+    "options": [
+      "Work package description",
+      "Exception plan",
+      "Product breakdown structure",
+      "Product flow diagram"
+    ],
+    "correct": 0,
+    "explanation": "It sets out what the team will deliver and the agreed controls."
+  },
+  {
+    "question": "Are separate risk and change budgets compulsory for every project?",
+    "options": [
+      "No; their use depends on the project context",
+      "Product description",
+      "Work package description",
+      "Risk register"
+    ],
+    "correct": 0,
+    "explanation": "Tailoring determines whether separate provisions are needed."
+  },
+  {
+    "question": "Which omission may threaten the sustainability of realized benefits?",
+    "options": [
+      "Missing user training and support after deployment",
+      "Product register",
+      "An external dependency",
+      "A checkpoint report"
+    ],
+    "correct": 0,
+    "explanation": "Operational adoption can affect whether benefits endure."
+  }
+]

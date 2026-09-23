@@ -1,0 +1,164 @@
+[
+  {
+    "question": "1. Artur (Sponsor) jest gotów wyłożyć fundusze na grę SnakeBite. Jaką oficjalną rolę pełni w Zespole Zarządzającym Projektem?",
+    "options": [
+      "Główny Użytkownik (Senior User)",
+      "Przewodniczący projektu (Executive)",
+      "Kierownik Projektu (Project Manager)",
+      "Nadzór Projektu (Project Assurance)"
+    ],
+    "correct": 1,
+    "explanation": "Przewodniczący projektu (Executive) reprezentuje biznes i jest pojedynczym punktem rozliczalności za projekt. Wyznacza go biznes; tej rozliczalności NIE MOŻNA delegować."
+  },
+  {
+    "question": "2. Maya reprezentuje graczy i dba o to, by sterowanie w grze było intuicyjne. Jaka jest jej rola w Radzie Projektu?",
+    "options": [
+      "Główny Użytkownik (Senior User)",
+      "Główny Dostawca (Senior Supplier)",
+      "Wsparcie Projektu (Project Support)",
+      "Przewodniczący projektu (Executive)"
+    ],
+    "correct": 0,
+    "explanation": "Główny użytkownik/użytkownicy reprezentuje społeczność użytkowników i jest rozliczalny za podejście do uchwycenia wymagań użytkownika oraz specyfikacji korzyści dopasowanych do uzasadnienia biznesowego."
+  },
+  {
+    "question": "3. Kamil kieruje firmą zewn. dostarczającą silnik graficzny. Odpowiada za jakość kodu dostawców. Kim jest w Radzie?",
+    "options": [
+      "Główny Dostawca (Senior Supplier)",
+      "Główny Użytkownik",
+      "Kierownik Projektu",
+      "Przewodniczący projektu"
+    ],
+    "correct": 0,
+    "explanation": "Główny dostawca/dostawcy jest rozliczalny za jakość produktów dostarczanych przez dostawców ORAZ za techniczną integralność projektu."
+  },
+  {
+    "question": "4. Zosia ma za dużo pracy z tworzeniem raportów. Wyznacza osobę do prowadzenia archiwów i rejestrów. Jak nazywa się ta rola wspierająca?",
+    "options": [
+      "Nadzór Projektu (Project Assurance)",
+      "Wsparcie Projektu (Project Support)",
+      "Kierownik zespołu (Team Manager)",
+      "Komitet Sterujący"
+    ],
+    "correct": 1,
+    "explanation": "Wsparcie Projektu (Project Support) pomaga PM w administracji, rejestrach i narzędziach."
+  },
+  {
+    "question": "5. Artur pyta, czy może połączyć rolę Przewodniczącego projektu i Kierownika Projektu, aby 'zaoszczędzić na etacie'. Co odpowiada Zosia?",
+    "options": [
+      "Tak, PRINCE2 na to zezwala.",
+      "Nie! Role Przewodniczącego projektu (Executive) i Kierownika Projektu (PM) NIE MOGĄ być połączone w jedną osobę.",
+      "Tak, pod warunkiem zgody zespołu.",
+      "To zależy od budżetu."
+    ],
+    "correct": 1,
+    "explanation": "Kierownik projektu NIE MOŻE być członkiem Rady Projektu ani pełnić roli Executive. Poziomy Zarządzania i Ukierunkowywania muszą być rozdzielone."
+  },
+  {
+    "question": "6. Kto odpowiada za niezależne sprawdzanie dla Rady Projektu, czy prace przebiegają prawidłowo (Nadzór Projektu - Project Assurance)?",
+    "options": [
+      "Członkowie Rady Projektu (lub wyznaczone przez nich niezależne osoby).",
+      "Kierownik Projektu (PM).",
+      "Programiści i graficy.",
+      "Zewnętrzny urząd skarbowy."
+    ],
+    "correct": 0,
+    "explanation": "Członkowie Rady są rozliczalni za nadzór swoich obszarów. Mogą wyznaczyć odrębne osoby do zadań nadzoru, ale nie PM, członków zespołu ani Wsparcie projektu."
+  },
+  {
+    "type": "standard",
+    "question": "7. Artur chce przekazać Zosi rozliczalność za projekt, pozostając Executive. Czy może to zrobić?",
+    "options": [
+      "Tak, jeśli wpisze to do opisu roli.",
+      "Tak, na czas jednego etapu.",
+      "Nie — rozliczalności Executive za projekt nie można delegować.",
+      "Tak, jeśli Maya wyrazi zgodę."
+    ],
+    "correct": 2,
+    "explanation": "Przewodniczący projektu jest pojedynczym punktem rozliczalności za projekt. Tej rozliczalności NIE MOŻNA delegować."
+  },
+  {
+    "type": "standard",
+    "question": "8. Maya opisuje korzyści SnakeBite. Z czym powinny być one dopasowane?",
+    "options": [
+      "Wyłącznie z preferencjami grafika.",
+      "Z uzasadnieniem biznesowym.",
+      "Wyłącznie z harmonogramem Tomka.",
+      "Z listą narzędzi Wsparcia projektu."
+    ],
+    "correct": 1,
+    "explanation": "Senior User jest rozliczalny za podejście do uchwycenia wymagań użytkownika i specyfikacji korzyści dopasowanych do uzasadnienia biznesowego."
+  },
+  {
+    "type": "standard",
+    "question": "9. Silnik działa samodzielnie, ale nie współpracuje z resztą gry. Za który obszar Kamil jest również rozliczalny jako Senior Supplier?",
+    "options": [
+      "Za powołanie Executive.",
+      "Za administrację wszystkich rejestrów.",
+      "Za techniczną integralność projektu.",
+      "Za samodzielne zatwierdzenie uzasadnienia biznesowego."
+    ],
+    "correct": 2,
+    "explanation": "Jakość produktów dostawców nie wyczerpuje roli Senior Supplier: obejmuje ona także techniczną integralność projektu."
+  },
+  {
+    "type": "standard",
+    "question": "10. Zosia przekazuje Tomkowi wykonanie systemu osiągnięć. Jak powinna przydzielić tę pracę?",
+    "options": [
+      "Wyłącznie ustnie, bez specyfikacji.",
+      "Poprzez opis Grupy Zadań, z uzgodnionymi specyfikacjami i tolerancjami.",
+      "Przez przekazanie mu rozliczalności Executive.",
+      "Poprzez polecenie, aby sam wyznaczył tolerancje projektu."
+    ],
+    "correct": 1,
+    "explanation": "Kierownik projektu przydziela pracę w formie opisu Grupy Zadań zgodnie z Podejściem do Zarządzania Kontraktami. Kierownik zespołu wykonuje ją w uzgodnionych tolerancjach."
+  },
+  {
+    "type": "standard",
+    "question": "11. Zosia ustala z Tomkiem na wewnętrznym spotkaniu, kiedy można wprowadzać zmiany. Czy takie ustalenia trzeba zabezpieczyć?",
+    "options": [
+      "Nie, bo Tomek nie jest dostawcą zewnętrznym.",
+      "Nie, jeśli nie podpisano umowy.",
+      "Tak, ale wyłącznie ustalenia o kosztach.",
+      "Tak — także nieformalne ustalenia ze współpracownikami."
+    ],
+    "correct": 3,
+    "explanation": "Kierownik Projektu zabezpiecza WSZYSTKIE ustalenia projektowe, zarówno formalne kontrakty, jak i nieformalne ustalenia wewnętrzne."
+  },
+  {
+    "type": "standard",
+    "question": "12. Rada chce powierzyć Nadzór projektu osobie prowadzącej rejestry jako Wsparcie projektu. Czy to właściwe?",
+    "options": [
+      "Nie — Wsparcie projektu nie może wykonywać Nadzoru projektu.",
+      "Tak, bo zna rejestry.",
+      "Tak, jeśli Zosia nie ma zastrzeżeń.",
+      "Tak, jeśli robi to poza godzinami pracy."
+    ],
+    "correct": 0,
+    "explanation": "Nadzoru projektu nie można powierzyć Kierownikowi projektu, członkom zespołu ani Wsparciu projektu."
+  },
+  {
+    "type": "standard",
+    "question": "13. W PixelBite Games nie wyznaczono osobnej osoby do Wsparcia projektu. Kto domyślnie odpowiada za te zadania?",
+    "options": [
+      "Kamil jako Senior Supplier.",
+      "Zosia jako Kierownik projektu.",
+      "Wyłącznie Artur.",
+      "Nikt, dopóki nie powstanie biuro projektu."
+    ],
+    "correct": 1,
+    "explanation": "Wsparcie projektu domyślnie pozostaje odpowiedzialnością Kierownika Projektu; może zostać delegowane lub ustanowione jako biuro projektu."
+  },
+  {
+    "type": "standard",
+    "question": "14. Zosia śledzi koszty i terminy. Który zestaw obejmuje wszystkie 7 obszarów, którymi zarządza?",
+    "options": [
+      "Koszty, czas, marketing, sprzedaż, prawo, kadry, zakupy.",
+      "Korzyści, koszty, czas, ryzyko, jakość, zakres, zrównoważony rozwój.",
+      "Budżet, programowanie, testowanie, grafika, dźwięk, reklama, rekrutacja.",
+      "Wyłącznie zakres, czas i koszty."
+    ],
+    "correct": 1,
+    "explanation": "Kierownik projektu zarządza siedmioma obszarami, w tym korzyściami i zrównoważonym rozwojem, w uzgodnionych tolerancjach i ograniczeniach."
+  }
+]

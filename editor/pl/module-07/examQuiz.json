@@ -1,0 +1,252 @@
+[
+  {
+    "type": "standard",
+    "question": "Jaka jest prawidłowa kolejność kroków w Technice Planowania Opartego na Produktach?",
+    "options": [
+      "1. Opis Produktu Projektu -> 2. PBS -> 3. Opisy Produktów -> 4. PFD",
+      "1. PFD -> 2. PBS -> 3. Harmonogram -> 4. Budżet",
+      "1. Harmonogram -> 2. Opis Produktu Projektu -> 3. PFD -> 4. PBS",
+      "1. Opisy Produktów -> 2. PFD -> 3. Opis Produktu Projektu -> 4. PBS"
+    ],
+    "correct": 0,
+    "explanation": "Kolejność: Project product description -> PBS -> Product descriptions -> PFD."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nHierarchiczne drzewo przedstawiające wszystkie produkty wchodzące w zakres projektu to Struktura Podziału [...].",
+    "options": [
+      "Prac",
+      "Produktów (PBS)",
+      "Zadań",
+      "Etapów"
+    ],
+    "correct": 1,
+    "explanation": "PBS to Product breakdown structure – Struktura Podziału Produktów."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA planowane dokumenty należą do 4 Poziomów Planów w PRINCE2? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Plan Projektu (Project Plan).  2. Plan Etapu (Stage Plan).  3. Plan Finansowy Urzędu Skarbowego.  4. Plan Marketingowy Zewnętrznego Dostawcy.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "4 poziomy planów w PRINCE2 to: Plan Projektu, Plan Etapu, Plan Zespołu oraz Plan Wyjątku."
+  },
+  {
+    "type": "negative",
+    "question": "Które ze stwierdzeń NIE JEST prawdziwe dla Planu Wyjątku (Exception plan)?",
+    "options": [
+      "Jest przygotowywany w reakcji na przekroczenie tolerancji etapu lub projektu.",
+      "Tworzy się go wyłącznie na polecenie Rady Projektu.",
+      "Jest tworzony automatycznie na początku każdego etapu bez względu na sytuację.",
+      "Po zatwierdzeniu zastępuje dotychczasowy obowiązujący plan."
+    ],
+    "correct": 2,
+    "explanation": "Plan Wyjątku NIE powstaje automatycznie na początku etapu – tworzy się go tylko w sytuacji awaryjnej na polecenie Rady."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nDiagram pokazujący kolejność oraz zależności (dependencies) pomiędzy produktami projektu to Diagram Przepływu [...].",
+    "options": [
+      "Zadań",
+      "Produktów (PFD)",
+      "Prac",
+      "Gantta"
+    ],
+    "correct": 1,
+    "explanation": "PFD (Product flow diagram) pokazuje relacje i sekwencję powstawania produktów."
+  },
+  {
+    "type": "standard",
+    "question": "Przy opracowywaniu Planu Projektu, co definiujemy na początku części techniki poświęconej produktom?",
+    "options": [
+      "Liczba potrzebnych programistów i grafików.",
+      "Opis Produktu Projektu (Project product description).",
+      "Termin końcowy w kalendarzu.",
+      "Cennik podwykonawców."
+    ],
+    "correct": 1,
+    "explanation": "Opis Produktu Projektu sporządza się dla Planu Projektu; dla planów etapów i zespołu nie tworzy się go od nowa (podręcznik, rys. 7.4)."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA elementy są opisywane w ramach szacowania i tworzenia harmonogramu w planie? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Wymagane Zasoby (Resources).  2. Harmonogram Czasowy (Schedule).  3. Historia firmy Zleceniodawcy.  4. Prywatne życiorysy członków zespołu.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "Po zidentyfikowaniu produktów plan uzupełnia się o oszacowania zasobów i harmonogram."
+  },
+  {
+    "type": "standard",
+    "question": "Kto zazwyczaj zatwierdza Plan Zespołu?",
+    "options": [
+      "Kierownik Projektu",
+      "Komitet Sterujący jako plan etapu",
+      "Kierownictwo korporacyjne",
+      "Audytor jakości jako plan projektu"
+    ],
+    "correct": 0,
+    "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+  },
+  {
+    "question": "Po co stosujemy praktykę Plany?",
+    "options": [
+      "Wyłącznie do stworzenia wykresu Gantta",
+      "Aby wspierać komunikację i kontrolę przez określenie produktów i sposobu ich dostarczenia",
+      "Aby uniknąć późniejszych decyzji",
+      "Wyłącznie do rozdziału budżetu między dostawcami"
+    ],
+    "correct": 1,
+    "explanation": "Plan łączy co, kto, jak, gdzie, kiedy i za ile z dlaczego z Uzasadnienia Biznesowego."
+  },
+  {
+    "question": "Czym jest horyzont planowania?",
+    "options": [
+      "Całym czasem trwania każdej inwestycji",
+      "Okresem, dla którego można planować z rozsądną pewnością",
+      "Terminem pierwszego spotkania",
+      "Czasem trwania wszystkich projektów w programie"
+    ],
+    "correct": 1,
+    "explanation": "Dalsza przyszłość zwykle wymaga planu bardziej ogólnego."
+  },
+  {
+    "question": "Kiedy powstaje Plan Etapu Inicjowania?",
+    "options": [
+      "W SU",
+      "Dopiero po IP",
+      "W CP",
+      "Po zatwierdzeniu ostatniego etapu"
+    ],
+    "correct": 0,
+    "explanation": "Etap inicjowania wymaga planu już przed jego rozpoczęciem."
+  },
+  {
+    "question": "Czy Plan Nadzwyczajny jest czwartym poziomem planowania?",
+    "options": [
+      "Tak",
+      "Nie, to typ planu stosowany w odpowiedzi na wyjątek",
+      "Tak, poniżej Planu Zespołu",
+      "Tak, zastępuje Plan Projektu"
+    ],
+    "correct": 1,
+    "explanation": "Poziomy to projekt, etap i zespół."
+  },
+  {
+    "question": "Które elementy mogą się nakładać w czasie?",
+    "options": [
+      "Etapy zarządcze PRINCE2",
+      "Grupy Zadań i prace specjalistyczne",
+      "Żadne prace",
+      "Etapy zarządcze, których końce muszą być identyczne"
+    ],
+    "correct": 1,
+    "explanation": "Etapy zarządcze rozdzielają punkty decyzyjne; prace w ich obrębie mogą być równoległe."
+  },
+  {
+    "question": "Kiedy analizujemy ryzyka podczas planowania?",
+    "options": [
+      "Tylko po zatwierdzeniu planu",
+      "Wyłącznie przed PBS",
+      "Przez cały proces tworzenia planu",
+      "Jedynie po wystąpieniu wyjątku"
+    ],
+    "correct": 2,
+    "explanation": "Kolejne szczegóły ujawniają ryzyka i mogą wymusić zmianę planu."
+  },
+  {
+    "question": "Który element przedstawia hierarchię produktów?",
+    "options": [
+      "PBS",
+      "PFD",
+      "Wykres Gantta",
+      "Rejestr Ryzyk"
+    ],
+    "correct": 0,
+    "explanation": "PBS pokazuje podział produktów; PFD ich zależności i kolejność."
+  },
+  {
+    "question": "Aktywacja usługi poza zakresem projektu to przykład:",
+    "options": [
+      "Zależności wewnętrznej",
+      "Zależności zewnętrznej",
+      "Tolerancji jakości",
+      "Tolerancji czasowej etapu"
+    ],
+    "correct": 1,
+    "explanation": "Zespół nie ma pełnej kontroli nad działaniem poza zakresem projektu."
+  },
+  {
+    "question": "Co odróżnia szacowanie bottom-up?",
+    "options": [
+      "Rozdzielanie jednego budżetu na części",
+      "Sumowanie szacunków szczegółowych elementów",
+      "Brak udziału ekspertów",
+      "Wybór metody szacowania przez dostawcę bez rozbicia pracy"
+    ],
+    "correct": 1,
+    "explanation": "Szacunki niższego poziomu tworzą ocenę całości."
+  },
+  {
+    "question": "Czy 20 godzin nakładu pracy zawsze oznacza 20 godzin czasu trwania?",
+    "options": [
+      "Tak",
+      "Tylko przy planie etapowym",
+      "Nie, znaczenie ma dostępność ludzi i oczekiwanie",
+      "Tak, nakład pracy i czas trwania są zawsze identyczne"
+    ],
+    "correct": 2,
+    "explanation": "Nakład pracy i czas kalendarzowy to odrębne wielkości."
+  },
+  {
+    "question": "Co oznacza float / slack?",
+    "options": [
+      "Dopuszczalne opóźnienie działania bez przesunięcia końca planu",
+      "Uprawnienie Rady do zwiększania kosztów",
+      "Cały budżet ryzyka",
+      "Cały czas trwania zatwierdzonego projektu"
+    ],
+    "correct": 0,
+    "explanation": "Zapas w harmonogramie nie jest tożsamy z tolerancją zarządczą."
+  },
+  {
+    "question": "Który dokument formalizuje przekazanie odpowiedzialności za wykonanie produktów?",
+    "options": [
+      "Opis Grupy Zadań",
+      "Sam PBS",
+      "Sam Raport Okresowy",
+      "Rejestr Korzyści"
+    ],
+    "correct": 0,
+    "explanation": "Opis Grupy Zadań określa zakres, warunki, kontrolę i uzgodnienia wykonania."
+  },
+  {
+    "question": "Czy odrębne budżety ryzyka i zmian są zawsze obowiązkowe?",
+    "options": [
+      "Tak",
+      "Nie, zależą od kontekstu",
+      "Tylko budżet zmian zawsze",
+      "Tak, oba budżety są obowiązkowe dla każdej wielkości projektu"
+    ],
+    "correct": 1,
+    "explanation": "Ich wyodrębnienie powinno przynosić korzyść proporcjonalną do kosztu kontroli."
+  },
+  {
+    "question": "Jaki brak może zagrozić trwałości korzyści?",
+    "options": [
+      "Brak ozdobnej okładki planu",
+      "Brak szkoleń i wsparcia użytkowników po wdrożeniu",
+      "Stosowanie tablicy Kanban",
+      "Brak nowego narzędzia do rejestrowania czasu pracy"
+    ],
+    "correct": 1,
+    "explanation": "Trwałość korzyści wymaga zaplanowania zdolności do dalszego korzystania z produktów."
+  }
+]

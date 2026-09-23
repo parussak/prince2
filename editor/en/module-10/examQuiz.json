@@ -1,0 +1,156 @@
+[
+  {
+    "question": "Maya proposes a two player mode beyond the approved scope. What does she raise?",
+    "options": [
+      "Request for change",
+      "End stage report",
+      "Only a risk",
+      "Contract management approach"
+    ],
+    "correct": 0,
+    "explanation": "A proposal to change an approved baseline."
+  },
+  {
+    "question": "The score saving fails an agreed requirement. How is this classified?",
+    "options": [
+      "Off specification",
+      "Benefit",
+      "New stage",
+      "Contract management approach"
+    ],
+    "correct": 0,
+    "explanation": "The product does not meet an agreed requirement."
+  },
+  {
+    "question": "Maya proposes an achievements screen outside the approved specification. What is it?",
+    "options": [
+      "Request for change",
+      "Off specification",
+      "Checkpoint report",
+      "Satisfied acceptance criterion"
+    ],
+    "correct": 0,
+    "explanation": "A proposal to change the baseline."
+  },
+  {
+    "question": "The ranking API misses its agreed response time. What is it?",
+    "options": [
+      "Off specification",
+      "Request for a new feature",
+      "Only a business opportunity",
+      "Project plan"
+    ],
+    "correct": 0,
+    "explanation": "The product does not meet its agreed quality specification."
+  },
+  {
+    "question": "Maya asks whether the slower ranking can be accepted. What is a concession?",
+    "options": [
+      "Authorized acceptance of an off specification without correction",
+      "Every supplier delay",
+      "Any unapproved change",
+      "An uncertain event"
+    ],
+    "correct": 0,
+    "explanation": "A concession needs the appropriate authority."
+  },
+  {
+    "question": "Where should Zosia record project issues?",
+    "options": [
+      "Issue register",
+      "Only the team schedule",
+      "Risk register as certain events",
+      "Only source code"
+    ],
+    "correct": 0,
+    "explanation": "The issue register tracks issues and decisions."
+  },
+  {
+    "question": "When should an issue report be prepared?",
+    "options": [
+      "When detailed assessment and decision are needed",
+      "For each chat comment",
+      "Only after closure",
+      "Instead of product descriptions"
+    ],
+    "correct": 0,
+    "explanation": "It records the assessment and recommendation."
+  },
+  {
+    "question": "A supplier may change the API limit. What distinguishes a risk?",
+    "options": [
+      "It concerns an uncertain future event",
+      "It is always already a fact",
+      "It always has a positive effect",
+      "Change budget approves it"
+    ],
+    "correct": 0,
+    "explanation": "An uncertain event is managed as a risk."
+  },
+  {
+    "question": "Who approves a baseline change?",
+    "options": [
+      "The role with delegated authority",
+      "Any developer",
+      "The person who raised it",
+      "The backlog tool"
+    ],
+    "correct": 0,
+    "explanation": "Follow the agreed limits of delegation."
+  },
+  {
+    "question": "What is the change budget used for?",
+    "options": [
+      "Funding approved changes under agreed rules",
+      "Hiding tolerance breaches",
+      "Automatically expanding scope",
+      "Only maintenance after closure"
+    ],
+    "correct": 0,
+    "explanation": "Funds do not replace approval."
+  },
+  {
+    "question": "Which set contains issue categories?",
+    "options": [
+      "Problem or concern, external event, business opportunity, request for change, off specification",
+      "Only defect, task and risk",
+      "Only scope and cost",
+      "Only problem and opportunity"
+    ],
+    "correct": 0,
+    "explanation": "Different issues require consideration and control."
+  },
+  {
+    "question": "What makes up a project baseline?",
+    "options": [
+      "Current approved product versions under change control",
+      "All backlog ideas",
+      "Only develop branch code",
+      "Only meeting history"
+    ],
+    "correct": 0,
+    "explanation": "Approved versions are controlled."
+  },
+  {
+    "question": "Which register tracks product status and versions?",
+    "options": [
+      "Product register",
+      "Risk register",
+      "Highlight report",
+      "Lessons report"
+    ],
+    "correct": 0,
+    "explanation": "It tracks product status and approvals."
+  },
+  {
+    "question": "What should be assessed for a significant change?",
+    "options": [
+      "Impact on project targets, funding and authority",
+      "Only votes",
+      "Only appearance",
+      "Only its title"
+    ],
+    "correct": 0,
+    "explanation": "An informed decision needs impact and authority."
+  }
+]

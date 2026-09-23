@@ -1,0 +1,156 @@
+[
+  {
+    "question": "1. Podczas prac nad silnikiem graficznym pojawia się opóźnienie. Zosia sprawdza tolerancję czasową etapu (+/- 1 tydzień). Przewidywane opóźnienie to 3 tygodnie. Co musi zrobić Zosia?",
+    "options": [
+      "Samodzielnie przedłużyć etap o 3 tygodnie.",
+      "Sporządzić Raport o Wyjątku (Exception Report) i przekazać go Radzie Projektu.",
+      "Ukryć opóźnienie i kazać zespołowi pracować w nocy.",
+      "Zamknąć projekt bez informowania sponsorów."
+    ],
+    "correct": 1,
+    "explanation": "Przekroczenie tolerancji oznacza sytuację wyjątku – PM ma obowiązek natychmiast sporządzić Exception Report."
+  },
+  {
+    "question": "2. Artur odbiera Exception Report od Zosi. Jakie opcje ma Rada Projektu w ramach procesu Directing a Project?",
+    "options": [
+      "Nakazać przygotowanie Planu Wyjątku (Exception Plan), zwiększyć tolerancję lub zamknąć projekt.",
+      "Zwolnić Zosię w trybie natychmiastowym.",
+      "Przejąć pisanie kodu gry.",
+      "Skasować wszystkie rejestry."
+    ],
+    "correct": 0,
+    "explanation": "Rada Projektu ocenia wyjątek i może poprosić o Exception Plan, zaaprobować przekroczenie lub zamknąć projekt."
+  },
+  {
+    "question": "3. Zosia wysyła co 2 tygodnie do Artura zwięzły raport podsumowujący postępy etapu, wykorzystanie budżetu i kluczowe ryzyka. Jak nazywa się ten raport?",
+    "options": [
+      "Raport Postępu (Highlight Report)",
+      "Raport o Wyjątku (Exception Report)",
+      "Dziennik Projektu (Daily Log)",
+      "Rejestr Zagadnień (Issue Register)"
+    ],
+    "correct": 0,
+    "explanation": "Highlight Report to okresowy raport ze stanu prac przygotowywany przez PM dla Rady Projektu."
+  },
+  {
+    "question": "4. Lider Zespołu programistów zauważa, że praca nad fizyką skoków węża zajmie 2 dni dłużej niż w Paczce Prac. Jego tolerancja z PM to +/- 3 dni. Co robi TM?",
+    "options": [
+      "Szybko wysyła Exception Report do Rady Projektu.",
+      "Działa w granicach swojej tolerancji i informuje PM w czacie/raporcie odcinkowym (Checkpoint Report).",
+      "Przerywa wszystkie prace.",
+      "Zmienia wymagania biznesowe."
+    ],
+    "correct": 1,
+    "explanation": "Jeśli odchylenie mieści się w przyznanej tolerancji, Lider Zespołu rozwiązuje problem samodzielnie w granicach uprawnień."
+  },
+  {
+    "question": "5. Gdzie Zosia zapisuje drobne nieformalne uwagi, przemyślenia oraz zdarzenia z dnia na dzień, zanim staną się oficjalnymi ryzykami?",
+    "options": [
+      "W Dzienniku Projektu (Daily Log)",
+      "W Rejestrze Jakości",
+      "W Planie Projektu",
+      "W Raporcie Końcowym"
+    ],
+    "correct": 0,
+    "explanation": "Daily Log (Dziennik Projektu) służy do nieformalnego śledzenia codziennych zdarzeń i zadań PM."
+  },
+  {
+    "question": "6. Jaka jest kluczowa korzyść z pryncypium 'Zarządzanie przez wyjątki' dla Rady Projektu?",
+    "options": [
+      "Rada Projektu nie musi uczestniczyć w cotygodniowych operacyjnych spotkaniach, oszczędzając czas i reagując tylko na sygnały przekroczenia tolerancji.",
+      "Rada Projektu wykonuje całą pracę za PM.",
+      "Projekt nie ma żadnych ryzyk.",
+      "Budżet staje się nielimitowany."
+    ],
+    "correct": 0,
+    "explanation": "Zarządzanie przez wyjątki efektywnie wykorzystuje czas wyższego kierownictwa – sprawozdawczość następuje tylko przy zagrożeniu granic tolerancji."
+  },
+  {
+    "question": "Tomek widzi trend opóźnienia integracji. Co oznacza prognoza w kontroli postępu?",
+    "options": [
+      "Przewidywanie przyszłego stanu na podstawie danych",
+      "Wyłącznie zapis tego, co już się wydarzyło",
+      "Autoryzację zamknięcia",
+      "Opis Produktu Końcowego"
+    ],
+    "correct": 0,
+    "explanation": "Prognoza pozwala ocenić przyszłe przekroczenie tolerancji."
+  },
+  {
+    "question": "Raport Tomka pokazuje dwa dni opóźnienia. Czy dwudniowy poślizg zawsze stanowi wyjątek?",
+    "options": [
+      "Nie, istotna jest prognoza względem właściwej tolerancji",
+      "Tak, każde odchylenie to wyjątek",
+      "Tak, jeśli pochodzi z raportu zespołu",
+      "Nie, bo czasu nie kontroluje się w PRINCE2"
+    ],
+    "correct": 0,
+    "explanation": "Wyjątek zachodzi przy prognozowanym przekroczeniu tolerancji."
+  },
+  {
+    "question": "Tomek przekazuje szczegóły Zosi. Do kogo trafia Raport z Punktu Kontrolnego?",
+    "options": [
+      "Do kierownika projektu od kierownika zespołu",
+      "Do zespołu od Rady",
+      "Wyłącznie do klientów aplikacji",
+      "Do warstwy biznesowej zamiast Rady"
+    ],
+    "correct": 0,
+    "explanation": "Ten raport umożliwia PM kontrolę pakietu."
+  },
+  {
+    "question": "Zosia przekazuje Radzie cykliczny status. Do kogo trafia Raport Okresowy?",
+    "options": [
+      "Do Rady Projektu od kierownika projektu",
+      "Do programistów od użytkownika",
+      "Wyłącznie do zespołu audytu",
+      "Do dostawcy od sponsora"
+    ],
+    "correct": 0,
+    "explanation": "Raport Okresowy wspiera cykliczną kontrolę Rady."
+  },
+  {
+    "question": "Zosia widzi prognozowany wyjątek etapu. Kiedy Zosia przekazuje Raport Nadzwyczajny?",
+    "options": [
+      "Gdy prognoza przekracza tolerancję etapu",
+      "Po każdym drobnym odchyleniu pakietu",
+      "Tylko raz na koniec projektu",
+      "Zamiast każdej kontroli jakości"
+    ],
+    "correct": 0,
+    "explanation": "Wyjątek etapu jest eskalowany do Rady."
+  },
+  {
+    "question": "SnakeBite jest gotowe do zamknięcia. Który raport służy ocenie całego projektu przy zamknięciu?",
+    "options": [
+      "Raport Końcowy Projektu",
+      "Raport z Punktu Kontrolnego",
+      "Raport Okresowy",
+      "Raport Zagadnienia"
+    ],
+    "correct": 0,
+    "explanation": "Raport Końcowy Projektu ocenia wyniki całego projektu."
+  },
+  {
+    "question": "Zosia kontroluje pełny zestaw tolerancji. Ile celów wykonania uwzględnia PRINCE2 7?",
+    "options": [
+      "Siedem, w tym zrównoważony rozwój",
+      "Sześć, bez korzyści",
+      "Pięć, bez ryzyka",
+      "Trzy, tylko zakres czas i koszt"
+    ],
+    "correct": 0,
+    "explanation": "Pełna lista to korzyści, koszty, czas, jakość, zakres, ryzyko i zrównoważony rozwój."
+  },
+  {
+    "question": "Tomek prognozuje wyjście poza tolerancję pakietu. Co robi Tomek, gdy prognoza pakietu przekracza jego tolerancję?",
+    "options": [
+      "Informuje Zosię, kierownika projektu",
+      "Sam zatwierdza nową tolerancję etapu",
+      "Zamyka projekt",
+      "Prowadzi Radę przez codzienne zadania"
+    ],
+    "correct": 0,
+    "explanation": "Eskaluje na następny poziom delegacji."
+  }
+]

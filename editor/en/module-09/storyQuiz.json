@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Cloud performance may drop in December and delay testing. What kind of risk is this?",
+    "options": [
+      "Threat",
+      "Avoid",
+      "Reduce",
+      "Transfer"
+    ],
+    "correct": 0,
+    "explanation": "An uncertain event with a potentially negative impact is a threat."
+  },
+  {
+    "question": "An app store feature may bring new players if SnakeBite launches in time. What is this?",
+    "options": [
+      "Opportunity",
+      "Accept",
+      "Exploit",
+      "Enhance"
+    ],
+    "correct": 0,
+    "explanation": "An uncertain event with potential positive impact is an opportunity."
+  },
+  {
+    "question": "Zosia buys guaranteed server capacity to eliminate an overload threat. Which response is this?",
+    "options": [
+      "Avoid",
+      "Risk register",
+      "Risk management approach",
+      "Risk owner"
+    ],
+    "correct": 0,
+    "explanation": "Avoiding removes the cause or effect of a threat."
+  },
+  {
+    "question": "PixelBite buys insurance against server outage penalties. Which response is this?",
+    "options": [
+      "Transfer",
+      "Risk action owner",
+      "Secondary risk",
+      "Residual risk"
+    ],
+    "correct": 0,
+    "explanation": "Insurance transfers part of the financial impact to another party."
+  },
+  {
+    "question": "A team manager monitors cloud load and implements an agreed response. Which role is this?",
+    "options": [
+      "Risk action owner",
+      "Avoid",
+      "Reduce",
+      "Transfer"
+    ],
+    "correct": 0,
+    "explanation": "The risk action owner carries out a specified response."
+  },
+  {
+    "question": "Where are risk description, likelihood, impact, owner and response recorded?",
+    "options": [
+      "Risk register",
+      "Accept",
+      "Exploit",
+      "Enhance"
+    ],
+    "correct": 0,
+    "explanation": "The risk register is the record for identified risks and their responses."
+  }
+]

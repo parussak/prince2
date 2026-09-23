@@ -1,0 +1,123 @@
+[
+  {
+    "question": "The beta is complete. Can Zosia authorize the next management stage herself?",
+    "options": [
+      "No; the project board authorizes it",
+      "Yes, because product acceptance proves all intended benefits",
+      "Yes, because processes and stages always match one to one",
+      "No, because the project manager cannot plan any stages"
+    ],
+    "correct": 0,
+    "explanation": "The board decides whether to commit funds to the next stage."
+  },
+  {
+    "question": "Which report summarizes the stage that has just finished?",
+    "options": [
+      "End stage report",
+      "Checkpoint report",
+      "Highlight report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "It gives the board evidence of performance against the stage plan."
+  },
+  {
+    "question": "What must Zosia update when forecast maintenance costs increase?",
+    "options": [
+      "Business case and relevant forecasts",
+      "Treat the updated project plan as authorization of the next stage",
+      "Ask the team manager to approve a replacement stage plan",
+      "Omit the end stage report when the stage is within tolerance"
+    ],
+    "correct": 0,
+    "explanation": "Continued business justification may be affected."
+  },
+  {
+    "question": "Who prepares the next stage plan at a stage boundary?",
+    "options": [
+      "Project manager",
+      "Team manager",
+      "Project board",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "The project manager prepares a detailed plan for board approval."
+  },
+  {
+    "question": "Who authorizes the start of the next stage?",
+    "options": [
+      "Project board",
+      "Project manager",
+      "Team manager",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "It reviews the stage end information and decides."
+  },
+  {
+    "question": "Which report evaluates the beta against its approved stage plan?",
+    "options": [
+      "End stage report",
+      "Checkpoint report",
+      "Highlight report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "It compares performance with the authorized plan."
+  },
+  {
+    "question": "Why update the business case after changes to API costs?",
+    "options": [
+      "To test continued business justification",
+      "Treat the updated project plan as authorization of the next stage",
+      "Ask the team manager to approve a replacement stage plan",
+      "Omit the end stage report when the stage is within tolerance"
+    ],
+    "correct": 0,
+    "explanation": "The project should remain desirable, viable and achievable."
+  },
+  {
+    "question": "Which plan updates the view of the entire investment?",
+    "options": [
+      "Project plan",
+      "Stage plan",
+      "Team plan",
+      "Exception plan"
+    ],
+    "correct": 0,
+    "explanation": "The project plan gives an overall view across management stages."
+  },
+  {
+    "question": "The board requests a replacement plan for an exception. What does Zosia prepare?",
+    "options": [
+      "Exception plan for authorization",
+      "Treat the updated project plan as authorization of the next stage",
+      "Ask the team manager to approve a replacement stage plan",
+      "Omit the end stage report when the stage is within tolerance"
+    ],
+    "correct": 0,
+    "explanation": "It is prepared in response to a board decision on an exception."
+  },
+  {
+    "question": "How does an exception plan differ from an exception report?",
+    "options": [
+      "The plan proposes replacement delivery; the report explains a forecast exception",
+      "Checkpoint report",
+      "Highlight report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "One proposes a route forward, the other supplies the escalation."
+  },
+  {
+    "question": "What does Maya contribute to the stage boundary assessment?",
+    "options": [
+      "User test results and evidence of product fitness",
+      "Treat the updated project plan as authorization of the next stage",
+      "Ask the team manager to approve a replacement stage plan",
+      "Omit the end stage report when the stage is within tolerance"
+    ],
+    "correct": 0,
+    "explanation": "The senior user represents user expectations and benefits."
+  }
+]

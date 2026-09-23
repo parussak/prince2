@@ -1,0 +1,74 @@
+[
+  {
+    "q": "DP goal - what to remember?",
+    "a": "Provide the Board with the ability to exercise overall direction and control, while delegating day-to-day management to the project manager."
+  },
+  {
+    "q": "Permission to initiate - what to remember?",
+    "a": "The decision to invest in detailed project preparation based on information from commissioning."
+  },
+  {
+    "q": "Permission to implement a project – what to remember?",
+    "a": "Decision to implement based on sufficient management foundations, plans and business case."
+  },
+  {
+    "q": "Authorize a stage or exception plan – what to remember?",
+    "a": "Controlled commitment of resources for further work; this decision should not be confused with the preparation of the plan by the project manager."
+  },
+  {
+    "q": "Quick tips - what to remember?",
+    "a": "The board responds to escalations, changes in the environment and the needs of the project manager throughout the lifecycle."
+  },
+  {
+    "q": "Closure permit – what to remember?",
+    "a": "The Project Board confirms the possibility of completing the project; the project manager prepares the closure in advance in CP."
+  },
+  {
+    "q": "Who authorizes initiation of SnakeBite?",
+    "a": "Project Board. The Board evaluates the Project Brief and the initiation stage plan."
+  },
+  {
+    "q": "Who authorizes the implementation of the project after initiation?",
+    "a": "Project Board. The Board is considering the PID and the Business Case."
+  },
+  {
+    "q": "Who manages the day-to-day operations within the stage tolerances?",
+    "a": "Zosia, project manager. The PM carries out day-to-day management within the delegation."
+  },
+  {
+    "q": "What does the Project Board assess at the stage boundary?",
+    "a": "Stage result, validity and Next Stage Plan. Phased management bases further commitments on current data."
+  },
+  {
+    "q": "What does the Project Board do with the Exception Report?",
+    "a": "Evaluates the exception and provides decisions or directions. DP includes ongoing targeting and response to exceptions."
+  },
+  {
+    "q": "Where does projected project tolerance exceedance go?",
+    "a": "To the business layer above the Project Board. The Project Board operates within the limits of tolerance delegated by business."
+  },
+  {
+    "q": "On what basis does the Project Board authorize a closure?",
+    "a": "Recommendations and End Project Report. The PM prepares the CP, the Project Board formally closes the DP."
+  },
+  {
+    "q": "Who is the single point of accountability for the project?",
+    "a": "Artur as project executive. The Executive is responsible for the project at Project Board level."
+  },
+  {
+    "q": "What is the role of the Senior User on the Board?",
+    "a": "Represent user needs and benefits. Senior User brings the users' perspective."
+  },
+  {
+    "q": "What is the role of the Senior Supplier on the Project Board?",
+    "a": "Represent suppliers and technical integrity. The Senior Supplier brings supplier perspective and technical integrity."
+  },
+  {
+    "q": "How does the Board communicate with corporate, program or client management?",
+    "a": "Communicates relevant information and escalates project exceptions. The business layer sets the boundaries of the Project Board and receives appropriate escalations."
+  },
+  {
+    "q": "What does management by exception mean for the Project Board?",
+    "a": "Decisions and supervision at checkpoints and exceptions. The board delegates day-to-day management to PM and maintains control through tolerances."
+  }
+]

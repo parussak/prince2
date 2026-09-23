@@ -1,0 +1,123 @@
+[
+  {
+    "question": "Beta jest gotowa. Czy Zosia może sama zatwierdzić kolejny etap?",
+    "options": [
+      "Tak, bo produkty są gotowe",
+      "Tak, jeśli zespół ma czas",
+      "Nie, etap zatwierdza Rada",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 2,
+    "explanation": "Zosia przygotowuje plan i rekomendację; Rada decyduje w DP."
+  },
+  {
+    "question": "Który raport podsumowuje właśnie zakończony etap?",
+    "options": [
+      "Raport Końcowy Etapu",
+      "Raport z Punktu Kontrolnego",
+      "Raport Końcowy Projektu",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 0,
+    "explanation": "Raport Końcowy Etapu porównuje wyniki etapu z planem."
+  },
+  {
+    "question": "Co aktualizuje Zosia, gdy rosną prognozowane koszty utrzymania?",
+    "options": [
+      "Wyłącznie listę zadań",
+      "Uzasadnienie Biznesowe i odpowiednie prognozy",
+      "Tylko opisy ról",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 1,
+    "explanation": "Nowe koszty mogą zmienić zasadność projektu."
+  },
+  {
+    "question": "Po becie Zosia planuje wydanie SnakeBite. Kto przygotowuje Plan Następnego Etapu na granicy etapu?",
+    "options": [
+      "Kierownik projektu",
+      "Kierownik zespołu bez udziału PM",
+      "Warstwa biznesowa",
+      "Użytkownik końcowy"
+    ],
+    "correct": 0,
+    "explanation": "Kierownik projektu przygotowuje plan do decyzji Rady."
+  },
+  {
+    "question": "Artur pyta, czy Zosia może uruchomić wydanie bez Rady. Kto autoryzuje rozpoczęcie następnego etapu?",
+    "options": [
+      "Rada Projektu",
+      "Kierownik projektu",
+      "Kierownik zespołu",
+      "Wsparcie projektu"
+    ],
+    "correct": 0,
+    "explanation": "Zarządzanie etapowe wymaga decyzji Rady przy granicy."
+  },
+  {
+    "question": "Maya chce wiedzieć, jak wypadły cele bety. Który produkt ocenia wykonanie bety wobec zatwierdzonego planu?",
+    "options": [
+      "Raport Końcowy Etapu",
+      "Raport z Punktu Kontrolnego",
+      "Opis Grupy Zadań",
+      "Mandat Projektu"
+    ],
+    "correct": 0,
+    "explanation": "Raport Końcowy Etapu podsumowuje wyniki etapu."
+  },
+  {
+    "question": "Koszty API zmieniły się od inicjowania. Dlaczego Zosia aktualizuje Uzasadnienie Biznesowe?",
+    "options": [
+      "Aby sprawdzić ciągłą zasadność projektu",
+      "Aby zastąpić testy jakości",
+      "Aby delegować rozliczalność Artura",
+      "Aby automatycznie zatwierdzić następny etap"
+    ],
+    "correct": 0,
+    "explanation": "Koszty, korzyści i ryzyko mogły zmienić ocenę inwestycji."
+  },
+  {
+    "question": "Kamil prosi o prognozę całej inwestycji. Który plan daje zaktualizowany obraz całego przedsięwzięcia?",
+    "options": [
+      "Plan Projektu",
+      "Plan Zespołu",
+      "Opis Grupy Zadań",
+      "Raport z Lekcji"
+    ],
+    "correct": 0,
+    "explanation": "Plan Projektu jest planem całości; Plan Etapu uszczegóławia najbliższy etap."
+  },
+  {
+    "question": "Awaria wymusiła prośbę Rady o plan zastępczy. Co robi Zosia po żądaniu Rady w związku z wyjątkiem?",
+    "options": [
+      "Przygotowuje Plan Nadzwyczajny do autoryzacji",
+      "Samodzielnie zwiększa tolerancję etapu",
+      "Usuwa Raport Nadzwyczajny",
+      "Automatycznie zamyka projekt"
+    ],
+    "correct": 0,
+    "explanation": "Plan Nadzwyczajny sporządza się w SB na żądanie Rady."
+  },
+  {
+    "question": "Zosia ma już Raport Nadzwyczajny i ma przygotować dalsze działanie. Czym Plan Nadzwyczajny różni się od Raportu Nadzwyczajnego?",
+    "options": [
+      "Plan proponuje zastąpienie planu; raport sygnalizuje wyjątek",
+      "Oba są tym samym dokumentem",
+      "Raport jest opisem produktu specjalistycznego",
+      "Plan wyłącznie archiwizuje lekcje"
+    ],
+    "correct": 0,
+    "explanation": "Raport ostrzega i wyjaśnia; plan określa proponowane dalsze działania."
+  },
+  {
+    "question": "Maya wnosi wyniki testów użytkowników. Jaką informację Maya wnosi do oceny granicy etapu?",
+    "options": [
+      "Wyniki testów i zgodność produktów z oczekiwaniami użytkowników",
+      "Jednoosobową autoryzację następnego etapu",
+      "Zmianę tolerancji projektu bez Rady",
+      "Decyzję o rozwiązaniu Rady"
+    ],
+    "correct": 0,
+    "explanation": "Perspektywa Głównego Użytkownika wspiera decyzję o dalszych pracach."
+  }
+]

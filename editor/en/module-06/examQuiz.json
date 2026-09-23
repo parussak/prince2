@@ -1,0 +1,290 @@
+[
+  {
+    "type": "standard",
+    "question": "Which three interests MUST be represented on the Project Board?",
+    "options": [
+      "Finance, Law, Marketing",
+      "Business (Executive), Users (Senior User), Suppliers (Senior Supplier)",
+      "Project Manager, Programmer, Tester",
+      "Sponsor, HR Director, Trade Unions"
+    ],
+    "correct": 1,
+    "explanation": "The Project Board always represents three key interests: Business, Users and Suppliers."
+  },
+  {
+    "type": "missing-word",
+    "question": "The person who is the single point of accountability for the project is the project [...].",
+    "options": [
+      "Executive",
+      "Manager",
+      "Supplier",
+      "Support"
+    ],
+    "correct": 0,
+    "explanation": "The Executive has ultimate, sole responsibility for the success of the project."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO role combinations are incompatible with independent PRINCE2 governance? Choose ONE pair of true statements. 1. Executive and project manager on the same project.  2. Project assurance and project manager on the same project.  3. Senior user and senior supplier representing the same stakeholders.  4. Project manager and team manager on a small project.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "The PM cannot be an Executive or perform Project Assurance (supervision must be independent of the PM)."
+  },
+  {
+    "type": "negative",
+    "question": "Which of the following statements about Project Assurance is NOT true?",
+    "options": [
+      "This is an obligation belonging to the members of the Project Board.",
+      "It may be performed by independent persons delegated by the Board.",
+      "The project manager can perform project assurance for the project board.",
+      "Checks the correctness of work on behalf of the interests of the Business, Users and Suppliers."
+    ],
+    "correct": 2,
+    "explanation": "The Project Manager may NEVER perform the Project Assurance function - this would be a conflict of interest (self-monitoring)."
+  },
+  {
+    "type": "standard",
+    "question": "What is the main goal of the Team Manager role?",
+    "options": [
+      "Approval of the budget for the entire project.",
+      "Ensuring the production of products specified in Work Packages and reporting to PM.",
+      "Negotiating contracts with the Sponsor.",
+      "Closing the Initiation Stage."
+    ],
+    "correct": 1,
+    "explanation": "The Team Manager is responsible for the operational management of the executive team and the delivery of work packages."
+  },
+  {
+    "type": "missing-word",
+    "question": "The role supporting the project manager with administrative services is project [...].",
+    "options": [
+      "Support",
+      "Assurance",
+      "Executive",
+      "User"
+    ],
+    "correct": 0,
+    "explanation": "Project Support supports PMs in administrative tasks."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO tasks are the responsibilities of a Senior User? Choose ONE pair of true statements. 1. Determining the quality requirements and expectations of users.  2. Confirmation that the delivered products meet the acceptance criteria.  3. Personal database programming.  4. Keeping the company's accounting.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "The Senior User defines requirements and verifies and receives products on behalf of users."
+  },
+  {
+    "type": "standard",
+    "question": "What is the delivery level of the project organization?",
+    "options": [
+      "Team managers and team members",
+      "Corporate management",
+      "The project board",
+      "Programme management"
+    ],
+    "correct": 0,
+    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
+  },
+  {
+    "type": "standard",
+    "question": "What is the goal of the Organization practice?",
+    "options": [
+      "Only preparation of the work schedule.",
+      "Defining and establishing a project accountability and responsibility structure (who).",
+      "Product technology selection.",
+      "Replacing the business case with team structure."
+    ],
+    "correct": 1,
+    "explanation": "The purpose of the Organization practice is to define and establish a project accountability and responsibility structure (who)."
+  },
+  {
+    "type": "missing-word",
+    "question": "The project management level between the business layer and the project manager is [...].",
+    "options": [
+      "Directing (the project board)",
+      "Delivering (the team manager)",
+      "Starting (the executive)",
+      "Assuring (the project support)"
+    ],
+    "correct": 0,
+    "explanation": "business layer → Orientation → Management → Deliver."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO statements apply to the Executive? Choose ONE pair of true statements. 1. It is determined by business.  2. He can delegate his responsibility for the project to the PM.  3. It is a single point of accountability for the project.  4. He must also act as a Project Manager.",
+    "options": [
+      "1 and 3",
+      "1 and 2",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "The Executive is appointed by the business and is a single point of accountability. This accountability cannot be delegated."
+  },
+  {
+    "type": "standard",
+    "question": "Which statement describes the project manager?",
+    "options": [
+      "Manages a stage within delegated tolerance",
+      "Must sit on the project board",
+      "Replaces the executive",
+      "Sets the project tolerance alone"
+    ],
+    "correct": 0,
+    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
+  },
+  {
+    "type": "standard",
+    "question": "What is the Senior User(s) accountable for?",
+    "options": [
+      "For the approach to capturing user requirements and benefit specifications aligned with the business case.",
+      "For the quality of suppliers' products and the technical integrity of the project.",
+      "For appointing an Executive.",
+      "For setting the project tolerance yourself."
+    ],
+    "correct": 0,
+    "explanation": "The Senior User represents the user community and is responsible for the indicated approach to requirements and benefits."
+  },
+  {
+    "type": "missing-word",
+    "question": "Complete: in addition to the quality of the suppliers' products, the Senior Supplier is responsible for [...] the project.",
+    "options": [
+      "advertising",
+      "technical integrity",
+      "job",
+      "one-person financing"
+    ],
+    "correct": 1,
+    "explanation": "The primary supplier(s) is accountable for both the quality of the suppliers' products and the technical integrity of the project."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO statements about Project Management are correct? Choose ONE pair of true statements. 1. Board members are accountable for the oversight of their areas.  2. Project support may be taken over by Project Assurance.  3. The Board may appoint separate persons for supervisory tasks.  4. The project manager may supervise himself on behalf of the Board.",
+    "options": [
+      "1 and 3",
+      "1 and 2",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "The Board may appoint persons for oversight tasks, maintaining accountability. They cannot be PMs, team members or Project Support."
+  },
+  {
+    "type": "standard",
+    "question": "What is the scope of the commercial management approach?",
+    "options": [
+      "Covers appropriate commercial arrangements and supplier relationships",
+      "Applies only to signed external contracts",
+      "Replaces the quality management approach",
+      "Is an end stage report"
+    ],
+    "correct": 0,
+    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
+  },
+  {
+    "type": "standard",
+    "question": "Which description corresponds to the \"User\" interest page?",
+    "options": [
+      "Only the person purchasing the product.",
+      "Only the person who approves the budget.",
+      "Exclusive provider of specialist resources.",
+      "People who use, operate, maintain or support the results and those who are affected by the results."
+    ],
+    "correct": 3,
+    "explanation": "The user perspective also includes maintaining and supporting results and the impact of results on users."
+  },
+  {
+    "type": "missing-word",
+    "question": "The project manager assigns specialist work to the team manager through a work package [...].",
+    "options": [
+      "Description",
+      "Report",
+      "Register",
+      "Strategy"
+    ],
+    "correct": 0,
+    "explanation": "The work package description defines agreed products, constraints and controls."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO statements about Project Support are correct? Choose ONE pair of true statements. 1. By default, the Project Manager is responsible for them.  2. It cannot be delegated.  3. Can be established as a project office.  4. Always includes independent project supervision.",
+    "options": [
+      "1 and 3",
+      "1 and 2",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "Project support is the PM's responsibility by default, can be delegated and can take the form of a project office. He cannot perform Project Assurance."
+  },
+  {
+    "type": "standard",
+    "question": "Who represents user interests on the project board?",
+    "options": [
+      "The senior user",
+      "The senior supplier",
+      "The team manager",
+      "Quality assurance"
+    ],
+    "correct": 0,
+    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
+  },
+  {
+    "type": "standard",
+    "question": "Which layer commissions the project and provides its initial mandate?",
+    "options": [
+      "Business layer",
+      "Team manager",
+      "Project support",
+      "Quality assurance"
+    ],
+    "correct": 0,
+    "explanation": "Preparing a project mandate belongs to the business layer, i.e. the Project order level."
+  },
+  {
+    "type": "missing-word",
+    "question": "Complete: The value for money side of the business is represented by [...].",
+    "options": [
+      "Team Manager",
+      "ProjectSupport",
+      "Executive",
+      "Senior Supplier"
+    ],
+    "correct": 2,
+    "explanation": "The business meets business needs and provides value for money. It is represented by the Executive."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO conditions apply to the Team Manager's performance of work? Choose ONE pair of true statements. 1. The works are in accordance with the agreed specifications.  2. He sets the tolerances himself, without consulting the PM.  3. The works are within the tolerances agreed with the Project Manager.  4. Assumes Executive accountability for the project.",
+    "options": [
+      "1 and 3",
+      "1 and 2",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "The team manager is responsible for carrying out the work in accordance with the specifications and within the tolerances agreed with the PM."
+  },
+  {
+    "type": "standard",
+    "question": "Which task belongs to the project manager?",
+    "options": [
+      "Managing the stage work",
+      "Selling the product after closure as a PRINCE2 role",
+      "Setting overall programme tolerance",
+      "Personally performing every quality test"
+    ],
+    "correct": 0,
+    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
+  }
+]

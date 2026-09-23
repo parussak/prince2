@@ -1,0 +1,164 @@
+[
+  {
+    "question": "What is the key difference between quality control and quality assurance?",
+    "options": [
+      "Control checks products; assurance independently assesses the quality approach",
+      "A green test pipeline",
+      "An end stage report",
+      "Quality control"
+    ],
+    "correct": 0,
+    "explanation": "They operate at different levels.",
+    "type": "standard"
+  },
+  {
+    "question": "A description of criteria and methods for one product is a product [...].",
+    "options": [
+      "Description",
+      "Register",
+      "Plan",
+      "Brief"
+    ],
+    "correct": 0,
+    "explanation": "A product description states the quality criteria and the quality methods for a product.",
+    "type": "missing-word"
+  },
+  {
+    "question": "Which TWO management products support the quality practice? Choose ONE pair of true statements. 1. Quality management approach.  2. Quality register.  3. Business case.  4. Risk register.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "The approach defines the method; the register records planned and completed checks.",
+    "type": "standard"
+  },
+  {
+    "question": "Which statement about quality assurance is FALSE?",
+    "options": [
+      "It consists of writing unit tests for the application",
+      "It reviews whether quality processes are suitable",
+      "It can be independent of the delivery team",
+      "It provides confidence that agreed methods are followed"
+    ],
+    "correct": 0,
+    "explanation": "Unit tests are a form of quality control.",
+    "type": "negative"
+  },
+  {
+    "question": "Planned and completed quality reviews and results are recorded in the quality [...].",
+    "options": [
+      "Register",
+      "Plan",
+      "Report",
+      "Budget"
+    ],
+    "correct": 0,
+    "explanation": "The quality register is the record of quality control activities.",
+    "type": "missing-word"
+  },
+  {
+    "question": "What do acceptance criteria describe?",
+    "options": [
+      "Conditions the project product must satisfy to be accepted",
+      "Quality register",
+      "Product register",
+      "Product description"
+    ],
+    "correct": 0,
+    "explanation": "They turn expectations into a basis for acceptance.",
+    "type": "standard"
+  },
+  {
+    "question": "Which TWO belong in a product description? Choose ONE pair of true statements. 1. Quality criteria.  2. Quality methods and responsibilities.  3. Annual leave calendar.  4. Supplier bank account.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "1 and 4",
+      "2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "A product description defines the checks for that product.",
+    "type": "standard"
+  },
+  {
+    "question": "What does quality control do?",
+    "options": [
+      "Tests products against their quality criteria",
+      "Approves the business case",
+      "Sets the overall project tolerance",
+      "Independently audits the organization-wide quality system"
+    ],
+    "correct": 0,
+    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority.",
+    "type": "standard"
+  },
+  {
+    "question": "Is quality planning the same as a service level agreement?",
+    "options": [
+      "No; service levels may contribute requirements, but planning quality has a wider scope",
+      "Quality management approach",
+      "Quality register",
+      "Product register"
+    ],
+    "correct": 0,
+    "explanation": "Quality planning covers all agreed product criteria and checks."
+  },
+  {
+    "question": "What is quality assurance primarily concerned with?",
+    "options": [
+      "Whether quality planning and control arrangements can provide confidence",
+      "Product description",
+      "Project product description",
+      "Acceptance criteria"
+    ],
+    "correct": 0,
+    "explanation": "Quality assurance addresses the effectiveness of arrangements."
+  },
+  {
+    "question": "Does a green automated test pipeline automatically mean product acceptance?",
+    "options": [
+      "No; acceptance needs the required evidence and authorized decision",
+      "A green test pipeline",
+      "An end stage report",
+      "Quality control"
+    ],
+    "correct": 0,
+    "explanation": "Passing tests is evidence, not necessarily formal acceptance."
+  },
+  {
+    "question": "Where are scheduled and completed quality checks tracked?",
+    "options": [
+      "Quality register",
+      "Quality assurance",
+      "Quality management approach",
+      "Product register"
+    ],
+    "correct": 0,
+    "explanation": "The quality register records both planned and actual results."
+  },
+  {
+    "question": "What does the product register track?",
+    "options": [
+      "The status of products, including their approval and acceptance",
+      "Product register",
+      "Product description",
+      "Project product description"
+    ],
+    "correct": 0,
+    "explanation": "It is distinct from the quality register."
+  },
+  {
+    "question": "Who should review a product when an independent review is required?",
+    "options": [
+      "A reviewer independent of its producer",
+      "Acceptance criteria",
+      "A green test pipeline",
+      "An end stage report"
+    ],
+    "correct": 0,
+    "explanation": "Independence helps challenge assumptions and find defects."
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "type": "standard",
+    "question": "Które trzy interesy (Interests) MUSZĄ być reprezentowane w Radzie Projektu (Project Board)?",
+    "options": [
+      "Finanse, Prawo, Marketing",
+      "Biznes (Executive), Użytkownicy (Senior User), Dostawcy (Senior Supplier)",
+      "Kierownik Projektu, Programista, Tester",
+      "Sponsor, Dyrektor HR, Związki Zawodowe"
+    ],
+    "correct": 1,
+    "explanation": "Rada Projektu zawsze reprezentuje trzy kluczowe interesy: Biznes, Użytkowników oraz Dostawców."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nOsoba jednoosobowo odpowiedzialna za sukces projektu oraz za Uzasadnienie Biznesowe to [...].",
+    "options": [
+      "Kierownik Projektu",
+      "Przewodniczący projektu (Executive)",
+      "Główny Dostawca",
+      "Kierownik zespołu"
+    ],
+    "correct": 1,
+    "explanation": "Executive ponosi ostateczną, jednoosobową odpowiedzialność za sukces projektu."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA połączenia ról są BEZWZGLĘDNIE ZABRONIONE w metodyce PRINCE2? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Połączenie roli Przewodniczącego projektu (Executive) i Kierownika Projektu (PM).  2. Połączenie roli Nadzoru Projektu (Project Assurance) i Kierownika Projektu (PM).  3. Połączenie roli Głównego Użytkownika i Głównego Dostawcy.  4. Połączenie roli Kierownika Projektu i Kierownika zespołu.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "PM nie może być Executive ani wykonywać Project Assurance (nadzór musi być niezależny od PM)."
+  },
+  {
+    "type": "negative",
+    "question": "Które ze stwierdzeń na temat Nadzoru Projektu (Project Assurance) NIE JEST prawdziwe?",
+    "options": [
+      "Jest to obowiązek należący do członków Rady Projektu.",
+      "Mogą go wykonywać niezależne osoby oddelegowane przez Radę.",
+      "Kierownik Projektu może przejąć zadania Nadzoru Projektu, jeśli ma wolny czas.",
+      "Sprawdza prawidłowość prac w imieniu interesów Biznesu, Użytkowników i Dostawców."
+    ],
+    "correct": 2,
+    "explanation": "Kierownik Projektu NIGDY nie może wykonywać funkcji Project Assurance – byłby to konflikt interesów (samokontrola)."
+  },
+  {
+    "type": "standard",
+    "question": "Jaki jest główny cel roli Kierownika zespołu (Team Manager)?",
+    "options": [
+      "Zatwierdzanie budżetu całego projektu.",
+      "Zapewnienie wytworzenia produktów określonych w Grupach Zadań (Work Packages) i raportowanie do PM.",
+      "Negocjowanie umów ze Sponsorem.",
+      "Zamknięcie Etapu Inicjowania."
+    ],
+    "correct": 1,
+    "explanation": "Team Manager odpowiada za operacyjne kierowanie zespołem wykonawczym i dostarczenie Grupy Zadań."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nRola wspierająca Kierownika Projektu w administrowaniu rejestrami i narzędziami to Wsparcie [...].",
+    "options": [
+      "Techniczne",
+      "Projektu (Project Support)",
+      "Zarządcze",
+      "Biznesowe"
+    ],
+    "correct": 1,
+    "explanation": "Project Support wspiera PM w zadaniach administracyjnych."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA zadania należą do obowiązków Głównego Użytkownika (Senior User)? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Określenie wymagań i oczekiwań jakościowych użytkowników.  2. Potwierdzenie, że dostarczone produkty spełniają kryteria akceptacji.  3. Osobiste programowanie bazy danych.  4. Prowadzenie księgowości spółki.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "Senior User definiuje wymagania oraz weryfikuje i odbiera produkty w imieniu użytkowników."
+  },
+  {
+    "type": "standard",
+    "question": "Co stanowi poziom dostarczania w strukturze organizacji projektu?",
+    "options": [
+      "Kierownicy Zespołów i członkowie zespołu",
+      "Zarządzanie korporacyjne",
+      "Komitet Sterujący",
+      "Zarządzanie programem"
+    ],
+    "correct": 0,
+    "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+  },
+  {
+    "type": "standard",
+    "question": "Jaki jest cel praktyki Organizacja?",
+    "options": [
+      "Wyłącznie przygotowanie harmonogramu prac.",
+      "Zdefiniowanie i ustanowienie struktury rozliczalności i odpowiedzialności projektu (kto).",
+      "Wybór technologii produktów.",
+      "Zastąpienie uzasadnienia biznesowego strukturą zespołu."
+    ],
+    "correct": 1,
+    "explanation": "Przeznaczeniem praktyki Organizacja jest zdefiniowanie i ustanowienie struktury rozliczalności i odpowiedzialności projektu (kto)."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij: poziom organizacyjny pomiędzy Zlecaniem projektu a Zarządzaniem to [...].",
+    "options": [
+      "Dostarczanie",
+      "Wsparcie projektu",
+      "Ukierunkowywanie",
+      "Kontrola jakości"
+    ],
+    "correct": 2,
+    "explanation": "Zlecanie projektu → Ukierunkowywanie → Zarządzanie → Dostarczanie."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA stwierdzenia dotyczą Przewodniczącego projektu? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Jest wyznaczany przez biznes.  2. Może delegować swoją rozliczalność za projekt na PM.  3. Jest pojedynczym punktem rozliczalności za projekt.  4. Musi jednocześnie pełnić rolę Kierownika projektu.",
+    "options": [
+      "1 i 3",
+      "1 i 2",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "Executive jest wyznaczany przez biznes i stanowi pojedynczy punkt rozliczalności. Tej rozliczalności nie można delegować."
+  },
+  {
+    "type": "standard",
+    "question": "Co opisuje rolę Kierownika Projektu?",
+    "options": [
+      "Zarządza etapem w granicach delegowanej tolerancji",
+      "Należy obowiązkowo do Komitetu Sterującego",
+      "Zastępuje rolę Zleceniodawcy",
+      "Sam zatwierdza tolerancje całego projektu"
+    ],
+    "correct": 0,
+    "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+  },
+  {
+    "type": "standard",
+    "question": "Za co jest rozliczalny Główny użytkownik/użytkownicy?",
+    "options": [
+      "Za podejście do uchwycenia wymagań użytkownika i specyfikacji korzyści dopasowanych do uzasadnienia biznesowego.",
+      "Za jakość produktów dostawców i techniczną integralność projektu.",
+      "Za wyznaczenie Executive.",
+      "Za samodzielne ustalenie tolerancji projektu."
+    ],
+    "correct": 0,
+    "explanation": "Senior User reprezentuje społeczność użytkowników i odpowiada za wskazane podejście do wymagań i korzyści."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij: oprócz jakości produktów dostawców Senior Supplier jest rozliczalny za [...] projektu.",
+    "options": [
+      "reklamę",
+      "techniczną integralność",
+      "zlecenie",
+      "jednoosobowe finansowanie"
+    ],
+    "correct": 1,
+    "explanation": "Główny dostawca/dostawcy jest rozliczalny zarówno za jakość produktów dostawców, jak i techniczną integralność projektu."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA stwierdzenia o Nadzorze projektu są poprawne? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Członkowie Rady są rozliczalni za nadzór swoich obszarów.  2. Wsparcie projektu może przejąć Nadzór projektu.  3. Rada może wyznaczyć odrębne osoby do zadań nadzoru.  4. Kierownik projektu może nadzorować sam siebie w imieniu Rady.",
+    "options": [
+      "1 i 3",
+      "1 i 2",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "Rada może wyznaczyć osoby do zadań nadzoru, zachowując rozliczalność. Nie mogą to być PM, członkowie zespołu ani Wsparcie projektu."
+  },
+  {
+    "type": "standard",
+    "question": "Jaki jest zakres podejścia do zarządzania kontraktami?",
+    "options": [
+      "Uwzględnia właściwe ustalenia handlowe i relacje z dostawcami",
+      "Dotyczy wyłącznie podpisanych umów zewnętrznych",
+      "Zastępuje plan zapewnienia jakości",
+      "Stanowi raport końcowy etapu"
+    ],
+    "correct": 0,
+    "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+  },
+  {
+    "type": "standard",
+    "question": "Który opis odpowiada stronie interesu „Użytkownik”?",
+    "options": [
+      "Wyłącznie osoba kupująca produkt.",
+      "Wyłącznie osoba zatwierdzająca budżet.",
+      "Wyłącznie dostawca specjalistycznych zasobów.",
+      "Osoby wykorzystujące wyniki dla korzyści, operujące nimi, utrzymujące lub wspierające je oraz osoby, na które wyniki wpływają."
+    ],
+    "correct": 3,
+    "explanation": "Perspektywa użytkownika obejmuje także utrzymywanie i wspieranie wyników oraz wpływ wyników na użytkowników."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij: Kierownik projektu przydziela pracę Kierownikowi zespołu w formie opisu [...].",
+    "options": [
+      "Grupy Zadań",
+      "uzasadnienia biznesowego",
+      "zlecenia projektu",
+      "raportu końcowego projektu"
+    ],
+    "correct": 0,
+    "explanation": "Opis Grupy Zadań (Work Package) służy przydzielaniu pracy zgodnie z Podejściem do Zarządzania Kontraktami."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA stwierdzenia o Wsparciu projektu są poprawne? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Domyślnie odpowiada za nie Kierownik Projektu.  2. Nie może być delegowane.  3. Może zostać ustanowione jako biuro projektu.  4. Zawsze obejmuje niezależny Nadzór projektu.",
+    "options": [
+      "1 i 3",
+      "1 i 2",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "Wsparcie projektu domyślnie jest odpowiedzialnością PM, może być delegowane i może przyjąć formę biura projektu. Nie może wykonywać Nadzoru projektu."
+  },
+  {
+    "type": "standard",
+    "question": "Kto reprezentuje interes użytkowników w Komitecie Sterującym?",
+    "options": [
+      "Główny Użytkownik",
+      "Główny Dostawca",
+      "Kierownik Zespołu",
+      "Nadzór Jakości"
+    ],
+    "correct": 0,
+    "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+  },
+  {
+    "type": "standard",
+    "question": "Który poziom przygotowuje zlecenie projektu tak, żeby ukończyć je z takim zarysem, na jaki zgodzi się rada projektu?",
+    "options": [
+      "Zlecanie projektu — warstwa biznesowa.",
+      "Ukierunkowywanie — rada projektu.",
+      "Zarządzanie — kierownik projektu.",
+      "Dostarczanie — kierownicy zespołów."
+    ],
+    "correct": 0,
+    "explanation": "Przygotowanie zlecenia projektu należy do warstwy biznesowej, czyli poziomu Zlecanie projektu."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij: stronę interesu zapewniającą stosunek wartości do ceny (value for money) reprezentuje [...].",
+    "options": [
+      "Team Manager",
+      "Project Support",
+      "Executive",
+      "Senior Supplier"
+    ],
+    "correct": 2,
+    "explanation": "Biznes zaspokaja potrzeby biznesowe i zapewnia value for money. Reprezentuje go Przewodniczący projektu (Executive)."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA warunki dotyczą wykonania prac przez Kierownika zespołu? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Prace są zgodne z uzgodnionymi specyfikacjami.  2. Tolerancje ustala sam, bez uzgodnienia z PM.  3. Prace mieszczą się w tolerancjach uzgodnionych z Kierownikiem Projektu.  4. Przejmuje rozliczalność Executive za projekt.",
+    "options": [
+      "1 i 3",
+      "1 i 2",
+      "1 i 4",
+      "2 i 3"
+    ],
+    "correct": 0,
+    "explanation": "Kierownik zespołu odpowiada za wykonanie prac zgodnie ze specyfikacjami oraz w tolerancjach uzgodnionych z PM."
+  },
+  {
+    "type": "standard",
+    "question": "Jakie zadanie należy do Kierownika Projektu?",
+    "options": [
+      "Zarządzanie wykonywaniem etapu",
+      "Sprzedaż produktu po projekcie jako rola PRINCE2",
+      "Wyznaczanie tolerancji całego programu",
+      "Osobiste przeprowadzanie każdej kontroli jakości"
+    ],
+    "correct": 0,
+    "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+  }
+]

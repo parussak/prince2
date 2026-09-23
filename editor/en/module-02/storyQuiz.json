@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Artur (Sponsor) states that if the retro-game trend fades, the project will be closed immediately, even if half the budget has already been spent. Which PRINCE2 Principle is demonstrated directly here?",
+    "options": [
+      "Learn from experience",
+      "Continued business justification",
+      "Manage by exception (Manage by exception)",
+      "Focus on products (Focus on products)"
+    ],
+    "correct": 1,
+    "explanation": "Continued business justification means that the project must have financial or strategic justification throughout its life cycle. If the business case disappears, the project should be closed."
+  },
+  {
+    "question": "Zosia does not invent processes from scratch but reviews the closure reports from the previous game PixelBite ('Pixel Knight'), to avoid optimization mistakes. Which principle?",
+    "options": [
+      "Manage by stages",
+      "Learn from experience",
+      "Tailor to suit the project",
+      "Define roles and responsibilities"
+    ],
+    "correct": 1,
+    "explanation": "Learn from experience (Learn from experience) requires lessons from previous projects to be sought, learned during the project, and passed on at the end."
+  },
+  {
+    "question": "Maya (Senior User) demands that the game meet stringent environmental standards (Sustainability). Which part of the PRINCE2 7th Edition architecture refers to sustainability?",
+    "options": [
+      "It is 8. additional Principle.",
+      "It is one of the performance targets/aspects used in project control and in the Business Case.",
+      "PRINCE2 does not address environmental matters.",
+      "It is a separate process launched after CP."
+    ],
+    "correct": 1,
+    "explanation": "In PRINCE2 7th Edition, Sustainability was added as a key project performance objective/aspect, alongside time, cost, quality, scope, benefits, and risk."
+  },
+  {
+    "question": "Artur wants to control game funding in smaller portions. Zosia divides the project into three management stages. Which principle are they applying?",
+    "options": [
+      "Manage by stages",
+      "Manage by exception",
+      "Focus on products",
+      "Tailor to suit the project"
+    ],
+    "correct": 0,
+    "explanation": "Manage by stages ensures that resources are allocated and viability is assessed at the boundaries of successive management stages."
+  },
+  {
+    "question": "Marek suggests omitting formal role descriptions because everyone in the studio knows one another. Zosia refuses. Why are clear roles essential in PRINCE2?",
+    "options": [
+      "Because employment law requires it.",
+      "The principle “define roles, responsibilities and relationships” requires clear accountabilities.",
+      "To hire more managers.",
+      "Roles are managed exclusively by an external auditor."
+    ],
+    "correct": 1,
+    "explanation": "This principle makes accountability and the business, user and supplier interests explicit."
+  },
+  {
+    "question": "SnakeBite is a small indie project. Zosia simplifies the documentation and shortens the reports. Which principle did she use?",
+    "options": [
+      "Focus on products",
+      "Continued business justification",
+      "Tailor to suit the project",
+      "Manage by exception"
+    ],
+    "correct": 2,
+    "explanation": "Tailoring ensures that the method is proportionate to the project’s size, scale, risk, and complexity."
+  }
+]

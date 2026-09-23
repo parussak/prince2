@@ -1,0 +1,156 @@
+[
+  {
+    "question": "When is an exception plan prepared?",
+    "options": [
+      "When requested by the board after an exception",
+      "At the start of every management stage",
+      "Only after the project has closed",
+      "Whenever a team member asks, without examining the forecast"
+    ],
+    "correct": 0,
+    "explanation": "It is not an automatic plan for each stage."
+  },
+  {
+    "question": "Where is the decision to authorize the next stage made?",
+    "options": [
+      "Directing a project",
+      "Controlling a stage",
+      "Managing product delivery",
+      "Managing a stage boundary"
+    ],
+    "correct": 0,
+    "explanation": "Managing a stage boundary supplies information; the board directs."
+  },
+  {
+    "question": "Who prepares the next stage plan?",
+    "options": [
+      "Project manager",
+      "Team manager",
+      "Project board",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "Stage boundary work prepares the next stage for authorization."
+  },
+  {
+    "question": "Who authorizes the next stage?",
+    "options": [
+      "Project board",
+      "Project manager",
+      "Team manager",
+      "Project executive"
+    ],
+    "correct": 0,
+    "explanation": "The board makes the go or stop decision."
+  },
+  {
+    "question": "Which report compares the completed beta with its approved plan?",
+    "options": [
+      "End stage report",
+      "Checkpoint report",
+      "Highlight report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "The report records performance and lessons."
+  },
+  {
+    "question": "Why should the business case be reviewed at the boundary?",
+    "options": [
+      "To check whether the project remains justified",
+      "Use the next stage plan in place of the revised business case",
+      "Prepare an exception plan for every normal stage boundary",
+      "Use an exception report as the authorized replacement plan"
+    ],
+    "correct": 0,
+    "explanation": "Updated costs and benefits inform further investment."
+  },
+  {
+    "question": "Which plan shows the current forecast of the complete project?",
+    "options": [
+      "Project plan",
+      "Stage plan",
+      "Team plan",
+      "Exception plan"
+    ],
+    "correct": 0,
+    "explanation": "It spans all management stages."
+  },
+  {
+    "question": "The board asks for a replacement plan after an exception. What is prepared?",
+    "options": [
+      "Exception plan for the board to consider",
+      "Use the next stage plan in place of the revised business case",
+      "Prepare an exception plan for every normal stage boundary",
+      "Use an exception report as the authorized replacement plan"
+    ],
+    "correct": 0,
+    "explanation": "An exception plan can replace the affected plan after approval."
+  },
+  {
+    "question": "What distinguishes an exception report from an exception plan?",
+    "options": [
+      "The report escalates a forecast breach; the plan sets out replacement work",
+      "Checkpoint report",
+      "Highlight report",
+      "Exception report"
+    ],
+    "correct": 0,
+    "explanation": "They serve different decisions."
+  },
+  {
+    "question": "What evidence does Maya provide at the stage boundary?",
+    "options": [
+      "User test outcomes and acceptance information",
+      "Use the next stage plan in place of the revised business case",
+      "Prepare an exception plan for every normal stage boundary",
+      "Use an exception report as the authorized replacement plan"
+    ],
+    "correct": 0,
+    "explanation": "User feedback informs the next decision."
+  },
+  {
+    "question": "What justifies asking the board to authorize another stage?",
+    "options": [
+      "Updated stage assessment, next stage plan and business case",
+      "Project plan",
+      "Quality register",
+      "Daily log"
+    ],
+    "correct": 0,
+    "explanation": "The board needs evidence of viability and a realistic plan."
+  },
+  {
+    "question": "When is a stage plan developed in detail?",
+    "options": [
+      "Before that stage, usually at the preceding boundary",
+      "At the start of every management stage",
+      "Only after the project has closed",
+      "Whenever a team member asks, without examining the forecast"
+    ],
+    "correct": 0,
+    "explanation": "Near term planning is more reliable."
+  },
+  {
+    "question": "What is a useful result of lessons learned in the preceding stage?",
+    "options": [
+      "Better estimates and controls for the next stage",
+      "Treat the updated project plan as authorization of the next stage",
+      "Ask the team manager to approve a replacement stage plan",
+      "Omit the end stage report when the stage is within tolerance"
+    ],
+    "correct": 0,
+    "explanation": "Lessons inform the next stage plan."
+  },
+  {
+    "question": "Beta results cast doubt on expected benefits. What should the project manager do?",
+    "options": [
+      "Update the business case and present the assessment to the board",
+      "Use the next stage plan in place of the revised business case",
+      "Prepare an exception plan for every normal stage boundary",
+      "Use an exception report as the authorized replacement plan"
+    ],
+    "correct": 0,
+    "explanation": "The board decides whether to continue investing."
+  }
+]

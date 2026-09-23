@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What is the first product to describe when Zosia plans SnakeBite by products?",
+    "options": [
+      "Project product description",
+      "Project plan",
+      "Stage plan",
+      "Team plan"
+    ],
+    "correct": 0,
+    "explanation": "It states the overall product and acceptance criteria."
+  },
+  {
+    "question": "Zosia divides the game into a hierarchy of engine, art and audio products. Which tool is this?",
+    "options": [
+      "Product breakdown structure (PBS)",
+      "Exception plan",
+      "Product flow diagram",
+      "Product description"
+    ],
+    "correct": 0,
+    "explanation": "A PBS groups the products by part and whole."
+  },
+  {
+    "question": "Which tool shows that the engine must be completed before art integration?",
+    "options": [
+      "Product flow diagram (PFD)",
+      "Product description",
+      "Work package description",
+      "Risk register"
+    ],
+    "correct": 0,
+    "explanation": "A PFD shows product sequence and dependencies."
+  },
+  {
+    "question": "A team manager prepares an internal schedule for a work package. Which plan is this?",
+    "options": [
+      "Team plan",
+      "Product register",
+      "An external dependency",
+      "A checkpoint report"
+    ],
+    "correct": 0,
+    "explanation": "A team plan helps the team organize its specialist work."
+  },
+  {
+    "question": "The project board requests a replacement plan after a forecast exception. Which plan does Zosia prepare?",
+    "options": [
+      "Exception plan",
+      "Project plan",
+      "Stage plan",
+      "Team plan"
+    ],
+    "correct": 0,
+    "explanation": "An exception plan responds to an exception and replaces the affected plan when approved."
+  },
+  {
+    "question": "When does estimating resources and scheduling occur in product based planning?",
+    "options": [
+      "After identifying products, describing them and mapping dependencies",
+      "Exception plan",
+      "Product breakdown structure",
+      "Product flow diagram"
+    ],
+    "correct": 0,
+    "explanation": "Products and their dependencies establish the basis for estimates."
+  }
+]

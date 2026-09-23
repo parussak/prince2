@@ -1,0 +1,156 @@
+[
+  {
+    "question": "Który raport Tomek przekazuje Zosi?",
+    "options": [
+      "Raport z Punktu Kontrolnego",
+      "Raport Końcowy Projektu",
+      "Raport Okresowy",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 0,
+    "explanation": "Raport z Punktu Kontrolnego dotyczy dostarczania Grupy Zadań."
+  },
+  {
+    "question": "Jaki jest główny zakres CS?",
+    "options": [
+      "Wytwarzanie kodu gry",
+      "Bieżące zarządzanie etapem",
+      "Zatwierdzanie projektu",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 1,
+    "explanation": "CS jest procesem kierownika projektu."
+  },
+  {
+    "question": "Kto autoryzuje Grupę Zadań w etapie?",
+    "options": [
+      "Kierownik projektu",
+      "Kierownik zespołu",
+      "Główny dostawca",
+      "Wsparcie projektu"
+    ],
+    "correct": 0,
+    "explanation": "Kierownik projektu uzgadnia i autoryzuje pracę w CS."
+  },
+  {
+    "question": "Co kierownik zespołu robi przed wykonaniem Grupy Zadań?",
+    "options": [
+      "Ocenia i przyjmuje uzgodniony pakiet",
+      "Autoryzuje etap",
+      "Zamyka projekt",
+      "Zmienia Uzasadnienie Biznesowe"
+    ],
+    "correct": 0,
+    "explanation": "MP rozpoczyna się od przyjęcia pakietu prac."
+  },
+  {
+    "question": "Który raport przenosi postęp od zespołu do kierownika projektu?",
+    "options": [
+      "Raport z Punktu Kontrolnego",
+      "Raport Okresowy",
+      "Raport Końcowy Etapu",
+      "Raport Końcowy Projektu"
+    ],
+    "correct": 0,
+    "explanation": "Raport z Punktu Kontrolnego informuje kierownika projektu o pakiecie."
+  },
+  {
+    "question": "Który raport kierownik projektu cyklicznie przekazuje Radzie?",
+    "options": [
+      "Raport Okresowy",
+      "Raport z Punktu Kontrolnego",
+      "Raport z Lekcji",
+      "Opis Produktu"
+    ],
+    "correct": 0,
+    "explanation": "Raport Okresowy obrazuje postęp etapu dla Rady."
+  },
+  {
+    "question": "Do kogo Tomek eskaluje prognozowane przekroczenie tolerancji pakietu?",
+    "options": [
+      "Do Zosi, kierownika projektu",
+      "Bezpośrednio do warstwy biznesowej",
+      "Do użytkownika końcowego",
+      "Do biura rachunkowego"
+    ],
+    "correct": 0,
+    "explanation": "Granica uprawnień pakietu biegnie między kierownikiem zespołu a kierownikiem projektu."
+  },
+  {
+    "question": "Co robi Zosia, gdy prognoza przekracza tolerancję etapu?",
+    "options": [
+      "Eskalacja do Rady przez Raport Nadzwyczajny",
+      "Samodzielne podniesienie tolerancji etapu",
+      "Czekanie na ostateczne przekroczenie",
+      "Ukrycie problemu w raporcie zespołu"
+    ],
+    "correct": 0,
+    "explanation": "Prognozowany wyjątek etapu wymaga informacji i decyzji Rady."
+  },
+  {
+    "question": "Co potwierdza ukończenie pakietu po wykonaniu i ocenie?",
+    "options": [
+      "Zgłoszenie ukończenia Grupy Zadań kierownikowi projektu",
+      "Sam wpis w backlogu",
+      "Autoryzacja zamknięcia całego projektu",
+      "Zgoda warstwy biznesowej"
+    ],
+    "correct": 0,
+    "explanation": "MP kończy się przekazaniem ukończonych produktów zgodnie z uzgodnieniem."
+  },
+  {
+    "question": "Jakie kryteria ocenia Tomek podczas dostarczania rankingu?",
+    "options": [
+      "Uzgodnione kryteria jakości Opisu Produktu",
+      "Wyłącznie subiektywną opinię programisty",
+      "Wyłącznie liczbę commitów",
+      "Wyłącznie koszt licencji"
+    ],
+    "correct": 0,
+    "explanation": "Opis Produktu wyznacza podstawę kontroli jakości."
+  },
+  {
+    "question": "Który proces przede wszystkim ocenia status etapu i podejmuje działania korygujące?",
+    "options": [
+      "Kontrolowanie etapu",
+      "Zamykanie projektu",
+      "Uruchamianie projektu",
+      "Zarządzanie dostarczaniem produktów"
+    ],
+    "correct": 0,
+    "explanation": "To zadania kierownika projektu w CS."
+  },
+  {
+    "question": "Który proces kontroluje relację między kierownikiem projektu i zespołu przy dostawie?",
+    "options": [
+      "Zarządzanie dostarczaniem produktów",
+      "Ukierunkowywanie projektu",
+      "Zamykanie projektu",
+      "Inicjowanie projektu"
+    ],
+    "correct": 0,
+    "explanation": "MP obejmuje przyjęcie, wykonanie, ocenę i zgłoszenie ukończenia pakietu."
+  },
+  {
+    "question": "Co stanowi podstawę uzgodnienia zakresu i tolerancji z Tomkiem?",
+    "options": [
+      "Opis Grupy Zadań",
+      "Raport Końcowy Projektu",
+      "Sam Raport Okresowy",
+      "Rejestr Korzyści"
+    ],
+    "correct": 0,
+    "explanation": "Opis Grupy Zadań wyznacza produkty, ograniczenia, tolerancje i raportowanie."
+  },
+  {
+    "question": "Co robi Zosia, jeśli prognozowany poślizg mieści się w tolerancji etapu?",
+    "options": [
+      "Może podjąć działanie korygujące w swoich uprawnieniach",
+      "Musi przerwać projekt",
+      "Musi automatycznie uzyskać nową tolerancję projektu",
+      "Zleca Tomkowi autoryzację następnego etapu"
+    ],
+    "correct": 0,
+    "explanation": "W ramach tolerancji kierownik projektu zarządza bieżąco."
+  }
+]

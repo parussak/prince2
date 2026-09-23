@@ -1,0 +1,74 @@
+[
+  {
+    "q": "Zagadnienie — co zapamiętać?",
+    "a": "Sprawa istotna dla projektu, która wymaga rozpatrzenia. Może mieć charakter problemu, możliwości biznesowej, wniosku o zmianę lub odstępstwa od specyfikacji."
+  },
+  {
+    "q": "Wniosek o zmianę — co zapamiętać?",
+    "a": "Propozycja zmiany zatwierdzonej linii bazowej. Przed decyzją trzeba ocenić wpływ i ustalić, kto ma uprawnienia do zatwierdzenia."
+  },
+  {
+    "q": "Odstępstwo od specyfikacji — co zapamiętać?",
+    "a": "Coś, co powinno być dostarczone zgodnie z uzgodnieniem, nie jest lub przewiduje się, że nie będzie dostarczone."
+  },
+  {
+    "q": "Obsługa zagadnień — co zapamiętać?",
+    "a": "Rejestruj, oceniaj, rekomenduj, podejmuj decyzję i wdrażaj ustaloną reakcję. Szczegółowość i formalność dostosuj do znaczenia sprawy."
+  },
+  {
+    "q": "Kontrola zmian — co zapamiętać?",
+    "a": "Chroni zatwierdzone ustalenia przed niekontrolowanymi zmianami. Rada określa delegowane uprawnienia i ograniczenia; nie każda zmiana musi osobiście trafić do Rady."
+  },
+  {
+    "q": "Ryzyko a zagadnienie — co zapamiętać?",
+    "a": "Ryzyko dotyczy niepewnego zdarzenia. Zagadnienie jest sprawą wymagającą rozpatrzenia teraz; może tworzyć kolejne ryzyka."
+  },
+  {
+    "q": "Jak zakwalifikować prośbę Mayi o nowy ekran w zatwierdzonej specyfikacji?",
+    "a": "Wniosek o zmianę. To propozycja zmiany zatwierdzonej linii bazowej."
+  },
+  {
+    "q": "Jak zakwalifikować ranking, który nie osiąga uzgodnionego czasu odpowiedzi?",
+    "a": "Odstępstwo od specyfikacji. Produkt nie spełni uzgodnionych specyfikacji jakości."
+  },
+  {
+    "q": "Czym jest koncesja?",
+    "a": "Zatwierdzone odstępstwo od specyfikacji bez działania korygującego. Koncesja wymaga uprawnionej akceptacji oraz aktualizacji linii bazowej."
+  },
+  {
+    "q": "Gdzie rejestrować zagadnienia projektu?",
+    "a": "W Rejestrze Zagadnień w Dzienniku Projektu. Rejestr Zagadnień śledzi zagadnienia i decyzje."
+  },
+  {
+    "q": "Kiedy przygotować Raport Zagadnienia?",
+    "a": "Gdy sprawa wymaga szczegółowej oceny i decyzji. Raport opisuje analizę wybranego zagadnienia i rekomendację."
+  },
+  {
+    "q": "Co odróżnia ryzyko od zagadnienia?",
+    "a": "Ryzyko dotyczy niepewnego przyszłego zdarzenia. Niepewność zdarzenia prowadzi do zarządzania ryzykiem."
+  },
+  {
+    "q": "Kto zatwierdza zmianę w linii bazowej?",
+    "a": "Rola mająca delegowane uprawnienia do tej decyzji. Zatwierdzenie zależy od uzgodnionego poziomu uprawnień."
+  },
+  {
+    "q": "Do czego służy budżet zmian?",
+    "a": "Do finansowania zatwierdzonych zmian zgodnie z regułami planu. Dostępność środków nie zastępuje zatwierdzenia zmiany."
+  },
+  {
+    "q": "Która lista odpowiada klasyfikacji zagadnień w PRINCE2 7?",
+    "a": "Problem/obawa, zdarzenie zewnętrzne, szansa biznesowa, wniosek o zmianę, odstępstwo. Podręcznik podaje pięć kategorii zagadnień."
+  },
+  {
+    "q": "Co tworzy linię bazową projektu?",
+    "a": "Aktualne zatwierdzone wersje produktów pod kontrolą zmian. Linia bazowa to zatwierdzone wersje produktów zarządczych i projektowych pod kontrolą zmian."
+  },
+  {
+    "q": "Który rejestr pomaga ustalić status i wersje produktów?",
+    "a": "Rejestr Produktów. Rejestr Produktów wspiera śledzenie statusu i zatwierdzeń produktów."
+  },
+  {
+    "q": "Co trzeba ocenić przy istotnym wniosku o zmianę?",
+    "a": "Wpływ na cele projektu oraz źródło finansowania i uprawnienia. Analiza wpływu obejmuje siedem celów wykonania i właściwą decyzję."
+  }
+]

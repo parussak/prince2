@@ -1,0 +1,35 @@
+[
+  {
+    "question": "How many integrated elements are in PRINCE2 7?",
+    "options": [
+      "Five",
+      "Four",
+      "Six",
+      "Seven"
+    ],
+    "correct": 0,
+    "explanation": "Principles, people, practices, processes and project context work together."
+  },
+  {
+    "question": "Does acceptance of SnakeBite prove all benefits have been achieved?",
+    "options": [
+      "No; some benefits are measured after project closure",
+      "Yes; acceptance proves every forecast benefit",
+      "Yes; if the product passed its tests",
+      "No; acceptance cannot occur before any benefits"
+    ],
+    "correct": 0,
+    "explanation": "Acceptance is distinct from realization of benefits."
+  },
+  {
+    "question": "Which performance target joins time, cost, quality, scope, risk and benefits?",
+    "options": [
+      "Sustainability",
+      "Organizational culture",
+      "Supplier performance",
+      "Project context"
+    ],
+    "correct": 0,
+    "explanation": "PRINCE2 7 includes sustainability among its performance targets."
+  }
+]

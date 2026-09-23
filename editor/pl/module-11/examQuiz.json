@@ -1,0 +1,230 @@
+[
+  {
+    "type": "standard",
+    "question": "Ile wynosi liczba sfer tolerancji (Performance Targets / Aspects) sterowania w PRINCE2?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correct": 3,
+    "explanation": "W PRINCE2 7 istnieje 7 sfer sterowania: Czas, Koszt, Jakość, Zakres, Korzyści, Ryzyko, Zrównoważony Rozwój."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nDokument sporządzany przez PM w sytuacji prognozowanego przekroczenia tolerancji etapu to Raport o [...].",
+    "options": [
+      "Postępach",
+      "Wyjątku (Exception Report)",
+      "Jakości",
+      "Zamknięciu"
+    ],
+    "correct": 1,
+    "explanation": "Exception Report informuje Radę o zaistniałym lub prognozowanym przekroczeniu limitu tolerancji."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA raporty służą bezpośrednio do monitorowania postępów i sprawozdawczości okresowej?<br>1. Raport Postępu (Highlight Report) – PM do Rady Projektu<br>2. Raport Odcinkowy (Checkpoint Report) – Lider Zespołu do PM<br>3. Raport Roczny Urzędu Statystycznego<br>4. Faktura Vat Wykonawcy<br>Która kombinacja jest poprawna?",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "2 i 4",
+      "3 i 4"
+    ],
+    "correct": 0,
+    "explanation": "Checkpoint Report (TM->PM) oraz Highlight Report (PM->Rada) to podstawowe raporty okresowe."
+  },
+  {
+    "type": "negative",
+    "question": "Które z działań NIE JEST dozwolone dla Kierownika Projektu bez zgody Rady Projektu?",
+    "options": [
+      "Zarządzanie etapem w granicach przyznanych tolerancji.",
+      "Przydzielanie Paczek Prac Liderom Zespołów.",
+      "Samodzielne zwiększenie budżetu etapu po przekroczeniu tolerancji kosztowej.",
+      "Tworzenie Raportu Postępu (Highlight Report)."
+    ],
+    "correct": 2,
+    "explanation": "PM nie ma prawa samodzielnie zwiększać budżetu ani zmieniać tolerancji – to wyłączna decyzja Rady!"
+  },
+  {
+    "type": "standard",
+    "question": "Co to jest Plan Wyjątku (Exception Plan)?",
+    "options": [
+      "Plan rekrutacji nowych pracowników.",
+      "Plan przygotowywany na polecenie Rady Projektu, który po zatwierdzeniu zastępuje dotychczasowy Plan Etapu lub Plan Projektu.",
+      "Harmonogram urlopów zespołu.",
+      "Procedura ewakuacji przeciwpożarowej."
+    ],
+    "correct": 1,
+    "explanation": "Exception Plan od nowa planuje pozostałą część etapu/projektu po wystąpieniu wyjątku."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij poniższe zdanie:\nRaport składany przez Lidera Zespołu do Kierownika Projektu podsumowujący postęp prac nad Paczką Prac to Raport [...].",
+    "options": [
+      "Wyjątku",
+      "Odcinkowy (Checkpoint Report)",
+      "Końcowy",
+      "Inicjujący"
+    ],
+    "correct": 1,
+    "explanation": "Checkpoint Report sprawozdaje stan prac na poziomie wykonawczym (TM -> PM)."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA pojęcia są ściśle powiązane z Praktyką Postępów (Progress Practice)?<br>1. Punkty kontrolne i granice etapów (Stage Boundaries)<br>2. Tolerancje i Wyjątki (Tolerances & Exceptions)<br>3. Testowanie jednostkowe kodu w C++<br>4. Kampania reklamowa w TV<br>Która kombinacja jest poprawna?",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "2 i 4",
+      "3 i 4"
+    ],
+    "correct": 0,
+    "explanation": "Praktyka postępów opiera się na etapach, sterowaniu tolerancjami, raportowaniu i reagowaniu na wyjątki."
+  },
+  {
+    "type": "standard",
+    "question": "Które stwierdzenie o Dzienniku Projektu jest prawdziwe?",
+    "options": [
+      "Zastępuje formalną umowę z dostawcą.",
+      "Jest prowadzony przez kierownika projektu.",
+      "Jednoosobowo zatwierdza zmianę linii bazowej.",
+      "Zastępuje Dokumentację Inicjującą Projekt."
+    ],
+    "correct": 1,
+    "explanation": "Kierownik projektu prowadzi Dziennik Projektu jako zapis bieżących spraw; nie zastępuje nim umów ani DIP."
+  },
+  {
+    "question": "Co oznacza prognoza w kontroli postępu?",
+    "options": [
+      "Przewidywanie przyszłego stanu na podstawie danych",
+      "Wyłącznie zapis tego, co już się wydarzyło",
+      "Autoryzację zamknięcia",
+      "Opis Produktu Końcowego"
+    ],
+    "correct": 0,
+    "explanation": "Prognoza pozwala ocenić przyszłe przekroczenie tolerancji."
+  },
+  {
+    "question": "Czy dwudniowy poślizg zawsze stanowi wyjątek?",
+    "options": [
+      "Nie, istotna jest prognoza względem właściwej tolerancji",
+      "Tak, każde odchylenie to wyjątek",
+      "Tak, jeśli pochodzi z raportu zespołu",
+      "Nie, bo czasu nie kontroluje się w PRINCE2"
+    ],
+    "correct": 0,
+    "explanation": "Wyjątek zachodzi przy prognozowanym przekroczeniu tolerancji."
+  },
+  {
+    "question": "Do kogo trafia Raport z Punktu Kontrolnego?",
+    "options": [
+      "Do kierownika projektu od kierownika zespołu",
+      "Do zespołu od Rady",
+      "Wyłącznie do klientów aplikacji",
+      "Do warstwy biznesowej zamiast Rady"
+    ],
+    "correct": 0,
+    "explanation": "Ten raport umożliwia PM kontrolę pakietu."
+  },
+  {
+    "question": "Do kogo trafia Raport Okresowy?",
+    "options": [
+      "Do Rady Projektu od kierownika projektu",
+      "Do programistów od użytkownika",
+      "Wyłącznie do zespołu audytu",
+      "Do dostawcy od sponsora"
+    ],
+    "correct": 0,
+    "explanation": "Raport Okresowy wspiera cykliczną kontrolę Rady."
+  },
+  {
+    "question": "Kiedy Zosia przekazuje Raport Nadzwyczajny?",
+    "options": [
+      "Gdy prognoza przekracza tolerancję etapu",
+      "Po każdym drobnym odchyleniu pakietu",
+      "Tylko raz na koniec projektu",
+      "Zamiast każdej kontroli jakości"
+    ],
+    "correct": 0,
+    "explanation": "Wyjątek etapu jest eskalowany do Rady."
+  },
+  {
+    "question": "Który raport służy ocenie całego projektu przy zamknięciu?",
+    "options": [
+      "Raport Końcowy Projektu",
+      "Raport z Punktu Kontrolnego",
+      "Raport Okresowy",
+      "Raport Zagadnienia"
+    ],
+    "correct": 0,
+    "explanation": "Raport Końcowy Projektu ocenia wyniki całego projektu."
+  },
+  {
+    "question": "Ile celów wykonania uwzględnia PRINCE2 7?",
+    "options": [
+      "Siedem, w tym zrównoważony rozwój",
+      "Sześć, bez korzyści",
+      "Pięć, bez ryzyka",
+      "Trzy, tylko zakres czas i koszt"
+    ],
+    "correct": 0,
+    "explanation": "Pełna lista to korzyści, koszty, czas, jakość, zakres, ryzyko i zrównoważony rozwój."
+  },
+  {
+    "question": "Co robi Tomek, gdy prognoza pakietu przekracza jego tolerancję?",
+    "options": [
+      "Informuje Zosię, kierownika projektu",
+      "Sam zatwierdza nową tolerancję etapu",
+      "Zamyka projekt",
+      "Prowadzi Radę przez codzienne zadania"
+    ],
+    "correct": 0,
+    "explanation": "Eskaluje na następny poziom delegacji."
+  },
+  {
+    "question": "Co oznacza odchylenie?",
+    "options": [
+      "Różnicę między stanem wykonania a planem",
+      "Zawsze formalny wyjątek",
+      "Autoryzację zmiany",
+      "Pewność osiągnięcia korzyści"
+    ],
+    "correct": 0,
+    "explanation": "Rzeczywiste odchylenie i prognoza przyszłości to odrębne pojęcia."
+  },
+  {
+    "question": "Który raport przekazuje uogólnione doświadczenia projektu?",
+    "options": [
+      "Raport z Lekcji",
+      "Raport Nadzwyczajny",
+      "Opis Grupy Zadań",
+      "Raport z Punktu Kontrolnego"
+    ],
+    "correct": 0,
+    "explanation": "Raport z Lekcji pomaga przyszłym projektom."
+  },
+  {
+    "question": "Który raport podsumowuje etap na jego granicy?",
+    "options": [
+      "Raport Końcowy Etapu",
+      "Raport Końcowy Projektu",
+      "Raport z Punktu Kontrolnego",
+      "Raport Zagadnienia"
+    ],
+    "correct": 0,
+    "explanation": "Na granicy etapu porównuje się wynik z Planem Etapu."
+  },
+  {
+    "question": "Jak Rada reaguje na prognozowany wyjątek etapu?",
+    "options": [
+      "Ocenia Raport Nadzwyczajny i podejmuje decyzję w swoich uprawnieniach",
+      "Przekazuje codzienne zadania programistom",
+      "Automatycznie ignoruje prognozę",
+      "Podmienia Raport Końcowy Projektu"
+    ],
+    "correct": 0,
+    "explanation": "Zarządzanie przez wyjątki wymaga właściwej decyzji na wyższym poziomie."
+  }
+]

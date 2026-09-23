@@ -1,0 +1,26 @@
+[
+  {
+    "q": "Name the five integrated elements.",
+    "a": "Principles, people, practices, processes and project context."
+  },
+  {
+    "q": "How many PRINCE2 principles are there?",
+    "a": "Seven, all of which must be applied."
+  },
+  {
+    "q": "What are the seven performance targets?",
+    "a": "Benefits, cost, time, quality, scope, risk and sustainability."
+  },
+  {
+    "q": "Are seven processes seven project stages?",
+    "a": "No; stages are management control periods, while processes describe project activities."
+  },
+  {
+    "q": "What triggers exception escalation?",
+    "a": "A forecast breach of the tolerance delegated to a management level."
+  },
+  {
+    "q": "Does product acceptance establish all benefits?",
+    "a": "No; benefits can arise and be measured after closure."
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "question": "1. Gra SnakeBite została oficjalnie odebrana przez Mayę. Zosia przygotowuje dokumentację do przekazania gry do stałego utrzymania. Jak nazywamy to środowisko docelowe?",
+    "options": [
+      "BAU (Business as Usual)",
+      "Projekt powiązany",
+      "Środowisko testowe",
+      "Etap Inicjowania"
+    ],
+    "correct": 0,
+    "explanation": "BAU (Business as Usual) to działalność operacyjna, do której trafiają produkty po zamknięciu projektu."
+  },
+  {
+    "question": "2. Podczas prac pojawiły się pomysły na nowe funkcje (tryb Multiplayer), na które zabrakło budżetu. Gdzie Zosia zapisuje te propozycje na przyszłość?",
+    "options": [
+      "W Rekomendacjach Działań Następczych (Follow-on action recommendations)",
+      "W Dzienniku Projektu",
+      "W Rejestrze Jakości",
+      "Wyrzuca je do kosza"
+    ],
+    "correct": 0,
+    "explanation": "Rekomendacje działań następczych przekazują do BAU otwarte sprawy, ryzyka i pomysły na rozwój."
+  },
+  {
+    "question": "3. Zarząd PixelBite skasował inny projekt z powodu braku opłacalności. W jakim procesie nastąpi jego kontrolowane zamknięcie?",
+    "options": [
+      "W procesie CP (Closing a Project) - przedwczesne zamknięcie",
+      "W procesie SU",
+      "W procesie MP",
+      "Projekt kasuje się bez żadnego procesu"
+    ],
+    "correct": 0,
+    "explanation": "Proces CP realizuje się zarówno przy planowym zakończeniu, jak i przy przedwczesnym zamknięciu (premature closure)."
+  },
+  {
+    "question": "4. Zosia zbiera wnioski i dobre praktyki z całego okresu trwania projektu SnakeBite. W jakim dokumencie je publikuje?",
+    "options": [
+      "W Raportie z Lekcji (Lessons report)",
+      "W Planie Etapu",
+      "W Rejestrze Interesariuszy",
+      "W PID"
+    ],
+    "correct": 0,
+    "explanation": "Raport z Lekcji dokumentuje doświadczenia projektowe do wykorzystania w przyszłości."
+  },
+  {
+    "question": "5. Zosia kończy przygotowywać Raport Końcowy Projektu. Kto podejmuje OSTATECZNĄ decyzję o formalnym zamknięciu projektu?",
+    "options": [
+      "Rada Projektu (w procesie DP)",
+      "Kierownik Projektu samodzielnie",
+      "Główny Programista",
+      "Testerzy"
+    ],
+    "correct": 0,
+    "explanation": "Rada Projektu podejmuje formalną decyzję o zamknięciu projektu na wniosek PM z procesu CP."
+  },
+  {
+    "question": "6. Co dzieje się z Podejściem do Zarządzania Korzyściami pod koniec procesu CP?",
+    "options": [
+      "Jest niszczone.",
+      "Jest aktualizowane o plan i harmonogram przeglądów poprojektowych.",
+      "Jest wysyłane do urzędu.",
+      "Zostaje zamienione na Rejestr Ryzyk."
+    ],
+    "correct": 1,
+    "explanation": "W CP aktualizuje się plan pomiaru korzyści, które zmaterializują się po zamknięciu projektu."
+  },
+  {
+    "question": "Maya porównuje wydanie z wymaganiami graczy. Co potwierdza spełnienie kryteriów akceptacji SnakeBite?",
+    "options": [
+      "Dowody jakości i formalna akceptacja właściwego odbiorcy",
+      "Samo ukończenie kodowania",
+      "Wyłącznie Raport Okresowy",
+      "Wyłącznie zamknięcie repozytorium"
+    ],
+    "correct": 0,
+    "explanation": "Akceptacja odnosi się do Opisu Produktu Końcowego Projektu."
+  },
+  {
+    "question": "Zosia zebrała dowody odbioru i zalecenia. Kto przygotowuje rekomendację zamknięcia?",
+    "options": [
+      "Kierownik projektu",
+      "Kierownik zespołu samodzielnie",
+      "Każdy programista",
+      "Biuro rachunkowe"
+    ],
+    "correct": 0,
+    "explanation": "PM wykonuje CP i zwraca się do Rady o decyzję."
+  },
+  {
+    "question": "Zosia występuje do Rady z rekomendacją. Kto formalnie autoryzuje zamknięcie?",
+    "options": [
+      "Rada Projektu",
+      "Kierownik projektu bez Rady",
+      "Wyłącznie zespół testowy",
+      "System CI"
+    ],
+    "correct": 0,
+    "explanation": "Autoryzacja zamknięcia należy do DP."
+  },
+  {
+    "question": "Artur rozważa wcześniejsze wycofanie finansowania. Czy CP stosuje się przy przedwczesnym zamknięciu?",
+    "options": [
+      "Tak, przygotowuje kontrolowane zakończenie",
+      "Nie, projekt znika bez śladu",
+      "Tylko gdy wszystkie produkty są gotowe",
+      "Wyłącznie w projektach bez dostawców"
+    ],
+    "correct": 0,
+    "explanation": "Przedwczesne zamknięcie wymaga oceny i przekazania odpowiedzialności."
+  },
+  {
+    "question": "Zosia sporządza ocenę całości SnakeBite. Z czym Zosia porównuje wynik całości w Raporcie Końcowym Projektu?",
+    "options": [
+      "Z DIP, Planem Projektu i Uzasadnieniem Biznesowym",
+      "Wyłącznie z ostatnim sprintem",
+      "Wyłącznie z budżetem Tomka",
+      "Wyłącznie z listą commitów"
+    ],
+    "correct": 0,
+    "explanation": "Raport ocenia wyniki wobec zatwierdzonych podstaw projektu."
+  },
+  {
+    "question": "Po przekazaniu gry zostaje otwarte ryzyko API. Co zrobić z otwartym ryzykiem utrzymania API?",
+    "options": [
+      "Ująć je w zaleceniach działań następczych i przypisać właściciela",
+      "Usunąć je bez informacji",
+      "Uznać za osiągniętą korzyść",
+      "Automatycznie przedłużyć etap"
+    ],
+    "correct": 0,
+    "explanation": "Po zamknięciu ktoś musi przejąć odpowiedzialność."
+  },
+  {
+    "question": "Korzyści ze sprzedaży będą widoczne dopiero za pół roku. Co zrobić z korzyściami możliwymi do pomiaru dopiero po wydaniu?",
+    "options": [
+      "Zaplanować przegląd zgodnie z Podejściem do Zarządzania Korzyściami",
+      "Uznawać je już za osiągnięte",
+      "Zignorować je po zamknięciu",
+      "Zastąpić je liczbą testów"
+    ],
+    "correct": 0,
+    "explanation": "Pomiar korzyści może następować po rozwiązaniu projektu."
+  },
+  {
+    "question": "Tomek kończy przekazanie do eksploatacji. Co powinno zostać przekazane do eksploatacji?",
+    "options": [
+      "Zaakceptowane produkty i odpowiedzialność za ich utrzymanie",
+      "Wyłącznie hasło do repozytorium",
+      "Wyłącznie Raport z Punktu Kontrolnego",
+      "Wyłącznie niezaakceptowane szkice"
+    ],
+    "correct": 0,
+    "explanation": "Przekazanie zapewnia ciągłość działania po projekcie."
+  }
+]

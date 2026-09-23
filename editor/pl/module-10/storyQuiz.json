@@ -1,0 +1,123 @@
+[
+  {
+    "question": "Maya chce dodać tryb dla dwóch graczy do zatwierdzonego zakresu. Co zgłasza?",
+    "options": [
+      "Wniosek o zmianę",
+      "Raport Końcowy Etapu",
+      "Wyłącznie ryzyko",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 0,
+    "explanation": "To propozycja zmiany linii bazowej."
+  },
+  {
+    "question": "Zapis wyników nie spełnia uzgodnionego wymagania. Jak sklasyfikować sprawę?",
+    "options": [
+      "Jako korzyść",
+      "Jako odstępstwo od specyfikacji",
+      "Jako nowy etap",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 1,
+    "explanation": "Nie dostarczono elementu zgodnie ze specyfikacją."
+  },
+  {
+    "question": "Czy rejestracja zmiany upoważnia Tomka do jej wdrożenia?",
+    "options": [
+      "Tak, zawsze",
+      "Tak, jeśli poprosiła Maya",
+      "Nie, wymagana jest właściwa decyzja",
+      "Podejście do Zarządzania Kontraktami"
+    ],
+    "correct": 2,
+    "explanation": "Zgłoszenie nie jest zatwierdzeniem."
+  },
+  {
+    "question": "Maya proponuje nowy ekran osiągnięć. Jak zakwalifikować prośbę Mayi o nowy ekran w zatwierdzonej specyfikacji?",
+    "options": [
+      "Wniosek o zmianę",
+      "Odstępstwo od specyfikacji",
+      "Raport z Punktu Kontrolnego",
+      "Już spełnione kryterium akceptacji"
+    ],
+    "correct": 0,
+    "explanation": "To propozycja zmiany zatwierdzonej linii bazowej."
+  },
+  {
+    "question": "Tomek mierzy zbyt wolny ranking API. Jak zakwalifikować ranking, który nie osiąga uzgodnionego czasu odpowiedzi?",
+    "options": [
+      "Odstępstwo od specyfikacji",
+      "Wniosek o nową funkcję",
+      "Wyłącznie szansa biznesowa",
+      "Plan Projektu"
+    ],
+    "correct": 0,
+    "explanation": "Produkt nie spełni uzgodnionych specyfikacji jakości."
+  },
+  {
+    "question": "Maya pyta, czy wolniejszy ranking można mimo wszystko przyjąć. Czym jest koncesja?",
+    "options": [
+      "Zatwierdzone odstępstwo od specyfikacji bez działania korygującego",
+      "Każde opóźnienie dostawcy",
+      "Dowolna niezatwierdzona zmiana",
+      "Niepewne zdarzenie w rejestrze ryzyk"
+    ],
+    "correct": 0,
+    "explanation": "Koncesja wymaga uprawnionej akceptacji oraz aktualizacji linii bazowej."
+  },
+  {
+    "question": "Zosia zaczyna analizę zgłoszeń. Gdzie rejestrować zagadnienia projektu?",
+    "options": [
+      "W Rejestrze Zagadnień w Dzienniku Projektu",
+      "Wyłącznie w harmonogramie zespołu",
+      "W Rejestrze Ryzyk jako pewne zdarzenia",
+      "Wyłącznie w kodzie źródłowym"
+    ],
+    "correct": 0,
+    "explanation": "Rejestr Zagadnień śledzi zagadnienia i decyzje."
+  },
+  {
+    "question": "Zosia potrzebuje udokumentować wpływ poważnej zmiany. Kiedy przygotować Raport Zagadnienia?",
+    "options": [
+      "Gdy sprawa wymaga szczegółowej oceny i decyzji",
+      "Automatycznie dla każdego komentarza w czacie",
+      "Wyłącznie po zamknięciu projektu",
+      "Zamiast każdego Opisu Produktu"
+    ],
+    "correct": 0,
+    "explanation": "Raport opisuje analizę wybranego zagadnienia i rekomendację."
+  },
+  {
+    "question": "Dostawca dopiero może zmienić limit API. Co odróżnia ryzyko od zagadnienia?",
+    "options": [
+      "Ryzyko dotyczy niepewnego przyszłego zdarzenia",
+      "Ryzyko zawsze jest już pewnym faktem",
+      "Zagadnienie zawsze ma dodatni wpływ",
+      "Ryzyko można zatwierdzić budżetem zmian"
+    ],
+    "correct": 0,
+    "explanation": "Niepewność zdarzenia prowadzi do zarządzania ryzykiem."
+  },
+  {
+    "question": "Zmiana rankingu wymaga formalnej decyzji. Kto zatwierdza zmianę w linii bazowej?",
+    "options": [
+      "Rola mająca delegowane uprawnienia do tej decyzji",
+      "Dowolny programista",
+      "Każdy zgłaszający zagadnienie",
+      "Wyłącznie narzędzie backlogowe"
+    ],
+    "correct": 0,
+    "explanation": "Zatwierdzenie zależy od uzgodnionego poziomu uprawnień."
+  },
+  {
+    "question": "Artur pyta o środki na zatwierdzony ekran. Do czego służy budżet zmian?",
+    "options": [
+      "Do finansowania zatwierdzonych zmian zgodnie z regułami planu",
+      "Do ukrywania przekroczenia tolerancji",
+      "Do automatycznego zwiększenia zakresu",
+      "Wyłącznie do kosztów utrzymania po projekcie"
+    ],
+    "correct": 0,
+    "explanation": "Dostępność środków nie zastępuje zatwierdzenia zmiany."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "question": "Maya wants smooth gameplay on phones. What should Zosia do with this expectation?",
+    "options": [
+      "Turn the user quality expectation into measurable acceptance criteria",
+      "Quality control",
+      "Quality assurance",
+      "Quality management approach"
+    ],
+    "correct": 0,
+    "explanation": "A general expectation needs testable criteria."
+  },
+  {
+    "question": "Kamil runs unit tests and measures frames per second. Which activity is this?",
+    "options": [
+      "Quality control",
+      "Quality register",
+      "Product register",
+      "Product description"
+    ],
+    "correct": 0,
+    "explanation": "Quality control checks a specific product against its criteria."
+  },
+  {
+    "question": "An independent auditor checks whether the agreed test approach is followed. Which activity is this?",
+    "options": [
+      "Quality assurance",
+      "Project product description",
+      "Acceptance criteria",
+      "A green test pipeline"
+    ],
+    "correct": 0,
+    "explanation": "Quality assurance assesses whether the quality system and methods are appropriate and followed."
+  },
+  {
+    "question": "Which management product sets project wide testing standards, methods and responsibilities?",
+    "options": [
+      "Quality management approach",
+      "An end stage report",
+      "Quality control",
+      "Quality assurance"
+    ],
+    "correct": 0,
+    "explanation": "It defines how quality will be planned, controlled and assured."
+  },
+  {
+    "question": "Where are planned and completed quality checks and their results recorded?",
+    "options": [
+      "Quality register",
+      "Quality management approach",
+      "Product register",
+      "Product description"
+    ],
+    "correct": 0,
+    "explanation": "The quality register tracks quality control activities and outcomes."
+  },
+  {
+    "question": "How does a project product description differ from an individual product description?",
+    "options": [
+      "The first describes the whole project product and its acceptance; the second describes a particular product",
+      "Product description",
+      "Project product description",
+      "Acceptance criteria"
+    ],
+    "correct": 0,
+    "explanation": "Their scope and purpose differ."
+  }
+]

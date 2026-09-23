@@ -1,0 +1,82 @@
+[
+  {
+    "q": "Czym jest Produkt (Output)?",
+    "a": "Specjalistycznym wytworem przekazanym przez projekt (np. gotowy system IT)."
+  },
+  {
+    "q": "Czym jest Rezultat (Outcome)?",
+    "a": "Zmianą w zachowaniu/działaniu wynikającą z używania Produktu."
+  },
+  {
+    "q": "Czym jest Korzyść (Benefit)?",
+    "a": "Mierzalną poprawą będącą celem inwestycyjnym (np. wzrost zysku o 20%)."
+  },
+  {
+    "q": "Czym jest Niekorzyść (Disbenefit)?",
+    "a": "Zaakceptowanym, planowanym negatywnym skutkiem ubocznym projektu."
+  },
+  {
+    "q": "Kto odpowiada za Business Case?",
+    "a": "Zleceniodawca (Executive)."
+  },
+  {
+    "q": "Kiedy weryfikuje się Business Case?",
+    "a": "W SU, IP, na każdej granicy etapu (SB) oraz przy zgłaszaniu wyjątków i zamknięciu."
+  },
+  {
+    "q": "Co zawiera Podejście do Zarządzania Korzyściami?",
+    "a": "Określenie jak i kiedy korzyści będą mierzone (również po zamknięciu projektu)."
+  },
+  {
+    "q": "Czym różni się Niekorzyść od Ryzyka?",
+    "a": "Ryzyko jest niepewne; niekorzyść jest pewnym, planowanym skutkiem ubocznym."
+  },
+  {
+    "q": "Praktyka a dokument Uzasadnienie Biznesowe?",
+    "a": "Praktyka tworzy mechanizmy ciągłej oceny zasadności. Dokument przedstawia argumentację inwestycji opartą na kosztach, korzyściach i ryzyku."
+  },
+  {
+    "q": "Desirable / viable / achievable?",
+    "a": "Pożądany: właściwy bilans kosztów, korzyści i ryzyk. Wykonalny: można dostarczyć produkty. Osiągalny: użycie produktów może przynieść rezultaty i korzyści."
+  },
+  {
+    "q": "Jak ewoluuje Uzasadnienie Biznesowe?",
+    "a": "Mandat → wstępne uzasadnienie w Zarysie Projektu (SU) → pełne uzasadnienie (IP) → aktualizacje w projekcie → przeglądy korzyści po zamknięciu."
+  },
+  {
+    "q": "Develop, check, maintain, confirm?",
+    "a": "Opracowuj podstawy inwestycji; sprawdzaj zasadność; aktualizuj wykonanie i prognozy; potwierdzaj osiąganie korzyści."
+  },
+  {
+    "q": "Output a outcome?",
+    "a": "Output to dostarczony produkt. Outcome to zmiana zachowania lub warunków wynikająca z wdrożenia zmiany."
+  },
+  {
+    "q": "Co łączy produkty i rezultaty?",
+    "a": "Capability: kompletny zestaw produktów niezbędnych do osiągnięcia rezultatu. Samo istnienie produktów nie gwarantuje ich wykorzystania."
+  },
+  {
+    "q": "Czym jest niekorzyść?",
+    "a": "Mierzalne pogorszenie wynikające z rezultatu, negatywne dla organizacji i jej celów. Nie jest synonimem niepewnego ryzyka."
+  },
+  {
+    "q": "Co porównujemy przy ocenie inwestycji?",
+    "a": "Korzyści i niekorzyści z nakładami projektu oraz dodatkowymi kosztami eksploatacji i utrzymania, z uwzględnieniem ryzyka i czasu."
+  },
+  {
+    "q": "Trzy podstawowe opcje biznesowe?",
+    "a": "Niczego nie zmieniać; zrobić minimum; zrobić więcej niż minimum. Brak zmiany daje punkt odniesienia."
+  },
+  {
+    "q": "Przeznaczenie sustainability management approach?",
+    "a": "Ustala działania, przeglądy i kontrolę potrzebne do osiągnięcia celów zrównoważonego rozwoju. Stanowi część PID/DIP."
+  },
+  {
+    "q": "Zawartość podejścia do zarządzania zrównoważonym rozwojem?",
+    "a": "Zakres celów; metody, terminy i baza pomiaru; odpowiedzialności; zasoby; narzędzia i techniki; standardy i odniesienia."
+  },
+  {
+    "q": "Kto potwierdza korzyści po projekcie?",
+    "a": "Główny Użytkownik jest rozliczalny za potwierdzenie przewidywanych korzyści. Biznes zapewnia działania i zasoby także po rozwiązaniu organizacji projektu."
+  }
+]
