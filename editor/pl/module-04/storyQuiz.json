@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "type": "standard",
+    "question": "Dostawca API zapowiada możliwość opóźnienia, lecz termin jeszcze nie minął. Jak Zosia klasyfikuje tę informację?",
+    "options": [
+      "Jako ryzyko dotyczące przyszłego zdarzenia",
+      "Jako zamknięte zagadnienie jakościowe",
+      "Jako zaakceptowaną zmianę zakresu",
+      "Jako korzyść już osiągniętą"
+    ],
+    "correct": 0,
+    "explanation": "Opóźnienie jest nadal niepewne, dlatego należy je ocenić jako ryzyko."
+  },
+  {
+    "type": "standard",
+    "question": "Test potwierdza, że dostarczona wersja API nie spełnia uzgodnionego czasu odpowiedzi. Co powinno zostać ocenione?",
+    "options": [
+      "Jedynie nowa prognoza ryzyka, bez zagadnienia",
+      "Odstępstwo od specyfikacji jako zagadnienie",
+      "Automatycznie zatwierdzony wniosek o zmianę",
+      "Wynik finansowy po zamknięciu projektu"
+    ],
+    "correct": 1,
+    "explanation": "Niespełnienie uzgodnionego wymagania jest odstępstwem od specyfikacji, które wymaga oceny i decyzji."
+  },
+  {
+    "type": "standard",
+    "question": "Maya proponuje nowy tryb dla dwóch graczy poza zatwierdzonym zakresem. Jaki jest pierwszy właściwy krok Zosi?",
+    "options": [
+      "Wydać Tomkowi polecenie rozpoczęcia pracy",
+      "Zwiększyć samodzielnie tolerancję etapu",
+      "Zarejestrować i ocenić wniosek o zmianę",
+      "Zamknąć Rejestr Zagadnień do końca etapu"
+    ],
+    "correct": 2,
+    "explanation": "Propozycja zmiany zatwierdzonego zakresu wymaga rejestracji, analizy wpływu i decyzji w granicach właściwych uprawnień."
+  },
+  {
+    "type": "standard",
+    "question": "Kamil ocenia wykonalność nowego trybu, a Maya opisuje potrzebę użytkowników. Która praktyka porządkuje role i reprezentację interesów?",
+    "options": [
+      "Ryzyko",
+      "Organizowanie",
+      "Postępy",
+      "Jakość"
+    ],
+    "correct": 1,
+    "explanation": "Organizowanie określa odpowiedzialności i reprezentację interesów biznesu, użytkowników i dostawców."
+  },
+  {
+    "type": "standard",
+    "question": "Zosia porównuje opóźnienie i zmianę trybu z budżetem oraz harmonogramem. Która praktyka odpowiada na pytania „jak, za ile i kiedy”?",
+    "options": [
+      "Plany",
+      "Jakość",
+      "Zagadnienia",
+      "Uzasadnienie biznesowe"
+    ],
+    "correct": 0,
+    "explanation": "Praktyka Plany określa sposób, koszt i termin dostarczenia produktów."
+  },
+  {
+    "type": "standard",
+    "question": "Artur prosi o ocenę, czy po zmianie projektu warto nadal inwestować w grę. Która praktyka dostarcza podstawy tej oceny?",
+    "options": [
+      "Organizowanie",
+      "Uzasadnienie biznesowe",
+      "Jakość",
+      "Ryzyko"
+    ],
+    "correct": 1,
+    "explanation": "Uzasadnienie biznesowe dotyczy ciągłej oceny zasadności inwestycji i oczekiwanych korzyści."
+  },
+  {
+    "type": "standard",
+    "question": "Zosia zapisuje wyniki kontroli API i stan zagadnienia w odpowiednich rejestrach. Do jakiego szerszego produktu zarządczego należą takie zmienne zapisy?",
+    "options": [
+      "Do Dokumentacji Inicjującej Projekt jako jedynego dziennika",
+      "Do Dziennika Projektu",
+      "Wyłącznie do Planu Projektu",
+      "Wyłącznie do Raportu Końcowego Projektu"
+    ],
+    "correct": 1,
+    "explanation": "Dziennik Projektu obejmuje m.in. Rejestr Jakości i Rejestr Zagadnień; PID ustala ramy zarządzania."
+  },
+  {
+    "type": "standard",
+    "question": "Tomek chce wdrożyć dodatkową funkcję bez decyzji, bo zespół pracuje zwinnie. Jak Zosia powinna zareagować?",
+    "options": [
+      "Zrezygnować z praktyki Zagadnienia",
+      "Zastosować uzgodniony sposób oceny i autoryzacji zmiany",
+      "Zamienić każdą praktykę w osobny sprint",
+      "Przenieść uprawnienia Komitetu Sterującego na programistę"
+    ],
+    "correct": 1,
+    "explanation": "Zwinne dostarczanie można łączyć z PRINCE2, zachowując wszystkie praktyki i ustalony zakres uprawnień."
+  },
+  {
+    "type": "standard",
+    "question": "Prognoza po analizie API przekracza tolerancję etapu. Jaka decyzja Zosi wynika z zarządzania postępami?",
+    "options": [
+      "Samodzielnie zwiększyć budżet etapu",
+      "Zignorować prognozę do końca projektu",
+      "Eskalować prognozowany wyjątek do Komitetu Sterującego",
+      "Zamknąć projekt bez autoryzacji"
+    ],
+    "correct": 2,
+    "explanation": "Prognozowane przekroczenie tolerancji etapu wymaga eskalacji do poziomu, który tę tolerancję delegował."
+  }
+]

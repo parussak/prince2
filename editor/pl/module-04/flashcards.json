@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "q": "Czym jest praktyka w PRINCE2?",
+    "a": "Aspektem zarządzania projektem stosowanym konsekwentnie przez cały cykl życia."
+  },
+  {
+    "q": "Ile praktyk wyróżnia PRINCE2 7?",
+    "a": "Siedem: Uzasadnienie biznesowe, Organizowanie, Plany, Jakość, Ryzyko, Zagadnienia, Postępy."
+  },
+  {
+    "q": "Uzasadnienie biznesowe: pytanie i rozdział?",
+    "a": "Dlaczego? Rozdział 5; ocenia dalszą zasadność inwestycji."
+  },
+  {
+    "q": "Organizowanie: pytanie i rozdział?",
+    "a": "Kto? Rozdział 6; określa role i odpowiedzialności."
+  },
+  {
+    "q": "Plany: jakie pytania?",
+    "a": "Jak, za ile i kiedy? Rozdział 7."
+  },
+  {
+    "q": "Jakość: jakie pytanie?",
+    "a": "Co? Rozdział 8; wymagania dotyczące produktów i potwierdzenie ich spełnienia."
+  },
+  {
+    "q": "Ryzyko a Zagadnienia: pytania?",
+    "a": "Ryzyko: co, jeśli? Niepewne zdarzenie. Zagadnienia: co teraz? Sprawa wymagająca bieżącej decyzji."
+  },
+  {
+    "q": "Postępy: trzy pytania?",
+    "a": "Gdzie jesteśmy? Dokąd zmierzamy? Czy kontynuować? Rozdział 11."
+  },
+  {
+    "q": "Praktyka a proces — główna różnica?",
+    "a": "Praktykę stosuje się przez cykl życia; proces określa działania i ich miejsce w tym cyklu."
+  },
+  {
+    "q": "Czy wolno pominąć praktykę w małym projekcie zwinnym?",
+    "a": "Nie. Stosuje się wszystkie siedem; można dostosować sposób, szczegółowość i częstotliwość."
+  },
+  {
+    "q": "Czym jest PID?",
+    "a": "Dokumentacja Inicjująca Projekt: podstawa autoryzacji, kierunek, zakres i ustalenia zarządcze projektu."
+  },
+  {
+    "q": "Co w PID razem z Planem Etapu reguluje relację kierownika i Komitetu?",
+    "a": "PID i Plan Etapu tworzą podstawę uzgodnień o sposobie zarządzania danym etapem."
+  },
+  {
+    "q": "Dlaczego zachować wersję PID z autoryzacji?",
+    "a": "Jako podstawę porównania wykonania przy zamykaniu projektu, mimo aktualizacji składników PID."
+  },
+  {
+    "q": "Czym jest Dziennik Projektu?",
+    "a": "Zbiorem bieżących i historycznych zapisów zdarzeń, działań oraz stanu projektu."
+  },
+  {
+    "q": "Podaj rejestry należące do Dziennika Projektu.",
+    "a": "Rejestr Zagadnień, Dziennik Doświadczeń, Rejestr Produktów, Rejestr Jakości, Rejestr Ryzyk i Dziennik Codzienny."
+  },
+  {
+    "q": "Dziennik Projektu a Dziennik Codzienny?",
+    "a": "Dziennik Projektu jest szerszy; Dziennik Codzienny może być jednym z jego składników."
+  },
+  {
+    "q": "Co określa podejście do zarządzania?",
+    "a": "Procedury, techniki, standardy i odpowiedzialności w danym obszarze."
+  },
+  {
+    "q": "Przykład dostosowania praktyk bez usunięcia kontroli?",
+    "a": "Wspólny system dla kilku rejestrów, nadal dostępnych do ocen i decyzji na właściwym poziomie."
+  },
+  {
+    "q": "Technika PRINCE2 a technika dodatkowa — czym różni się ich pominięcie?",
+    "a": "Dodatkową technikę można pominąć lub zastąpić zależnie od kontekstu; pominięcie lub zastąpienie techniki PRINCE2 wymaga dostosowania metody."
+  }
+]

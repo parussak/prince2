@@ -1,1 +1,206 @@
-[]
+[
+  {
+    "type": "standard",
+    "question": "Co najlepiej opisuje praktykę PRINCE2?",
+    "options": [
+      "Czynność wykonywaną tylko podczas inicjowania projektu",
+      "Aspekt zarządzania stosowany konsekwentnie przez cykl projektu",
+      "Jeden z siedmiu obowiązkowych etapów zarządczych",
+      "Dokument przygotowywany jednorazowo po zamknięciu"
+    ],
+    "correct": 1,
+    "explanation": "Praktyka dotyczy aspektu zarządzania, którym zajmujemy się stale; procesy określają działania w cyklu życia."
+  },
+  {
+    "type": "standard",
+    "question": "Która praktyka odpowiada przede wszystkim na pytanie „kto”?",
+    "options": [
+      "Organizowanie",
+      "Jakość",
+      "Plany",
+      "Postępy"
+    ],
+    "correct": 0,
+    "explanation": "Organizowanie ustala role, odpowiedzialności i relacje w zespole zarządzającym projektem."
+  },
+  {
+    "type": "missing-word",
+    "question": "Praktyka [...] pomaga ustalić, co produkt ma spełniać i jak potwierdzić te wymagania.",
+    "options": [
+      "Ryzyko",
+      "Postępy",
+      "Jakość",
+      "Organizowanie"
+    ],
+    "correct": 2,
+    "explanation": "Jakość dotyczy cech produktów i potwierdzania ich spełnienia."
+  },
+  {
+    "type": "standard",
+    "question": "Która praktyka odpowiada na pytanie „co, jeśli” w odniesieniu do niepewnego zdarzenia?",
+    "options": [
+      "Zagadnienia",
+      "Ryzyko",
+      "Jakość",
+      "Postępy"
+    ],
+    "correct": 1,
+    "explanation": "Ryzyko dotyczy niepewności; sprawa wymagająca decyzji teraz jest zagadnieniem."
+  },
+  {
+    "type": "standard",
+    "question": "Dla którego produktu zarządczego typowa jest bieżąca ewidencja rejestrów ryzyk, jakości, zagadnień i produktów?",
+    "options": [
+      "Planu Etapu",
+      "Dziennika Projektu",
+      "Opisu Produktu Projektu",
+      "Uzasadnienia Biznesowego"
+    ],
+    "correct": 1,
+    "explanation": "Dziennik Projektu jest zbiorem dynamicznych zapisów i może składać się z oddzielnych rejestrów."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA stwierdzenia są prawdziwe? 1. Praktyki należy stosować w każdym projekcie PRINCE2. 2. Sposób stosowania praktyk można dostosować do kontekstu. 3. Każda praktyka odpowiada dokładnie jednemu etapowi. 4. Praktykę wolno pominąć, gdy zespół używa Scrum. Wybierz JEDNĄ poprawną kombinację.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "2 i 4",
+      "3 i 4"
+    ],
+    "correct": 0,
+    "explanation": "Wszystkie siedem praktyk są stosowane, ale ich forma i szczegółowość podlegają dostosowaniu."
+  },
+  {
+    "type": "standard",
+    "question": "Który produkt, razem z Planem Etapu, stanowi podstawę ustaleń między Kierownikiem Projektu a Komitetem Sterującym?",
+    "options": [
+      "Rejestr Ryzyk",
+      "Dokumentacja Inicjująca Projekt",
+      "Dziennik Codzienny",
+      "Raport z Punktu Kontrolnego"
+    ],
+    "correct": 1,
+    "explanation": "Dokumentacja Inicjująca Projekt (PID) wyznacza kierunek i zakres; wraz z Planem Etapu stanowi podstawę ustaleń o zarządzaniu."
+  },
+  {
+    "type": "standard",
+    "question": "Które stwierdzenie o Dokumentacji Inicjującej Projekt jest prawdziwe?",
+    "options": [
+      "W całości powstaje przed autoryzacją inicjowania",
+      "Po zatwierdzeniu nie wolno aktualizować żadnego składnika",
+      "Jej aktualne składniki odzwierciedlają zmiany; wersja bazowa jest zachowana",
+      "Jest wyłącznie listą otwartych ryzyk"
+    ],
+    "correct": 2,
+    "explanation": "PID powstaje w inicjowaniu, pozostaje aktualna, a wersję wykorzystaną przy autoryzacji zachowuje się jako punkt porównania."
+  },
+  {
+    "type": "missing-word",
+    "question": "Zestaw procedur, technik, standardów i odpowiedzialności dla danego obszaru opisuje [...].",
+    "options": [
+      "podejście do zarządzania",
+      "raport z punktu kontrolnego",
+      "rejestr produktów",
+      "opis produktu"
+    ],
+    "correct": 0,
+    "explanation": "Podejście do zarządzania ustala sposób pracy i odpowiedzialności w konkretnym obszarze."
+  },
+  {
+    "type": "standard",
+    "question": "Która decyzja najlepiej ilustruje dostosowanie praktyk w małym projekcie?",
+    "options": [
+      "Rezygnacja z zarządzania ryzykiem ze względu na mały budżet",
+      "Wspólny system dla rejestrów przy zachowaniu potrzebnych danych i kontroli",
+      "Pominięcie uzasadnienia biznesowego po rozpoczęciu prac",
+      "Zastąpienie Komitetu Sterującego każdym członkiem zespołu"
+    ],
+    "correct": 1,
+    "explanation": "Można zmienić formę zapisów, utrzymując wszystkie praktyki i informacje potrzebne do decyzji."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA stwierdzenia są prawdziwe? 1. PID pomaga ocenić postępy względem przyjętej podstawy. 2. Dziennik Projektu zawiera bieżące i historyczne zapisy. 3. PID jest tym samym co Dziennik Codzienny. 4. Dziennik Projektu może zawierać wyłącznie Rejestr Ryzyk. Wybierz JEDNĄ poprawną kombinację.",
+    "options": [
+      "1 i 4",
+      "2 i 3",
+      "1 i 2",
+      "3 i 4"
+    ],
+    "correct": 2,
+    "explanation": "PID stanowi punkt odniesienia, zaś Dziennik Projektu obejmuje zmienne zapisy w kilku rejestrach."
+  },
+  {
+    "type": "standard",
+    "question": "Który element może wchodzić w skład Dziennika Projektu?",
+    "options": [
+      "Rejestr Jakości",
+      "Strategia korporacyjna",
+      "Umowa o pracę programisty",
+      "Wyłącznie zatwierdzona wersja PID"
+    ],
+    "correct": 0,
+    "explanation": "Rejestr Jakości jest jednym z rejestrów Dziennika Projektu; może on zawierać także m.in. rejestr zagadnień i ryzyk."
+  },
+  {
+    "type": "missing-word",
+    "question": "Praktyka [...] wspiera ocenę, gdzie projekt jest obecnie, dokąd zmierza i czy należy kontynuować.",
+    "options": [
+      "Jakość",
+      "Ryzyko",
+      "Postępy",
+      "Organizowanie"
+    ],
+    "correct": 2,
+    "explanation": "Postępy obejmują monitorowanie wykonania, prognozowanie i decyzje o kontynuacji."
+  },
+  {
+    "type": "standard",
+    "question": "Które stwierdzenie o praktykach i procesach jest prawdziwe?",
+    "options": [
+      "Siedem praktyk to siedem sekwencyjnych etapów",
+      "Proces określa działania w cyklu życia; praktyki są stosowane stale",
+      "Każda praktyka jest jednorazowym raportem",
+      "Procesy zastępują potrzebę stosowania praktyk"
+    ],
+    "correct": 1,
+    "explanation": "Procesy opisują przepływ działań, a praktyki dostarczają ciągłej perspektywy zarządczej."
+  },
+  {
+    "type": "negative",
+    "question": "Który element NIE jest jednym z rejestrów wymienianych jako składniki Dziennika Projektu?",
+    "options": [
+      "Rejestr Zagadnień",
+      "Rejestr Produktów",
+      "Rejestr Ryzyk",
+      "Plan Projektu"
+    ],
+    "correct": 3,
+    "explanation": "Plan Projektu należy do uzgodnionych ram planowania; Dziennik Projektu zawiera rejestry i zapisy zdarzeń."
+  },
+  {
+    "type": "standard",
+    "question": "Jaką decyzję wspiera praktyka Zagadnienia, gdy pojawia się wniosek o zmianę zatwierdzonego zakresu?",
+    "options": [
+      "Jak ocenić i rozstrzygnąć sprawę wymagającą działania teraz",
+      "Jak zastąpić całą Dokumentację Inicjującą Projekt",
+      "Jak odłożyć ocenę do zamknięcia projektu",
+      "Jak pominąć wyznaczone uprawnienia decyzyjne"
+    ],
+    "correct": 0,
+    "explanation": "Zagadnienia obejmują ocenę i reakcję na bieżące sprawy, m.in. wnioski o zmianę zatwierdzonej podstawy."
+  },
+  {
+    "type": "standard",
+    "question": "Jak podręcznik traktuje techniki wspierające praktyki PRINCE2?",
+    "options": [
+      "Każdą technikę dodatkową trzeba stosować we wszystkich projektach",
+      "Techniki dodatkowe można dobierać do kontekstu; zmiana techniki właściwej PRINCE2 wymaga dostosowania metody",
+      "Żadne praktyki nie posługują się technikami",
+      "Wszystkie techniki PRINCE2 można bez konsekwencji usunąć"
+    ],
+    "correct": 1,
+    "explanation": "Rozdział 4 odróżnia techniki PRINCE2 od technik dodatkowych; pominięcie lub zastąpienie techniki PRINCE2 wymaga dostosowania metody."
+  }
+]
