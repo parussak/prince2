@@ -1,6 +1,26 @@
 <h1 class="module-heading">Rozdział 1: Wprowadzenie do PRINCE2</h1>
-<p class="ov-source">Szkic rozwijany na podstawie Twoich notatek oraz podręcznika PRINCE2 7, rozdział 1 (§1.2–1.5). Pytania i fiszki dodamy po zebraniu pozostałej treści.</p>
+<p class="ov-source">Szkic rozwijany na podstawie Twoich notatek oraz podręcznika PRINCE2 7, rozdział 1 (§1.2–1.6). Pytania i fiszki dodamy po zebraniu pozostałej treści.</p>
 <section class="study-extension" aria-label="Wprowadzenie do metody PRINCE2">
+<style>
+.m01-context-map,.m01-benefits,.m01-sustainability-links{display:grid;gap:.85rem;margin:1rem 0}
+.m01-context-map{grid-template-columns:repeat(2,minmax(0,1fr))}
+.m01-context-item,.m01-benefit,.m01-sustainability-item{padding:1rem;background:#fff;border:1px solid #99f6e4;border-radius:10px;line-height:1.45}
+.m01-context-item strong,.m01-benefit strong,.m01-sustainability-item strong{display:block;color:#0f766e;margin-bottom:.3rem}
+.m01-scale-bar{grid-column:1/-1;padding:1rem;background:linear-gradient(90deg,#ecfeff,#ccfbf1);border:2px solid #14b8a6;border-radius:10px}
+.m01-delivery{display:grid;gap:.85rem;margin:1rem 0}
+.m01-delivery-row{display:grid;grid-template-columns:170px 1fr;gap:1rem;align-items:center;padding:1rem;background:#f8fafc;border:1px solid #cbd5e1;border-radius:10px}
+.m01-delivery-label{font-weight:800;color:#0f766e}
+.m01-delivery-track{display:flex;align-items:center;gap:.35rem;flex-wrap:wrap}
+.m01-delivery-node{padding:.48rem .64rem;background:#fff;border:1px solid #5eead4;border-radius:8px;font-size:.88rem;text-align:center}
+.m01-arrow{color:#0f766e;font-weight:900}
+.m01-cycle{display:inline-flex;align-items:center;gap:.35rem;padding:.45rem;border:2px dashed #14b8a6;border-radius:999px}
+.m01-sustainability-links{grid-template-columns:repeat(5,minmax(0,1fr))}
+.m01-sustainability-core{margin:1rem auto;padding:1rem;max-width:360px;text-align:center;color:#fff;background:#0f766e;border-radius:999px;font-weight:800}
+.m01-sustainability-item{text-align:center;font-size:.9rem}
+.m01-sdg-image{display:block;width:100%;height:auto;margin:1rem auto;border:1px solid #d1d5db;border-radius:10px}
+.m01-benefits{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media(max-width:800px){.m01-context-map,.m01-benefits,.m01-sustainability-links{grid-template-columns:1fr}.m01-scale-bar{grid-column:auto}.m01-delivery-row{grid-template-columns:1fr}.m01-delivery-track{align-items:flex-start}.m01-arrow{transform:rotate(90deg)}}
+</style>
 <div class="card"><h2 class="card-title">PRINCE2 jako metoda zarządzania projektami</h2>
 <p><strong>PRINCE2</strong> to metoda zarządzania projektami. Składa się z <strong>pięciu zintegrowanych elementów</strong>: pryncypiów (principles), ludzi (people), praktyk (practices), procesów (processes) i kontekstu projektu (project context). Nie traktujemy ich jak niezależnych części, z których wybieramy tylko wygodne.</p>
 <p><strong>Jak współdziałają?</strong> Pryncypia wyznaczają reguły prowadzenia projektu. Praktyki pomagają konsekwentnie stosować je w działaniach opisanych przez procesy. Konkretne rozwiązania dostosowujemy do kontekstu projektu. W centrum są ludzie: wykonawcy, osoby podejmujące decyzje oraz ci, na których projekt oddziałuje. Ich potrzeby, umiejętności, motywacje i relacje wpływają na sposób zarządzania.</p>
@@ -37,13 +57,52 @@
 <tr><td><strong>Zrównoważony rozwój</strong> (sustainability)</td><td>Jakie cele dotyczą pracy projektowej i dalszego funkcjonowania produktów, np. zużycia energii lub trwałości rozwiązania?</td></tr>
 <tr><td><strong>Ryzyko</strong> (risk)</td><td>Jak duże zagrożenia i szanse organizacja jest gotowa zaakceptować?</td></tr>
 </tbody></table></div><p>Priorytety i tolerancje ustalamy świadomie: w pilnym projekcie termin może mieć węższą tolerancję niż koszt. Prognoza wyjścia poza przyznaną tolerancję uruchamia zarządzanie przez wyjątki na odpowiednim poziomie.</p></div>
-<div class="card"><h2 class="card-title">Kontekst: jak dostosować metodę do projektu?</h2>
-<p>PRINCE2 można stosować w różnych branżach i organizacjach. Podręcznik omawia cztery obszary kontekstu oraz <strong>skalę</strong> projektu, która również wpływa na dostosowanie:</p>
-<div class="doc-table-container"><table class="doc-table"><thead><tr><th>Czynnik</th><th>Co uwzględniamy?</th></tr></thead><tbody>
-<tr><td><strong>Organizacyjny</strong></td><td>Kto zleca projekt, korzysta z produktów, dostarcza je i podejmuje decyzje? Czy projekt działa samodzielnie, czy w programie lub portfelu?</td></tr>
-<tr><td><strong>Komercyjny</strong></td><td>Jakie relacje klient–dostawca, zamówienia, kontrakty i obowiązki stron wpływają na zarządzanie?</td></tr>
-<tr><td><strong>Sposób dostarczania</strong></td><td>Czy prace są sekwencyjne, iteracyjne i przyrostowe, czy hybrydowe? PRINCE2 nie nakazuje jednej metody wytwarzania.</td></tr>
-<tr><td><strong>Zrównoważony rozwój</strong></td><td>Jakie wymagania organizacji odnoszą się do sposobu prowadzenia projektu oraz produktów i ich działania po wdrożeniu?</td></tr>
-<tr><td><strong>Skala projektu</strong></td><td>Jaki poziom formalności, raportowania, liczba etapów, podział ról i tolerancje są adekwatne do rozmiaru i wpływu projektu?</td></tr>
-</tbody></table></div><p>Dla SnakeBite oznacza to np. uzgodnienie pracy z zewnętrznym dostawcą API, określenie sposobu iteracyjnego wytwarzania gry, wymagań dotyczących zużycia zasobów oraz kontroli proporcjonalnych do skali inwestycji.</p></div>
+<div class="card"><h2 class="card-title">Kontekst projektu: gdzie i jak stosujemy metodę?</h2>
+<p><strong>Kontekst projektu jest jednym z pięciu zintegrowanych elementów PRINCE2.</strong> Obejmuje cztery typowe obszary oraz skalę projektu. Nie są to kolejne etapy ani elementy opcjonalne: pomagają ustalić, jak zastosować i dostosować pryncypia, ludzi, praktyki i procesy w konkretnym przedsięwzięciu.</p>
+<div class="m01-context-map" role="img" aria-label="Cztery obszary kontekstu projektu oraz skala wpływająca na wszystkie obszary">
+<div class="m01-context-item"><strong>🏢 Kontekst organizacyjny</strong>Kto reprezentuje biznes, użytkowników i dostawców? Czy projekt jest samodzielny, czy należy do programu albo portfela? Jak strategia, polityki, kultura i zdolności organizacji wpływają na decyzje?</div>
+<div class="m01-context-item"><strong>🤝 Kontekst komercyjny</strong>Jak wyglądają relacje klient–dostawca, kontrakty, zamówienia i zobowiązania stron? Projekt może obejmować kilka organizacji, dostawców głównych i podwykonawców.</div>
+<div class="m01-context-item"><strong>🧭 Sposób dostarczania</strong>Jak będzie wykonywana praca specjalistyczna i tworzone produkty: liniowo-sekwencyjnie, iteracyjnie i przyrostowo czy hybrydowo?</div>
+<div class="m01-context-item"><strong>🌍 Kontekst zrównoważonego rozwoju</strong>Jakie cele i zobowiązania organizacji dotyczą pracy projektowej oraz produktów podczas ich późniejszego użytkowania?</div>
+<div class="m01-scale-bar"><strong>↔ Skala projektu przenika wszystkie obszary.</strong> Decyduje o proporcjonalności ładu, ról, dokumentacji, kontroli, liczby etapów i pakietów prac oraz tolerancji.</div>
+</div>
+<p><strong>Jak czytać mapę:</strong> cztery pola pokazują rodzaje kontekstu, które trzeba rozpoznać. Pasek skali przebiega pod nimi, ponieważ względna wielkość, złożoność, ryzyko i znaczenie projektu wpływają na sposób obsługi każdego obszaru.</p>
+
+<h3>Sposoby dostarczania</h3>
+<p>Sposób dostarczania określa, <strong>jak zostanie wykonana specjalistyczna praca projektu</strong>. PRINCE2 zapewnia środowisko zarządcze i nie narzuca jednego modelu wytwarzania. Jeden projekt może wykorzystywać więcej niż jeden sposób.</p>
+<figure class="study-figure"><div class="m01-delivery">
+<div class="m01-delivery-row"><div class="m01-delivery-label">Liniowo-sekwencyjny</div><div class="m01-delivery-track"><span class="m01-delivery-node">Wymagania</span><span class="m01-arrow">→</span><span class="m01-delivery-node">Projekt</span><span class="m01-arrow">→</span><span class="m01-delivery-node">Wykonanie</span><span class="m01-arrow">→</span><span class="m01-delivery-node">Testy</span><span class="m01-arrow">→</span><span class="m01-delivery-node">Produkt</span></div></div>
+<div class="m01-delivery-row"><div class="m01-delivery-label">Iteracyjno-przyrostowy</div><div class="m01-delivery-track"><span class="m01-cycle"><span class="m01-delivery-node">Odkryj</span><span class="m01-arrow">→</span><span class="m01-delivery-node">Zbuduj</span><span class="m01-arrow">→</span><span class="m01-delivery-node">Sprawdź</span><span class="m01-arrow">↻</span></span><span class="m01-arrow">→</span><span class="m01-delivery-node">Przyrost 1</span><span class="m01-arrow">→</span><span class="m01-cycle"><span class="m01-delivery-node">Kolejna iteracja</span><span class="m01-arrow">↻</span></span><span class="m01-arrow">→</span><span class="m01-delivery-node">Przyrost 2</span></div></div>
+<div class="m01-delivery-row"><div class="m01-delivery-label">Hybrydowy</div><div class="m01-delivery-track"><span class="m01-delivery-node">Infrastruktura: sekwencyjnie</span><span class="m01-arrow">＋</span><span class="m01-cycle"><span class="m01-delivery-node">Aplikacja: iteracyjnie</span><span class="m01-arrow">↻</span></span><span class="m01-arrow">→</span><span class="m01-delivery-node">Wspólny rezultat</span></div></div>
+</div><figcaption><strong>Jak czytać schemat:</strong> podejście liniowo-sekwencyjne przechodzi przez kroki po kolei; iteracyjno-przyrostowe wielokrotnie uczy się i dostarcza kolejne części produktu; hybrydowe przypisuje różne sposoby do różnych elementów projektu. To sposób wytwarzania produktów, a nie zamiennik procesów zarządczych PRINCE2.</figcaption></figure>
+
+<h3>Zrównoważony rozwój jest wbudowany w całą metodę</h3>
+<p>Zrównoważony rozwój nie oznacza wyłącznie ochrony środowiska. Może dotyczyć wpływu prac projektowych, kosztu produktów w całym cyklu życia, ich odporności w eksploatacji, skutków społecznych albo stanowić cel projektu. PRINCE2 uwzględnia go przekrojowo:</p>
+<div class="m01-sustainability-core">Zrównoważony rozwój</div>
+<div class="m01-sustainability-links">
+<div class="m01-sustainability-item"><strong>Cel wykonania</strong>Jeden z siedmiu celów wraz z priorytetem i tolerancją.</div>
+<div class="m01-sustainability-item"><strong>Role</strong>Odpowiedzialności dotyczące uzgodnienia, ochrony i monitorowania wymagań.</div>
+<div class="m01-sustainability-item"><strong>Dokumentacja</strong>Wymagania, tolerancje i prognozy w planach, raportach i opisach produktów.</div>
+<div class="m01-sustainability-item"><strong>Praktyki</strong>Na przykład Business Case ocenia wpływ na zasadność i wartość projektu.</div>
+<div class="m01-sustainability-item"><strong>Procesy</strong>Działania potwierdzają wymagania i sprawdzają je w kolejnych decyzjach.</div>
+</div>
+<figure class="study-figure"><img class="m01-sdg-image" src="assets/module-01/un-sustainable-development-goals.png" alt="Siedemnaście Celów Zrównoważonego Rozwoju Organizacji Narodów Zjednoczonych"><figcaption><strong>17 Celów Zrównoważonego Rozwoju ONZ:</strong> podręcznik używa pojęcia sustainability w odniesieniu do jednego, kilku lub wszystkich tych celów. Projekt nie musi realizować wszystkich 17 — należy rozpoznać te, które są istotne dla organizacji, produktu i jego cyklu życia, a następnie przełożyć je na konkretne wymagania, odpowiedzialności, plany i kontrolę.</figcaption></figure>
+
+<h3>Skala i proporcjonalność</h3>
+<p>Skala jest <strong>względna wobec organizacji</strong>: projekt uznany za mały w globalnym przedsiębiorstwie może być dużym przedsięwzięciem dla niewielkiej firmy. Dlatego często trafniej mówić o projekcie prostym lub złożonym niż wyłącznie małym lub dużym. PRINCE2 można upraszczać dla projektów prostych i rozwijać dla złożonych.</p>
+<p><strong>Skala projektu nie jest tym samym co techniczna skalowalność produktu.</strong> Skalowalność systemu może być ważnym wymaganiem produktu i zwiększać złożoność, ryzyko lub znaczenie projektu, ale w PRINCE2 „scale” opisuje sposób postrzegania projektu przez organizację. Wpływa m.in. na układ ładu, łączenie lub rozdzielanie ról, szczegółowość produktów zarządczych, formalność kontroli i raportów, dobór podejść zarządczych, liczbę etapów i pakietów prac oraz poziomy tolerancji.</p>
+<p>Dla SnakeBite oznacza to pracę z zewnętrznym dostawcą API w kontekście komercyjnym, iteracyjno-przyrostowe rozwijanie gry, wymagania dotyczące zużycia zasobów i dostępności oraz kontrole proporcjonalne do ryzyka i znaczenia inwestycji.</p></div>
+
+<div class="card"><h2 class="card-title">Cechy i korzyści PRINCE2</h2>
+<p>Korzyści nie wynikają z samego używania nazw dokumentów. Pojawiają się wtedy, gdy metoda jest stosowana jako zintegrowany system decyzji, odpowiedzialności i kontroli:</p>
+<div class="m01-benefits">
+<div class="m01-benefit"><strong>Sprawdzona (proven)</strong>Opiera się na utrwalonych i sprawdzonych praktykach oraz zasadach ładu projektowego, stosowanych w wielu organizacjach.</div>
+<div class="m01-benefit"><strong>Uniwersalna (universal)</strong>Może być użyta w dowolnym typie projektu i przy dowolnej skali, obok branżowych modeli i cykli wytwarzania.</div>
+<div class="m01-benefit"><strong>Elastyczna (flexible)</strong>Można ją dostosować do konkretnych potrzeb organizacji, projektu i jego kontekstu bez porzucania pryncypiów.</div>
+<div class="m01-benefit"><strong>Wspólny język i pojęcia</strong>Zapewnia rozpoznawalne słownictwo dla wszystkich stron, zwiększa spójność, ułatwia przekazanie pracy i ogranicza skutki zmian personalnych.</div>
+<div class="m01-benefit"><strong>Skupiona na wynikach (outcome-focused)</strong>Utrzymuje uwagę na zasadności projektu i celach Business Case, a nie na samym „zakończeniu projektu” lub wykonaniu listy zadań.</div>
+<div class="m01-benefit"><strong>Zwiększa dojrzałość organizacyjną</strong>Promuje uczenie się z doświadczeń projektowych i ciągłe doskonalenie sposobu działania organizacji.</div>
+<div class="m01-benefit"><strong>Część zintegrowanego zestawu metod</strong>Współpracuje z przewodnikami PeopleCert dotyczącymi zarządzania programami, portfelem i ryzykiem.</div>
+</div>
+<p><strong>Efekt praktyczny dla SnakeBite:</strong> zarząd, zespół, dostawcy i użytkownicy korzystają z tych samych pojęć, decyzje odnoszą się do oczekiwanego rezultatu i Business Case, a doświadczenia z projektu mogą podnieść zdolność PixelBite do prowadzenia następnych przedsięwzięć.</p></div>
 </section>
