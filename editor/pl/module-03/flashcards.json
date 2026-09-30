@@ -1,15 +1,15 @@
 [
   {
-    "q": "Wymień 4 obszary Elementu People w PRINCE2 7.",
-    "a": "1. Leadership, 2. Organizational Change Management (OCM), 3. Culture & Team, 4. Communication."
+    "q": "Jakie cztery obszary obejmuje rozdział People?",
+    "a": "Kontekst, przewodzenie skutecznej zmianie, przewodzenie skutecznym zespołom i komunikację."
   },
   {
     "q": "Czym rozróżnia się Leadership od Management?",
     "a": "Management to procesy i kontrola; Leadership to motywowanie, wizja i prowadzenie ludzi."
   },
   {
-    "q": "Co to jest OCM?",
-    "a": "Organizational Change Management – przeprowadzenie ludzi przez zmianę nawyków i postaw dla akceptacji nowości."
+    "q": "Czym jest change management?",
+    "a": "Środkiem, dzięki któremu organizacja przechodzi ze stanu obecnego do stanu docelowego."
   },
   {
     "q": "Co to jest Bezpieczeństwo Psychologiczne?",
@@ -20,8 +20,8 @@
     "a": "Podejście do Zarządzania Komunikacją (Communication Management Approach)."
   },
   {
-    "q": "Dlaczego dodano People w 7. edycji PRINCE2?",
-    "a": "Aby powiązać wymóg dostarczania produktów z ludzką stroną wdrożenia i przywództwem."
+    "q": "Dlaczego People jest zintegrowanym elementem PRINCE2 7?",
+    "a": "Ponieważ zdolności, zachowania, kultura i relacje wpływają na wszystkie pryncypia, praktyki i procesy."
   },
   {
     "q": "Czy OCM dotyczy tylko zespołu projektowego?",
@@ -30,5 +30,117 @@
   {
     "q": "Kto odpowiada za zbudowanie właściwej kultury w zespole projektowym?",
     "a": "Kierownik Projektu przy wsparciu Liderów Zespołów i Rady Projektu."
+  },
+  {
+    "q": "Jaki jest kluczowy przekaz elementu People?",
+    "a": "Projekt dostarcza zmianę wpływającą na BAU; powodzenie zależy od zdolności, relacji i ludzi dotkniętych zmianą."
+  },
+  {
+    "q": "Czym jest ekosystem organizacyjny?",
+    "a": "Elementami wewnętrznymi organizacji oraz jej relacjami z klientami, partnerami, dostawcami, regulatorami i konkurentami."
+  },
+  {
+    "q": "Czym jest ekosystem projektu?",
+    "a": "Częściami biznesu zaangażowanymi lub dotkniętymi projektem oraz powiązanymi użytkownikami i dostawcami."
+  },
+  {
+    "q": "Gdzie powinny zapadać decyzje?",
+    "a": "Blisko miejsca, gdzie znajduje się wiedza; eskalacja jest potrzebna przy szerszym wpływie."
+  },
+  {
+    "q": "Czym jest change management?",
+    "a": "Środkiem przejścia organizacji ze stanu obecnego do stanu docelowego."
+  },
+  {
+    "q": "Po co opisuje się stany pośrednie?",
+    "a": "Aby świadomie zarządzać etapami przejścia, np. pilotażem, szkoleniem i transferem wiedzy."
+  },
+  {
+    "q": "Co obejmuje change management approach?",
+    "a": "Wpływ na ekosystem, kompetencje, relacje, kulturę i sposób przejścia."
+  },
+  {
+    "q": "Jak organizacja może przygotować zdolności do zmiany?",
+    "a": "Przez uczenie, reskilling, transfer wiedzy lub rekrutację."
+  },
+  {
+    "q": "Kim jest stakeholder?",
+    "a": "Osobą, grupą lub organizacją mogącą wpływać na projekt, podlegać wpływowi albo postrzegać taki wpływ."
+  },
+  {
+    "q": "Czym jest kultura?",
+    "a": "Wspólnymi postawami, wartościami, celami i sposobami pracy grupy."
+  },
+  {
+    "q": "Gdzie zapisuje się wspólne rozumienie projektu?",
+    "a": "W Project Brief, po wypracowaniu go z kluczowymi influencerami."
+  },
+  {
+    "q": "Gdzie utrwala się uzgodnione sposoby pracy?",
+    "a": "W podejściach zarządczych projektu i PID."
+  },
+  {
+    "q": "Czym jest collaboration?",
+    "a": "Wspólną pracą ludzi z ekosystemu projektu dla osiągnięcia celów."
+  },
+  {
+    "q": "Czym jest co-creation?",
+    "a": "Współpracą angażującą użytkowników i influencerów w projektowanie produktów i sposobów pracy."
+  },
+  {
+    "q": "Czym różni się leadership od management?",
+    "a": "Leadership motywuje i wpływa; management kieruje wykonaniem uzgodnionych zadań."
+  },
+  {
+    "q": "Dlaczego formalna struktura władzy nie wystarcza?",
+    "a": "Rzeczywisty wpływ, wiele linii raportowania, hierarchia i konkurujące priorytety mogą wyglądać inaczej."
+  },
+  {
+    "q": "Czym jest inteligencja kulturowa?",
+    "a": "Zdolnością budowania relacji i działania ponad kulturami ekosystemu organizacyjnego."
+  },
+  {
+    "q": "Czym jest bezpieczeństwo psychologiczne?",
+    "a": "Możliwością wyrażania obaw, błędów i odmiennych opinii bez interpersonalnej kary."
+  },
+  {
+    "q": "Czy bezpieczeństwo psychologiczne usuwa odpowiedzialność?",
+    "a": "Nie. Pozwala mówić otwarcie, ale nadal obowiązują standardy i odpowiedzialność."
+  },
+  {
+    "q": "Jak PRINCE2 wspiera budowanie zespołu?",
+    "a": "Przez Project Plan, strukturę i role, communication approach, PID oraz planowanie produktowe."
+  },
+  {
+    "q": "Jak budować spójność społeczną?",
+    "a": "Przez celowe regularne kontakty, zaufanie ponad silosami i świadome utrzymywanie relacji."
+  },
+  {
+    "q": "Czego wymaga komunikacja zdalna?",
+    "a": "Świadomej struktury, czasu na nieformalne słuchanie oraz jasności przepływu informacji."
+  },
+  {
+    "q": "Jakie ryzyko ma zespół hybrydowy?",
+    "a": "Powstanie grup bardziej i mniej poinformowanych lub zaangażowanych z powodu lokalizacji."
+  },
+  {
+    "q": "Czym jest quiet phase?",
+    "a": "Okresem doprecyzowania projektu z małą grupą influencerów przed szeroką komunikacją."
+  },
+  {
+    "q": "Dlaczego same raporty nie wystarczają?",
+    "a": "Mogą być obciążone biasem; potrzebne są relacje i dodatkowe kanały feedbacku."
+  },
+  {
+    "q": "Co sygnalizują skupiska oporu?",
+    "a": "Miejsca wymagające słuchania, komunikacji i rozwiązania nieporozumień lub realnych problemów."
+  },
+  {
+    "q": "Jak People wspiera zarządzanie etapami?",
+    "a": "Granice etapów pozwalają przeglądać influencerów, relacje, kompetencje i skład Rady."
+  },
+  {
+    "q": "Jak People wspiera tailoring?",
+    "a": "Metodę dopasowuje się do ludzi, organizacji, ich zdolności i rosnącej dojrzałości."
   }
 ]

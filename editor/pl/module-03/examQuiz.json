@@ -3,36 +3,36 @@
     "type": "standard",
     "question": "Jaka jest główna różnica między Zarządzaniem (Management) a Przywództwem (Leadership) w PRINCE2 7th Edition?",
     "options": [
-      "Zarządzanie dotyczy finansów, a przywództwo marketingu.",
       "Zarządzanie skupia się na planowaniu, strukturze i kontroli, podczas gdy Przywództwo na motywowaniu, wywieraniu wpływu i prowadzeniu ludzi.",
+      "Zarządzanie dotyczy finansów, a przywództwo marketingu.",
       "Nie ma żadnej różnicy, to synonimy.",
       "Przywództwo wykonuje wyłącznie zewnętrzny konsultant."
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Zarządzanie dostarcza sprawność operacyjną (procesy), a Przywództwo motywuje i angażuje ludzi do osiągania celów."
   },
   {
     "type": "missing-word",
-    "question": "Uzupełnij poniższe zdanie:\nProces wspierania jednostek i zespołów w przejściu ze stanu obecnego do pożądanego w celu przyjęcia zmian z projektu to Zarządzanie Zmianą [...].",
+    "question": "Uzupełnij zdanie: Środek, dzięki któremu organizacja przechodzi ze stanu obecnego do docelowego, to zarządzanie [...].",
     "options": [
-      "Techniczną",
-      "Organizacyjną (OCM)",
-      "Budżetową",
-      "Jakościową"
+      "techniczną",
+      "zmianą",
+      "budżetową",
+      "jakością"
     ],
     "correct": 1,
-    "explanation": "OCM (Organizational Change Management) skupia się na ludzkiej stronie wdrażania zmian."
+    "explanation": "To definicja change management."
   },
   {
     "type": "standard",
     "question": "Które DWA zagadnienia omawia rozdział Ludzie? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Przewodzenie skutecznym zespołom. 2. Przewodzenie skutecznej zmianie. 3. Wybór języka programowania. 4. Inwentaryzacja serwerów.",
     "options": [
-      "1 i 2",
       "1 i 3",
       "1 i 4",
+      "1 i 2",
       "2 i 3"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Podręcznik omawia kontekst, przewodzenie skutecznej zmianie i zespołom oraz komunikację; podejście do zarządzania zmianą jest produktem zarządczym."
   },
   {
@@ -40,24 +40,24 @@
     "question": "Które z poniższych zachowań NIE JEST przykładem skutecznego Przywództwa (Leadership) w projekcie?",
     "options": [
       "Aktywne słuchanie i wspieranie członków zespołu w rozwiązywaniu problemów.",
-      "Publiczne obwinianie i karanie programistów za nieprzewidziane błędy w kodzie.",
       "Jasne komunikowanie wizji i celu biznesowego projektu.",
-      "Budowanie zaufania i kultury odpowiedzialności."
+      "Budowanie zaufania i kultury odpowiedzialności.",
+      "Publiczne obwinianie i karanie programistów za nieprzewidziane błędy w kodzie."
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Publiczne obwinianie niszczy bezpieczeństwo psychologiczne i jest zaprzeczeniem dobrego przywództwa."
   },
   {
     "type": "standard",
-    "question": "Kiedy wg PRINCE2 7 należy rozpocząć działania z zakresu Zarządzania Zmianą Organizacyjną (OCM)?",
+    "question": "Kiedy należy planować ludzką i organizacyjną stronę zmiany?",
     "options": [
-      "Dopiero po zamknięciu projektu.",
-      "Na samym początku projektu (już w SU/IP) i kontynuować przez cały cykl życia.",
-      "Wyłącznie wtedy, gdy wystąpi strajk w firmie.",
-      "W ostatnim tygodniu przed premierą."
+      "Od wczesnego etapu i przez cały cykl życia projektu",
+      "Dopiero po zamknięciu",
+      "Wyłącznie po wystąpieniu oporu",
+      "W ostatnim tygodniu przed wdrożeniem"
     ],
-    "correct": 1,
-    "explanation": "OCM musi być planowane od samego początku projektu, aby skutecznie przygotować organizację na przyjęcie produktów."
+    "correct": 0,
+    "explanation": "Podejście do zarządzania zmianą jest rozwijane wcześnie i utrzymywane wraz z projektem."
   },
   {
     "type": "missing-word",
@@ -75,24 +75,264 @@
     "type": "standard",
     "question": "Które DWA zadania należą do obowiązków Kierownika Projektu w zakresie zarządzania komunikacją? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Opracowanie Podejścia do Zarządzania Komunikacją w IP.  2. Zapewnienie dwukierunkowego przepływu informacji z interesariuszami.  3. Pisanie treści wszystkich postów sprzedażowych na Facebooku.  4. Osobiste wysyłanie maili do każdego klienta kupującego grę.",
     "options": [
-      "1 i 2",
       "1 i 3",
       "1 i 4",
+      "1 i 2",
       "2 i 3"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "PM odpowiada za strategiczne zaplanowanie i nadzorowanie komunikacji projektowej z interesariuszami."
   },
   {
     "type": "standard",
     "question": "Jak PRINCE2 7 uwzględnia ludzi w projekcie?",
     "options": [
-      "Integruje ich z pryncypiami, praktykami i procesami",
       "Traktuje ich jako osobny proces końcowy",
       "Wyłącza kulturę organizacji z planowania",
-      "Ogranicza komunikację do jednokierunkowych raportów"
+      "Ogranicza komunikację do jednokierunkowych raportów",
+      "Integruje ich z pryncypiami, praktykami i procesami"
+    ],
+    "correct": 3,
+    "explanation": "People jest zintegrowanym elementem obecnym w pryncypiach, praktykach i procesach, a nie osobnym procesem końcowym."
+  },
+  {
+    "type": "standard",
+    "question": "Co najlepiej opisuje znaczenie ludzi dla wykonania projektu?",
+    "options": [
+      "Ludzie mają znaczenie dopiero po przekazaniu produktu",
+      "Wystarczy prawidłowa struktura procesów",
+      "Wdrożenie zmiany zależy od zdolności zespołu, relacji i osób dotkniętych zmianą",
+      "Element People dotyczy wyłącznie Kierownika Projektu"
+    ],
+    "correct": 2,
+    "explanation": "Projekt dostarcza zmianę wpływającą na BAU, dlatego ludzie są centralni od początku."
+  },
+  {
+    "type": "standard",
+    "question": "Czym jest ekosystem organizacyjny?",
+    "options": [
+      "Wyłącznie formalnym zespołem projektu",
+      "Elementami wewnętrznymi organizacji wraz z jej relacjami zewnętrznymi",
+      "Listą produktów specjalistycznych",
+      "Strukturą procesów PRINCE2"
+    ],
+    "correct": 1,
+    "explanation": "Obejmuje m.in. pracowników, właścicieli, klientów, partnerów, dostawców, regulatorów i konkurentów."
+  },
+  {
+    "type": "standard",
+    "question": "Czym jest ekosystem projektu?",
+    "options": [
+      "Całą branżą, niezależnie od związku z projektem",
+      "Wyłącznie Radą Projektu",
+      "Tylko organizacją dostawcy",
+      "Elementami biznesu zaangażowanymi lub dotkniętymi projektem oraz powiązanymi użytkownikami i dostawcami"
+    ],
+    "correct": 3,
+    "explanation": "Definicja obejmuje formalny zespół i szersze grupy bezpośrednio związane z projektem."
+  },
+  {
+    "type": "standard",
+    "question": "Która definicja stakeholdera jest poprawna?",
+    "options": [
+      "Osoba, grupa lub organizacja mogąca wpływać na projekt, podlegać jego wpływowi albo tak postrzegać swoją sytuację",
+      "Wyłącznie osoba z formalną rolą PRINCE2",
+      "Każdy pracownik organizacji bez względu na związek z projektem",
+      "Tylko klient finansujący projekt"
     ],
     "correct": 0,
-    "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+    "explanation": "Percepcja wpływu również mieści się w definicji stakeholdera."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij zdanie: Środek przejścia organizacji ze stanu obecnego do docelowego to zarządzanie [...].",
+    "options": [
+      "jakością",
+      "portfelem",
+      "zmianą",
+      "wyjątkiem"
+    ],
+    "correct": 2,
+    "explanation": "To definicja change management."
+  },
+  {
+    "type": "standard",
+    "question": "Co należy rozważyć w change management approach?",
+    "options": [
+      "Wyłącznie harmonogram spotkań Rady",
+      "Wpływ na ekosystem, kompetencje, relacje, kulturę i sposób przejścia",
+      "Tylko koszty dostawcy",
+      "Jedynie techniczną architekturę produktu"
+    ],
+    "correct": 1,
+    "explanation": "Podejście wspiera decyzje dotyczące ludzkiej i organizacyjnej strony przejścia."
+  },
+  {
+    "type": "standard",
+    "question": "Gdzie należy uchwycić wspólne rozumienie projektu wypracowane z kluczowymi influencerami?",
+    "options": [
+      "Wyłącznie w Daily Log",
+      "W Product Register",
+      "W End Stage Report",
+      "W Project Brief"
+    ],
+    "correct": 3,
+    "explanation": "Project Brief zapisuje wspólne rozumienie rozwinięte na wczesnym etapie."
+  },
+  {
+    "type": "standard",
+    "question": "Czym jest kultura?",
+    "options": [
+      "Wspólnymi postawami, wartościami, celami i sposobami pracy grupy ludzi",
+      "Formalnym schematem raportowania",
+      "Zestawem tolerancji projektu",
+      "Wyłącznie polityką HR"
+    ],
+    "correct": 0,
+    "explanation": "Kultura dotyczy tego, jak grupa rozumie i wykonuje pracę."
+  },
+  {
+    "type": "standard",
+    "question": "Jaka jest różnica między collaboration a co-creation?",
+    "options": [
+      "Collaboration dotyczy tylko dostawców",
+      "Co-creation nie wymaga współpracy",
+      "Co-creation szczególnie angażuje użytkowników i influencerów w projektowanie produktów i sposobów pracy",
+      "Są to nazwy produktów zarządczych"
+    ],
+    "correct": 2,
+    "explanation": "Co-creation jest szczególną formą współpracy zwiększającą adopcję."
+  },
+  {
+    "type": "standard",
+    "question": "Co najlepiej odróżnia leadership od management?",
+    "options": [
+      "Leadership tworzy budżet, management tworzy produkt",
+      "Leadership motywuje i wpływa; management kieruje wykonaniem uzgodnionych zadań",
+      "Management dotyczy tylko BAU",
+      "Leadership nie korzysta z komunikacji"
+    ],
+    "correct": 1,
+    "explanation": "Obie zdolności są potrzebne i uzupełniają się."
+  },
+  {
+    "type": "standard",
+    "question": "Dlaczego formalne uprawnienia Kierownika Projektu mogą nie wystarczyć?",
+    "options": [
+      "Tolerancje zawsze odbierają mu władzę",
+      "PRINCE2 zabrania motywowania zespołu",
+      "Każdy członek zespołu należy do Rady",
+      "Rzeczywisty wpływ, linie raportowania i priorytety mogą różnić się od formalnej struktury"
+    ],
+    "correct": 3,
+    "explanation": "Kierownik często musi przekonywać i budować relacje, także z osobami starszymi stanowiskiem."
+  },
+  {
+    "type": "standard",
+    "question": "Czym jest inteligencja kulturowa?",
+    "options": [
+      "Zdolnością budowania relacji i pracy ponad kulturami ekosystemu organizacyjnego",
+      "Znajomością wszystkich języków zespołu",
+      "Umiejętnością tworzenia harmonogramu",
+      "Pomiarami jakości produktu"
+    ],
+    "correct": 0,
+    "explanation": "Cultural intelligence pomaga zespołom z różnych kultur skutecznie się łączyć."
+  },
+  {
+    "type": "standard",
+    "question": "Który produkt wyjaśnia zaangażowanie, wsparcie i rozwijanie relacji komunikacyjnych?",
+    "options": [
+      "Business Case",
+      "Product Description",
+      "Communication management approach",
+      "Exception Report"
+    ],
+    "correct": 2,
+    "explanation": "Podejście opisuje przepływ informacji i sposoby wspierania relacji."
+  },
+  {
+    "type": "standard",
+    "question": "Co oznacza bezpieczeństwo psychologiczne?",
+    "options": [
+      "Brak odpowiedzialności za jakość",
+      "Możliwość wyrażania odmiennych opinii bez obawy o negatywne konsekwencje interpersonalne",
+      "Zakaz krytycznej informacji zwrotnej",
+      "Gwarancję braku konfliktów"
+    ],
+    "correct": 1,
+    "explanation": "Bezpieczeństwo umożliwia mówienie otwarcie, ale nie usuwa standardów."
+  },
+  {
+    "type": "standard",
+    "question": "Na czym szczególnie powinna skupić się komunikacja zespołu hybrydowego?",
+    "options": [
+      "Na wyłącznie pisemnych raportach",
+      "Na spotkaniach tylko osób w biurze",
+      "Na ograniczeniu kanałów feedbacku",
+      "Na zapobieganiu grupom bardziej i mniej zaangażowanym z powodu lokalizacji"
+    ],
+    "correct": 3,
+    "explanation": "Lokalizacja nie może decydować o dostępie do informacji i wpływie."
+  },
+  {
+    "type": "standard",
+    "question": "Jaki jest cel quiet phase?",
+    "options": [
+      "Doprecyzowanie złożonego lub wrażliwego projektu z małą grupą przed szeroką komunikacją",
+      "Ukrycie projektu przed Radą",
+      "Zastąpienie change management approach",
+      "Wstrzymanie wszystkich decyzji"
+    ],
+    "correct": 0,
+    "explanation": "Ograniczona komunikacja zmniejsza plotki i dezinformację, zanim projekt dojrzeje."
+  },
+  {
+    "type": "standard",
+    "question": "Dlaczego raporty okresowe nie wystarczają do oceny stanu ludzi i relacji?",
+    "options": [
+      "Są zawsze nieaktualne technicznie",
+      "PRINCE2 zabrania raportowania",
+      "Mogą zawierać bias, dlatego potrzebne są dodatkowe ścieżki feedbacku",
+      "Mogą je czytać wyłącznie dostawcy"
+    ],
+    "correct": 2,
+    "explanation": "Relacje i bezpośrednie słuchanie ujawniają problemy niewidoczne w formalnym raporcie."
+  },
+  {
+    "type": "standard",
+    "question": "Jak People wspiera manage by exception?",
+    "options": [
+      "Każdą decyzję przenosi na Radę",
+      "Zaufanie i kompetencje zwiększają zdolność delegowania decyzji blisko wiedzy",
+      "Usuwa potrzebę tolerancji",
+      "Ogranicza decyzje do warstwy biznesowej"
+    ],
+    "correct": 1,
+    "explanation": "Zakres delegowania zależy od relacji, pewności i zdolności osób."
+  },
+  {
+    "type": "standard",
+    "question": "Jak People wspiera focus on products?",
+    "options": [
+      "Zastępuje wszystkie opisy user stories",
+      "Usuwa użytkowników z przeglądów",
+      "Ogranicza jakość do opinii dostawcy",
+      "Współtworzenie opisów produktów łączy perspektywy i ogranicza ryzyko adopcji"
+    ],
+    "correct": 3,
+    "explanation": "Co-creation poprawia rozwój, przyjęcie produktu i przygotowanie operacyjne."
+  },
+  {
+    "type": "standard",
+    "question": "W jakich czterech warstwach działają procesy PRINCE2?",
+    "options": [
+      "Business, directing, managing i delivering",
+      "Strategic, agile, technical i operational",
+      "Customer, supplier, regulator i PMO",
+      "Initiating, testing, selling i support"
+    ],
+    "correct": 0,
+    "explanation": "Ludzie współpracują między czterema warstwami organizacji procesu."
   }
 ]

@@ -1,15 +1,15 @@
 [
   {
-    "q": "Which four main topics structure the People chapter?",
-    "a": "Context; leading successful change; leading successful teams; communication."
+    "q": "Which four areas does the People chapter cover?",
+    "a": "Context, leading successful change, leading successful teams and communication."
   },
   {
     "q": "What is the difference between Leadership and Management?",
     "a": "Management is about processes and control; Leadership is about motivation, vision, and guiding people."
   },
   {
-    "q": "What is OCM?",
-    "a": "Organizational Change Management: guiding people through changes in habits and attitudes so that they accept the new situation."
+    "q": "What is change management?",
+    "a": "The means by which an organization moves from current state to target state."
   },
   {
     "q": "What is Psychological Safety?",
@@ -20,8 +20,8 @@
     "a": "The communication management approach, part of the project initiation documentation."
   },
   {
-    "q": "Why was People added in the 7th edition of PRINCE2?",
-    "a": "People working on and affected by a project are essential to delivering and embedding its outcomes."
+    "q": "Why is People an integrated element of PRINCE2 7?",
+    "a": "Because capability, behaviour, culture and relationships affect every principle, practice and process."
   },
   {
     "q": "Does OCM concern only the project team?",
@@ -30,5 +30,117 @@
   {
     "q": "Who is responsible for building the right culture in the project team?",
     "a": "Leaders throughout the project shape the culture, with the project manager and team managers playing key roles."
+  },
+  {
+    "q": "What is the key People message?",
+    "a": "A project delivers change affecting BAU; success depends on capability, relationships and affected people."
+  },
+  {
+    "q": "What is the organizational ecosystem?",
+    "a": "Internal organizational elements and relationships with customers, partners, suppliers, regulators and competitors."
+  },
+  {
+    "q": "What is the project ecosystem?",
+    "a": "Business areas involved in or affected by the project and associated users and suppliers."
+  },
+  {
+    "q": "Where should decisions be made?",
+    "a": "Close to relevant knowledge; escalate when wider impact must be considered."
+  },
+  {
+    "q": "What is change management?",
+    "a": "The means by which an organization moves from current state to target state."
+  },
+  {
+    "q": "Why describe interim states?",
+    "a": "To manage transition steps such as pilots, training and knowledge transfer deliberately."
+  },
+  {
+    "q": "What does the change management approach cover?",
+    "a": "Ecosystem impact, capabilities, relationships, culture and transition."
+  },
+  {
+    "q": "How can an organization prepare capability for change?",
+    "a": "Through learning, upskilling, knowledge transfer or recruitment."
+  },
+  {
+    "q": "Who is a stakeholder?",
+    "a": "An individual, group or organization that can affect, be affected by or perceive itself affected by the project."
+  },
+  {
+    "q": "What is culture?",
+    "a": "Shared attitudes, values, goals and ways of working of a group."
+  },
+  {
+    "q": "Where is shared project understanding captured?",
+    "a": "In the project brief after development with key influencers."
+  },
+  {
+    "q": "Where are agreed ways of working recorded?",
+    "a": "In project management approaches and the PID."
+  },
+  {
+    "q": "What is collaboration?",
+    "a": "People across the project ecosystem working together to achieve project objectives."
+  },
+  {
+    "q": "What is co-creation?",
+    "a": "Collaboration involving users and influencers in designing products and ways of working."
+  },
+  {
+    "q": "How does leadership differ from management?",
+    "a": "Leadership motivates and influences; management directs agreed task execution."
+  },
+  {
+    "q": "Why is formal authority insufficient?",
+    "a": "Actual influence, reporting lines, hierarchy and competing priorities may differ."
+  },
+  {
+    "q": "What is cultural intelligence?",
+    "a": "The capability to relate and work across cultures in the organizational ecosystem."
+  },
+  {
+    "q": "What is psychological safety?",
+    "a": "Ability to raise concerns, mistakes and different views without interpersonal punishment."
+  },
+  {
+    "q": "Does psychological safety remove accountability?",
+    "a": "No. It enables speaking up while standards and accountability remain."
+  },
+  {
+    "q": "How does PRINCE2 support team building?",
+    "a": "Through the project plan, structure and roles, communication approach, PID and product-based planning."
+  },
+  {
+    "q": "How is social cohesion built?",
+    "a": "Through purposeful regular contact, trust across silos and deliberate relationship maintenance."
+  },
+  {
+    "q": "What does remote communication require?",
+    "a": "Deliberate structure, unstructured listening time and clarity about information flow."
+  },
+  {
+    "q": "What risk does a hybrid team face?",
+    "a": "Location creating better- and worse-informed or engaged groups."
+  },
+  {
+    "q": "What is a quiet phase?",
+    "a": "Clarifying a project with a small influencer group before broad communication."
+  },
+  {
+    "q": "Why are reports alone insufficient?",
+    "a": "They can be biased; relationships and additional feedback routes are needed."
+  },
+  {
+    "q": "What do pockets of resistance indicate?",
+    "a": "Where listening, communication and resolution of misconceptions or real issues should focus."
+  },
+  {
+    "q": "How does People support manage by stages?",
+    "a": "Boundaries allow review of influencers, relationships, skills and board membership."
+  },
+  {
+    "q": "How does People support tailoring?",
+    "a": "The method adapts to people, organizations, capability and evolving maturity."
   }
 ]

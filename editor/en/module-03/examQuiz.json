@@ -3,36 +3,36 @@
     "type": "standard",
     "question": "What is the main difference between Management and Leadership in PRINCE2 7th Edition?",
     "options": [
-      "Management concerns finance, while leadership concerns marketing.",
       "Management focuses on planning, structure, and control, while Leadership focuses on motivating, influencing, and guiding people.",
+      "Management concerns finance, while leadership concerns marketing.",
       "There is no difference; they are synonyms.",
       "Leadership is performed exclusively by an external consultant."
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Management provides operational efficiency through processes, while Leadership motivates and engages people to achieve objectives."
   },
   {
     "type": "missing-word",
-    "question": "Complete the following sentence:\nThe process of supporting individuals and teams in moving from their current state to a desired state so that they adopt changes from the project is Organizational Change [...].",
+    "question": "Complete the sentence: The means by which an organization moves from current to target state is [...] management.",
     "options": [
-      "Technical",
-      "Management (OCM)",
-      "Budget",
-      "Quality"
+      "technical",
+      "change",
+      "budget",
+      "quality"
     ],
     "correct": 1,
-    "explanation": "OCM (Organizational Change Management) focuses on the human side of implementing change."
+    "explanation": "This is the definition of change management."
   },
   {
     "type": "standard",
     "question": "Which TWO topics are covered in the People chapter of PRINCE2 7? Choose ONE pair of true statements. 1. Leading successful teams.  2. Leading successful change.  3. Programming language selection.  4. Server inventory.",
     "options": [
-      "1 and 2",
       "1 and 3",
       "1 and 4",
+      "1 and 2",
       "2 and 3"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Chapter 3 addresses context, leading successful change, leading successful teams and communication."
   },
   {
@@ -40,24 +40,24 @@
     "question": "Which of the following behaviours is NOT an example of effective Leadership in a project?",
     "options": [
       "Actively listening to and supporting team members as they solve problems.",
-      "Publicly blaming and punishing developers for unexpected errors in the code.",
       "Clearly communicating the project's vision and business objective.",
-      "Building trust and a culture of accountability."
+      "Building trust and a culture of accountability.",
+      "Publicly blaming and punishing developers for unexpected errors in the code."
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Public blame damages psychological safety and contradicts good leadership."
   },
   {
     "type": "standard",
-    "question": "When should Organizational Change Management (OCM) activities begin according to PRINCE2 7?",
+    "question": "When should the human and organizational side of change be planned?",
     "options": [
-      "Only after the project has closed.",
-      "At the very beginning of the project, already in SU/IP, and continue throughout the life cycle.",
-      "Only when a strike occurs in the company.",
-      "In the final week before launch."
+      "From an early stage and throughout the project life cycle",
+      "Only after closure",
+      "Only after resistance appears",
+      "In the final week before deployment"
     ],
-    "correct": 1,
-    "explanation": "Change management should be considered early and maintained throughout the project, with its approach captured in the PID."
+    "correct": 0,
+    "explanation": "The change management approach is developed early and maintained as the project evolves."
   },
   {
     "type": "missing-word",
@@ -75,24 +75,264 @@
     "type": "standard",
     "question": "Which TWO tasks belong to the Project Manager's responsibilities for communication management? Choose ONE pair of true statements. 1. Define how project stakeholders exchange information.  2. Ensure that affected people can provide feedback.  3. Write every advertisement personally.  4. Email each customer individually.",
     "options": [
-      "1 and 2",
       "1 and 3",
       "1 and 4",
+      "1 and 2",
       "2 and 3"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The PM is responsible for strategically planning and overseeing project communication with stakeholders."
   },
   {
     "type": "standard",
     "question": "How does PRINCE2 7 address people in a project?",
     "options": [
-      "Integrates people with principles, practices and processes",
       "Treats people as an isolated final process",
       "Excludes organizational culture from planning",
-      "Restricts communication to one-way reports"
+      "Restricts communication to one-way reports",
+      "Integrates people with principles, practices and processes"
+    ],
+    "correct": 3,
+    "explanation": "People is an integrated element present in principles, practices and processes, not a separate final process."
+  },
+  {
+    "type": "standard",
+    "question": "What best describes the importance of people to project performance?",
+    "options": [
+      "People matter only after product handover",
+      "Correct process structure is sufficient",
+      "Change implementation depends on team capability, relationships and affected people",
+      "People concerns only the project manager"
+    ],
+    "correct": 2,
+    "explanation": "A project changes BAU, so people are central from the beginning."
+  },
+  {
+    "type": "standard",
+    "question": "What is the organizational ecosystem?",
+    "options": [
+      "Only the formal project team",
+      "The organization’s internal elements together with its external relationships",
+      "The specialist product list",
+      "The PRINCE2 process structure"
+    ],
+    "correct": 1,
+    "explanation": "It includes staff, owners, customers, partners, suppliers, regulators and competitors."
+  },
+  {
+    "type": "standard",
+    "question": "What is the project ecosystem?",
+    "options": [
+      "The whole sector regardless of project connection",
+      "Only the project board",
+      "Only the supplier organization",
+      "Business elements involved in or affected by the project and associated users and suppliers"
+    ],
+    "correct": 3,
+    "explanation": "It includes the formal team and wider groups directly connected to the project."
+  },
+  {
+    "type": "standard",
+    "question": "Which stakeholder definition is correct?",
+    "options": [
+      "An individual, group or organization that can affect, be affected by, or perceive itself affected by the project",
+      "Only a person with a formal PRINCE2 role",
+      "Every employee regardless of connection",
+      "Only the customer funding the project"
     ],
     "correct": 0,
-    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
+    "explanation": "Perceived impact is also included in the definition."
+  },
+  {
+    "type": "missing-word",
+    "question": "Complete the sentence: The means by which an organization moves from current to target state is [...] management.",
+    "options": [
+      "quality",
+      "portfolio",
+      "change",
+      "exception"
+    ],
+    "correct": 2,
+    "explanation": "This is the definition of change management."
+  },
+  {
+    "type": "standard",
+    "question": "What should a change management approach consider?",
+    "options": [
+      "Only the board meeting schedule",
+      "Ecosystem impact, capabilities, relationships, culture and transition",
+      "Supplier cost alone",
+      "Only the technical product architecture"
+    ],
+    "correct": 1,
+    "explanation": "The approach supports decisions about the human and organizational transition."
+  },
+  {
+    "type": "standard",
+    "question": "Where is shared understanding developed with key influencers captured?",
+    "options": [
+      "Only in the daily log",
+      "In the product register",
+      "In the end stage report",
+      "In the project brief"
+    ],
+    "correct": 3,
+    "explanation": "The project brief records shared understanding established early."
+  },
+  {
+    "type": "standard",
+    "question": "What is culture?",
+    "options": [
+      "Shared attitudes, values, goals and ways of working characterizing a group",
+      "A formal reporting chart",
+      "A set of project tolerances",
+      "Only an HR policy"
+    ],
+    "correct": 0,
+    "explanation": "Culture concerns how a group understands and performs work."
+  },
+  {
+    "type": "standard",
+    "question": "How does co-creation differ from collaboration?",
+    "options": [
+      "Collaboration concerns suppliers only",
+      "Co-creation needs no collaboration",
+      "Co-creation specifically involves users and influencers in designing products and ways of working",
+      "They are management products"
+    ],
+    "correct": 2,
+    "explanation": "Co-creation is a specific collaborative form that improves adoption."
+  },
+  {
+    "type": "standard",
+    "question": "What best distinguishes leadership from management?",
+    "options": [
+      "Leadership creates budgets; management creates products",
+      "Leadership motivates and influences; management directs agreed task execution",
+      "Management applies only to BAU",
+      "Leadership does not use communication"
+    ],
+    "correct": 1,
+    "explanation": "Both capabilities are needed and complementary."
+  },
+  {
+    "type": "standard",
+    "question": "Why may the project manager’s formal authority be insufficient?",
+    "options": [
+      "Tolerance always removes authority",
+      "PRINCE2 prohibits team motivation",
+      "Every team member sits on the board",
+      "Actual influence, reporting lines and priorities may differ from the formal structure"
+    ],
+    "correct": 3,
+    "explanation": "The manager often persuades and builds relationships, including with more senior people."
+  },
+  {
+    "type": "standard",
+    "question": "What is cultural intelligence?",
+    "options": [
+      "The capability to relate and work across cultures in the organizational ecosystem",
+      "Speaking every team language",
+      "Creating a schedule",
+      "Measuring product quality"
+    ],
+    "correct": 0,
+    "explanation": "Cultural intelligence helps different organizational cultures interface effectively."
+  },
+  {
+    "type": "standard",
+    "question": "Which management product explains engagement, support and development of communication relationships?",
+    "options": [
+      "The business case",
+      "A product description",
+      "The communication management approach",
+      "An exception report"
+    ],
+    "correct": 2,
+    "explanation": "The approach describes information flow and how relationships are supported."
+  },
+  {
+    "type": "standard",
+    "question": "What is psychological safety?",
+    "options": [
+      "Absence of quality accountability",
+      "Ability to express different views without fear of negative interpersonal consequences",
+      "A ban on critical feedback",
+      "A guarantee of no conflict"
+    ],
+    "correct": 1,
+    "explanation": "Safety supports speaking up without removing standards."
+  },
+  {
+    "type": "standard",
+    "question": "What should hybrid-team communication particularly prevent?",
+    "options": [
+      "Anything except written reporting",
+      "Meetings involving remote people",
+      "Multiple feedback routes",
+      "Groups becoming more or less involved because of location"
+    ],
+    "correct": 3,
+    "explanation": "Location should not determine access to information or influence."
+  },
+  {
+    "type": "standard",
+    "question": "What is the purpose of a quiet phase?",
+    "options": [
+      "Clarifying a complex or sensitive project with a small group before broad communication",
+      "Hiding the project from the board",
+      "Replacing the change management approach",
+      "Stopping all decisions"
+    ],
+    "correct": 0,
+    "explanation": "Limited communication reduces rumours and misinformation before the project matures."
+  },
+  {
+    "type": "standard",
+    "question": "Why are periodic reports insufficient to understand people and relationships?",
+    "options": [
+      "They are always technically obsolete",
+      "PRINCE2 prohibits reporting",
+      "They may contain bias, so additional feedback routes are needed",
+      "Only suppliers may read them"
+    ],
+    "correct": 2,
+    "explanation": "Relationships and direct listening expose issues hidden by formal reports."
+  },
+  {
+    "type": "standard",
+    "question": "How does People support manage by exception?",
+    "options": [
+      "It transfers every decision to the board",
+      "Trust and capability allow decisions to be delegated close to relevant knowledge",
+      "It removes tolerance",
+      "It limits decisions to the business layer"
+    ],
+    "correct": 1,
+    "explanation": "Delegation depends on relationships, confidence and individual capability."
+  },
+  {
+    "type": "standard",
+    "question": "How does People support focus on products?",
+    "options": [
+      "It replaces all descriptions with user stories",
+      "It removes users from reviews",
+      "It limits quality to supplier opinion",
+      "Co-creating product descriptions combines perspectives and reduces adoption risk"
+    ],
+    "correct": 3,
+    "explanation": "Co-creation improves development, adoption and operational readiness."
+  },
+  {
+    "type": "standard",
+    "question": "Across which four layers do PRINCE2 processes operate?",
+    "options": [
+      "Business, directing, managing and delivering",
+      "Strategic, agile, technical and operational",
+      "Customer, supplier, regulator and PMO",
+      "Initiating, testing, selling and support"
+    ],
+    "correct": 0,
+    "explanation": "People interface across these four process layers."
   }
 ]

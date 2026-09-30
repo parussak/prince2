@@ -2,45 +2,45 @@
   {
     "question": "Bartek (developer) and Tomek (designer) are arguing about the performance of the retro graphics. Zosia organizes a workshop to establish shared priorities and build trust. Which area of the People Element did she apply?",
     "options": [
-      "Organizational Change Management (OCM)",
       "Culture & Team",
+      "Organizational Change Management (OCM)",
       "Supplier Contract Management",
       "Delegating Tolerance"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The Culture & Team area covers building shared values, resolving conflicts, fostering trust, and creating a collaborative atmosphere."
   },
   {
     "question": "PixelBite employees fear that the new game will replace the studio's established flagship productions. Zosia prepares workshops and a plan to transform their habits. What action did she take?",
     "options": [
-      "She implemented Organizational Change Management (OCM).",
       "She exceeded the risk tolerance.",
+      "She implemented Organizational Change Management (OCM).",
       "She abandoned quality acceptance.",
       "She entered the error in the Project Journal."
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "In PRINCE2 7, OCM guides people through changes in attitudes, behaviours, and habits so that they accept the new situation."
   },
   {
     "question": "Zosia notices that Artur (the Sponsor) is giving instructions to the development team without involving the Team Leader. Zosia talks to Artur about respecting the structure. What does Zosia demonstrate?",
     "options": [
-      "Leadership and the building of organizational culture.",
       "Exception Management.",
       "A lack of authority in the method.",
+      "Leadership and the building of organizational culture.",
       "Stage closure."
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Leadership in PRINCE2 means motivating, influencing, and protecting the principles of collaboration between the team and stakeholders."
   },
   {
     "question": "The marketing department does not know when it will receive materials to promote the game. Zosia creates a document defining the frequency and format of reports for each department. Which document did she prepare?",
     "options": [
-      "Communication Management Approach",
       "Exception Plan",
       "Project Product Description",
-      "Acceptance Log"
+      "Acceptance Log",
+      "Communication Management Approach"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "The Communication Management Approach defines how, when, and with whom information will be exchanged."
   },
   {
@@ -55,14 +55,146 @@
     "explanation": "Psychological safety allows a team to report problems without fear of punishment."
   },
   {
-    "question": "Why does PRINCE2 7 make people an integrated element of the method?",
+    "question": "6. Why is People one of the five integrated elements of PRINCE2 7?",
     "options": [
-      "Because processes and procedures alone cannot guarantee success if people do not collaborate and accept change.",
-      "To increase the number of questions on the exam.",
-      "To replace financial management.",
-      "For legal reasons only."
+      "To increase the number of exam questions",
+      "Because successful change depends on capability, relationships and affected people",
+      "To replace financial management",
+      "Only for legal reasons"
+    ],
+    "correct": 1,
+    "explanation": "People permeates the principles, practices and processes; procedure alone does not secure adoption."
+  },
+  {
+    "question": "7. The SnakeBite team knows the formal roles but ignores customer support, whose duties will change after launch. What is the mistake?",
+    "options": [
+      "Failing to add another stage",
+      "Failing to increase cost tolerance",
+      "Failing to include the full project ecosystem and people affected by change",
+      "Failing to replace the supplier"
+    ],
+    "correct": 2,
+    "explanation": "The project ecosystem includes people without formal project roles who are directly affected."
+  },
+  {
+    "question": "8. A regulator announces new requirements and the API supplier changes priorities. Which concept includes these relationships?",
+    "options": [
+      "Only the project team",
+      "The organizational ecosystem",
+      "The product description",
+      "Quality tolerance"
+    ],
+    "correct": 1,
+    "explanation": "The organizational ecosystem includes internal elements and external relationships with regulators, partners, suppliers and competitors."
+  },
+  {
+    "question": "9. Customer support first joins a pilot, then trains, and only later assumes full game support. What does this plan describe?",
+    "options": [
+      "Exceptions to the stage plan",
+      "External products",
+      "A new project board structure",
+      "Interim states between the current and target states"
+    ],
+    "correct": 3,
+    "explanation": "Change may require several transitional organizational states rather than one immediate jump."
+  },
+  {
+    "question": "10. Zosia involves an informal support leader in defining the project even though she has no PRINCE2 role. Why?",
+    "options": [
+      "She is a key influencer and stakeholder important to adoption",
+      "Every stakeholder must join the board",
+      "She replaces the project manager",
+      "Only people without roles may co-create"
     ],
     "correct": 0,
-    "explanation": "Delivery depends on relationships among those working on the project and those affected by its outcomes."
+    "explanation": "A stakeholder need not hold a formal role; they may affect or be affected by the project."
+  },
+  {
+    "question": "11. Bartek formally reports to Zosia in the project, but an external technical director has more influence over him. What should Zosia recognize?",
+    "options": [
+      "Tolerances no longer apply",
+      "Bartek’s role description should be removed",
+      "The actual power structure may differ from the formal one",
+      "The project has become a programme"
+    ],
+    "correct": 2,
+    "explanation": "Leadership recognizes actual influence, multiple reporting lines and competing priorities."
+  },
+  {
+    "question": "12. The supplier works in a strongly hierarchical culture while PixelBite prefers self-organization. Which capability does Zosia need?",
+    "options": [
+      "Technical knowledge only",
+      "Cultural intelligence",
+      "A wider quality tolerance",
+      "A new business case"
+    ],
+    "correct": 1,
+    "explanation": "Cultural intelligence enables effective work across organizational cultures."
+  },
+  {
+    "question": "13. A tester reports a severe defect without fear of public blame but must still provide evidence. What does this demonstrate?",
+    "options": [
+      "Absence of quality standards",
+      "Manage by exception",
+      "An informal scope change",
+      "Psychological safety combined with accountability"
+    ],
+    "correct": 3,
+    "explanation": "Psychological safety enables speaking up without removing standards or accountability."
+  },
+  {
+    "question": "14. Maya and future players jointly design onboarding and its acceptance criteria. Which way of working is this?",
+    "options": [
+      "Co-creation",
+      "One-way communication only",
+      "Project closure",
+      "Tolerance delegation"
+    ],
+    "correct": 0,
+    "explanation": "Co-creation involves users and influencers in designing products and ways of working, improving adoption."
+  },
+  {
+    "question": "15. The team cannot explain why it is building certain features or describe the shared goal to stakeholders. Which management product should help most?",
+    "options": [
+      "A daily log containing notes",
+      "An issue report without context",
+      "The project plan explaining goals and shared direction",
+      "An exception plan for a closed stage"
+    ],
+    "correct": 2,
+    "explanation": "The project plan creates clear purpose and supports stakeholder explanations."
+  },
+  {
+    "question": "16. Remote staff learn decisions later than office-based staff. What is the best response?",
+    "options": [
+      "Require everyone to read a monthly report",
+      "Redesign hybrid communication so location does not create better- and worse-informed groups",
+      "Exclude remote people from meetings",
+      "Limit feedback to the project manager"
+    ],
+    "correct": 1,
+    "explanation": "Hybrid communication must prevent location-based differences in involvement."
+  },
+  {
+    "question": "17. The project is politically sensitive and still poorly defined. Zosia limits broad communication while working with a small influencer group. What is this?",
+    "options": [
+      "Premature closure",
+      "Manage by exception",
+      "A product flow diagram",
+      "A quiet phase"
+    ],
+    "correct": 3,
+    "explanation": "A quiet phase limits rumours and misinformation until the project is better defined."
+  },
+  {
+    "question": "18. Reports are green, but customer-support resistance is growing informally. What should Zosia do?",
+    "options": [
+      "Use additional feedback routes, listen to concerns and check relationship health",
+      "Treat reports as the only truth",
+      "Hide resistance from the board",
+      "Increase mandatory documentation"
+    ],
+    "correct": 0,
+    "explanation": "Reporting can be biased; resistance indicates where listening and communication should focus."
   }
 ]
