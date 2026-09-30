@@ -94,5 +94,197 @@
     ],
     "correct": 0,
     "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
+  },
+  {
+    "type": "standard",
+    "question": "Which statement best describes the project context as an integrated element of PRINCE2?",
+    "options": [
+      "It is the activity list for the seven processes",
+      "It concerns only the project team’s needs",
+      "It should be understood by stakeholders so the method can be applied appropriately",
+      "It defines only the schedule structure"
+    ],
+    "correct": 2,
+    "explanation": "The project context affects how people apply the principles, practices and processes and how the method is tailored."
+  },
+  {
+    "type": "standard",
+    "question": "Which definition best describes a project?",
+    "options": [
+      "A permanent function that maintains operations",
+      "A collection of unrelated tasks with no business owner",
+      "Any work performed by a team",
+      "A temporary organization created to deliver one or more business products according to an agreed business case"
+    ],
+    "correct": 3,
+    "explanation": "A project is temporary, delivers agreed products and operates within an agreed business justification."
+  },
+  {
+    "type": "standard",
+    "question": "What best describes project management?",
+    "options": [
+      "The project manager personally creating every product",
+      "Planning, delegating, monitoring and controlling all aspects of the project, and motivating those involved to achieve its objectives",
+      "Producing a schedule only",
+      "Operating the product after the project"
+    ],
+    "correct": 1,
+    "explanation": "Project management coordinates all aspects and people’s work so that the project objectives can be achieved."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO statements describe typical project characteristics? 1. It is temporary. 2. It always has the same team. 3. It introduces change. 4. It is less risky than BAU.",
+    "options": [
+      "1 and 3",
+      "2 and 4",
+      "3 and 4",
+      "1 and 2"
+    ],
+    "correct": 0,
+    "explanation": "Temporary organization and change are typical characteristics. Teams and contexts vary, and uncertainty usually makes projects riskier than BAU."
+  },
+  {
+    "type": "standard",
+    "question": "Which project characteristic distinguishes it from business as usual (BAU)?",
+    "options": [
+      "A project always uses a familiar team",
+      "Project work contains no uncertainty",
+      "Every project differs from previous projects in some way",
+      "A project maintains operations indefinitely"
+    ],
+    "correct": 2,
+    "explanation": "Uniqueness may arise from the team, customer, supplier, product, location or timeframe."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO are among the seven project performance targets? 1. Scope. 2. Benefits. 3. Number of meetings. 4. Sponsor popularity.",
+    "options": [
+      "3 and 4",
+      "1 and 2",
+      "1 and 3",
+      "2 and 4"
+    ],
+    "correct": 1,
+    "explanation": "The seven targets are time, cost, quality, scope, benefits, risk and sustainability."
+  },
+  {
+    "type": "missing-word",
+    "question": "Complete the sentence. In a [...] delivery method, work passes through broadly successive phases and the product is usually handed over near the end.",
+    "options": [
+      "iterative-incremental",
+      "hybrid",
+      "operational",
+      "linear-sequential"
+    ],
+    "correct": 3,
+    "explanation": "A linear-sequential approach organizes development in successive phases and usually has less frequent releases."
+  },
+  {
+    "type": "standard",
+    "question": "What characterizes an iterative-incremental delivery method?",
+    "options": [
+      "Feedback is not collected",
+      "Products are not defined",
+      "The product evolves through repeated cycles and successive increments",
+      "The whole product appears only after one sequence of phases"
+    ],
+    "correct": 2,
+    "explanation": "Iterations enable learning and refinement, while increments progressively extend a usable product."
+  },
+  {
+    "type": "standard",
+    "question": "When is a hybrid delivery method most appropriate?",
+    "options": [
+      "Only in business as usual",
+      "When different parts of the project require a combination of linear and iterative approaches",
+      "When the project has no products",
+      "Only when no schedule exists"
+    ],
+    "correct": 1,
+    "explanation": "A hybrid consciously combines delivery methods to suit different products or workstreams."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO statements concern the project context? 1. Contractual arrangements belong to commercial context. 2. Culture and policies belong to organizational context. 3. Context does not affect tailoring. 4. Scale is identical for every organization.",
+    "options": [
+      "1 and 3",
+      "2 and 4",
+      "3 and 4",
+      "1 and 2"
+    ],
+    "correct": 3,
+    "explanation": "Trading relationships shape commercial context, while structures, culture and policies shape organizational context. Both affect tailoring."
+  },
+  {
+    "type": "standard",
+    "question": "How does PRINCE2 7 treat sustainability?",
+    "options": [
+      "Only as an emissions measurement after closure",
+      "As a replacement for the business case",
+      "As a concern integrated through performance targets, roles, documentation, practices and processes",
+      "As an eighth principle"
+    ],
+    "correct": 2,
+    "explanation": "Sustainability requirements may relate to the relevant UN Sustainable Development Goals and should be embedded in project management."
+  },
+  {
+    "type": "standard",
+    "question": "What does scale mean in the project context?",
+    "options": [
+      "A fixed category shared by every organization",
+      "The project’s relative size and significance for the specific product and organization",
+      "Only a system’s technical ability to support more users",
+      "The number of pages in the documentation"
+    ],
+    "correct": 1,
+    "explanation": "Project scale is contextual and should not be confused with the technical scalability of a product."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO are PRINCE2 features or benefits? 1. Common language and concepts. 2. Universal application. 3. Mandatory software. 4. Identical documentation for every project.",
+    "options": [
+      "1 and 3",
+      "2 and 4",
+      "3 and 4",
+      "1 and 2"
+    ],
+    "correct": 3,
+    "explanation": "PRINCE2 provides common language and is universal yet flexible. It does not prescribe one tool or identical documentation."
+  },
+  {
+    "type": "standard",
+    "question": "How does PRINCE2 help increase organizational maturity?",
+    "options": [
+      "It replaces portfolio management",
+      "It requires repeating the same mistakes",
+      "It promotes learning from experience and continual improvement",
+      "It removes the need for reviews"
+    ],
+    "correct": 2,
+    "explanation": "Systematic use of lessons and improvement strengthens the organization’s ability to manage projects successfully."
+  },
+  {
+    "type": "standard",
+    "question": "What does it mean that PRINCE2 is part of an integrated suite of methods?",
+    "options": [
+      "It applies only to IT projects",
+      "It can work with approaches for programme, portfolio and risk management",
+      "It can be used only with one software tool",
+      "It replaces every other management discipline"
+    ],
+    "correct": 1,
+    "explanation": "PRINCE2 can operate alongside complementary PeopleCert approaches for programmes, portfolios and risk."
+  },
+  {
+    "type": "standard",
+    "question": "Which management product provides the agreed reference for directing and managing the project after initiation?",
+    "options": [
+      "Daily log",
+      "Project brief",
+      "Only the end project report",
+      "Project initiation documentation (PID)"
+    ],
+    "correct": 3,
+    "explanation": "The PID is assembled during initiating a project and brings together the agreed basis for directing and managing it."
   }
 ]

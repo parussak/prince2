@@ -48,7 +48,7 @@ window.MODULE_DATA[1] = {
       "explanation": "Zarządzanie etapowo zapewnia przydzielanie zasobów i ocenę opłacalności na granicach kolejnych etapów zarządczych."
     },
     {
-      "question": "5. Marek proponuje pominięcie formalnych opisów ról, bo 'wszyscy w studio się znają'. Zosia odmawia. Dlaczego jaśniała rol jest kluczowa w PRINCE2?",
+      "question": "5. Marek proponuje pominięcie formalnych opisów ról, bo 'wszyscy w studio się znają'. Zosia odmawia. Dlaczego jasność ról jest kluczowa w PRINCE2?",
       "options": [
         "Bo tak nakazuje prawo pracy.",
         "Pryncypium 'Defined roles, responsibilities and relationships' wymaga jawnego określenia struktur biznesu, użytkowników i dostawców.",
@@ -67,7 +67,139 @@ window.MODULE_DATA[1] = {
         "Zarządzanie przez wyjątki"
       ],
       "correct": 2,
-      "explanation": "Dostosowanie (Tailoring) gwarantuje, że metodyka jest proporcjonalna do wielkości, skali, ryzyka i skomplikowania projektu."
+      "explanation": "Dostosowanie (tailoring) sprawia, że metoda jest proporcjonalna do środowiska, wielkości, złożoności, ważności, metody dostarczania, zdolności zespołu i poziomu ryzyka projektu."
+    },
+    {
+      "question": "7. Zespół zna pryncypia, praktyki i procesy, lecz stosuje je identycznie w każdym przedsięwzięciu. Który zintegrowany element powinien najpierw przeanalizować?",
+      "options": [
+        "Tylko plan etapu",
+        "Rejestr jakości",
+        "Kontekst projektu",
+        "Wyłącznie koszt"
+      ],
+      "correct": 2,
+      "explanation": "Kontekst projektu wpływa na sposób, w jaki ludzie stosują pryncypia, praktyki i procesy. Pozwala dopasować metodę do konkretnego środowiska."
+    },
+    {
+      "question": "8. Po wdrożeniu gry zespół projektowy zostaje rozwiązany, a wsparcie produktu przejmuje stała jednostka operacyjna. Co najlepiej wyjaśnia tę zmianę?",
+      "options": [
+        "Projekt i BAU są tym samym",
+        "Każdy projekt musi stać się programem",
+        "PRINCE2 kończy się po pierwszym produkcie",
+        "Projekt jest tymczasowy, a BAU trwa dalej w nowej formie"
+      ],
+      "correct": 3,
+      "explanation": "Projekt jest tymczasową organizacją stworzoną w celu dostarczenia produktów i zmiany. Po jego zakończeniu zwykła działalność biznesowa (BAU) działa dalej."
+    },
+    {
+      "question": "9. W projekcie współpracują marketing, IT, finanse i zewnętrzne studio. Jaką typową cechę projektu ilustruje ten układ?",
+      "options": [
+        "Stałość zespołu",
+        "Międzyfunkcyjność",
+        "Powtarzalność operacyjną",
+        "Brak niepewności"
+      ],
+      "correct": 1,
+      "explanation": "Projekty często przekraczają granice funkcji i organizacji, łącząc osoby o różnych specjalizacjach."
+    },
+    {
+      "question": "10. Nowa technologia może przyspieszyć produkcję, ale może też nie spełnić wymagań. Z jaką cechą projektu zespół ma do czynienia?",
+      "options": [
+        "Wyłącznie jakością",
+        "Zwykłą działalnością biznesową",
+        "Gwarantowaną korzyścią",
+        "Niepewnością, która tworzy zagrożenia i szanse"
+      ],
+      "correct": 3,
+      "explanation": "Unikalność, zmiana i tymczasowość zwiększają niepewność; może ona prowadzić zarówno do zagrożeń, jak i szans."
+    },
+    {
+      "question": "11. Sponsor chce skrócić termin bez zmiany budżetu. Kierownik projektu pokazuje możliwy wpływ na zakres, jakość, korzyści, ryzyko i zrównoważony rozwój. Dlaczego?",
+      "options": [
+        "Każdy cel ma osobny projekt",
+        "Zakres nie wpływa na korzyści",
+        "Cele wykonania są współzależne i wymagają równoważenia",
+        "Tylko czas podlega sterowaniu"
+      ],
+      "correct": 2,
+      "explanation": "Siedem celów wykonania służy do wspólnego sterowania projektem. Zmiana jednego może wymagać kompromisu w pozostałych."
+    },
+    {
+      "question": "12. Umowa z dostawcą ustala model cenowy i odpowiedzialność stron, a polityka firmy określa sposób podejmowania decyzji. Jakie dwa obszary kontekstu są analizowane?",
+      "options": [
+        "Czasowy i ryzykowy",
+        "Komercyjny i organizacyjny",
+        "Dostawczy i jakościowy",
+        "Procesowy i produktowy"
+      ],
+      "correct": 1,
+      "explanation": "Kontekst komercyjny obejmuje relacje i ustalenia handlowe, a organizacyjny — struktury, kulturę, polityki i ład organizacji."
+    },
+    {
+      "question": "13. Wymagania sprzętowe są stabilne, ale interfejs gry będzie rozwijany w krótkich iteracjach na podstawie opinii użytkowników. Jaka metoda dostarczania pasuje najlepiej?",
+      "options": [
+        "Wyłącznie liniowo-sekwencyjna",
+        "Wyłącznie operacyjna",
+        "Bez planowania",
+        "Hybrydowa"
+      ],
+      "correct": 3,
+      "explanation": "Podejście hybrydowe łączy elementy liniowo-sekwencyjne z iteracyjno-przyrostowymi w różnych częściach tego samego projektu."
+    },
+    {
+      "question": "14. Zespół wpisuje cele redukcji energii do uzasadnienia biznesowego, przydziela odpowiedzialność i sprawdza wymagania na przeglądach etapów. Co robi?",
+      "options": [
+        "Ogranicza zrównoważony rozwój do raportu końcowego",
+        "Zastępuje nim jakość",
+        "Integruje zrównoważony rozwój z zarządzaniem projektem",
+        "Dodaje ósme pryncypium"
+      ],
+      "correct": 2,
+      "explanation": "Zrównoważony rozwój nie jest osobnym dodatkiem: pojawia się w celach wykonania, rolach, dokumentacji, praktykach i działaniach procesowych."
+    },
+    {
+      "question": "15. Ten sam zakres jest mały dla globalnej korporacji, ale ogromny dla start-upu. Jaki wniosek powinien wyciągnąć kierownik projektu?",
+      "options": [
+        "Skala produktu i skalowalność techniczna są identyczne",
+        "Skalę należy oceniać względem produktu i organizacji",
+        "Skala oznacza tylko liczbę użytkowników",
+        "Każdy projekt ma tę samą skalę"
+      ],
+      "correct": 1,
+      "explanation": "Skala projektu jest względna i zależy od konkretnego produktu oraz organizacji; nie należy jej utożsamiać jedynie z techniczną skalowalnością rozwiązania."
+    },
+    {
+      "question": "16. Klient i dostawca różnie rozumieją słowo „produkt”. Jaką korzyść z PRINCE2 może wykorzystać zespół?",
+      "options": [
+        "Obowiązkowe narzędzie IT",
+        "Brak potrzeby uzgodnień",
+        "Stały model umowy",
+        "Wspólny język i pojęcia"
+      ],
+      "correct": 3,
+      "explanation": "Ujednolicone nazewnictwo pomaga stronom wspólnie rozumieć role, produkty, decyzje i sposób zarządzania."
+    },
+    {
+      "question": "17. Zespół raportuje wiele wykonanych czynności, ale nie potrafi wykazać zmiany osiągniętej przez projekt. Na jakiej korzyści PRINCE2 powinien się skupić?",
+      "options": [
+        "Stałej hierarchii organizacyjnej",
+        "Rezygnacji z produktów",
+        "Orientacji na wyniki i rezultaty",
+        "Maksymalizacji liczby zadań"
+      ],
+      "correct": 2,
+      "explanation": "PRINCE2 koncentruje uwagę na tym, co projekt ma dostarczyć i jakie efekty ma umożliwić, a nie na samej aktywności."
+    },
+    {
+      "question": "18. Przed inicjowaniem Zosia potrzebuje zwięzłej podstawy decyzji, podczas inicjowania pełnego uzgodnionego odniesienia, a na bieżąco miejsca na nieformalne zapisy. Jakie produkty dobiera?",
+      "options": [
+        "Business Case, produkt końcowy i wyjątek",
+        "Project Brief, PID i Daily Log",
+        "PID, raport końcowy i plan korzyści",
+        "Plan zespołu, rejestr jakości i umowę"
+      ],
+      "correct": 1,
+      "explanation": "Project Brief wspiera decyzję o inicjowaniu, PID stanowi uzgodnioną podstawę zarządzania, a Daily Log służy bieżącym nieformalnym zapisom kierownika projektu."
     }
   ],
   "examQuiz": [
@@ -93,7 +225,7 @@ window.MODULE_DATA[1] = {
         "Draft-PRINCE"
       ],
       "correct": 1,
-      "explanation": "Projekt, który deklaruje użycie PRINCE2, ale odrzuca chociaż jedno z 7 pryncypiów, nosi nazwę PINO (PRINCE w samej nazwie)."
+      "explanation": "Wszystkie siedem pryncypiów musi być stosowanych, aby projekt był zarządzany zgodnie z PRINCE2; PINO to określenie potoczne, a nie oficjalny proces."
     },
     {
       "type": "standard",
@@ -105,7 +237,7 @@ window.MODULE_DATA[1] = {
         "2 i 3"
       ],
       "correct": 0,
-      "explanation": "4 Integrated Elements w PRINCE2 7 edycji to: Pryncypia, Ludzie, Praktyki oraz Procesy."
+      "explanation": "PRINCE2 obejmuje pięć zintegrowanych elementów: pryncypia, ludzi, praktyki, procesy i kontekst projektu."
     },
     {
       "type": "negative",
@@ -129,7 +261,7 @@ window.MODULE_DATA[1] = {
         "Zatrudnianie wyłącznie lokalnych podwykonawców."
       ],
       "correct": 1,
-      "explanation": "Sustainability w 7 edycji oznacza integrację celów środowiskowych, społecznych i ekonomicznych (ESG) w zarządzaniu projektem."
+      "explanation": "Zrównoważony rozwój obejmuje wpływ środowiskowy, społeczny i gospodarczy. Jest integrowany m.in. z celami wykonania, rolami, dokumentacją, praktykami i procesami."
     },
     {
       "type": "missing-word",
@@ -166,12 +298,204 @@ window.MODULE_DATA[1] = {
       ],
       "correct": 0,
       "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+    },
+    {
+      "type": "standard",
+      "question": "Które stwierdzenie najlepiej opisuje kontekst projektu jako zintegrowany element PRINCE2?",
+      "options": [
+        "Jest listą czynności siedmiu procesów",
+        "Dotyczy jedynie potrzeb zespołu projektowego",
+        "Powinien być rozumiany przez interesariuszy, aby odpowiednio stosować metodę",
+        "Określa wyłącznie strukturę harmonogramu"
+      ],
+      "correct": 2,
+      "explanation": "Kontekst projektu wpływa na to, jak zaangażowani ludzie stosują pryncypia, praktyki i procesy oraz jak metoda jest dostosowywana."
+    },
+    {
+      "type": "standard",
+      "question": "Która definicja najlepiej opisuje projekt?",
+      "options": [
+        "Stała funkcja utrzymująca bieżące operacje",
+        "Zbiór niepowiązanych zadań bez właściciela biznesowego",
+        "Każda praca wykonywana przez zespół",
+        "Tymczasowa organizacja utworzona w celu dostarczenia jednego lub większej liczby produktów biznesowych zgodnie z uzgodnionym uzasadnieniem biznesowym"
+      ],
+      "correct": 3,
+      "explanation": "Projekt jest tymczasowy, ma dostarczyć uzgodnione produkty i działa w ramach uzasadnienia biznesowego."
+    },
+    {
+      "type": "standard",
+      "question": "Co najlepiej opisuje zarządzanie projektem?",
+      "options": [
+        "Samodzielne wykonywanie wszystkich produktów przez kierownika projektu",
+        "Planowanie, delegowanie, monitorowanie i kontrolowanie wszystkich aspektów projektu oraz motywowanie uczestników do osiągnięcia celów",
+        "Wyłącznie tworzenie harmonogramu",
+        "Operacyjne utrzymywanie produktu po projekcie"
+      ],
+      "correct": 1,
+      "explanation": "Zarządzanie projektem obejmuje skoordynowane sterowanie wszystkimi aspektami i pracą ludzi tak, aby osiągnąć cele projektu."
+    },
+    {
+      "type": "standard",
+      "question": "Które DWA stwierdzenia opisują typowe cechy projektu? 1. Jest tymczasowy. 2. Zawsze ma ten sam zespół. 3. Wprowadza zmianę. 4. Jest mniej ryzykowny od BAU.",
+      "options": [
+        "1 i 3",
+        "2 i 4",
+        "3 i 4",
+        "1 i 2"
+      ],
+      "correct": 0,
+      "explanation": "Tymczasowość i wprowadzanie zmiany to typowe cechy projektu. Zespół i kontekst mogą się zmieniać, a niepewność zwykle zwiększa ryzyko względem BAU."
+    },
+    {
+      "type": "standard",
+      "question": "Która cecha projektu odróżnia go od zwykłej działalności biznesowej (BAU)?",
+      "options": [
+        "Projekt zawsze wykorzystuje znany zespół",
+        "Praca projektowa nie wiąże się z niepewnością",
+        "Każdy projekt różni się w pewien sposób od poprzednich",
+        "Projekt bezterminowo utrzymuje operacje"
+      ],
+      "correct": 2,
+      "explanation": "Unikalność oznacza, że różnić mogą się m.in. zespół, klient, dostawca, produkt, lokalizacja lub ramy czasowe."
+    },
+    {
+      "type": "standard",
+      "question": "Które DWA elementy należą do siedmiu celów wykonania projektu? 1. Zakres. 2. Korzyści. 3. Liczba spotkań. 4. Popularność sponsora.",
+      "options": [
+        "3 i 4",
+        "1 i 2",
+        "1 i 3",
+        "2 i 4"
+      ],
+      "correct": 1,
+      "explanation": "Siedem celów wykonania to czas, koszt, jakość, zakres, korzyści, ryzyko i zrównoważony rozwój."
+    },
+    {
+      "type": "missing-word",
+      "question": "Uzupełnij zdanie. W metodzie dostarczania [...] praca przechodzi przez zasadniczo następujące po sobie fazy, a produkt jest zwykle przekazywany pod koniec.",
+      "options": [
+        "iteracyjno-przyrostowej",
+        "hybrydowej",
+        "operacyjnej",
+        "liniowo-sekwencyjnej"
+      ],
+      "correct": 3,
+      "explanation": "Podejście liniowo-sekwencyjne organizuje rozwój w kolejnych fazach i zwykle ogranicza częstotliwość wydań."
+    },
+    {
+      "type": "standard",
+      "question": "Co jest charakterystyczne dla iteracyjno-przyrostowej metody dostarczania?",
+      "options": [
+        "Nie zbiera się informacji zwrotnej",
+        "Nie określa się produktów",
+        "Produkt rozwija się przez powtarzane cykle i kolejne przyrosty",
+        "Cały produkt powstaje dopiero po jednej sekwencji faz"
+      ],
+      "correct": 2,
+      "explanation": "Iteracje umożliwiają uczenie się i poprawę, a przyrosty stopniowo rozbudowują użyteczny produkt."
+    },
+    {
+      "type": "standard",
+      "question": "Kiedy najbardziej odpowiednia jest hybrydowa metoda dostarczania?",
+      "options": [
+        "Wyłącznie w zwykłej działalności biznesowej",
+        "Gdy różne części projektu wymagają połączenia podejścia liniowego i iteracyjnego",
+        "Gdy projekt nie ma produktów",
+        "Tylko wtedy, gdy nie istnieje harmonogram"
+      ],
+      "correct": 1,
+      "explanation": "Hybryda świadomie łączy metody dostarczania odpowiednio do charakteru poszczególnych produktów lub strumieni pracy."
+    },
+    {
+      "type": "standard",
+      "question": "Które DWA stwierdzenia dotyczą kontekstu projektu? 1. Ustalenia kontraktowe należą do kontekstu komercyjnego. 2. Kultura i polityki należą do kontekstu organizacyjnego. 3. Kontekst nie wpływa na dostosowanie. 4. Skala jest identyczna dla wszystkich organizacji.",
+      "options": [
+        "1 i 3",
+        "2 i 4",
+        "3 i 4",
+        "1 i 2"
+      ],
+      "correct": 3,
+      "explanation": "Relacje handlowe kształtują kontekst komercyjny, a struktury, kultura i polityki — organizacyjny. Oba wpływają na dostosowanie."
+    },
+    {
+      "type": "standard",
+      "question": "Jak PRINCE2 7 traktuje zrównoważony rozwój?",
+      "options": [
+        "Wyłącznie jako pomiar emisji po zamknięciu",
+        "Jako zamiennik uzasadnienia biznesowego",
+        "Jako zagadnienie integrowane z celami wykonania, rolami, dokumentacją, praktykami i procesami",
+        "Jako ósme pryncypium"
+      ],
+      "correct": 2,
+      "explanation": "Wymagania zrównoważonego rozwoju mogą odnosić się do odpowiednich Celów Zrównoważonego Rozwoju ONZ i powinny być włączone w sposób zarządzania projektem."
+    },
+    {
+      "type": "standard",
+      "question": "Co oznacza skala w kontekście projektu?",
+      "options": [
+        "Stałą kategorię wspólną dla każdej organizacji",
+        "Względną wielkość i znaczenie projektu dla konkretnego produktu i organizacji",
+        "Wyłącznie zdolność techniczną systemu do obsługi większej liczby użytkowników",
+        "Liczbę stron dokumentacji"
+      ],
+      "correct": 1,
+      "explanation": "Skala projektu jest kontekstowa. Nie należy mylić jej z techniczną skalowalnością produktu."
+    },
+    {
+      "type": "standard",
+      "question": "Które DWA są korzyściami lub cechami PRINCE2? 1. Wspólny język i pojęcia. 2. Uniwersalność zastosowania. 3. Obowiązkowe narzędzie informatyczne. 4. Identyczna dokumentacja w każdym projekcie.",
+      "options": [
+        "1 i 3",
+        "2 i 4",
+        "3 i 4",
+        "1 i 2"
+      ],
+      "correct": 3,
+      "explanation": "PRINCE2 zapewnia wspólny język i jest uniwersalna, a zarazem elastyczna. Nie narzuca jednego narzędzia ani identycznego poziomu dokumentacji."
+    },
+    {
+      "type": "standard",
+      "question": "W jaki sposób PRINCE2 wspiera wzrost dojrzałości organizacyjnej?",
+      "options": [
+        "Zastępuje zarządzanie portfelem",
+        "Wymaga powtarzania tych samych błędów",
+        "Promuje uczenie się z doświadczeń i ciągłe doskonalenie",
+        "Eliminuje potrzebę przeglądów"
+      ],
+      "correct": 2,
+      "explanation": "Systematyczne wykorzystywanie lekcji i doskonalenie sposobu zarządzania zwiększają zdolność organizacji do skutecznego prowadzenia projektów."
+    },
+    {
+      "type": "standard",
+      "question": "Co oznacza, że PRINCE2 jest częścią zintegrowanego zestawu metod?",
+      "options": [
+        "Dotyczy tylko projektów informatycznych",
+        "Może współdziałać z podejściami do programów, portfeli i ryzyka",
+        "Może być używana wyłącznie z jednym narzędziem",
+        "Zastępuje każdą inną dyscyplinę zarządzania"
+      ],
+      "correct": 1,
+      "explanation": "PRINCE2 może funkcjonować wraz z komplementarnymi podejściami PeopleCert do zarządzania programami, portfelami i ryzykiem."
+    },
+    {
+      "type": "standard",
+      "question": "Który produkt zarządczy stanowi uzgodnione odniesienie do ukierunkowywania i zarządzania projektem po inicjowaniu?",
+      "options": [
+        "Daily Log",
+        "Project Brief",
+        "Wyłącznie raport końcowy",
+        "Dokumentacja Inicjująca Projekt (PID)"
+      ],
+      "correct": 3,
+      "explanation": "PID jest tworzona podczas procesu inicjowania projektu i zestawia uzgodnioną podstawę jego ukierunkowywania oraz zarządzania."
     }
   ],
   "flashcards": [
     {
       "q": "Czym jest PINO?",
-      "a": "PRINCE in Name Only – niepoprawne stosowanie metodyki bez zachowania 7 Pryncypiów."
+      "a": "Nieformalne określenie „PRINCE in Name Only”: projekt niestosujący wszystkich siedmiu pryncypiów nie jest zarządzany zgodnie z PRINCE2."
     },
     {
       "q": "Wymień pięć zintegrowanych elementów PRINCE2 7.",
@@ -199,7 +523,103 @@ window.MODULE_DATA[1] = {
     },
     {
       "q": "Na czym polega pryncypium Dostosowania (Tailoring)?",
-      "a": "Na dopasowaniu metodyki do skali, skomplikowania, ryzyka i kontekstu organizacji."
+      "a": "Na dopasowaniu metody do środowiska, wielkości, złożoności, ważności, metody dostarczania, zdolności zespołu i poziomu ryzyka projektu."
+    },
+    {
+      "q": "Jak współdziała pięć zintegrowanych elementów PRINCE2?",
+      "a": "Ludzie stosują pryncypia, praktyki i procesy w sposób dopasowany do kontekstu projektu."
+    },
+    {
+      "q": "Czym jest projekt?",
+      "a": "Tymczasową organizacją utworzoną w celu dostarczenia jednego lub większej liczby produktów biznesowych zgodnie z uzgodnionym uzasadnieniem biznesowym."
+    },
+    {
+      "q": "Czym jest zarządzanie projektem?",
+      "a": "Planowaniem, delegowaniem, monitorowaniem i kontrolowaniem wszystkich aspektów projektu oraz motywowaniem uczestników do osiągnięcia jego celów."
+    },
+    {
+      "q": "Jakie pięć cech typowo odróżnia projekt od BAU?",
+      "a": "Zmiana, tymczasowość, międzyfunkcyjność, unikalność i niepewność."
+    },
+    {
+      "q": "Co dzieje się po zakończeniu tymczasowego projektu?",
+      "a": "Znika potrzeba istnienia projektu, a BAU kontynuuje działalność w nowej formie i wykorzystuje dostarczoną zmianę."
+    },
+    {
+      "q": "Dlaczego projekty bywają bardziej ryzykowne niż BAU?",
+      "a": "Zmiana, unikalność, międzyfunkcyjność i tymczasowość zwiększają niepewność oraz tworzą zagrożenia i szanse."
+    },
+    {
+      "q": "Dlaczego siedem celów wykonania trzeba równoważyć?",
+      "a": "Ponieważ decyzja dotycząca czasu, kosztu, jakości, zakresu, korzyści, ryzyka lub zrównoważonego rozwoju może wpływać na pozostałe cele."
+    },
+    {
+      "q": "Czym jest organizacyjny kontekst projektu?",
+      "a": "Otoczeniem struktur, kultury, polityk, ładu, możliwości i relacji organizacji, w których działa projekt."
+    },
+    {
+      "q": "Czym jest komercyjny kontekst projektu?",
+      "a": "Ustaleniami handlowymi między klientami, dostawcami i innymi stronami, w tym umowami, zachętami i podziałem ryzyka."
+    },
+    {
+      "q": "Na czym polega liniowo-sekwencyjna metoda dostarczania?",
+      "a": "Praca przechodzi przez zasadniczo kolejne fazy, a pełny produkt jest zwykle przekazywany pod koniec."
+    },
+    {
+      "q": "Na czym polega iteracyjno-przyrostowa metoda dostarczania?",
+      "a": "Produkt jest rozwijany w powtarzanych cyklach, a kolejne przyrosty stopniowo zwiększają jego użyteczność."
+    },
+    {
+      "q": "Na czym polega hybrydowa metoda dostarczania?",
+      "a": "Łączy podejście liniowo-sekwencyjne i iteracyjno-przyrostowe odpowiednio do produktów lub strumieni pracy."
+    },
+    {
+      "q": "Gdzie PRINCE2 uwzględnia zrównoważony rozwój?",
+      "a": "W celach wykonania, opisach ról, dokumentacji, praktykach i działaniach procesów potwierdzających wymagania."
+    },
+    {
+      "q": "Jak 17 Celów Zrównoważonego Rozwoju ONZ może wspierać projekt?",
+      "a": "Stanowią punkt odniesienia do wyboru istotnych celów i wymagań; projekt nie musi realizować wszystkich siedemnastu."
+    },
+    {
+      "q": "Co oznacza skala projektu?",
+      "a": "Względną wielkość, znaczenie i złożoność projektu dla konkretnego produktu i organizacji."
+    },
+    {
+      "q": "Czym skala projektu różni się od skalowalności produktu?",
+      "a": "Skala opisuje kontekst przedsięwzięcia; skalowalność to zdolność rozwiązania do obsługi rosnącego obciążenia lub zakresu."
+    },
+    {
+      "q": "Dlaczego PRINCE2 określa się jako sprawdzoną metodę?",
+      "a": "Ponieważ jej zasady i sposób zarządzania były stosowane praktycznie w wielu organizacjach i branżach."
+    },
+    {
+      "q": "Co oznacza uniwersalność PRINCE2?",
+      "a": "Metodę można stosować do dowolnego typu projektu i skali, niezależnie od branży i metody dostarczania."
+    },
+    {
+      "q": "Co oznacza elastyczność PRINCE2?",
+      "a": "Metodę można dostosować do potrzeb, kontekstu, skali, ryzyka i sposobu dostarczania konkretnego projektu."
+    },
+    {
+      "q": "Jaką korzyść daje wspólny język i pojęcia?",
+      "a": "Ułatwia jednoznaczne porozumienie stron w sprawie ról, produktów, decyzji i sposobu zarządzania."
+    },
+    {
+      "q": "Co oznacza orientacja PRINCE2 na wyniki?",
+      "a": "Liczy się to, co projekt dostarcza i jakie efekty umożliwia, a nie sama liczba wykonanych czynności."
+    },
+    {
+      "q": "Jak PRINCE2 zwiększa dojrzałość organizacyjną?",
+      "a": "Promuje uczenie się z doświadczeń, konsekwentne zarządzanie i ciągłe doskonalenie."
+    },
+    {
+      "q": "Co daje przynależność PRINCE2 do zintegrowanego zestawu metod?",
+      "a": "Pozwala łączyć zarządzanie projektami z podejściami do programów, portfeli i ryzyka."
+    },
+    {
+      "q": "Jaką rolę pełnią Project Brief, PID i Daily Log?",
+      "a": "Project Brief wspiera decyzję o inicjowaniu, PID jest uzgodnioną podstawą zarządzania, a Daily Log przechowuje bieżące nieformalne zapisy."
     }
   ]
 };

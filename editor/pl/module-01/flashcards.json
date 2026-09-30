@@ -1,7 +1,7 @@
 [
   {
     "q": "Czym jest PINO?",
-    "a": "PRINCE in Name Only – niepoprawne stosowanie metodyki bez zachowania 7 Pryncypiów."
+    "a": "Nieformalne określenie „PRINCE in Name Only”: projekt niestosujący wszystkich siedmiu pryncypiów nie jest zarządzany zgodnie z PRINCE2."
   },
   {
     "q": "Wymień pięć zintegrowanych elementów PRINCE2 7.",
@@ -29,6 +29,102 @@
   },
   {
     "q": "Na czym polega pryncypium Dostosowania (Tailoring)?",
-    "a": "Na dopasowaniu metodyki do skali, skomplikowania, ryzyka i kontekstu organizacji."
+    "a": "Na dopasowaniu metody do środowiska, wielkości, złożoności, ważności, metody dostarczania, zdolności zespołu i poziomu ryzyka projektu."
+  },
+  {
+    "q": "Jak współdziała pięć zintegrowanych elementów PRINCE2?",
+    "a": "Ludzie stosują pryncypia, praktyki i procesy w sposób dopasowany do kontekstu projektu."
+  },
+  {
+    "q": "Czym jest projekt?",
+    "a": "Tymczasową organizacją utworzoną w celu dostarczenia jednego lub większej liczby produktów biznesowych zgodnie z uzgodnionym uzasadnieniem biznesowym."
+  },
+  {
+    "q": "Czym jest zarządzanie projektem?",
+    "a": "Planowaniem, delegowaniem, monitorowaniem i kontrolowaniem wszystkich aspektów projektu oraz motywowaniem uczestników do osiągnięcia jego celów."
+  },
+  {
+    "q": "Jakie pięć cech typowo odróżnia projekt od BAU?",
+    "a": "Zmiana, tymczasowość, międzyfunkcyjność, unikalność i niepewność."
+  },
+  {
+    "q": "Co dzieje się po zakończeniu tymczasowego projektu?",
+    "a": "Znika potrzeba istnienia projektu, a BAU kontynuuje działalność w nowej formie i wykorzystuje dostarczoną zmianę."
+  },
+  {
+    "q": "Dlaczego projekty bywają bardziej ryzykowne niż BAU?",
+    "a": "Zmiana, unikalność, międzyfunkcyjność i tymczasowość zwiększają niepewność oraz tworzą zagrożenia i szanse."
+  },
+  {
+    "q": "Dlaczego siedem celów wykonania trzeba równoważyć?",
+    "a": "Ponieważ decyzja dotycząca czasu, kosztu, jakości, zakresu, korzyści, ryzyka lub zrównoważonego rozwoju może wpływać na pozostałe cele."
+  },
+  {
+    "q": "Czym jest organizacyjny kontekst projektu?",
+    "a": "Otoczeniem struktur, kultury, polityk, ładu, możliwości i relacji organizacji, w których działa projekt."
+  },
+  {
+    "q": "Czym jest komercyjny kontekst projektu?",
+    "a": "Ustaleniami handlowymi między klientami, dostawcami i innymi stronami, w tym umowami, zachętami i podziałem ryzyka."
+  },
+  {
+    "q": "Na czym polega liniowo-sekwencyjna metoda dostarczania?",
+    "a": "Praca przechodzi przez zasadniczo kolejne fazy, a pełny produkt jest zwykle przekazywany pod koniec."
+  },
+  {
+    "q": "Na czym polega iteracyjno-przyrostowa metoda dostarczania?",
+    "a": "Produkt jest rozwijany w powtarzanych cyklach, a kolejne przyrosty stopniowo zwiększają jego użyteczność."
+  },
+  {
+    "q": "Na czym polega hybrydowa metoda dostarczania?",
+    "a": "Łączy podejście liniowo-sekwencyjne i iteracyjno-przyrostowe odpowiednio do produktów lub strumieni pracy."
+  },
+  {
+    "q": "Gdzie PRINCE2 uwzględnia zrównoważony rozwój?",
+    "a": "W celach wykonania, opisach ról, dokumentacji, praktykach i działaniach procesów potwierdzających wymagania."
+  },
+  {
+    "q": "Jak 17 Celów Zrównoważonego Rozwoju ONZ może wspierać projekt?",
+    "a": "Stanowią punkt odniesienia do wyboru istotnych celów i wymagań; projekt nie musi realizować wszystkich siedemnastu."
+  },
+  {
+    "q": "Co oznacza skala projektu?",
+    "a": "Względną wielkość, znaczenie i złożoność projektu dla konkretnego produktu i organizacji."
+  },
+  {
+    "q": "Czym skala projektu różni się od skalowalności produktu?",
+    "a": "Skala opisuje kontekst przedsięwzięcia; skalowalność to zdolność rozwiązania do obsługi rosnącego obciążenia lub zakresu."
+  },
+  {
+    "q": "Dlaczego PRINCE2 określa się jako sprawdzoną metodę?",
+    "a": "Ponieważ jej zasady i sposób zarządzania były stosowane praktycznie w wielu organizacjach i branżach."
+  },
+  {
+    "q": "Co oznacza uniwersalność PRINCE2?",
+    "a": "Metodę można stosować do dowolnego typu projektu i skali, niezależnie od branży i metody dostarczania."
+  },
+  {
+    "q": "Co oznacza elastyczność PRINCE2?",
+    "a": "Metodę można dostosować do potrzeb, kontekstu, skali, ryzyka i sposobu dostarczania konkretnego projektu."
+  },
+  {
+    "q": "Jaką korzyść daje wspólny język i pojęcia?",
+    "a": "Ułatwia jednoznaczne porozumienie stron w sprawie ról, produktów, decyzji i sposobu zarządzania."
+  },
+  {
+    "q": "Co oznacza orientacja PRINCE2 na wyniki?",
+    "a": "Liczy się to, co projekt dostarcza i jakie efekty umożliwia, a nie sama liczba wykonanych czynności."
+  },
+  {
+    "q": "Jak PRINCE2 zwiększa dojrzałość organizacyjną?",
+    "a": "Promuje uczenie się z doświadczeń, konsekwentne zarządzanie i ciągłe doskonalenie."
+  },
+  {
+    "q": "Co daje przynależność PRINCE2 do zintegrowanego zestawu metod?",
+    "a": "Pozwala łączyć zarządzanie projektami z podejściami do programów, portfeli i ryzyka."
+  },
+  {
+    "q": "Jaką rolę pełnią Project Brief, PID i Daily Log?",
+    "a": "Project Brief wspiera decyzję o inicjowaniu, PID jest uzgodnioną podstawą zarządzania, a Daily Log przechowuje bieżące nieformalne zapisy."
   }
 ]

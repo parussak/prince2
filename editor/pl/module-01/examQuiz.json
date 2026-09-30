@@ -21,7 +21,7 @@
       "Draft-PRINCE"
     ],
     "correct": 1,
-    "explanation": "Projekt, który deklaruje użycie PRINCE2, ale odrzuca chociaż jedno z 7 pryncypiów, nosi nazwę PINO (PRINCE w samej nazwie)."
+    "explanation": "Wszystkie siedem pryncypiów musi być stosowanych, aby projekt był zarządzany zgodnie z PRINCE2; PINO to określenie potoczne, a nie oficjalny proces."
   },
   {
     "type": "standard",
@@ -33,7 +33,7 @@
       "2 i 3"
     ],
     "correct": 0,
-    "explanation": "4 Integrated Elements w PRINCE2 7 edycji to: Pryncypia, Ludzie, Praktyki oraz Procesy."
+    "explanation": "PRINCE2 obejmuje pięć zintegrowanych elementów: pryncypia, ludzi, praktyki, procesy i kontekst projektu."
   },
   {
     "type": "negative",
@@ -57,7 +57,7 @@
       "Zatrudnianie wyłącznie lokalnych podwykonawców."
     ],
     "correct": 1,
-    "explanation": "Sustainability w 7 edycji oznacza integrację celów środowiskowych, społecznych i ekonomicznych (ESG) w zarządzaniu projektem."
+    "explanation": "Zrównoważony rozwój obejmuje wpływ środowiskowy, społeczny i gospodarczy. Jest integrowany m.in. z celami wykonania, rolami, dokumentacją, praktykami i procesami."
   },
   {
     "type": "missing-word",
@@ -94,5 +94,197 @@
     ],
     "correct": 0,
     "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+  },
+  {
+    "type": "standard",
+    "question": "Które stwierdzenie najlepiej opisuje kontekst projektu jako zintegrowany element PRINCE2?",
+    "options": [
+      "Jest listą czynności siedmiu procesów",
+      "Dotyczy jedynie potrzeb zespołu projektowego",
+      "Powinien być rozumiany przez interesariuszy, aby odpowiednio stosować metodę",
+      "Określa wyłącznie strukturę harmonogramu"
+    ],
+    "correct": 2,
+    "explanation": "Kontekst projektu wpływa na to, jak zaangażowani ludzie stosują pryncypia, praktyki i procesy oraz jak metoda jest dostosowywana."
+  },
+  {
+    "type": "standard",
+    "question": "Która definicja najlepiej opisuje projekt?",
+    "options": [
+      "Stała funkcja utrzymująca bieżące operacje",
+      "Zbiór niepowiązanych zadań bez właściciela biznesowego",
+      "Każda praca wykonywana przez zespół",
+      "Tymczasowa organizacja utworzona w celu dostarczenia jednego lub większej liczby produktów biznesowych zgodnie z uzgodnionym uzasadnieniem biznesowym"
+    ],
+    "correct": 3,
+    "explanation": "Projekt jest tymczasowy, ma dostarczyć uzgodnione produkty i działa w ramach uzasadnienia biznesowego."
+  },
+  {
+    "type": "standard",
+    "question": "Co najlepiej opisuje zarządzanie projektem?",
+    "options": [
+      "Samodzielne wykonywanie wszystkich produktów przez kierownika projektu",
+      "Planowanie, delegowanie, monitorowanie i kontrolowanie wszystkich aspektów projektu oraz motywowanie uczestników do osiągnięcia celów",
+      "Wyłącznie tworzenie harmonogramu",
+      "Operacyjne utrzymywanie produktu po projekcie"
+    ],
+    "correct": 1,
+    "explanation": "Zarządzanie projektem obejmuje skoordynowane sterowanie wszystkimi aspektami i pracą ludzi tak, aby osiągnąć cele projektu."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA stwierdzenia opisują typowe cechy projektu? 1. Jest tymczasowy. 2. Zawsze ma ten sam zespół. 3. Wprowadza zmianę. 4. Jest mniej ryzykowny od BAU.",
+    "options": [
+      "1 i 3",
+      "2 i 4",
+      "3 i 4",
+      "1 i 2"
+    ],
+    "correct": 0,
+    "explanation": "Tymczasowość i wprowadzanie zmiany to typowe cechy projektu. Zespół i kontekst mogą się zmieniać, a niepewność zwykle zwiększa ryzyko względem BAU."
+  },
+  {
+    "type": "standard",
+    "question": "Która cecha projektu odróżnia go od zwykłej działalności biznesowej (BAU)?",
+    "options": [
+      "Projekt zawsze wykorzystuje znany zespół",
+      "Praca projektowa nie wiąże się z niepewnością",
+      "Każdy projekt różni się w pewien sposób od poprzednich",
+      "Projekt bezterminowo utrzymuje operacje"
+    ],
+    "correct": 2,
+    "explanation": "Unikalność oznacza, że różnić mogą się m.in. zespół, klient, dostawca, produkt, lokalizacja lub ramy czasowe."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA elementy należą do siedmiu celów wykonania projektu? 1. Zakres. 2. Korzyści. 3. Liczba spotkań. 4. Popularność sponsora.",
+    "options": [
+      "3 i 4",
+      "1 i 2",
+      "1 i 3",
+      "2 i 4"
+    ],
+    "correct": 1,
+    "explanation": "Siedem celów wykonania to czas, koszt, jakość, zakres, korzyści, ryzyko i zrównoważony rozwój."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij zdanie. W metodzie dostarczania [...] praca przechodzi przez zasadniczo następujące po sobie fazy, a produkt jest zwykle przekazywany pod koniec.",
+    "options": [
+      "iteracyjno-przyrostowej",
+      "hybrydowej",
+      "operacyjnej",
+      "liniowo-sekwencyjnej"
+    ],
+    "correct": 3,
+    "explanation": "Podejście liniowo-sekwencyjne organizuje rozwój w kolejnych fazach i zwykle ogranicza częstotliwość wydań."
+  },
+  {
+    "type": "standard",
+    "question": "Co jest charakterystyczne dla iteracyjno-przyrostowej metody dostarczania?",
+    "options": [
+      "Nie zbiera się informacji zwrotnej",
+      "Nie określa się produktów",
+      "Produkt rozwija się przez powtarzane cykle i kolejne przyrosty",
+      "Cały produkt powstaje dopiero po jednej sekwencji faz"
+    ],
+    "correct": 2,
+    "explanation": "Iteracje umożliwiają uczenie się i poprawę, a przyrosty stopniowo rozbudowują użyteczny produkt."
+  },
+  {
+    "type": "standard",
+    "question": "Kiedy najbardziej odpowiednia jest hybrydowa metoda dostarczania?",
+    "options": [
+      "Wyłącznie w zwykłej działalności biznesowej",
+      "Gdy różne części projektu wymagają połączenia podejścia liniowego i iteracyjnego",
+      "Gdy projekt nie ma produktów",
+      "Tylko wtedy, gdy nie istnieje harmonogram"
+    ],
+    "correct": 1,
+    "explanation": "Hybryda świadomie łączy metody dostarczania odpowiednio do charakteru poszczególnych produktów lub strumieni pracy."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA stwierdzenia dotyczą kontekstu projektu? 1. Ustalenia kontraktowe należą do kontekstu komercyjnego. 2. Kultura i polityki należą do kontekstu organizacyjnego. 3. Kontekst nie wpływa na dostosowanie. 4. Skala jest identyczna dla wszystkich organizacji.",
+    "options": [
+      "1 i 3",
+      "2 i 4",
+      "3 i 4",
+      "1 i 2"
+    ],
+    "correct": 3,
+    "explanation": "Relacje handlowe kształtują kontekst komercyjny, a struktury, kultura i polityki — organizacyjny. Oba wpływają na dostosowanie."
+  },
+  {
+    "type": "standard",
+    "question": "Jak PRINCE2 7 traktuje zrównoważony rozwój?",
+    "options": [
+      "Wyłącznie jako pomiar emisji po zamknięciu",
+      "Jako zamiennik uzasadnienia biznesowego",
+      "Jako zagadnienie integrowane z celami wykonania, rolami, dokumentacją, praktykami i procesami",
+      "Jako ósme pryncypium"
+    ],
+    "correct": 2,
+    "explanation": "Wymagania zrównoważonego rozwoju mogą odnosić się do odpowiednich Celów Zrównoważonego Rozwoju ONZ i powinny być włączone w sposób zarządzania projektem."
+  },
+  {
+    "type": "standard",
+    "question": "Co oznacza skala w kontekście projektu?",
+    "options": [
+      "Stałą kategorię wspólną dla każdej organizacji",
+      "Względną wielkość i znaczenie projektu dla konkretnego produktu i organizacji",
+      "Wyłącznie zdolność techniczną systemu do obsługi większej liczby użytkowników",
+      "Liczbę stron dokumentacji"
+    ],
+    "correct": 1,
+    "explanation": "Skala projektu jest kontekstowa. Nie należy mylić jej z techniczną skalowalnością produktu."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA są korzyściami lub cechami PRINCE2? 1. Wspólny język i pojęcia. 2. Uniwersalność zastosowania. 3. Obowiązkowe narzędzie informatyczne. 4. Identyczna dokumentacja w każdym projekcie.",
+    "options": [
+      "1 i 3",
+      "2 i 4",
+      "3 i 4",
+      "1 i 2"
+    ],
+    "correct": 3,
+    "explanation": "PRINCE2 zapewnia wspólny język i jest uniwersalna, a zarazem elastyczna. Nie narzuca jednego narzędzia ani identycznego poziomu dokumentacji."
+  },
+  {
+    "type": "standard",
+    "question": "W jaki sposób PRINCE2 wspiera wzrost dojrzałości organizacyjnej?",
+    "options": [
+      "Zastępuje zarządzanie portfelem",
+      "Wymaga powtarzania tych samych błędów",
+      "Promuje uczenie się z doświadczeń i ciągłe doskonalenie",
+      "Eliminuje potrzebę przeglądów"
+    ],
+    "correct": 2,
+    "explanation": "Systematyczne wykorzystywanie lekcji i doskonalenie sposobu zarządzania zwiększają zdolność organizacji do skutecznego prowadzenia projektów."
+  },
+  {
+    "type": "standard",
+    "question": "Co oznacza, że PRINCE2 jest częścią zintegrowanego zestawu metod?",
+    "options": [
+      "Dotyczy tylko projektów informatycznych",
+      "Może współdziałać z podejściami do programów, portfeli i ryzyka",
+      "Może być używana wyłącznie z jednym narzędziem",
+      "Zastępuje każdą inną dyscyplinę zarządzania"
+    ],
+    "correct": 1,
+    "explanation": "PRINCE2 może funkcjonować wraz z komplementarnymi podejściami PeopleCert do zarządzania programami, portfelami i ryzykiem."
+  },
+  {
+    "type": "standard",
+    "question": "Który produkt zarządczy stanowi uzgodnione odniesienie do ukierunkowywania i zarządzania projektem po inicjowaniu?",
+    "options": [
+      "Daily Log",
+      "Project Brief",
+      "Wyłącznie raport końcowy",
+      "Dokumentacja Inicjująca Projekt (PID)"
+    ],
+    "correct": 3,
+    "explanation": "PID jest tworzona podczas procesu inicjowania projektu i zestawia uzgodnioną podstawę jego ukierunkowywania oraz zarządzania."
   }
 ]

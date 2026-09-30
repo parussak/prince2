@@ -30,5 +30,101 @@
   {
     "q": "What does the Tailoring principle involve?",
     "a": "Adapting the method to the scale, complexity, risk, and organizational context."
+  },
+  {
+    "q": "How do the five integrated elements of PRINCE2 work together?",
+    "a": "People apply the principles, practices and processes in a way tailored to the project context."
+  },
+  {
+    "q": "What is a project?",
+    "a": "A temporary organization created to deliver one or more business products according to an agreed business case."
+  },
+  {
+    "q": "What is project management?",
+    "a": "Planning, delegating, monitoring and controlling all aspects of the project, and motivating those involved to achieve its objectives."
+  },
+  {
+    "q": "Which five characteristics typically distinguish a project from BAU?",
+    "a": "Change, temporary organization, cross-functional working, uniqueness and uncertainty."
+  },
+  {
+    "q": "What happens after a temporary project ends?",
+    "a": "The need for the project disappears and BAU continues in its new form, using the delivered change."
+  },
+  {
+    "q": "Why are projects often riskier than BAU?",
+    "a": "Change, uniqueness, cross-functional working and temporary organization increase uncertainty and create threats and opportunities."
+  },
+  {
+    "q": "Why must the seven performance targets be balanced?",
+    "a": "A decision about time, cost, quality, scope, benefits, risk or sustainability can affect the other targets."
+  },
+  {
+    "q": "What is the organizational context of a project?",
+    "a": "The structures, culture, policies, governance, capabilities and relationships of the organizations in which the project operates."
+  },
+  {
+    "q": "What is the commercial context of a project?",
+    "a": "The trading arrangements among customers, suppliers and others, including contracts, incentives and risk allocation."
+  },
+  {
+    "q": "What is a linear-sequential delivery method?",
+    "a": "Work passes through broadly successive phases, with the complete product usually handed over near the end."
+  },
+  {
+    "q": "What is an iterative-incremental delivery method?",
+    "a": "The product evolves through repeated cycles, while successive increments progressively increase its usefulness."
+  },
+  {
+    "q": "What is a hybrid delivery method?",
+    "a": "A combination of linear-sequential and iterative-incremental approaches suited to different products or workstreams."
+  },
+  {
+    "q": "Where does PRINCE2 integrate sustainability?",
+    "a": "In performance targets, role descriptions, documentation, practices and process activities that confirm requirements."
+  },
+  {
+    "q": "How can the 17 UN Sustainable Development Goals support a project?",
+    "a": "They provide a reference for selecting relevant objectives and requirements; a project need not address all seventeen."
+  },
+  {
+    "q": "What does project scale mean?",
+    "a": "The project’s relative size, significance and complexity for the specific product and organization."
+  },
+  {
+    "q": "How does project scale differ from product scalability?",
+    "a": "Scale describes the initiative’s context; scalability is a solution’s ability to handle increasing load or scope."
+  },
+  {
+    "q": "Why is PRINCE2 described as proven?",
+    "a": "Its management principles and approach have been applied in practice across many organizations and sectors."
+  },
+  {
+    "q": "What does the universality of PRINCE2 mean?",
+    "a": "It can be applied to any type and scale of project, regardless of sector or delivery method."
+  },
+  {
+    "q": "What does PRINCE2 flexibility mean?",
+    "a": "The method can be tailored to the needs, context, scale, risk and delivery method of the project."
+  },
+  {
+    "q": "What benefit comes from common language and concepts?",
+    "a": "Parties can share an unambiguous understanding of roles, products, decisions and management."
+  },
+  {
+    "q": "What does PRINCE2 outcome focus mean?",
+    "a": "Attention is placed on what the project delivers and the effects it enables, not activity counts alone."
+  },
+  {
+    "q": "How does PRINCE2 increase organizational maturity?",
+    "a": "It promotes learning from experience, consistent management and continual improvement."
+  },
+  {
+    "q": "What is the benefit of PRINCE2 being part of an integrated suite?",
+    "a": "Project management can work alongside approaches for programmes, portfolios and risk."
+  },
+  {
+    "q": "What roles do the project brief, PID and daily log serve?",
+    "a": "The project brief supports the initiation decision, the PID is the agreed management baseline, and the daily log holds informal day-to-day notes."
   }
 ]

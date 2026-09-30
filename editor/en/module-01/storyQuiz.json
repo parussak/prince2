@@ -64,5 +64,137 @@
     ],
     "correct": 2,
     "explanation": "Tailoring ensures that the method is proportionate to the project’s size, scale, risk, and complexity."
+  },
+  {
+    "question": "7. The team knows the principles, practices and processes but applies them identically to every initiative. Which integrated element should it analyse first?",
+    "options": [
+      "Only the stage plan",
+      "The quality register",
+      "The project context",
+      "Cost alone"
+    ],
+    "correct": 2,
+    "explanation": "The project context affects how people apply the principles, practices and processes, enabling the method to be tailored to the specific environment."
+  },
+  {
+    "question": "8. After the game is implemented, the project team disbands and a permanent operational unit supports the product. What best explains this change?",
+    "options": [
+      "A project and BAU are the same",
+      "Every project must become a programme",
+      "PRINCE2 ends after the first product",
+      "The project is temporary, while BAU continues in a new form"
+    ],
+    "correct": 3,
+    "explanation": "A project is a temporary organization created to deliver products and change. Business as usual continues after the project ends."
+  },
+  {
+    "question": "9. Marketing, IT, finance and an external studio work together on the project. Which typical project characteristic does this illustrate?",
+    "options": [
+      "A permanent team",
+      "Cross-functional working",
+      "Operational repetition",
+      "Absence of uncertainty"
+    ],
+    "correct": 1,
+    "explanation": "Projects commonly cross functional and organizational boundaries and bring together different specialisms."
+  },
+  {
+    "question": "10. A new technology may accelerate production, but it may also fail to meet requirements. Which project characteristic is the team facing?",
+    "options": [
+      "Quality alone",
+      "Business as usual",
+      "A guaranteed benefit",
+      "Uncertainty that creates threats and opportunities"
+    ],
+    "correct": 3,
+    "explanation": "Uniqueness, change and temporary organization increase uncertainty, which can produce both threats and opportunities."
+  },
+  {
+    "question": "11. The sponsor wants an earlier date with no budget change. The project manager shows the possible effects on scope, quality, benefits, risk and sustainability. Why?",
+    "options": [
+      "Each target requires a separate project",
+      "Scope cannot affect benefits",
+      "The performance targets are interdependent and must be balanced",
+      "Only time is controlled"
+    ],
+    "correct": 2,
+    "explanation": "The seven performance targets are controlled together. Changing one may require trade-offs among the others."
+  },
+  {
+    "question": "12. A supplier contract defines pricing and accountabilities, while company policy defines decision-making. Which two areas of context are being analysed?",
+    "options": [
+      "Time and risk",
+      "Commercial and organizational",
+      "Delivery and quality",
+      "Process and product"
+    ],
+    "correct": 1,
+    "explanation": "Commercial context covers trading relationships and arrangements; organizational context covers structures, culture, policies and governance."
+  },
+  {
+    "question": "13. Hardware requirements are stable, while the game interface will evolve in short iterations based on user feedback. Which delivery method fits best?",
+    "options": [
+      "Linear-sequential only",
+      "Operational only",
+      "No planning",
+      "Hybrid"
+    ],
+    "correct": 3,
+    "explanation": "A hybrid approach combines linear-sequential and iterative-incremental elements in different parts of one project."
+  },
+  {
+    "question": "14. The team includes energy-reduction targets in the business case, assigns responsibility and checks the requirements at stage reviews. What is it doing?",
+    "options": [
+      "Limiting sustainability to the final report",
+      "Replacing quality with sustainability",
+      "Integrating sustainability into project management",
+      "Adding an eighth principle"
+    ],
+    "correct": 2,
+    "explanation": "Sustainability is integrated through performance targets, roles, documentation, practices and process activities."
+  },
+  {
+    "question": "15. The same scope is small for a global company but enormous for a start-up. What should the project manager conclude?",
+    "options": [
+      "Project scale equals technical scalability",
+      "Scale is assessed relative to the product and organization",
+      "Scale means only user numbers",
+      "Every project has the same scale"
+    ],
+    "correct": 1,
+    "explanation": "Project scale is contextual and depends on the specific product and organization; it is not merely the technical scalability of a solution."
+  },
+  {
+    "question": "16. The customer and supplier interpret the word “product” differently. Which PRINCE2 benefit can the team use?",
+    "options": [
+      "A mandatory IT tool",
+      "No need for agreement",
+      "A fixed contract model",
+      "Common language and concepts"
+    ],
+    "correct": 3,
+    "explanation": "Consistent terminology helps all parties share an understanding of roles, products, decisions and management."
+  },
+  {
+    "question": "17. The team reports many completed activities but cannot show the change achieved by the project. Which PRINCE2 benefit should it emphasize?",
+    "options": [
+      "A permanent hierarchy",
+      "Abandoning products",
+      "Outcome focus",
+      "Maximizing task numbers"
+    ],
+    "correct": 2,
+    "explanation": "PRINCE2 directs attention to what the project delivers and the effects it enables, not activity alone."
+  },
+  {
+    "question": "18. Before initiation Zosia needs a concise decision basis, during initiation a complete agreed baseline, and day to day a place for informal notes. Which products fit?",
+    "options": [
+      "Business case, project product and exception",
+      "Project brief, PID and daily log",
+      "PID, end project report and benefits plan",
+      "Team plan, quality register and contract"
+    ],
+    "correct": 1,
+    "explanation": "The project brief supports the decision to initiate, the PID is the agreed management baseline, and the daily log holds informal day-to-day notes."
   }
 ]
