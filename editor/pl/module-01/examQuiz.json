@@ -12,16 +12,16 @@
     "explanation": "W PRINCE2 istnieje dokładnie 7 Pryncypiów. Wszystkie są uniwersalne i obowiązkowe."
   },
   {
-    "type": "missing-word",
-    "question": "Uzupełnij poniższe zdanie:\nStosowanie metodyki PRINCE2 bez wdrażania wszystkich 7 Pryncypiów określa się potocznie jako projekt [...].",
+    "type": "standard",
+    "question": "Czy projekt stosujący sześć z siedmiu pryncypiów jest zarządzany zgodnie z PRINCE2?",
     "options": [
-      "Agile-PRINCE",
-      "PINO (PRINCE in Name Only)",
-      "Hybrid-PRINCE",
-      "Draft-PRINCE"
+      "Tak, jeśli pominięte pryncypium nie wpływa na budżet",
+      "Nie, ponieważ wszystkie siedem pryncypiów jest obowiązkowych",
+      "Tak, po zatwierdzeniu odstępstwa przez Kierownika Projektu",
+      "Tylko wtedy, gdy projekt jest krótki i mały"
     ],
     "correct": 1,
-    "explanation": "Wszystkie siedem pryncypiów musi być stosowanych, aby projekt był zarządzany zgodnie z PRINCE2; PINO to określenie potoczne, a nie oficjalny proces."
+    "explanation": "Nie. Wszystkie siedem pryncypiów musi być stosowanych. PINO (PRINCE in Name Only) to określenie spoza podręcznika."
   },
   {
     "type": "standard",
@@ -39,10 +39,10 @@
     "type": "negative",
     "question": "Które z poniższych twierdzeń NIE JEST jednym z 7 Pryncypiów PRINCE2?",
     "options": [
-      "Ciągła zasadność biznesowa",
+      "Zapewniaj ciągłą zasadność biznesową",
       "Obowiązkowe użycie oprogramowania MS Project",
-      "Zarządzanie przez wyjątki",
-      "Skupienie na produktach"
+      "Zarządzaj przez wyjątki",
+      "Koncentruj się na produktach"
     ],
     "correct": 1,
     "explanation": "PRINCE2 jest metodą niezależną od konkretnych narzędzi programistycznych i IT – użycie MS Project nie jest pryncypium."
@@ -52,12 +52,12 @@
     "question": "Co definiuje pojęcie 'Sustainability' (Zrównoważony Rozwój) wprowadzone silniej w PRINCE2 7th Ed?",
     "options": [
       "Dbanie wyłącznie o maksymalny zysk finansowy spółki.",
-      "Uwzględnianie wpływu środowiskowego, społecznego i gospodarczego w cyklu życia projektu.",
+      "Odnoszenie projektu do jednego, kilku lub wszystkich 17 Celów Zrównoważonego Rozwoju ONZ.",
       "Gwarancja braku poprawek w kodzie źródłowym.",
       "Zatrudnianie wyłącznie lokalnych podwykonawców."
     ],
     "correct": 1,
-    "explanation": "Zrównoważony rozwój obejmuje wpływ środowiskowy, społeczny i gospodarczy. Jest integrowany m.in. z celami wykonania, rolami, dokumentacją, praktykami i procesami."
+    "explanation": "W PRINCE2 sustainability może obejmować jeden, kilka lub wszystkie 17 Celów Zrównoważonego Rozwoju ONZ, wpływ prac projektowych, koszt i odporność produktów w cyklu życia albo cel projektu."
   },
   {
     "type": "missing-word",
@@ -73,7 +73,7 @@
   },
   {
     "type": "standard",
-    "question": "Które DWA cele należą do 7 Wskaźników Wydajności (Performance Targets / Aspects) sterowania projektem w PRINCE2 7? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Zarządzanie Czasem (Time).  2. Zarządzanie Zrównoważonym Rozwojem (Sustainability).  3. Liczba obserwujących na TikToku.  4. Marka osobista Kierownika Projektu.",
+    "question": "Które DWA cele należą do 7 Celów wykonania (Performance Targets) sterowania projektem w PRINCE2 7? Wybierz JEDNĄ parę prawdziwych stwierdzeń. 1. Zarządzanie Czasem (Time).  2. Zarządzanie Zrównoważonym Rozwojem (Sustainability).  3. Liczba obserwujących na TikToku.  4. Marka osobista Kierownika Projektu.",
     "options": [
       "1 i 2",
       "1 i 3",
@@ -81,7 +81,7 @@
       "2 i 3"
     ],
     "correct": 0,
-    "explanation": "7 aspektów wydajności to: Czas, Koszt, Jakość, Zakres, Korzyści, Ryzyko oraz Zrównoważony Rozwój."
+    "explanation": "Siedem celów wykonania to: czas, koszt, jakość, zakres, korzyści, ryzyko i zrównoważony rozwój."
   },
   {
     "type": "standard",
@@ -93,7 +93,7 @@
       "Zawiera wyłącznie wyniki kontroli jakości"
     ],
     "correct": 0,
-    "explanation": "Poprawna odpowiedź wskazuje właściwą odpowiedzialność lub produkt PRINCE2; pozostałe opcje błędnie przenoszą uprawnienia lub zakres."
+    "explanation": "PID powstaje w procesie inicjowania projektu (IP) na podstawie Project Brief przygotowanego w SU. Nie powstaje w całości w SU i nie zastępuje planów etapów."
   },
   {
     "type": "standard",
@@ -114,7 +114,7 @@
       "Stała funkcja utrzymująca bieżące operacje",
       "Zbiór niepowiązanych zadań bez właściciela biznesowego",
       "Każda praca wykonywana przez zespół",
-      "Tymczasowa organizacja utworzona w celu dostarczenia jednego lub większej liczby produktów biznesowych zgodnie z uzgodnionym uzasadnieniem biznesowym"
+      "Tymczasowa organizacja dostarczająca produkty zgodnie z uzgodnionym Business Case"
     ],
     "correct": 3,
     "explanation": "Projekt jest tymczasowy, ma dostarczyć uzgodnione produkty i działa w ramach uzasadnienia biznesowego."
@@ -124,7 +124,7 @@
     "question": "Co najlepiej opisuje zarządzanie projektem?",
     "options": [
       "Samodzielne wykonywanie wszystkich produktów przez kierownika projektu",
-      "Planowanie, delegowanie, monitorowanie i kontrolowanie wszystkich aspektów projektu oraz motywowanie uczestników do osiągnięcia celów",
+      "Koordynowanie projektu i motywowanie ludzi do osiągnięcia jego celów",
       "Wyłącznie tworzenie harmonogramu",
       "Operacyjne utrzymywanie produktu po projekcie"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "type": "missing-word",
-    "question": "Uzupełnij zdanie. W metodzie dostarczania [...] praca przechodzi przez zasadniczo następujące po sobie fazy, a produkt jest zwykle przekazywany pod koniec.",
+    "question": "Uzupełnij zdanie. W metodzie dostarczania [...] praca przechodzi przez zasadniczo następujące po sobie fazy, a produkt jest może być przekazywany podczas realizacji albo na końcu.",
     "options": [
       "iteracyjno-przyrostowej",
       "hybrydowej",
@@ -177,7 +177,7 @@
       "liniowo-sekwencyjnej"
     ],
     "correct": 3,
-    "explanation": "Podejście liniowo-sekwencyjne organizuje rozwój w kolejnych fazach i zwykle ogranicza częstotliwość wydań."
+    "explanation": "Podejście liniowo-sekwencyjne organizuje rozwój w zasadniczo kolejnych fazach; produkt może być przekazywany podczas realizacji albo na końcu."
   },
   {
     "type": "standard",
@@ -221,7 +221,7 @@
     "options": [
       "Wyłącznie jako pomiar emisji po zamknięciu",
       "Jako zamiennik uzasadnienia biznesowego",
-      "Jako zagadnienie integrowane z celami wykonania, rolami, dokumentacją, praktykami i procesami",
+      "Jako zagadnienie przekrojowe obecne w całej metodzie",
       "Jako ósme pryncypium"
     ],
     "correct": 2,
@@ -232,12 +232,12 @@
     "question": "Co oznacza skala w kontekście projektu?",
     "options": [
       "Stałą kategorię wspólną dla każdej organizacji",
-      "Względną wielkość i znaczenie projektu dla konkretnego produktu i organizacji",
+      "Względną wielkość i znaczenie projektu dla konkretnej organizacji",
       "Wyłącznie zdolność techniczną systemu do obsługi większej liczby użytkowników",
       "Liczbę stron dokumentacji"
     ],
     "correct": 1,
-    "explanation": "Skala projektu jest kontekstowa. Nie należy mylić jej z techniczną skalowalnością produktu."
+    "explanation": "Skala projektu jest względna wobec organizacji i nie jest tym samym co techniczna skalowalność produktu."
   },
   {
     "type": "standard",

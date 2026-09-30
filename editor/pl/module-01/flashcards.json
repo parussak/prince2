@@ -1,7 +1,7 @@
 [
   {
-    "q": "Czym jest PINO?",
-    "a": "Nieformalne określenie „PRINCE in Name Only”: projekt niestosujący wszystkich siedmiu pryncypiów nie jest zarządzany zgodnie z PRINCE2."
+    "q": "Czy projekt stosujący sześć z siedmiu pryncypiów jest zarządzany zgodnie z PRINCE2?",
+    "a": "Nie. Wszystkie siedem pryncypiów jest obowiązkowych. PINO to określenie spoza podręcznika."
   },
   {
     "q": "Wymień pięć zintegrowanych elementów PRINCE2 7.",
@@ -12,7 +12,7 @@
     "a": "Jest ich dokładnie 7 i wszystkie są bezwzględnie obowiązkowe."
   },
   {
-    "q": "Co oznacza pryncypium 'Skupienie na produktach'?",
+    "q": "Co oznacza pryncypium 'Koncentruj się na produktach'?",
     "a": "Planowanie i dostarczanie projektu przez pryzmat jego produktów i ich specyfikacji jakościowych, a nie samych czynności."
   },
   {
@@ -21,10 +21,10 @@
   },
   {
     "q": "Co oznacza skrót PID?",
-    "a": "Project Initiation Documentation – Dokumentacja Inicjująca Projekt (pojedyncze źródło prawdy o projekcie)."
+    "a": "Project Initiation Documentation – Dokumentacja Inicjująca Projekt, czyli uzgodniona baza zarządcza i punkt odniesienia do oceny postępu."
   },
   {
-    "q": "Wymień 7 aspektów sterowania wydajnością w PRINCE2 7.",
+    "q": "Wymień siedem celów wykonania w PRINCE2 7.",
     "a": "Czas, Koszt, Jakość, Zakres, Korzyści, Ryzyko, Zrównoważony Rozwój (Sustainability)."
   },
   {
@@ -69,7 +69,7 @@
   },
   {
     "q": "Na czym polega liniowo-sekwencyjna metoda dostarczania?",
-    "a": "Praca przechodzi przez zasadniczo kolejne fazy, a pełny produkt jest zwykle przekazywany pod koniec."
+    "a": "Praca przechodzi przez zasadniczo kolejne fazy, a produkt może być przekazywany podczas realizacji albo na końcu."
   },
   {
     "q": "Na czym polega iteracyjno-przyrostowa metoda dostarczania?",
@@ -89,7 +89,7 @@
   },
   {
     "q": "Co oznacza skala projektu?",
-    "a": "Względną wielkość, znaczenie i złożoność projektu dla konkretnego produktu i organizacji."
+    "a": "Względną wielkość, znaczenie i złożoność projektu dla konkretnej organizacji."
   },
   {
     "q": "Czym skala projektu różni się od skalowalności produktu?",

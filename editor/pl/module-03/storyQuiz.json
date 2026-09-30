@@ -1,28 +1,28 @@
 [
   {
-    "question": "1. Bartek (programista) i Tomek (grafik) spierają się o wydajność retro-grafiki. Zosia organizuje warsztat ustalający wspólne priorytety i budujący zaufanie. Jaki obszar elementu People zastosowała?",
+    "question": "1. Bartek (programista) i Ola (graficzka) spierają się o wydajność retro-grafiki. Zosia organizuje warsztat ustalający wspólne priorytety i budujący zaufanie. Jaki obszar elementu People zastosowała?",
     "options": [
-      "Kultura i Zespół (Culture & Team)",
-      "Zarządzanie Zmianą Organizacyjną (OCM)",
+      "Przewodzenie skutecznym zespołom",
+      "Przewodzenie skutecznej zmianie",
       "Zarządzanie Umowami z Dostawcami",
       "Delegowanie Tolerancji"
     ],
     "correct": 0,
-    "explanation": "Obszar 'Kultura i Zespół' odpowiada za budowanie wartości, rozwiązywanie konfliktów, zaufanie oraz atmosferę współpracy."
+    "explanation": "Budowanie zaufania i wspólnych priorytetów jest częścią przewodzenia skutecznym zespołom."
   },
   {
     "question": "2. Pracownicy PixelBite boją się, że nowa gra zastąpi dotychczasowe flagowe produkcje studia. Zosia przygotowuje warsztaty i plan transformacji nawyków. Jakie działanie podjęła?",
     "options": [
       "Przekroczyła tolerancję ryzyka.",
-      "Wdrożyła Zarządzanie Zmianą Organizacyjną (Organizational Change Management - OCM).",
+      "Zastosowała zarządzanie zmianą, planując przejście ze stanu obecnego do docelowego.",
       "Zrezygnowała z odbioru jakościowego.",
-      "Wpisała błąd do Dziennika Projektu."
+      "Wpisała błąd do Daily Log (dziennika codziennego)."
     ],
     "correct": 1,
-    "explanation": "OCM w PRINCE2 7 odpowiada za przeprowadzenie ludzi przez zmianę postaw, zachowań i nawyków w celu akceptacji nowości."
+    "explanation": "Zarządzanie zmianą jest środkiem przejścia organizacji ze stanu obecnego do docelowego i dotyczy ludzi we wszystkich obszarach dotkniętych zmianą."
   },
   {
-    "question": "3. Zosia zauważa, że Artur (Sponsor) wydaje polecenia zespołowi programistów z pominięciem Lidera Zespołu. Zosia rozmawia z Arturem o szanowaniu struktury. Co reprezentuje Zosia?",
+    "question": "3. Zosia zauważa, że Artur (Executive / Zleceniodawca) wydaje polecenia zespołowi programistów z pominięciem Kierownika zespołu. Zosia rozmawia z Arturem o szanowaniu struktury. Co reprezentuje Zosia?",
     "options": [
       "Zarządzanie Wyjątkami.",
       "Brak uprawnień w metodyce.",
@@ -30,7 +30,7 @@
       "Zamknięcie etapu."
     ],
     "correct": 2,
-    "explanation": "Leadership w PRINCE2 oznacza motywowanie, wywieranie wpływu i obronę zasad współpracy zespołu z interesariuszami."
+    "explanation": "Przywództwo obejmuje wpływanie i przekonywanie także osób starszych rangą. Zosia chroni uzgodnione role, odpowiedzialności i relacje zgodnie z trzecim pryncypium."
   },
   {
     "question": "4. Dział marketingu nie wie, kiedy dostanie materiały do promocji gry. Zosia tworzy dokument określający częstotliwość i formę raportów dla każdego działu. Jaki dokument opracowała?",
@@ -77,7 +77,7 @@
     "explanation": "Ekosystem projektu obejmuje także osoby bez formalnej roli, które są bezpośrednio dotknięte projektem."
   },
   {
-    "question": "8. Regulator zapowiada zmianę wymagań, a dostawca API zmienia priorytety. Do którego pojęcia odnoszą się te relacje?",
+    "question": "8. Regulator zapowiada zmianę wymagań, a konkurent zmienia swoją ofertę. Do którego pojęcia odnoszą się te relacje?",
     "options": [
       "Wyłącznie zespołu projektowego",
       "Ekosystemu organizacyjnego",
@@ -135,7 +135,7 @@
     "question": "13. Testerka zgłasza poważny błąd bez obawy, że zostanie publicznie obwiniona, ale nadal musi przedstawić dowody. Co to pokazuje?",
     "options": [
       "Brak standardów jakości",
-      "Zarządzanie przez wyjątki",
+      "Zarządzaj przez wyjątki",
       "Nieformalną zmianę zakresu",
       "Bezpieczeństwo psychologiczne połączone z odpowiedzialnością"
     ],

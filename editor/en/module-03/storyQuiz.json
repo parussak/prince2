@@ -1,28 +1,28 @@
 [
   {
-    "question": "Bartek (developer) and Tomek (designer) are arguing about the performance of the retro graphics. Zosia organizes a workshop to establish shared priorities and build trust. Which area of the People Element did she apply?",
+    "question": "Bartek (developer) and Ola (designer) are arguing about the performance of the retro graphics. Zosia organizes a workshop to establish shared priorities and build trust. Which area of the People Element did she apply?",
     "options": [
-      "Culture & Team",
-      "Organizational Change Management (OCM)",
+      "Leading successful teams",
+      "Leading successful change",
       "Supplier Contract Management",
       "Delegating Tolerance"
     ],
     "correct": 0,
-    "explanation": "The Culture & Team area covers building shared values, resolving conflicts, fostering trust, and creating a collaborative atmosphere."
+    "explanation": "Building trust and shared priorities is part of leading successful teams."
   },
   {
     "question": "PixelBite employees fear that the new game will replace the studio's established flagship productions. Zosia prepares workshops and a plan to transform their habits. What action did she take?",
     "options": [
       "She exceeded the risk tolerance.",
-      "She implemented Organizational Change Management (OCM).",
+      "She applied change management by planning the move from current to target state.",
       "She abandoned quality acceptance.",
-      "She entered the error in the Project Journal."
+      "She entered the issue in the Daily Log."
     ],
     "correct": 1,
-    "explanation": "In PRINCE2 7, OCM guides people through changes in attitudes, behaviours, and habits so that they accept the new situation."
+    "explanation": "Change management is the means by which an organization moves from current to target state and concerns people across all affected areas."
   },
   {
-    "question": "Zosia notices that Artur (the Sponsor) is giving instructions to the development team without involving the Team Leader. Zosia talks to Artur about respecting the structure. What does Zosia demonstrate?",
+    "question": "Zosia notices that Artur (the Executive) is giving instructions to the development team without involving the Team Manager. Zosia talks to Artur about respecting the structure. What does Zosia demonstrate?",
     "options": [
       "Exception Management.",
       "A lack of authority in the method.",
@@ -30,7 +30,7 @@
       "Stage closure."
     ],
     "correct": 2,
-    "explanation": "Leadership in PRINCE2 means motivating, influencing, and protecting the principles of collaboration between the team and stakeholders."
+    "explanation": "Leadership includes influencing and persuading people who may be more senior. Zosia protects agreed roles, responsibilities and relationships in line with the third principle."
   },
   {
     "question": "The marketing department does not know when it will receive materials to promote the game. Zosia creates a document defining the frequency and format of reports for each department. Which document did she prepare?",
@@ -77,7 +77,7 @@
     "explanation": "The project ecosystem includes people without formal project roles who are directly affected."
   },
   {
-    "question": "8. A regulator announces new requirements and the API supplier changes priorities. Which concept includes these relationships?",
+    "question": "8. A regulator announces new requirements and a competitor changes its offer. Which concept includes these relationships?",
     "options": [
       "Only the project team",
       "The organizational ecosystem",

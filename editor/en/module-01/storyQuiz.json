@@ -1,6 +1,6 @@
 [
   {
-    "question": "Artur (Sponsor) states that if the retro-game trend fades, the project will be closed immediately, even if half the budget has already been spent. Which PRINCE2 Principle is demonstrated directly here?",
+    "question": "Artur (Executive) states that if the retro-game trend fades, the project will be closed immediately, even if half the budget has already been spent. Which PRINCE2 Principle is demonstrated directly here?",
     "options": [
       "Learn from experience",
       "Continued business justification",
@@ -25,12 +25,12 @@
     "question": "Maya (Senior User) demands that the game meet stringent environmental standards (Sustainability). Which part of the PRINCE2 7th Edition architecture refers to sustainability?",
     "options": [
       "It is 8. additional Principle.",
-      "It is one of the performance targets/aspects used in project control and in the Business Case.",
+      "It is one of seven performance targets and is considered in roles, documentation, practices (such as the business case) and processes.",
       "PRINCE2 does not address environmental matters.",
       "It is a separate process launched after CP."
     ],
     "correct": 1,
-    "explanation": "In PRINCE2 7th Edition, Sustainability was added as a key project performance objective/aspect, alongside time, cost, quality, scope, benefits, and risk."
+    "explanation": "Sustainability is one of seven performance targets and is embedded in PRINCE2 roles, documentation, practices and processes."
   },
   {
     "question": "Artur wants to control game funding in smaller portions. Zosia divides the project into three management stages. Which principle are they applying?",
@@ -44,7 +44,7 @@
     "explanation": "Manage by stages ensures that resources are allocated and viability is assessed at the boundaries of successive management stages."
   },
   {
-    "question": "Marek suggests omitting formal role descriptions because everyone in the studio knows one another. Zosia refuses. Why are clear roles essential in PRINCE2?",
+    "question": "Tomek (Team Manager) suggests omitting formal role descriptions because everyone in the studio knows one another. Zosia refuses. Why are clear roles essential in PRINCE2?",
     "options": [
       "Because employment law requires it.",
       "The principle “define roles, responsibilities and relationships” requires clear accountabilities.",
@@ -154,15 +154,15 @@
     "explanation": "Sustainability is integrated through performance targets, roles, documentation, practices and process activities."
   },
   {
-    "question": "15. The same scope is small for a global company but enormous for a start-up. What should the project manager conclude?",
+    "question": "15. The same project is small for a global company but enormous for a start-up. What should the project manager conclude?",
     "options": [
-      "Project scale equals technical scalability",
-      "Scale is assessed relative to the product and organization",
+      "Scale is an absolute project category",
+      "Scale is assessed relative to the organization",
       "Scale means only user numbers",
       "Every project has the same scale"
     ],
     "correct": 1,
-    "explanation": "Project scale is contextual and depends on the specific product and organization; it is not merely the technical scalability of a solution."
+    "explanation": "Project scale is relative to the organization; it is not the same as a product's technical scalability."
   },
   {
     "question": "16. The customer and supplier interpret the word “product” differently. Which PRINCE2 benefit can the team use?",

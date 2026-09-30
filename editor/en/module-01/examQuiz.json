@@ -12,16 +12,16 @@
     "explanation": "PRINCE2 has exactly seven Principles. All of them are universal and mandatory."
   },
   {
-    "type": "missing-word",
-    "question": "Complete the following sentence:\nUsing the PRINCE2 method without applying all seven Principles is commonly described as a [...] project.",
+    "type": "standard",
+    "question": "Is a project that applies six of the seven principles managed using PRINCE2?",
     "options": [
-      "Agile-PRINCE",
-      "PINO (PRINCE in Name Only)",
-      "Hybrid-PRINCE",
-      "Draft-PRINCE"
+      "Yes, if the omitted principle does not affect the budget",
+      "No, because all seven principles are mandatory",
+      "Yes, if the project manager approves the omission",
+      "Only when the project is short and small"
     ],
     "correct": 1,
-    "explanation": "All seven principles must be applied for a project to be managed using PRINCE2; PINO is a colloquial label, not an official process."
+    "explanation": "No. All seven principles must be applied. PINO (PRINCE in Name Only) is a label from outside the textbook."
   },
   {
     "type": "standard",
@@ -52,12 +52,12 @@
     "question": "What does the concept of Sustainability, given greater emphasis in PRINCE2 7th Edition, define?",
     "options": [
       "Focusing exclusively on the company’s maximum financial profit.",
-      "Considering environmental, social, and economic impacts throughout the project life cycle.",
+      "Relating the project to one, some or all of the 17 UN Sustainable Development Goals.",
       "Guaranteeing that the source code will never need corrections.",
       "Hiring only local subcontractors."
     ],
     "correct": 1,
-    "explanation": "In the 7th Edition, Sustainability means integrating environmental, social, and economic (ESG) objectives into project management."
+    "explanation": "In PRINCE2, sustainability may address one, some or all of the 17 UN Sustainable Development Goals, project-work impacts, whole-life product cost and resilience, or a project objective."
   },
   {
     "type": "missing-word",
@@ -73,7 +73,7 @@
   },
   {
     "type": "standard",
-    "question": "Which TWO objectives belong to the seven Performance Targets/Aspects used to control a project in PRINCE2 7? Choose ONE pair of true statements. 1. Time.  2. Sustainability.  3. Number of social media followers.  4. The project manager’s personal brand.",
+    "question": "Which TWO objectives belong to the seven performance targets used to control a project in PRINCE2 7? Choose ONE pair of true statements. 1. Time.  2. Sustainability.  3. Number of social media followers.  4. The project manager’s personal brand.",
     "options": [
       "1 and 2",
       "1 and 3",
@@ -81,7 +81,7 @@
       "2 and 3"
     ],
     "correct": 0,
-    "explanation": "The seven performance aspects are Time, Cost, Quality, Scope, Benefits, Risk, and Sustainability."
+    "explanation": "The seven performance targets are time, cost, quality, scope, benefits, risk and sustainability."
   },
   {
     "type": "standard",
@@ -93,7 +93,7 @@
       "It contains only quality test results"
     ],
     "correct": 0,
-    "explanation": "The first answer identifies the relevant PRINCE2 responsibility or product; the other choices assign an incorrect scope or authority."
+    "explanation": "The PID is assembled during initiating a project (IP), based on the Project Brief produced in SU. It is not completed entirely in SU and does not replace stage plans."
   },
   {
     "type": "standard",
@@ -114,7 +114,7 @@
       "A permanent function that maintains operations",
       "A collection of unrelated tasks with no business owner",
       "Any work performed by a team",
-      "A temporary organization created to deliver one or more business products according to an agreed business case"
+      "A temporary organization delivering products under an agreed business case"
     ],
     "correct": 3,
     "explanation": "A project is temporary, delivers agreed products and operates within an agreed business justification."
@@ -124,7 +124,7 @@
     "question": "What best describes project management?",
     "options": [
       "The project manager personally creating every product",
-      "Planning, delegating, monitoring and controlling all aspects of the project, and motivating those involved to achieve its objectives",
+      "Coordinating the project and motivating people to achieve its objectives",
       "Producing a schedule only",
       "Operating the product after the project"
     ],
@@ -157,7 +157,7 @@
   },
   {
     "type": "standard",
-    "question": "Which TWO are among the seven project performance targets? 1. Scope. 2. Benefits. 3. Number of meetings. 4. Sponsor popularity.",
+    "question": "Which TWO are among the seven project performance targets? 1. Scope. 2. Benefits. 3. Number of meetings. 4. Executive popularity.",
     "options": [
       "3 and 4",
       "1 and 2",
@@ -169,7 +169,7 @@
   },
   {
     "type": "missing-word",
-    "question": "Complete the sentence. In a [...] delivery method, work passes through broadly successive phases and the product is usually handed over near the end.",
+    "question": "Complete the sentence. In a [...] delivery method, work passes through broadly successive phases and the product is may be delivered during the work or at the end.",
     "options": [
       "iterative-incremental",
       "hybrid",
@@ -177,7 +177,7 @@
       "linear-sequential"
     ],
     "correct": 3,
-    "explanation": "A linear-sequential approach organizes development in successive phases and usually has less frequent releases."
+    "explanation": "A linear-sequential approach organizes development in broadly successive phases; the product may be delivered during the work or at the end."
   },
   {
     "type": "standard",
@@ -221,7 +221,7 @@
     "options": [
       "Only as an emissions measurement after closure",
       "As a replacement for the business case",
-      "As a concern integrated through performance targets, roles, documentation, practices and processes",
+      "As a cross-cutting concern embedded throughout the method",
       "As an eighth principle"
     ],
     "correct": 2,
@@ -232,12 +232,12 @@
     "question": "What does scale mean in the project context?",
     "options": [
       "A fixed category shared by every organization",
-      "The project’s relative size and significance for the specific product and organization",
+      "The project's relative size and significance for its organization",
       "Only a system’s technical ability to support more users",
       "The number of pages in the documentation"
     ],
     "correct": 1,
-    "explanation": "Project scale is contextual and should not be confused with the technical scalability of a product."
+    "explanation": "Project scale is relative to the organization and is not the same as a product's technical scalability."
   },
   {
     "type": "standard",

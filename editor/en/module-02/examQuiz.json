@@ -77,7 +77,7 @@
     "options": [
       "Business, user and supplier",
       "Finance, legal and marketing",
-      "Sponsor, auditor and regulator",
+      "Executive, auditor and regulator",
       "Project manager, Scrum Master and PMO"
     ],
     "correct": 0,
@@ -123,13 +123,13 @@
     "type": "standard",
     "question": "What trade-off is associated with stage length?",
     "options": [
-      "Shorter stages increase control and management effort; longer stages reduce both",
+      "Shorter stages increase control and management effort; longer stages reduce effort but extend the interval between decisions",
       "Shorter stages always remove all risk",
       "Longer stages remove the business case",
       "Stage length has no effect on control"
     ],
     "correct": 0,
-    "explanation": "Stage selection balances risk exposure and management effort."
+    "explanation": "Shorter stages provide more frequent decision points at the cost of greater management effort; longer stages reduce that effort but extend the decision interval."
   },
   {
     "type": "standard",

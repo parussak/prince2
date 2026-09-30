@@ -77,7 +77,7 @@
     "options": [
       "Biznes, użytkownik i dostawca",
       "Finanse, prawo i marketing",
-      "Sponsor, audytor i regulator",
+      "Executive, audytor i regulator",
       "Kierownik Projektu, Scrum Master i PMO"
     ],
     "correct": 0,
@@ -123,13 +123,13 @@
     "type": "standard",
     "question": "Jaki kompromis wiąże się z długością etapów?",
     "options": [
-      "Krótsze zwiększają kontrolę i wysiłek kierownictwa; dłuższe zmniejszają oba",
+      "Krótsze etapy zwiększają kontrolę i wysiłek kierownictwa; dłuższe zmniejszają wysiłek, lecz wydłużają odstęp między decyzjami",
       "Krótsze zawsze zmniejszają ryzyko do zera",
       "Dłuższe eliminują potrzebę Business Case",
       "Długość etapu nie wpływa na kontrolę"
     ],
     "correct": 0,
-    "explanation": "Dobór etapów równoważy ekspozycję na ryzyko i koszt zarządzania."
+    "explanation": "Krótsze etapy dają częstsze punkty decyzyjne kosztem większego wysiłku zarządczego; dłuższe zmniejszają ten wysiłek, ale wydłużają odstęp między decyzjami."
   },
   {
     "type": "standard",

@@ -1,7 +1,7 @@
 [
   {
-    "q": "What is PINO?",
-    "a": "Informal shorthand for PRINCE2 in name only: a project that does not apply all seven principles is not managed using PRINCE2."
+    "q": "Is a project that applies six of the seven principles managed using PRINCE2?",
+    "a": "No. All seven principles are mandatory. PINO is a label from outside the textbook."
   },
   {
     "q": "Name the five integrated elements of PRINCE2 7.",
@@ -21,10 +21,10 @@
   },
   {
     "q": "What does the abbreviation PID stand for?",
-    "a": "Project initiation documentation: the agreed reference for directing and managing the project."
+    "a": "Project initiation documentation: the agreed management baseline and reference for assessing progress."
   },
   {
-    "q": "Name the seven performance aspects in PRINCE2 7.",
+    "q": "Name the seven performance targets in PRINCE2 7.",
     "a": "Time, Cost, Quality, Scope, Benefits, Risk, and Sustainability."
   },
   {
@@ -69,7 +69,7 @@
   },
   {
     "q": "What is a linear-sequential delivery method?",
-    "a": "Work passes through broadly successive phases, with the complete product usually handed over near the end."
+    "a": "Work passes through broadly successive phases, and the product may be delivered during the work or at the end."
   },
   {
     "q": "What is an iterative-incremental delivery method?",
@@ -89,7 +89,7 @@
   },
   {
     "q": "What does project scale mean?",
-    "a": "The project’s relative size, significance and complexity for the specific product and organization."
+    "a": "The project's relative size, significance and complexity for its organization."
   },
   {
     "q": "How does project scale differ from product scalability?",

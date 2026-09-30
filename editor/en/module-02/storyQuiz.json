@@ -16,7 +16,7 @@
       "Only the customer needs justification",
       "The reference is the project product",
       "The supplier is not a project stakeholder",
-      "Each investing party may have its own financial or non-financial justification"
+      "Each investing party has its own justification for participating"
     ],
     "correct": 3,
     "explanation": "In a commercial project, customer and supplier may have different but explicit reasons to participate."
@@ -81,7 +81,7 @@
     "options": [
       "Every sprint must be a separate stage",
       "A sprint replaces the business case",
-      "Sprints organize delivery; the stage defines management control and board decisions",
+      "Sprints support delivery within a management stage",
       "The board authorizes every sprint task"
     ],
     "correct": 2,
@@ -91,7 +91,7 @@
     "question": "9. The forecast delay remains within stage tolerance. What may Zosia do?",
     "options": [
       "Immediately return the entire budget",
-      "Adjust actions within her delegated authority",
+      "Act independently within the stage tolerance",
       "Close the project without board authority",
       "Escalate every deviation to the business layer"
     ],

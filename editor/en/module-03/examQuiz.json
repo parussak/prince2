@@ -3,13 +3,13 @@
     "type": "standard",
     "question": "What is the main difference between Management and Leadership in PRINCE2 7th Edition?",
     "options": [
-      "Management focuses on planning, structure, and control, while Leadership focuses on motivating, influencing, and guiding people.",
+      "Management instructs task execution in line with agreed ways of working; leadership motivates, influences and co-creates.",
       "Management concerns finance, while leadership concerns marketing.",
       "There is no difference; they are synonyms.",
       "Leadership is performed exclusively by an external consultant."
     ],
     "correct": 0,
-    "explanation": "Management provides operational efficiency through processes, while Leadership motivates and engages people to achieve objectives."
+    "explanation": "In PRINCE2, management instructs task execution in line with agreed ways of working; leadership motivates, influences, persuades and co-creates."
   },
   {
     "type": "missing-word",
@@ -33,7 +33,7 @@
       "2 and 3"
     ],
     "correct": 2,
-    "explanation": "Chapter 3 addresses context, leading successful change, leading successful teams and communication."
+    "explanation": "The chapter covers context and three activities: leading successful change, leading successful teams and communication."
   },
   {
     "type": "negative",
@@ -126,7 +126,7 @@
       "The whole sector regardless of project connection",
       "Only the project board",
       "Only the supplier organization",
-      "Business elements involved in or affected by the project and associated users and suppliers"
+      "Involved or affected business elements, users and suppliers"
     ],
     "correct": 3,
     "explanation": "It includes the formal team and wider groups directly connected to the project."
@@ -142,18 +142,6 @@
     ],
     "correct": 0,
     "explanation": "Perceived impact is also included in the definition."
-  },
-  {
-    "type": "missing-word",
-    "question": "Complete the sentence: The means by which an organization moves from current to target state is [...] management.",
-    "options": [
-      "quality",
-      "portfolio",
-      "change",
-      "exception"
-    ],
-    "correct": 2,
-    "explanation": "This is the definition of change management."
   },
   {
     "type": "standard",
@@ -197,7 +185,7 @@
     "options": [
       "Collaboration concerns suppliers only",
       "Co-creation needs no collaboration",
-      "Co-creation specifically involves users and influencers in designing products and ways of working",
+      "It involves users and influencers in designing products and ways of working",
       "They are management products"
     ],
     "correct": 2,
@@ -222,7 +210,7 @@
       "Tolerance always removes authority",
       "PRINCE2 prohibits team motivation",
       "Every team member sits on the board",
-      "Actual influence, reporting lines and priorities may differ from the formal structure"
+      "Influence and priorities may differ from the formal structure"
     ],
     "correct": 3,
     "explanation": "The manager often persuades and builds relationships, including with more senior people."
@@ -256,7 +244,7 @@
     "question": "What is psychological safety?",
     "options": [
       "Absence of quality accountability",
-      "Ability to express different views without fear of negative interpersonal consequences",
+      "Ability to express different views safely",
       "A ban on critical feedback",
       "A guarantee of no conflict"
     ],

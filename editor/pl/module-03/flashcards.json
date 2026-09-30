@@ -1,11 +1,11 @@
 [
   {
-    "q": "Jakie cztery obszary obejmuje rozdział People?",
-    "a": "Kontekst, przewodzenie skutecznej zmianie, przewodzenie skutecznym zespołom i komunikację."
+    "q": "Co obejmuje rozdział Ludzie?",
+    "a": "Kontekst oraz trzy działania: przewodzenie skutecznej zmianie, przewodzenie skutecznym zespołom i komunikację."
   },
   {
     "q": "Czym rozróżnia się Leadership od Management?",
-    "a": "Management to procesy i kontrola; Leadership to motywowanie, wizja i prowadzenie ludzi."
+    "a": "Zarządzanie instruuje wykonanie zadań według uzgodnionego sposobu pracy; przywództwo motywuje, wpływa, przekonuje i współtworzy."
   },
   {
     "q": "Czym jest change management?",
@@ -24,12 +24,12 @@
     "a": "Ponieważ zdolności, zachowania, kultura i relacje wpływają na wszystkie pryncypia, praktyki i procesy."
   },
   {
-    "q": "Czy OCM dotyczy tylko zespołu projektowego?",
-    "a": "Nie, dotyczy wszystkich interesariuszy i użytkowników końcowych dotkniętych zmianą."
+    "q": "Czy zarządzanie zmianą dotyczy tylko zespołu projektowego?",
+    "a": "Nie. Dotyczy ludzi we wszystkich obszarach organizacji i ekosystemu projektu dotkniętych zmianą."
   },
   {
     "q": "Kto odpowiada za zbudowanie właściwej kultury w zespole projektowym?",
-    "a": "Kierownik Projektu przy wsparciu Liderów Zespołów i Rady Projektu."
+    "a": "Przywództwo na wszystkich poziomach kształtuje kulturę, a wszyscy członkowie zespołu odpowiadają za wspieranie bezpieczeństwa psychologicznego."
   },
   {
     "q": "Jaki jest kluczowy przekaz elementu People?",
@@ -46,10 +46,6 @@
   {
     "q": "Gdzie powinny zapadać decyzje?",
     "a": "Blisko miejsca, gdzie znajduje się wiedza; eskalacja jest potrzebna przy szerszym wpływie."
-  },
-  {
-    "q": "Czym jest change management?",
-    "a": "Środkiem przejścia organizacji ze stanu obecnego do stanu docelowego."
   },
   {
     "q": "Po co opisuje się stany pośrednie?",

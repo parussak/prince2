@@ -1,11 +1,11 @@
 [
   {
-    "q": "Which four areas does the People chapter cover?",
-    "a": "Context, leading successful change, leading successful teams and communication."
+    "q": "What does the People chapter cover?",
+    "a": "Context and three activities: leading successful change, leading successful teams and communication."
   },
   {
     "q": "What is the difference between Leadership and Management?",
-    "a": "Management is about processes and control; Leadership is about motivation, vision, and guiding people."
+    "a": "Management instructs task execution in line with agreed ways of working; leadership motivates, influences, persuades and co-creates."
   },
   {
     "q": "What is change management?",
@@ -24,12 +24,12 @@
     "a": "Because capability, behaviour, culture and relationships affect every principle, practice and process."
   },
   {
-    "q": "Does OCM concern only the project team?",
-    "a": "No. It concerns all stakeholders and end users affected by the change."
+    "q": "Does change management concern only the project team?",
+    "a": "No. It concerns people across all organizational and project-ecosystem areas affected by the change."
   },
   {
     "q": "Who is responsible for building the right culture in the project team?",
-    "a": "Leaders throughout the project shape the culture, with the project manager and team managers playing key roles."
+    "a": "Leadership at every level shapes culture, and all team members are responsible for supporting psychological safety."
   },
   {
     "q": "What is the key People message?",
@@ -46,10 +46,6 @@
   {
     "q": "Where should decisions be made?",
     "a": "Close to relevant knowledge; escalate when wider impact must be considered."
-  },
-  {
-    "q": "What is change management?",
-    "a": "The means by which an organization moves from current state to target state."
   },
   {
     "q": "Why describe interim states?",

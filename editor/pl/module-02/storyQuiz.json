@@ -16,7 +16,7 @@
       "Tylko klient potrzebuje uzasadnienia",
       "Referencja jest produktem końcowym projektu",
       "Dostawca nie jest interesariuszem projektu",
-      "Każda inwestująca strona może mieć własne finansowe lub pozafinansowe uzasadnienie"
+      "Każda inwestująca strona ma własne uzasadnienie udziału"
     ],
     "correct": 3,
     "explanation": "W projekcie komercyjnym klient i dostawca mogą mieć różne, lecz jawne uzasadnienia udziału."
@@ -27,7 +27,7 @@
       "Uczenie się przed rozpoczęciem projektu",
       "Uczenie się wyłącznie przy zamknięciu",
       "Kontrolę jakości produktu",
-      "Zarządzanie przez wyjątki"
+      "Zarządzaj przez wyjątki"
     ],
     "correct": 0,
     "explanation": "Na początku należy aktywnie szukać istotnych doświadczeń z wcześniejszych przedsięwzięć."
@@ -81,7 +81,7 @@
     "options": [
       "Każdy sprint musi być osobnym etapem",
       "Sprint zastępuje Business Case",
-      "Sprinty organizują dostarczanie, a etap wyznacza zakres kontroli i decyzji Rady",
+      "Sprinty wspierają dostarczanie w ramach etapu zarządczego",
       "Rada autoryzuje każde zadanie sprintu"
     ],
     "correct": 2,
@@ -91,7 +91,7 @@
     "question": "9. Prognoza opóźnienia mieści się w tolerancji etapu. Co może zrobić Zosia?",
     "options": [
       "Natychmiast zwrócić cały budżet",
-      "Samodzielnie skorygować działania w granicach delegowanych uprawnień",
+      "Działać samodzielnie w ramach tolerancji etapu",
       "Zamknąć projekt bez decyzji Rady",
       "Eskalować każdą odchyłkę do biznesu"
     ],
