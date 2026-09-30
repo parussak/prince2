@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "q": "What determines whether a project truly uses PRINCE2?",
+    "a": "Application of all seven principles as guiding obligations."
+  },
+  {
+    "q": "What is the continued-justification test?",
+    "a": "The project must remain desirable, viable and achievable; otherwise change or stop it."
+  },
+  {
+    "q": "Do sunk costs justify continuation?",
+    "a": "No. Money already spent is not a reason for further investment."
+  },
+  {
+    "q": "May project parties have different justifications?",
+    "a": "Yes. Customer, supplier and co-owners monitor their own financial or non-financial cases."
+  },
+  {
+    "q": "When does the team learn from experience?",
+    "a": "Before, throughout and at the closure of the project."
+  },
+  {
+    "q": "What should happen to a lesson found during the project?",
+    "a": "Record it and apply it as soon as practical when relevant."
+  },
+  {
+    "q": "Why is recording a lesson alone insufficient?",
+    "a": "The principle requires improvements to be implemented and experience to be shared."
+  },
+  {
+    "q": "Why report lessons at closure?",
+    "a": "So future projects and other teams can apply them."
+  },
+  {
+    "q": "Which interests does the project board represent?",
+    "a": "Business, user and supplier interests."
+  },
+  {
+    "q": "What must the project organization clarify?",
+    "a": "Roles, responsibilities, authority, mutual expectations and relationships."
+  },
+  {
+    "q": "May roles represent people outside the organization?",
+    "a": "Yes. Suppliers and other stakeholders may be external."
+  },
+  {
+    "q": "Why are relationships part of the principle?",
+    "a": "Structure alone does not create collaboration; relationships must be initiated, built and maintained."
+  },
+  {
+    "q": "What is a management stage?",
+    "a": "The section managed at any one time by the project manager on behalf of the board."
+  },
+  {
+    "q": "How many stages must a PRINCE2 project have?",
+    "a": "At least two: an initiation stage and at least one further stage."
+  },
+  {
+    "q": "How does stage length affect management?",
+    "a": "A shorter stage increases control and management effort; a longer stage does the reverse."
+  },
+  {
+    "q": "How do sprints relate to stages?",
+    "a": "One stage may contain several sprints; sprints support delivery, stages support control and decisions."
+  },
+  {
+    "q": "What is tolerance?",
+    "a": "Permissible deviation from a plan target without escalation."
+  },
+  {
+    "q": "Which seven aspects use tolerance?",
+    "a": "Benefits, cost, time, quality, scope, sustainability and risk."
+  },
+  {
+    "q": "When does a deviation become an exception?",
+    "a": "When it is forecast to exceed the delegated tolerance."
+  },
+  {
+    "q": "At which levels is tolerance applied?",
+    "a": "Project, stage and team or work-package levels."
+  },
+  {
+    "q": "What is a product in PRINCE2?",
+    "a": "A tangible or intangible input or output that can be described, created and tested."
+  },
+  {
+    "q": "What are the four product types?",
+    "a": "Management, specialist, the project product and external products."
+  },
+  {
+    "q": "What is an output-oriented project?",
+    "a": "It defines products first and only then the activities needed to create them."
+  },
+  {
+    "q": "What do product descriptions support?",
+    "a": "Estimates, resources, dependencies, scheduling, quality and acceptance."
+  },
+  {
+    "q": "Why tailor PRINCE2?",
+    "a": "To make the method and controls proportionate to context, scale, complexity, importance, delivery, capability and risk."
+  },
+  {
+    "q": "Who recommends and who approves tailoring?",
+    "a": "The project manager recommends; the project board is accountable and approves."
+  },
+  {
+    "q": "What does “information, not necessarily documents” mean?",
+    "a": "Reliable management information is required, but its format may be tailored."
+  },
+  {
+    "q": "Which two extremes does tailoring avoid?",
+    "a": "Unquestioning bureaucracy and “heroic” management based on improvisation."
+  }
+]

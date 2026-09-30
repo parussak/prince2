@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "question": "1. A competitor announces a game similar to SnakeBite and forecast benefits fall sharply. What should the project board do?",
+    "options": [
+      "Continue because half the budget has already been spent",
+      "Reassess the business case and decide whether to change, recover or close the project",
+      "Ask the team to work without pay",
+      "Automatically increase the game scope"
+    ],
+    "correct": 1,
+    "explanation": "Continued justification means sunk costs do not justify further investment."
+  },
+  {
+    "question": "2. The API supplier expects little contract profit but values a strong reference and new-technology experience. What does this show?",
+    "options": [
+      "Only the customer needs justification",
+      "The reference is the project product",
+      "The supplier is not a project stakeholder",
+      "Each investing party may have its own financial or non-financial justification"
+    ],
+    "correct": 3,
+    "explanation": "In a commercial project, customer and supplier may have different but explicit reasons to participate."
+  },
+  {
+    "question": "3. Before planning, Zosia reviews the Pixel Knight lessons report. Which learning moment is this?",
+    "options": [
+      "Learning before the project starts",
+      "Learning only at closure",
+      "Product quality control",
+      "Managing by exception"
+    ],
+    "correct": 0,
+    "explanation": "At the start, the team actively seeks relevant experience from earlier work."
+  },
+  {
+    "question": "4. After the first sprint, the team discovers a better way to test payments. What should it do?",
+    "options": [
+      "Hold it until an audit",
+      "Delete earlier lessons",
+      "Record the lesson and apply it in the current project as soon as practical",
+      "Change the business case without authorization"
+    ],
+    "correct": 2,
+    "explanation": "Lessons are captured and implemented during the project, not only at the end."
+  },
+  {
+    "question": "5. Maya seeks usability for players, Kamil assesses feasibility and Artur assesses investment value. What does this illustrate?",
+    "options": [
+      "Three tolerance levels",
+      "Representation of user, supplier and business interests",
+      "Three plan types",
+      "Three risk categories"
+    ],
+    "correct": 1,
+    "explanation": "The project board balances the primary business, user and supplier interests."
+  },
+  {
+    "question": "6. The contract defines roles, but contact with the external supplier is almost nonexistent. What is missing?",
+    "options": [
+      "Another specialist product",
+      "Another initiation stage",
+      "A wider cost tolerance",
+      "Active building and maintenance of stakeholder relationships"
+    ],
+    "correct": 3,
+    "explanation": "The principle concerns relationships as well as formal role structure."
+  },
+  {
+    "question": "7. Zosia currently manages the prototype on behalf of the project board. What is this section of the project?",
+    "options": [
+      "A management stage",
+      "An external product",
+      "A programme",
+      "A tolerance"
+    ],
+    "correct": 0,
+    "explanation": "A stage is the section managed by the project manager on behalf of the board at any one time."
+  },
+  {
+    "question": "8. The SnakeBite prototype stage contains three two-week sprints. How should this be understood?",
+    "options": [
+      "Every sprint must be a separate stage",
+      "A sprint replaces the business case",
+      "Sprints organize delivery; the stage defines management control and board decisions",
+      "The board authorizes every sprint task"
+    ],
+    "correct": 2,
+    "explanation": "One stage may contain several sprints; the two structures serve different purposes."
+  },
+  {
+    "question": "9. The forecast delay remains within stage tolerance. What may Zosia do?",
+    "options": [
+      "Immediately return the entire budget",
+      "Adjust actions within her delegated authority",
+      "Close the project without board authority",
+      "Escalate every deviation to the business layer"
+    ],
+    "correct": 1,
+    "explanation": "Manage by exception permits action within tolerance and requires escalation of forecast breaches."
+  },
+  {
+    "question": "10. An iterative project fixes time and cost but may vary some features. How should tolerance reflect this?",
+    "options": [
+      "All tolerances must be identical",
+      "Scope cannot have tolerance",
+      "Tolerance is used only after closure",
+      "Time and cost tolerances should be tighter while scope may be more flexible"
+    ],
+    "correct": 3,
+    "explanation": "Tolerance reflects the priorities and context of the plan."
+  },
+  {
+    "question": "11. An app store publishes a mandatory new standard outside the team’s control. How is it classified?",
+    "options": [
+      "An external product on which the project depends",
+      "A team management product",
+      "A project benefit",
+      "A management stage"
+    ],
+    "correct": 0,
+    "explanation": "An external product is created outside project control but can be a required input."
+  },
+  {
+    "question": "12. The team wants to add a feature without assessing its impact on defined products. Which risk increases?",
+    "options": [
+      "Loss of the initiation stage",
+      "Missing supplier relationships",
+      "Uncontrolled change, or scope creep",
+      "Too few meetings"
+    ],
+    "correct": 2,
+    "explanation": "Changes are assessed through their impact on products and the business case."
+  },
+  {
+    "question": "13. Zosia replaces a long report with a current dashboard providing the same decision information. Is this acceptable?",
+    "options": [
+      "No, PRINCE2 always requires a paper report",
+      "Yes, because information is required, not necessarily a document",
+      "No, tailoring may change terminology only",
+      "Yes, but only after closure"
+    ],
+    "correct": 1,
+    "explanation": "The format may be tailored when information, accountability and control remain effective."
+  },
+  {
+    "question": "14. Zosia proposes mapping PRINCE2 terminology to the supplier’s agile approach. Who approves the recommendation?",
+    "options": [
+      "Only the supplier Scrum Master",
+      "Any developer",
+      "The user without business consultation",
+      "The project board, following the project manager’s recommendation"
+    ],
+    "correct": 3,
+    "explanation": "The project manager recommends tailoring; the board is accountable for and approves it."
+  }
+]

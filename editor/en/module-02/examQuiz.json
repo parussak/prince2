@@ -1,1 +1,254 @@
-[]
+[
+  {
+    "type": "standard",
+    "question": "What primarily determines whether a project is genuinely managed using PRINCE2?",
+    "options": [
+      "Use of a document called a PID",
+      "Application of all seven principles",
+      "A certified project manager",
+      "One standard report template"
+    ],
+    "correct": 1,
+    "explanation": "The principles are guiding obligations; terminology alone is insufficient."
+  },
+  {
+    "type": "standard",
+    "question": "What does continued business justification ensure?",
+    "options": [
+      "All products are created in the first stage",
+      "An approved budget can never change",
+      "Every supplier has the same justification",
+      "The project remains desirable, viable and achievable as it progresses"
+    ],
+    "correct": 3,
+    "explanation": "Justification is checked throughout the life cycle."
+  },
+  {
+    "type": "standard",
+    "question": "What should happen if one party in a co-owned project loses its justification?",
+    "options": [
+      "It should consider withdrawal while accounting for obligations and impacts on others",
+      "The whole project must close automatically",
+      "Its justification replaces every other business case",
+      "The change should be ignored until project end"
+    ],
+    "correct": 0,
+    "explanation": "Each investing party monitors its own case within the contractual context."
+  },
+  {
+    "type": "standard",
+    "question": "When should a PRINCE2 team seek lessons?",
+    "options": [
+      "Only during initiation",
+      "Only after a tolerance breach",
+      "Before, during and at closure of the project",
+      "Only in the final audit"
+    ],
+    "correct": 2,
+    "explanation": "Learning covers the full life cycle and passes experience forward."
+  },
+  {
+    "type": "standard",
+    "question": "Which action best applies learn from experience?",
+    "options": [
+      "Creating an empty lessons log",
+      "Using a relevant lesson to improve current work",
+      "Archiving observations without review",
+      "Preventing changes to an approved process"
+    ],
+    "correct": 1,
+    "explanation": "A lesson should produce improvement, not merely a record."
+  },
+  {
+    "type": "standard",
+    "question": "Why report lessons at project closure?",
+    "options": [
+      "To replace the end project report",
+      "To re-authorize every product",
+      "To transfer accountability to the user",
+      "To enable future projects to apply the experience"
+    ],
+    "correct": 3,
+    "explanation": "Lessons are shared so they can be used later."
+  },
+  {
+    "type": "standard",
+    "question": "Which three primary interests should the project organization represent?",
+    "options": [
+      "Business, user and supplier",
+      "Finance, legal and marketing",
+      "Sponsor, auditor and regulator",
+      "Project manager, Scrum Master and PMO"
+    ],
+    "correct": 0,
+    "explanation": "PRINCE2 balances business, user and supplier interests."
+  },
+  {
+    "type": "standard",
+    "question": "What does the third principle require beyond defined roles and responsibilities?",
+    "options": [
+      "A separate board for every team",
+      "Exclusion of external suppliers",
+      "Initiating and building stakeholder relationships",
+      "Delegating every decision to the project manager"
+    ],
+    "correct": 2,
+    "explanation": "Internal and external relationships require active work."
+  },
+  {
+    "type": "standard",
+    "question": "What is the main purpose of clearly defined roles, responsibilities and relationships?",
+    "options": [
+      "Increasing the number of management layers",
+      "A coherent structure that enables effective delivery against performance targets",
+      "Transferring every decision to the supplier",
+      "Restricting user involvement"
+    ],
+    "correct": 1,
+    "explanation": "The structure supports clarity, accountability and effective stakeholder collaboration."
+  },
+  {
+    "type": "standard",
+    "question": "What is the minimum stage structure for a PRINCE2 project?",
+    "options": [
+      "One stage for the whole project",
+      "Two delivery stages without initiation",
+      "One stage for each product",
+      "An initiation stage and at least one further stage"
+    ],
+    "correct": 3,
+    "explanation": "The project is properly initiated before product delivery."
+  },
+  {
+    "type": "standard",
+    "question": "What trade-off is associated with stage length?",
+    "options": [
+      "Shorter stages increase control and management effort; longer stages reduce both",
+      "Shorter stages always remove all risk",
+      "Longer stages remove the business case",
+      "Stage length has no effect on control"
+    ],
+    "correct": 0,
+    "explanation": "Stage selection balances risk exposure and management effort."
+  },
+  {
+    "type": "standard",
+    "question": "How may sprints relate to management stages?",
+    "options": [
+      "Every sprint is always a stage",
+      "Sprints replace board decisions",
+      "Several sprints may sit within one stage",
+      "Stages apply only to sequential delivery"
+    ],
+    "correct": 2,
+    "explanation": "PRINCE2 can combine with iterative delivery while stages remain units of control."
+  },
+  {
+    "type": "standard",
+    "question": "What is tolerance?",
+    "options": [
+      "Any change to approved scope",
+      "Permissible deviation from a plan target without escalation",
+      "A budget reserve available only to the board",
+      "The project risk list"
+    ],
+    "correct": 1,
+    "explanation": "Tolerance sets the limits of delegated authority."
+  },
+  {
+    "type": "standard",
+    "question": "Which set contains only performance aspects that use tolerance?",
+    "options": [
+      "Cost, time, morale, marketing and sales",
+      "Scope, meeting count, sprints and contracts",
+      "Risk, roles, processes and practices",
+      "Benefits, cost, time, quality, scope, sustainability and risk"
+    ],
+    "correct": 3,
+    "explanation": "PRINCE2 applies tolerance to seven performance targets."
+  },
+  {
+    "type": "missing-word",
+    "question": "Complete the sentence: A forecast tolerance breach is an [...] that must be escalated.",
+    "options": [
+      "exception",
+      "product",
+      "stage",
+      "benefit"
+    ],
+    "correct": 0,
+    "explanation": "Escalation is based on the forecast; the actual breach need not have occurred."
+  },
+  {
+    "type": "standard",
+    "question": "Which product definition is correct?",
+    "options": [
+      "Only a physical output delivered to a customer",
+      "Any task in the schedule",
+      "A document created only by the project manager",
+      "A tangible or intangible input or output that can be described, created and tested"
+    ],
+    "correct": 3,
+    "explanation": "A product may be an input or output and tangible or intangible."
+  },
+  {
+    "type": "standard",
+    "question": "Which is a management product?",
+    "options": [
+      "A stage plan",
+      "The completed mobile app",
+      "A new external standard",
+      "The game payment module"
+    ],
+    "correct": 0,
+    "explanation": "A plan is information needed to manage the project."
+  },
+  {
+    "type": "standard",
+    "question": "What is an output-oriented project?",
+    "options": [
+      "One that starts activities before agreeing scope",
+      "One that measures success by task count",
+      "One that defines the project product before planning the activities needed to create it",
+      "One that omits acceptance criteria"
+    ],
+    "correct": 2,
+    "explanation": "The agreed products define scope and the basis for planning and control."
+  },
+  {
+    "type": "negative",
+    "question": "Which statement does NOT describe the purpose of tailoring?",
+    "options": [
+      "Aligning controls with scale and risk",
+      "Removing principles that appear too formal",
+      "Aligning the method with business processes",
+      "Changing terminology to reduce confusion"
+    ],
+    "correct": 1,
+    "explanation": "Principles are not removed; application of the method is tailored."
+  },
+  {
+    "type": "standard",
+    "question": "Who recommends and who approves how PRINCE2 is tailored?",
+    "options": [
+      "The board recommends and the supplier approves",
+      "The team recommends and approves its own approach",
+      "The PMO approves without project involvement",
+      "The project manager recommends and the project board approves"
+    ],
+    "correct": 3,
+    "explanation": "The project manager consults lessons and standards; the board is accountable for approval."
+  },
+  {
+    "type": "standard",
+    "question": "What best expresses proportionate tailoring?",
+    "options": [
+      "A project needs information and decisions, but not always documents and meetings",
+      "Every item of information requires a separate document",
+      "Every decision requires a board meeting",
+      "A small project may omit all management products"
+    ],
+    "correct": 0,
+    "explanation": "Format is flexible, but necessary information, decisions, accountability and control remain."
+  }
+]

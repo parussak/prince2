@@ -1,1 +1,254 @@
-[]
+[
+  {
+    "type": "standard",
+    "question": "Co przede wszystkim określa, czy projekt rzeczywiście jest zarządzany zgodnie z PRINCE2?",
+    "options": [
+      "Używanie dokumentu nazwanego PID",
+      "Stosowanie wszystkich siedmiu pryncypiów",
+      "Posiadanie certyfikowanego Kierownika Projektu",
+      "Korzystanie z jednego szablonu raportu"
+    ],
+    "correct": 1,
+    "explanation": "Pryncypia są obowiązkami przewodnimi; sama terminologia nie wystarcza."
+  },
+  {
+    "type": "standard",
+    "question": "Co zapewnia pryncypium ciągłej zasadności biznesowej?",
+    "options": [
+      "Wszystkie produkty powstają w pierwszym etapie",
+      "Raz zatwierdzony budżet nie może się zmienić",
+      "Każdy dostawca ma takie samo uzasadnienie",
+      "Projekt pozostaje pożądany, wykonalny i osiągalny w miarę postępu"
+    ],
+    "correct": 3,
+    "explanation": "Zasadność jest sprawdzana przez cały cykl życia, a nie tylko na początku."
+  },
+  {
+    "type": "standard",
+    "question": "Co powinno nastąpić, gdy jedna ze stron współdzielonego projektu traci własne uzasadnienie udziału?",
+    "options": [
+      "Powinna rozważyć wycofanie, uwzględniając zobowiązania i skutki dla pozostałych",
+      "Cały projekt musi być automatycznie zakończony",
+      "Jej uzasadnienie zastępuje Business Case innych stron",
+      "Należy zignorować zmianę do końca etapu"
+    ],
+    "correct": 0,
+    "explanation": "Każda inwestująca strona monitoruje własną zasadność, ale decyzja uwzględnia kontekst umowny."
+  },
+  {
+    "type": "standard",
+    "question": "Kiedy zespół PRINCE2 powinien poszukiwać lekcji?",
+    "options": [
+      "Wyłącznie podczas inicjowania",
+      "Tylko po przekroczeniu tolerancji",
+      "Przed projektem, w jego trakcie i przy zamknięciu",
+      "Wyłącznie podczas końcowego audytu"
+    ],
+    "correct": 2,
+    "explanation": "Uczenie się obejmuje cały cykl życia i przekazanie doświadczeń dalej."
+  },
+  {
+    "type": "standard",
+    "question": "Które działanie najlepiej realizuje pryncypium „ucz się z doświadczeń”?",
+    "options": [
+      "Samo utworzenie pustego Lessons Log",
+      "Zastosowanie odpowiedniej lekcji do bieżącego sposobu pracy",
+      "Archiwizacja obserwacji bez przeglądu",
+      "Zakaz zmiany raz zatwierdzonego procesu"
+    ],
+    "correct": 1,
+    "explanation": "Lekcja ma prowadzić do udoskonalenia, a nie tylko do zapisu."
+  },
+  {
+    "type": "standard",
+    "question": "Jaki jest cel raportowania lekcji przy zamknięciu projektu?",
+    "options": [
+      "Zastąpienie raportu końcowego projektu",
+      "Ponowne zatwierdzenie wszystkich produktów",
+      "Przeniesienie odpowiedzialności na użytkownika",
+      "Umożliwienie przyszłym projektom wykorzystania doświadczenia"
+    ],
+    "correct": 3,
+    "explanation": "Lekcje należy udostępnić, aby mogły zostać zastosowane później."
+  },
+  {
+    "type": "standard",
+    "question": "Które trzy podstawowe interesy powinny być reprezentowane w strukturze zarządzania projektem?",
+    "options": [
+      "Biznes, użytkownik i dostawca",
+      "Finanse, prawo i marketing",
+      "Sponsor, audytor i regulator",
+      "Kierownik Projektu, Scrum Master i PMO"
+    ],
+    "correct": 0,
+    "explanation": "PRINCE2 równoważy interesy biznesowe, użytkowe i dostawcze."
+  },
+  {
+    "type": "standard",
+    "question": "Co, oprócz zdefiniowania ról i odpowiedzialności, wymaga trzecie pryncypium?",
+    "options": [
+      "Utworzenia osobnej Rady dla każdego zespołu",
+      "Zakazu udziału dostawców zewnętrznych",
+      "Inicjowania i rozwijania relacji z interesariuszami",
+      "Przekazania wszystkich decyzji Kierownikowi Projektu"
+    ],
+    "correct": 2,
+    "explanation": "Relacje wewnętrzne i zewnętrzne wymagają aktywnej pracy."
+  },
+  {
+    "type": "standard",
+    "question": "Jaki jest główny cel jasnego zdefiniowania ról, odpowiedzialności i relacji?",
+    "options": [
+      "Zwiększenie liczby szczebli zarządzania",
+      "Stworzenie zrozumiałej struktury umożliwiającej skuteczne dostarczanie względem celów wykonania",
+      "Przeniesienie wszystkich decyzji na dostawcę",
+      "Ograniczenie udziału użytkowników"
+    ],
+    "correct": 1,
+    "explanation": "Struktura ma zapewniać spójność, odpowiedzialność i skuteczną współpracę interesariuszy."
+  },
+  {
+    "type": "standard",
+    "question": "Jaka jest minimalna struktura etapów projektu PRINCE2?",
+    "options": [
+      "Jeden etap obejmujący cały projekt",
+      "Dwa etapy dostawcze bez inicjowania",
+      "Po jednym etapie dla każdego produktu",
+      "Etap inicjowania i co najmniej jeden dalszy etap"
+    ],
+    "correct": 3,
+    "explanation": "Projekt musi zostać właściwie zainicjowany przed dostarczaniem produktów."
+  },
+  {
+    "type": "standard",
+    "question": "Jaki kompromis wiąże się z długością etapów?",
+    "options": [
+      "Krótsze zwiększają kontrolę i wysiłek kierownictwa; dłuższe zmniejszają oba",
+      "Krótsze zawsze zmniejszają ryzyko do zera",
+      "Dłuższe eliminują potrzebę Business Case",
+      "Długość etapu nie wpływa na kontrolę"
+    ],
+    "correct": 0,
+    "explanation": "Dobór etapów równoważy ekspozycję na ryzyko i koszt zarządzania."
+  },
+  {
+    "type": "standard",
+    "question": "Jak sprinty mogą odnosić się do etapów zarządczych?",
+    "options": [
+      "Każdy sprint zawsze jest etapem",
+      "Sprinty zastępują decyzje Rady",
+      "Kilka sprintów może mieścić się w jednym etapie",
+      "Etapy występują wyłącznie w podejściu sekwencyjnym"
+    ],
+    "correct": 2,
+    "explanation": "PRINCE2 można połączyć z iteracyjnym dostarczaniem; etap nadal pozostaje jednostką kontroli."
+  },
+  {
+    "type": "standard",
+    "question": "Czym jest tolerancja?",
+    "options": [
+      "Dowolną zmianą zatwierdzonego zakresu",
+      "Dopuszczalnym odchyleniem od celu planu niewymagającym eskalacji",
+      "Rezerwą budżetową dostępną wyłącznie Radzie",
+      "Listą wszystkich zagrożeń projektu"
+    ],
+    "correct": 1,
+    "explanation": "Tolerancja wyznacza granice delegowanych uprawnień."
+  },
+  {
+    "type": "standard",
+    "question": "Który zestaw zawiera wyłącznie aspekty objęte tolerancją?",
+    "options": [
+      "Koszt, czas, morale, marketing i sprzedaż",
+      "Zakres, liczba spotkań, sprinty i umowy",
+      "Ryzyko, role, procesy i praktyki",
+      "Korzyści, koszt, czas, jakość, zakres, zrównoważony rozwój i ryzyko"
+    ],
+    "correct": 3,
+    "explanation": "PRINCE2 stosuje tolerancje wobec siedmiu celów wykonania."
+  },
+  {
+    "type": "missing-word",
+    "question": "Uzupełnij zdanie: Prognozowane przekroczenie tolerancji jest [...], które należy eskalować.",
+    "options": [
+      "wyjątkiem",
+      "produktem",
+      "etapem",
+      "korzyścią"
+    ],
+    "correct": 0,
+    "explanation": "Nie trzeba czekać na faktyczne przekroczenie; wystarcza wiarygodna prognoza."
+  },
+  {
+    "type": "standard",
+    "question": "Która definicja produktu jest poprawna?",
+    "options": [
+      "Wyłącznie fizyczny wynik przekazywany klientowi",
+      "Każde zadanie zapisane w harmonogramie",
+      "Dokument tworzony tylko przez Kierownika Projektu",
+      "Materialny lub niematerialny wkład albo wynik, który można opisać, wytworzyć i przetestować"
+    ],
+    "correct": 3,
+    "explanation": "Produkt może być wejściem lub wyjściem, materialnym albo niematerialnym."
+  },
+  {
+    "type": "standard",
+    "question": "Który przykład jest produktem zarządczym?",
+    "options": [
+      "Stage Plan",
+      "Gotowa aplikacja mobilna",
+      "Nowy zewnętrzny standard",
+      "Moduł płatności gry"
+    ],
+    "correct": 0,
+    "explanation": "Plan jest informacją potrzebną do zarządzania projektem."
+  },
+  {
+    "type": "standard",
+    "question": "Co oznacza projekt zorientowany na wyniki?",
+    "options": [
+      "Rozpoczyna działania bez uzgodnienia zakresu",
+      "Mierzy sukces liczbą wykonanych zadań",
+      "Definiuje produkt końcowy przed planowaniem działań potrzebnych do jego wytworzenia",
+      "Pomija kryteria akceptacji"
+    ],
+    "correct": 2,
+    "explanation": "Uzgodnione produkty wyznaczają zakres oraz podstawę planowania i kontroli."
+  },
+  {
+    "type": "negative",
+    "question": "Które stwierdzenie NIE opisuje celu tailoringu?",
+    "options": [
+      "Dopasowanie kontroli do skali i ryzyka",
+      "Usunięcie pryncypiów, które wydają się zbyt formalne",
+      "Uzgodnienie metody z procesami organizacji",
+      "Zmiana terminologii, gdy ogranicza nieporozumienia"
+    ],
+    "correct": 1,
+    "explanation": "Pryncypiów nie usuwa się; dostosowuje się sposób zastosowania metody."
+  },
+  {
+    "type": "standard",
+    "question": "Kto rekomenduje i kto zatwierdza sposób dostosowania PRINCE2?",
+    "options": [
+      "Rada rekomenduje, a dostawca zatwierdza",
+      "Zespół rekomenduje i sam zatwierdza",
+      "PMO zatwierdza bez udziału projektu",
+      "Kierownik Projektu rekomenduje, a Rada Projektu zatwierdza"
+    ],
+    "correct": 3,
+    "explanation": "Kierownik konsultuje lekcje i standardy; Rada jest rozliczana z zatwierdzonego podejścia."
+  },
+  {
+    "type": "standard",
+    "question": "Co najlepiej wyraża zasadę proporcjonalnego tailoringu?",
+    "options": [
+      "Projekt potrzebuje informacji i decyzji, ale nie zawsze dokumentów i spotkań",
+      "Każda informacja musi mieć osobny dokument",
+      "Każda decyzja wymaga posiedzenia Rady",
+      "Mały projekt może pominąć wszystkie produkty zarządcze"
+    ],
+    "correct": 0,
+    "explanation": "Forma jest elastyczna, lecz potrzebne informacje, decyzje, odpowiedzialność i kontrola muszą pozostać."
+  }
+]

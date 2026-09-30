@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "question": "1. Konkurent zapowiada grę podobną do SnakeBite, a prognozowane korzyści gwałtownie spadają. Co powinna zrobić Rada Projektu?",
+    "options": [
+      "Kontynuować, ponieważ połowa budżetu została już wydana",
+      "Ponownie ocenić Business Case i zdecydować o zmianie, naprawie albo zamknięciu projektu",
+      "Poprosić zespół o pracę bez wynagrodzenia",
+      "Automatycznie zwiększyć zakres gry"
+    ],
+    "correct": 1,
+    "explanation": "Ciągła zasadność oznacza, że wcześniejsze wydatki nie usprawiedliwiają dalszej inwestycji."
+  },
+  {
+    "question": "2. Dostawca API nie zarobi dużo na kontrakcie, ale liczy na referencję i doświadczenie z nową technologią. Co to pokazuje?",
+    "options": [
+      "Tylko klient potrzebuje uzasadnienia",
+      "Referencja jest produktem końcowym projektu",
+      "Dostawca nie jest interesariuszem projektu",
+      "Każda inwestująca strona może mieć własne finansowe lub pozafinansowe uzasadnienie"
+    ],
+    "correct": 3,
+    "explanation": "W projekcie komercyjnym klient i dostawca mogą mieć różne, lecz jawne uzasadnienia udziału."
+  },
+  {
+    "question": "3. Przed planowaniem Zosia przegląda Lessons Report z Pixel Knight. Który moment uczenia się wykorzystuje?",
+    "options": [
+      "Uczenie się przed rozpoczęciem projektu",
+      "Uczenie się wyłącznie przy zamknięciu",
+      "Kontrolę jakości produktu",
+      "Zarządzanie przez wyjątki"
+    ],
+    "correct": 0,
+    "explanation": "Na początku należy aktywnie szukać istotnych doświadczeń z wcześniejszych przedsięwzięć."
+  },
+  {
+    "question": "4. Po pierwszym sprincie zespół odkrywa skuteczniejszy sposób testowania płatności. Co powinien zrobić?",
+    "options": [
+      "Odłożyć obserwację do czasu audytu",
+      "Usunąć wcześniejsze lekcje",
+      "Zapisać lekcję i zastosować ją możliwie szybko w bieżącym projekcie",
+      "Zmienić Business Case bez autoryzacji"
+    ],
+    "correct": 2,
+    "explanation": "Lekcje zbiera się i wdraża również w trakcie projektu, nie tylko na końcu."
+  },
+  {
+    "question": "5. Maya chce jakości użytecznej dla graczy, Kamil ocenia wykonalność, a Artur wartość inwestycji. Co ilustruje ten układ?",
+    "options": [
+      "Trzy poziomy tolerancji",
+      "Reprezentację interesów użytkownika, dostawcy i biznesu",
+      "Trzy typy planów",
+      "Trzy rodzaje ryzyka"
+    ],
+    "correct": 1,
+    "explanation": "Rada Projektu powinna równoważyć podstawowe interesy biznesu, użytkowników i dostawców."
+  },
+  {
+    "question": "6. Umowa opisuje role, ale kontakt z zewnętrznym dostawcą praktycznie nie istnieje. Czego brakuje?",
+    "options": [
+      "Kolejnego produktu specjalistycznego",
+      "Dodatkowego etapu inicjowania",
+      "Szerszej tolerancji kosztu",
+      "Aktywnego budowania i utrzymywania relacji z interesariuszami"
+    ],
+    "correct": 3,
+    "explanation": "Pryncypium dotyczy nie tylko struktury ról, lecz również relacji wewnętrznych i zewnętrznych."
+  },
+  {
+    "question": "7. Zosia zarządza obecnie prototypem w imieniu Rady Projektu. Czym jest ten fragment projektu?",
+    "options": [
+      "Etapem zarządczym",
+      "Produktem zewnętrznym",
+      "Programem",
+      "Tolerancją"
+    ],
+    "correct": 0,
+    "explanation": "Etap to część projektu zarządzana przez Kierownika Projektu w imieniu Rady w danym czasie."
+  },
+  {
+    "question": "8. Etap prototypu SnakeBite obejmuje trzy dwutygodniowe sprinty. Jak należy rozumieć tę strukturę?",
+    "options": [
+      "Każdy sprint musi być osobnym etapem",
+      "Sprint zastępuje Business Case",
+      "Sprinty organizują dostarczanie, a etap wyznacza zakres kontroli i decyzji Rady",
+      "Rada autoryzuje każde zadanie sprintu"
+    ],
+    "correct": 2,
+    "explanation": "Jeden etap może zawierać wiele sprintów; etapy i sprinty pełnią odmienne funkcje."
+  },
+  {
+    "question": "9. Prognoza opóźnienia mieści się w tolerancji etapu. Co może zrobić Zosia?",
+    "options": [
+      "Natychmiast zwrócić cały budżet",
+      "Samodzielnie skorygować działania w granicach delegowanych uprawnień",
+      "Zamknąć projekt bez decyzji Rady",
+      "Eskalować każdą odchyłkę do biznesu"
+    ],
+    "correct": 1,
+    "explanation": "Manage by exception zapewnia swobodę działania w tolerancjach i eskalację prognozowanego przekroczenia."
+  },
+  {
+    "question": "10. W projekcie iteracyjnym termin i koszt są stałe, lecz część funkcji może się zmienić. Jak powinny wyglądać tolerancje?",
+    "options": [
+      "Wszystkie tolerancje muszą być identyczne",
+      "Zakres nie może mieć tolerancji",
+      "Tolerancje stosuje się dopiero po zamknięciu",
+      "Czas i koszt powinny być węższe, a zakres może mieć większą elastyczność"
+    ],
+    "correct": 3,
+    "explanation": "Tolerancje odzwierciedlają priorytety i kontekst planu."
+  },
+  {
+    "question": "11. Sklep z aplikacjami publikuje nowy obowiązkowy standard poza kontrolą zespołu. Jak sklasyfikować ten element?",
+    "options": [
+      "Jako produkt zewnętrzny, od którego projekt zależy",
+      "Jako produkt zarządczy zespołu",
+      "Jako korzyść projektu",
+      "Jako etap zarządczy"
+    ],
+    "correct": 0,
+    "explanation": "Produkt zewnętrzny powstaje poza kontrolą projektu, ale może być niezbędnym wkładem."
+  },
+  {
+    "question": "12. Zespół chce dodać funkcję bez sprawdzenia wpływu na opisane produkty. Jakie ryzyko rośnie?",
+    "options": [
+      "Utrata etapu inicjowania",
+      "Brak relacji dostawczych",
+      "Niekontrolowany wzrost zakresu, czyli scope creep",
+      "Zbyt mała liczba spotkań"
+    ],
+    "correct": 2,
+    "explanation": "Zmiany powinny być oceniane przez wpływ na produkty i Business Case."
+  },
+  {
+    "question": "13. Zosia zastępuje rozbudowany raport aktualnym dashboardem, który dostarcza te same informacje decyzyjne. Czy to dopuszczalne?",
+    "options": [
+      "Nie, PRINCE2 zawsze wymaga papierowego raportu",
+      "Tak, ponieważ potrzebna jest informacja, niekoniecznie dokument",
+      "Nie, tailoring może zmieniać tylko nazwy",
+      "Tak, ale tylko po zamknięciu projektu"
+    ],
+    "correct": 1,
+    "explanation": "Forma może zostać dostosowana, o ile informacja, odpowiedzialność i kontrola pozostają skuteczne."
+  },
+  {
+    "question": "14. Zosia proponuje połączenie terminologii PRINCE2 z agile dostawcy. Kto zatwierdza rekomendację?",
+    "options": [
+      "Wyłącznie Scrum Master dostawcy",
+      "Dowolny programista",
+      "Użytkownik bez konsultacji z biznesem",
+      "Rada Projektu po rekomendacji Kierownika Projektu"
+    ],
+    "correct": 3,
+    "explanation": "Kierownik Projektu rekomenduje tailoring; Rada jest za niego rozliczana i go zatwierdza."
+  }
+]

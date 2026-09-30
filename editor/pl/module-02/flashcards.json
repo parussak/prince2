@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "q": "Co rozstrzyga, czy projekt naprawdę stosuje PRINCE2?",
+    "a": "Stosowanie wszystkich siedmiu pryncypiów jako przewodnich zobowiązań."
+  },
+  {
+    "q": "Jaki jest test ciągłej zasadności?",
+    "a": "Projekt musi pozostawać pożądany, wykonalny i osiągalny; inaczej należy go zmienić lub zatrzymać."
+  },
+  {
+    "q": "Czy wydane koszty uzasadniają kontynuację?",
+    "a": "Nie. Koszty utopione nie są powodem dalszego inwestowania."
+  },
+  {
+    "q": "Czy strony projektu mogą mieć różne uzasadnienia?",
+    "a": "Tak. Klient, dostawca i współwłaściciele monitorują własne finansowe lub pozafinansowe uzasadnienie."
+  },
+  {
+    "q": "Kiedy zespół uczy się z doświadczeń?",
+    "a": "Przed projektem, przez cały jego czas oraz przy zamknięciu."
+  },
+  {
+    "q": "Co robić z lekcją odkrytą w trakcie projektu?",
+    "a": "Zapisać ją i zastosować możliwie szybko, jeśli jest istotna."
+  },
+  {
+    "q": "Dlaczego samo zapisanie lekcji nie wystarcza?",
+    "a": "Bo pryncypium wymaga wdrożenia usprawnień oraz udostępnienia doświadczeń."
+  },
+  {
+    "q": "Po co raportować lekcje przy zamknięciu?",
+    "a": "Aby kolejne projekty i inne zespoły mogły je zastosować."
+  },
+  {
+    "q": "Jakie interesy reprezentuje Rada Projektu?",
+    "a": "Biznes, użytkowników i dostawców."
+  },
+  {
+    "q": "Co musi wyjaśniać struktura projektu?",
+    "a": "Role, odpowiedzialności, uprawnienia, wzajemne oczekiwania i relacje."
+  },
+  {
+    "q": "Czy role mogą reprezentować osoby spoza organizacji?",
+    "a": "Tak. Dostawcy i inni interesariusze mogą być zewnętrzni."
+  },
+  {
+    "q": "Dlaczego relacje są częścią pryncypium?",
+    "a": "Sama struktura nie zapewni współpracy; relacje trzeba inicjować, rozwijać i utrzymywać."
+  },
+  {
+    "q": "Czym jest etap zarządczy?",
+    "a": "Częścią projektu zarządzaną w danym czasie przez Kierownika Projektu w imieniu Rady."
+  },
+  {
+    "q": "Ile etapów musi mieć projekt PRINCE2?",
+    "a": "Co najmniej dwa: etap inicjowania i co najmniej jeden dalszy etap."
+  },
+  {
+    "q": "Jak długość etapu wpływa na zarządzanie?",
+    "a": "Krótszy daje więcej kontroli i wymaga więcej pracy kierownictwa; dłuższy odwrotnie."
+  },
+  {
+    "q": "Jak sprinty mają się do etapów?",
+    "a": "W jednym etapie może być wiele sprintów; sprint służy dostarczaniu, etap kontroli i decyzjom."
+  },
+  {
+    "q": "Czym jest tolerancja?",
+    "a": "Dopuszczalnym odchyleniem od celu planu niewymagającym eskalacji."
+  },
+  {
+    "q": "Jakich siedmiu aspektów dotyczą tolerancje?",
+    "a": "Korzyści, kosztu, czasu, jakości, zakresu, zrównoważonego rozwoju i ryzyka."
+  },
+  {
+    "q": "Kiedy odchylenie staje się wyjątkiem?",
+    "a": "Gdy prognozuje się przekroczenie przyznanej tolerancji."
+  },
+  {
+    "q": "Na jakich poziomach stosuje się tolerancje?",
+    "a": "Projektu, etapu i zespołu lub Work Package."
+  },
+  {
+    "q": "Czym jest produkt w PRINCE2?",
+    "a": "Materialnym lub niematerialnym wkładem albo wynikiem, który można opisać, wytworzyć i przetestować."
+  },
+  {
+    "q": "Jakie są cztery typy produktów?",
+    "a": "Zarządcze, specjalistyczne, produkt końcowy projektu oraz produkty zewnętrzne."
+  },
+  {
+    "q": "Co oznacza projekt zorientowany na wyniki?",
+    "a": "Najpierw definiuje produkty, a dopiero później potrzebne działania."
+  },
+  {
+    "q": "Co dają opisy produktów?",
+    "a": "Podstawę estymacji pracy, zasobów, zależności, harmonogramu, jakości i akceptacji."
+  },
+  {
+    "q": "Po co dostosowujemy PRINCE2?",
+    "a": "Aby metoda i kontrole były proporcjonalne do kontekstu, skali, złożoności, ważności, dostarczania, zdolności i ryzyka."
+  },
+  {
+    "q": "Kto rekomenduje, a kto zatwierdza tailoring?",
+    "a": "Kierownik Projektu rekomenduje; Rada Projektu odpowiada i zatwierdza."
+  },
+  {
+    "q": "Co oznacza „informacja, niekoniecznie dokument”?",
+    "a": "Wymagana jest wiarygodna informacja zarządcza, ale jej forma może być dostosowana."
+  },
+  {
+    "q": "Jakie dwa skrajne błędy eliminuje tailoring?",
+    "a": "Bezkrytyczną biurokrację oraz „heroiczne” zarządzanie oparte na improwizacji."
+  }
+]
