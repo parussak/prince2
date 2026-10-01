@@ -807,6 +807,7 @@
 <div class="tab-section" id="module-19"></div>
 <div class="tab-section" id="module-20"></div>
 <div class="tab-section" id="module-21"></div>
+<div class="tab-section" id="module-22"></div>
 </div>
 <footer>
     Ugryź PRINCE2 (Wersja 7th Ed) - Aplikacja szkoleniowa i przygotowanie do egzaminu Foundation. Zapisuje postępy w pamięci przeglądarki.
@@ -823,7 +824,7 @@
     function loadModules(lang) {
       document.querySelectorAll('script[data-module]').forEach(s => s.remove());
       MODULE_DATA = window.MODULE_DATA = {};
-      const promises = Array.from({length: 21}, (_, i) => new Promise((resolve, reject) => {
+      const promises = Array.from({length: 22}, (_, i) => new Promise((resolve, reject) => {
         const script = document.createElement('script');
         script.src = `modules/${lang}/module-${String(i+1).padStart(2,'0')}.js`;
         script.setAttribute('data-module', i+1);
@@ -837,7 +838,7 @@
     function mountModules() {
       const nav = document.getElementById('module-nav-buttons');
       nav.replaceChildren();
-      for (let n=1;n<=21;n++) {
+      for (let n=1;n<=22;n++) {
         const data = MODULE_DATA[n];
         if (!data) throw new Error('Brak danych modułu ' + n);
         const button = document.createElement('button');
