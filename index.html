@@ -806,6 +806,7 @@
 <div class="tab-section" id="module-18"></div>
 <div class="tab-section" id="module-19"></div>
 <div class="tab-section" id="module-20"></div>
+<div class="tab-section" id="module-21"></div>
 </div>
 <footer>
     Ugryź PRINCE2 (Wersja 7th Ed) - Aplikacja szkoleniowa i przygotowanie do egzaminu Foundation. Zapisuje postępy w pamięci przeglądarki.
@@ -822,7 +823,7 @@
     function loadModules(lang) {
       document.querySelectorAll('script[data-module]').forEach(s => s.remove());
       MODULE_DATA = window.MODULE_DATA = {};
-      const promises = Array.from({length: 20}, (_, i) => new Promise((resolve, reject) => {
+      const promises = Array.from({length: 21}, (_, i) => new Promise((resolve, reject) => {
         const script = document.createElement('script');
         script.src = `modules/${lang}/module-${String(i+1).padStart(2,'0')}.js`;
         script.setAttribute('data-module', i+1);
@@ -836,7 +837,7 @@
     function mountModules() {
       const nav = document.getElementById('module-nav-buttons');
       nav.replaceChildren();
-      for (let n=1;n<=20;n++) {
+      for (let n=1;n<=21;n++) {
         const data = MODULE_DATA[n];
         if (!data) throw new Error('Brak danych modułu ' + n);
         const button = document.createElement('button');
@@ -868,6 +869,7 @@
           section.innerHTML = content;
         }
         section.querySelector('h1.module-heading').textContent = data.title;
+        if (n === 21 && Array.isArray(data.glossary)) renderGlossary(data.glossary);
       }
       for (const lang of ['pl','en']) {
         const button = document.getElementById('lang-' + lang);
@@ -915,6 +917,89 @@
       }
     }
     let selectedListAnswers = {};
+
+    const GLOSSARY_CATEGORY_LABELS = {
+      pl: {
+        core: 'Metoda i podstawy', principle: 'Pryncypium', people: 'Ludzie i role',
+        practice: 'Praktyka', process: 'Proces', product: 'Produkt zarządczy',
+        planning: 'Planowanie i produkty', control: 'Sterowanie i efektywność',
+        technique: 'Technika i pojęcie szczegółowe'
+      },
+      en: {
+        core: 'Method and foundations', principle: 'Principle', people: 'People and roles',
+        practice: 'Practice', process: 'Process', product: 'Management product',
+        planning: 'Planning and products', control: 'Controls and performance',
+        technique: 'Technique and detailed concept'
+      }
+    };
+
+    function glossaryNormalize(value) {
+      return String(value || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    }
+
+    function glossaryEscape(value) {
+      return String(value || '').replace(/[&<>"']/g, character => ({
+        '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'
+      })[character]);
+    }
+
+    function renderGlossary(entries) {
+      const list = document.getElementById('glossary-list');
+      const select = document.getElementById('glossary-category');
+      if (!list || !select) return;
+      const labels = GLOSSARY_CATEGORY_LABELS[currentLang];
+      const allLabel = currentLang === 'en' ? 'All categories' : 'Wszystkie kategorie';
+      const categories = [...new Set(entries.map(entry => entry.category))];
+      select.innerHTML = '<option value="">' + allLabel + '</option>' + categories.map(category =>
+        '<option value="' + glossaryEscape(category) + '">' + glossaryEscape(labels[category] || category) + '</option>'
+      ).join('');
+      list.innerHTML = entries.map((entry, index) => {
+        const aliases = entry.aliases && entry.aliases.length
+          ? '<div class="glossary-alias">' + glossaryEscape(entry.aliases.join(' · ')) + '</div>' : '';
+        const references = entry.chapters.map(chapter =>
+          '<button type="button" class="glossary-ref" onclick="switchModule(' + chapter + ')">' +
+          (currentLang === 'en' ? 'Ch. ' : 'Rozdz. ') + chapter + '</button>'
+        ).join('');
+        const searchable = glossaryNormalize([entry.term, ...(entry.aliases || []), entry.definition, labels[entry.category]].join(' '));
+        return '<article class="glossary-entry" data-category="' + glossaryEscape(entry.category) +
+          '" data-search="' + glossaryEscape(searchable) + '" data-index="' + index + '">' +
+          '<div class="glossary-entry-head"><div><h2>' + glossaryEscape(entry.term) + '</h2>' + aliases + '</div>' +
+          '<span class="glossary-badge">' + glossaryEscape(labels[entry.category] || entry.category) + '</span></div>' +
+          '<p>' + glossaryEscape(entry.definition) + '</p><div class="glossary-refs">' + references + '</div></article>';
+      }).join('');
+      filterGlossary();
+    }
+
+    function filterGlossary() {
+      const input = document.getElementById('glossary-search');
+      const select = document.getElementById('glossary-category');
+      const summary = document.getElementById('glossary-summary');
+      if (!input || !select || !summary) return;
+      const query = glossaryNormalize(input.value);
+      const category = select.value;
+      const entries = [...document.querySelectorAll('#glossary-list .glossary-entry')];
+      let shown = 0;
+      entries.forEach(entry => {
+        const visible = (!query || entry.dataset.search.includes(query)) &&
+          (!category || entry.dataset.category === category);
+        entry.hidden = !visible;
+        if (visible) shown++;
+      });
+      summary.textContent = currentLang === 'en'
+        ? 'Showing ' + shown + ' of ' + entries.length + ' terms'
+        : 'Wyświetlono ' + shown + ' z ' + entries.length + ' pojęć';
+      const empty = document.getElementById('glossary-empty');
+      if (empty) empty.hidden = shown !== 0;
+    }
+
+    function clearGlossaryFilters() {
+      const input = document.getElementById('glossary-search');
+      const select = document.getElementById('glossary-category');
+      if (input) input.value = '';
+      if (select) select.value = '';
+      filterGlossary();
+      if (input) input.focus();
+    }
 
 
     const STUDY_MODULE_KEYS = {16:16,18:18,10:10,11:11,19:19,14:14};

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate editable content and rebuild the 40 browser-ready module scripts."""
+"""Validate editable content and rebuild the 42 browser-ready module scripts."""
 import json
 import sys
 from pathlib import Path
@@ -48,7 +48,7 @@ def validate(lang, number, data):
 def main():
     pending = []
     for lang in ("pl", "en"):
-        for number in range(1, 21):
+        for number in range(1, 22):
             name = f"module-{number:02d}"
             source = ROOT / "editor" / lang / name
             metadata = read_json(source / "meta.json")
@@ -67,7 +67,7 @@ def main():
             pending.append((ROOT / "modules" / lang / f"{name}.js", body))
     for target, body in pending:
         target.write_text(body, encoding="utf-8")
-    print("Rebuilt 40 module scripts; quiz structures validated.")
+    print("Rebuilt 42 module scripts; quiz structures validated.")
 
 
 if __name__ == "__main__":
