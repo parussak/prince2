@@ -106,5 +106,89 @@
     ],
     "correct": 2,
     "explanation": "Prognozowane przekroczenie tolerancji etapu wymaga eskalacji do poziomu, który tę tolerancję delegował."
+  },
+  {
+    "type": "standard",
+    "question": "Rada Projektu uznaje, że dla SnakeBite wystarczą krótkie cyfrowe instrukcje zamiast rozbudowanego podręcznika procedur. Czy jest to zgodne z PRINCE2?",
+    "options": [
+      "Nie, każda praktyka wymaga osobnego podręcznika",
+      "Tak, jeśli zapis wspiera decyzje i polityki organizacji",
+      "Tak, ale tylko po zamknięciu projektu",
+      "Nie, format dokumentacji ustala wyłącznie dostawca"
+    ],
+    "correct": 1,
+    "explanation": "PRINCE2 nie narzuca formatu ani objętości dokumentacji. Rada Projektu ustala potrzebny poziom i typ zapisu w ramach polityk organizacji."
+  },
+  {
+    "type": "standard",
+    "question": "Do zespołu SnakeBite dołącza nowa osoba i chce szybko poznać cel, zakres, role, plany oraz sposób zarządzania. Od czego powinna zacząć?",
+    "options": [
+      "Od pojedynczego wpisu Daily Log",
+      "Od PID jako głównej bazy odniesienia",
+      "Wyłącznie od Risk Register",
+      "Od End Project Report"
+    ],
+    "correct": 1,
+    "explanation": "PID daje kierunek i zakres oraz pozwala nowej osobie zrozumieć, czym jest projekt i jak jest zarządzany."
+  },
+  {
+    "type": "standard",
+    "question": "Zosia zapisuje możliwość przyszłego opóźnienia dostawcy API. Gdzie powinien znaleźć się ten wpis w Project Log?",
+    "options": [
+      "W Risk Register",
+      "W Quality Register",
+      "W Product Register",
+      "W zatwierdzonej bazie PID"
+    ],
+    "correct": 0,
+    "explanation": "Niepewne przyszłe zdarzenie jest ryzykiem i powinno zostać zapisane w Risk Register należącym do Project Log."
+  },
+  {
+    "type": "standard",
+    "question": "Test wykazał, że API już nie spełnia uzgodnionego czasu odpowiedzi. Gdzie należy zapisać tę sprawę?",
+    "options": [
+      "Tylko w Lessons Log",
+      "W Issue Register jako bieżące zagadnienie",
+      "Wyłącznie w Project Plan",
+      "W Business Case jako osiągniętą korzyść"
+    ],
+    "correct": 1,
+    "explanation": "Niespełnione uzgodnione wymaganie jest bieżącym zagadnieniem i trafia do Issue Register."
+  },
+  {
+    "type": "standard",
+    "question": "Kamil rejestruje wynik testu obciążenia rankingu: 1,8 s przy celu nie większym niż 2 s. Który składnik Project Log jest właściwy?",
+    "options": [
+      "Quality Register",
+      "Daily Log",
+      "Lessons Log",
+      "Issue Register"
+    ],
+    "correct": 0,
+    "explanation": "Wyniki działań kontroli jakości zapisuje się w Quality Register."
+  },
+  {
+    "type": "standard",
+    "question": "Zosia tworzy nowy wpis w Project Log. Który zestaw danych najlepiej odpowiada wspólnym polom wpisu?",
+    "options": [
+      "Identyfikator, daty, autor, status i szczegóły",
+      "Wyłącznie nazwa projektu i budżet",
+      "Tylko opis produktu oraz kryteria akceptacji",
+      "Jedynie data zamknięcia i podpis Executive"
+    ],
+    "correct": 0,
+    "explanation": "Wspólne dane obejmują m.in. identyfikator, datę zapisania, autora, datę aktualizacji, status, klasyfikację i szczegóły."
+  },
+  {
+    "type": "standard",
+    "question": "W PID SnakeBite zapisano sposób zarządzania komunikacją, jakością, ryzykiem i zagadnieniami. Jak nazywa się ta grupa informacji?",
+    "options": [
+      "Management approaches",
+      "Project logs",
+      "Specialist products",
+      "Exception Reports"
+    ],
+    "correct": 0,
+    "explanation": "Management approaches opisują procedury, techniki, standardy i odpowiedzialności stosowane w poszczególnych obszarach zarządzania."
   }
 ]

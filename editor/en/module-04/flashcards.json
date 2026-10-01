@@ -1,1 +1,118 @@
-[]
+[
+  {
+    "q": "What is a practice in PRINCE2?",
+    "a": "An aspect of project management applied consistently throughout the project lifecycle."
+  },
+  {
+    "q": "How many practices are in PRINCE2 7?",
+    "a": "Seven: business case, organizing, plans, quality, risk, issues and progress."
+  },
+  {
+    "q": "Business case: question and chapter?",
+    "a": "Why? Chapter 5; it assesses continuing investment justification."
+  },
+  {
+    "q": "Organizing: question and chapter?",
+    "a": "Who? Chapter 6; it defines roles and responsibilities."
+  },
+  {
+    "q": "Plans: which questions?",
+    "a": "How, how much and when? Chapter 7."
+  },
+  {
+    "q": "Quality: which question?",
+    "a": "What? Chapter 8; product requirements and confirmation they are met."
+  },
+  {
+    "q": "Risk and issues: which questions?",
+    "a": "Risk: what if? An uncertain event. Issues: what now? A matter requiring a current decision."
+  },
+  {
+    "q": "Progress: which three questions?",
+    "a": "Where are we now? Where are we going? Should we carry on? Chapter 11."
+  },
+  {
+    "q": "Practice versus process: the main difference?",
+    "a": "A practice is applied throughout the lifecycle; a process specifies activities and where they occur."
+  },
+  {
+    "q": "May a practice be omitted on a small agile project?",
+    "a": "No. Apply all seven; tailor how, how much and how often they are performed."
+  },
+  {
+    "q": "What is the PID?",
+    "a": "Project initiation documentation: the authorization basis, direction, scope and management arrangements for the project."
+  },
+  {
+    "q": "What, with the Stage Plan, governs the Project Manager–Project Board agreement?",
+    "a": "The PID and Stage Plan form the basis of the agreement for managing the stage."
+  },
+  {
+    "q": "Why retain the authorized PID version?",
+    "a": "It provides a comparison baseline for closure even while current PID components are updated."
+  },
+  {
+    "q": "What is the Project Log?",
+    "a": "A collection of current and historical records of events, actions and project status."
+  },
+  {
+    "q": "Name the logs and registers in the Project Log.",
+    "a": "Issue Register, Lessons Log, Product Register, Quality Register, Risk Register and Daily Log."
+  },
+  {
+    "q": "Project Log versus Daily Log?",
+    "a": "The Project Log is broader; the Daily Log is one possible component."
+  },
+  {
+    "q": "What does a management approach define?",
+    "a": "Procedures, techniques, standards and responsibilities for a management area."
+  },
+  {
+    "q": "Example of tailoring practices without removing control?",
+    "a": "Use one system for several registers while keeping required information available for assessment and decisions."
+  },
+  {
+    "q": "PRINCE2 technique versus additional technique?",
+    "a": "An additional technique may be omitted or replaced for context; changing a PRINCE2 technique requires tailoring the method."
+  },
+  {
+    "q": "Why must practices be applied consistently?",
+    "a": "They provide specific treatment of management aspects needed for PRINCE2 processes to operate effectively."
+  },
+  {
+    "q": "What factors affect how practices are applied?",
+    "a": "Scale, risk, the people and organizations involved, and project complexity or simplicity."
+  },
+  {
+    "q": "Does PRINCE2 prescribe the format and volume of practice documentation?",
+    "a": "No. It may range from a few paragraphs to comprehensive instructions; it must support management and decisions."
+  },
+  {
+    "q": "Who establishes the level and type of practice documentation?",
+    "a": "The Project Board, considering its decision needs and agreed business policies."
+  },
+  {
+    "q": "What are the PID's three primary uses?",
+    "a": "Confirm a sound project basis, provide a baseline for assessment, and supply an agreed reference for the temporary organization."
+  },
+  {
+    "q": "Name the main PID components.",
+    "a": "Project definition, project approach, business case, team structure and roles, management approaches, project plan and PRINCE2 tailoring summary."
+  },
+  {
+    "q": "What is the purpose of the Project Log?",
+    "a": "To hold dynamic current and historic records of issues, lessons, products, quality, risk and other actions or events."
+  },
+  {
+    "q": "Which logs and registers may the Project Log contain?",
+    "a": "Issue Register, Lessons Log, Product Register, Quality Register, Risk Register and Daily Log."
+  },
+  {
+    "q": "What are common Project Log entry fields?",
+    "a": "Unique identifier, date logged, logged by, date updated, status, classification where needed, and details."
+  },
+  {
+    "q": "PID versus Project Log in one sentence?",
+    "a": "The PID is the agreed management baseline; the Project Log contains dynamic current and historical records."
+  }
+]

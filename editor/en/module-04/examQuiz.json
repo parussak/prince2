@@ -1,1 +1,302 @@
-[]
+[
+  {
+    "type": "standard",
+    "question": "What best describes a PRINCE2 practice?",
+    "options": [
+      "An activity performed only during initiation",
+      "An aspect of management applied consistently through the project lifecycle",
+      "One of seven mandatory management stages",
+      "A document produced once after closure"
+    ],
+    "correct": 1,
+    "explanation": "A practice is a management aspect addressed continually; processes specify lifecycle activities."
+  },
+  {
+    "type": "standard",
+    "question": "Which practice primarily answers who?",
+    "options": [
+      "Organizing",
+      "Quality",
+      "Plans",
+      "Progress"
+    ],
+    "correct": 0,
+    "explanation": "Organizing establishes roles, responsibilities and relationships in the project management team."
+  },
+  {
+    "type": "missing-word",
+    "question": "The [...] practice helps establish what a product must meet and how those requirements will be confirmed.",
+    "options": [
+      "risk",
+      "progress",
+      "quality",
+      "organizing"
+    ],
+    "correct": 2,
+    "explanation": "Quality concerns product attributes and confirmation that requirements are met."
+  },
+  {
+    "type": "standard",
+    "question": "Which practice answers what if for an uncertain event?",
+    "options": [
+      "Issues",
+      "Risk",
+      "Quality",
+      "Progress"
+    ],
+    "correct": 1,
+    "explanation": "Risk concerns uncertainty; something requiring a decision now is an issue."
+  },
+  {
+    "type": "standard",
+    "question": "Which management product typically contains current registers for risks, quality, issues and products?",
+    "options": [
+      "Stage Plan",
+      "Project Log",
+      "Project Product Description",
+      "Business Case"
+    ],
+    "correct": 1,
+    "explanation": "The Project Log is a collection of dynamic records and may consist of separate registers."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO statements are true? 1. Practices apply in every PRINCE2 project. 2. Their application may be tailored. 3. Each practice maps to exactly one stage. 4. A practice may be omitted when using Scrum.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "2 and 4",
+      "3 and 4"
+    ],
+    "correct": 0,
+    "explanation": "All seven practices are applied, while their form and detail are tailored."
+  },
+  {
+    "type": "standard",
+    "question": "Which product, together with the Stage Plan, forms the agreement between the Project Manager and Project Board?",
+    "options": [
+      "Risk Register",
+      "Project initiation documentation",
+      "Daily Log",
+      "Checkpoint Report"
+    ],
+    "correct": 1,
+    "explanation": "The PID provides direction and scope and, with the Stage Plan, forms the management agreement."
+  },
+  {
+    "type": "standard",
+    "question": "Which statement about the PID is true?",
+    "options": [
+      "It is completed entirely before initiation is authorized",
+      "None of its components may ever be updated",
+      "Current components reflect change while the authorized baseline is retained",
+      "It is only a list of open risks"
+    ],
+    "correct": 2,
+    "explanation": "The PID is created during initiation, kept current, and the authorized version is retained as a comparison point."
+  },
+  {
+    "type": "missing-word",
+    "question": "The procedures, techniques, standards and responsibilities for an area are described in a management [...].",
+    "options": [
+      "approach",
+      "checkpoint report",
+      "product register",
+      "product description"
+    ],
+    "correct": 0,
+    "explanation": "A management approach defines ways of working and responsibilities in a specific area."
+  },
+  {
+    "type": "standard",
+    "question": "Which decision best illustrates tailoring practices on a small project?",
+    "options": [
+      "Omit risk management because the budget is small",
+      "Use one system for several registers while retaining required data and controls",
+      "Stop maintaining the business case after work starts",
+      "Replace the Project Board with every team member"
+    ],
+    "correct": 1,
+    "explanation": "The form of records may change while all practices and decision information are retained."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO statements are true? 1. The PID supports assessment against a baseline. 2. The Project Log holds current and historic records. 3. The PID is the Daily Log. 4. The Project Log contains only the Risk Register.",
+    "options": [
+      "1 and 4",
+      "2 and 3",
+      "1 and 2",
+      "3 and 4"
+    ],
+    "correct": 2,
+    "explanation": "The PID is a reference baseline, while the Project Log holds changing records in several registers."
+  },
+  {
+    "type": "standard",
+    "question": "Which item may form part of the Project Log?",
+    "options": [
+      "Quality Register",
+      "Corporate strategy",
+      "A developer's employment contract",
+      "Only the approved PID baseline"
+    ],
+    "correct": 0,
+    "explanation": "The Quality Register is one Project Log register, alongside issue and risk registers."
+  },
+  {
+    "type": "missing-word",
+    "question": "The [...] practice assesses where the project is now, where it is going and whether it should continue.",
+    "options": [
+      "quality",
+      "risk",
+      "progress",
+      "organizing"
+    ],
+    "correct": 2,
+    "explanation": "Progress covers monitoring, forecasting and continuation decisions."
+  },
+  {
+    "type": "standard",
+    "question": "Which statement about practices and processes is true?",
+    "options": [
+      "The seven practices are seven sequential stages",
+      "Processes define lifecycle activities; practices are applied continually",
+      "Each practice is a one-time report",
+      "Processes remove the need for practices"
+    ],
+    "correct": 1,
+    "explanation": "Processes describe the flow of activities, while practices provide continual management perspectives."
+  },
+  {
+    "type": "negative",
+    "question": "Which item is NOT a register listed within the Project Log?",
+    "options": [
+      "Issue Register",
+      "Product Register",
+      "Risk Register",
+      "Project Plan"
+    ],
+    "correct": 3,
+    "explanation": "The Project Plan belongs to the planning baseline; the Project Log contains logs and registers."
+  },
+  {
+    "type": "standard",
+    "question": "Which decision does the issues practice support when a request changes approved scope?",
+    "options": [
+      "How to assess and resolve a matter requiring action now",
+      "How to replace the entire PID",
+      "How to delay assessment until closure",
+      "How to bypass delegated decision authority"
+    ],
+    "correct": 0,
+    "explanation": "Issues covers assessment and response to current matters, including requests to change an approved baseline."
+  },
+  {
+    "type": "standard",
+    "question": "How does the textbook treat techniques supporting PRINCE2 practices?",
+    "options": [
+      "Every additional technique is mandatory",
+      "Additional techniques may be selected for context; changing a PRINCE2 technique requires tailoring",
+      "Practices use no techniques",
+      "All PRINCE2 techniques may be removed without consequence"
+    ],
+    "correct": 1,
+    "explanation": "Chapter 4 distinguishes PRINCE2 techniques from additional techniques; omitting or replacing a PRINCE2 technique requires tailoring."
+  },
+  {
+    "type": "standard",
+    "question": "Why do practices require specific treatment of each management aspect?",
+    "options": [
+      "So PRINCE2 processes can operate effectively",
+      "So every practice replaces one process",
+      "To eliminate tailoring",
+      "To force identical documents in every project"
+    ],
+    "correct": 0,
+    "explanation": "Consistent application provides the management perspectives required for effective processes."
+  },
+  {
+    "type": "standard",
+    "question": "What may influence how practices are applied?",
+    "options": [
+      "Only the number of PID pages",
+      "Scale, risk, people, organizations and complexity",
+      "Only supplier preference",
+      "Only the software tool used"
+    ],
+    "correct": 1,
+    "explanation": "All practices apply, but their use is tailored to scale, risk, people, organizations and complexity or simplicity."
+  },
+  {
+    "type": "standard",
+    "question": "Which statement about documenting procedures, techniques and standards is true?",
+    "options": [
+      "PRINCE2 mandates one template for every organization",
+      "From a few paragraphs to comprehensive instructions",
+      "Every approach must be a separate paper document",
+      "Documentation is unnecessary with digital tools"
+    ],
+    "correct": 1,
+    "explanation": "PRINCE2 does not prescribe format; documentation may range from a few paragraphs to comprehensive instructions."
+  },
+  {
+    "type": "standard",
+    "question": "Who establishes the level and type of practice documentation needed?",
+    "options": [
+      "The Project Board within business policies",
+      "Only the Team Manager",
+      "Every stakeholder independently",
+      "The reporting-tool supplier"
+    ],
+    "correct": 0,
+    "explanation": "The Project Board determines what documentation is needed within agreed business policies."
+  },
+  {
+    "type": "standard",
+    "question": "Which item is part of the PID's high-level content?",
+    "options": [
+      "Project approach: solution and delivery method",
+      "Every private team note",
+      "The complete history of closed Daily Log entries",
+      "Specialist-product source code"
+    ],
+    "correct": 0,
+    "explanation": "The project approach is a PID component describing the solution choice and delivery method."
+  },
+  {
+    "type": "negative",
+    "question": "Which item is NOT a typical Project Log component?",
+    "options": [
+      "Risk Register",
+      "Lessons Log",
+      "Quality Register",
+      "Project Plan"
+    ],
+    "correct": 3,
+    "explanation": "The Project Plan is part of the PID and planning baseline; the Project Log contains dynamic logs and registers."
+  },
+  {
+    "type": "standard",
+    "question": "What is the main nature of the Project Log?",
+    "options": [
+      "A dynamic record of activities, events and status",
+      "An immutable authorization baseline approved once",
+      "A description only of the final project product",
+      "A commercial contract with every supplier"
+    ],
+    "correct": 0,
+    "explanation": "The Project Log is dynamic and maintains the current and historical picture of project activities and progress."
+  },
+  {
+    "type": "standard",
+    "question": "Which TWO are common data for a Project Log entry? 1. Unique identifier. 2. Status. 3. Full Project Plan. 4. Project Board structure.",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "2 and 4",
+      "3 and 4"
+    ],
+    "correct": 0,
+    "explanation": "Identifier and status are common entry fields; the Project Plan and board structure sit outside an individual log entry."
+  }
+]

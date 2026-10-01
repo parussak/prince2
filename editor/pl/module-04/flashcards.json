@@ -74,5 +74,45 @@
   {
     "q": "Technika PRINCE2 a technika dodatkowa — czym różni się ich pominięcie?",
     "a": "Dodatkową technikę można pominąć lub zastąpić zależnie od kontekstu; pominięcie lub zastąpienie techniki PRINCE2 wymaga dostosowania metody."
+  },
+  {
+    "q": "Dlaczego praktyki trzeba stosować konsekwentnie?",
+    "a": "Ponieważ zapewniają określone traktowanie aspektów zarządzania potrzebne do skutecznego działania procesów PRINCE2."
+  },
+  {
+    "q": "Od jakich czynników zależy sposób zastosowania praktyk?",
+    "a": "Od skali, ryzyka, ludzi i organizacji uczestniczących oraz złożoności lub prostoty projektu."
+  },
+  {
+    "q": "Czy PRINCE2 narzuca format i objętość dokumentacji praktyk?",
+    "a": "Nie. Może to być kilka akapitów albo rozbudowana instrukcja; liczy się informacja potrzebna do zarządzania i decyzji."
+  },
+  {
+    "q": "Kto ustala poziom i typ dokumentacji praktyk?",
+    "a": "Rada Projektu, uwzględniając swoje potrzeby decyzyjne i uzgodnione polityki biznesowe."
+  },
+  {
+    "q": "Jakie są trzy podstawowe zastosowania PID?",
+    "a": "Potwierdzenie solidnej podstawy projektu, baza do oceny postępów i zagadnień oraz uzgodnione źródło odniesienia dla organizacji projektu."
+  },
+  {
+    "q": "Wymień główne składniki PID.",
+    "a": "Project definition, Project approach, Business case, struktura zespołu zarządzania i role, management approaches, Project plan oraz podsumowanie dostosowania PRINCE2."
+  },
+  {
+    "q": "Jaki jest cel Project Log?",
+    "a": "Przechowywanie dynamicznych bieżących i historycznych zapisów zagadnień, lekcji, produktów, jakości, ryzyka oraz innych działań i zdarzeń."
+  },
+  {
+    "q": "Jakie logi i rejestry może obejmować Project Log?",
+    "a": "Issue Register, Lessons Log, Product Register, Quality Register, Risk Register oraz Daily Log."
+  },
+  {
+    "q": "Jakie są wspólne pola wpisu Project Log?",
+    "a": "Unikalny identyfikator, data zapisania, autor, data aktualizacji, status, potrzebna klasyfikacja i szczegóły."
+  },
+  {
+    "q": "PID a Project Log — najkrótsze rozróżnienie?",
+    "a": "PID to uzgodniona baza zarządcza projektu; Project Log to dynamiczne zapisy jego bieżącego i historycznego przebiegu."
   }
 ]

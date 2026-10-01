@@ -202,5 +202,101 @@
     ],
     "correct": 1,
     "explanation": "Rozdział 4 odróżnia techniki PRINCE2 od technik dodatkowych; pominięcie lub zastąpienie techniki PRINCE2 wymaga dostosowania metody."
+  },
+  {
+    "type": "standard",
+    "question": "Dlaczego praktyki wymagają określonego sposobu traktowania każdego aspektu zarządzania?",
+    "options": [
+      "Aby procesy PRINCE2 mogły działać skutecznie",
+      "Aby każda praktyka zastąpiła jeden proces",
+      "Aby wyeliminować potrzebę dostosowania",
+      "Aby wszystkie projekty tworzyły identyczne dokumenty"
+    ],
+    "correct": 0,
+    "explanation": "Konsekwentne stosowanie praktyk zapewnia perspektywy zarządcze potrzebne do skutecznego działania procesów."
+  },
+  {
+    "type": "standard",
+    "question": "Od czego według PRINCE2 może zależeć sposób zastosowania praktyk?",
+    "options": [
+      "Wyłącznie od liczby stron PID",
+      "Od skali, ryzyka, ludzi, organizacji i złożoności",
+      "Tylko od preferencji dostawcy",
+      "Wyłącznie od zastosowanego oprogramowania"
+    ],
+    "correct": 1,
+    "explanation": "Wszystkie praktyki są obowiązkowe, ale ich zastosowanie dostosowuje się do skali, ryzyka, ludzi, organizacji i złożoności lub prostoty projektu."
+  },
+  {
+    "type": "standard",
+    "question": "Które stwierdzenie o dokumentowaniu procedur, technik i standardów jest prawdziwe?",
+    "options": [
+      "PRINCE2 wymaga jednego szablonu dla każdej organizacji",
+      "Od kilku akapitów do obszernej instrukcji",
+      "Każde podejście musi być osobnym dokumentem papierowym",
+      "Dokumentacja jest zbędna, jeśli projekt używa narzędzia cyfrowego"
+    ],
+    "correct": 1,
+    "explanation": "PRINCE2 nie narzuca formatu; dokumentacja może mieć od kilku akapitów do kompleksowej instrukcji."
+  },
+  {
+    "type": "standard",
+    "question": "Kto ustala poziom i typ dokumentacji praktyk potrzebny do zarządzania projektem?",
+    "options": [
+      "Rada Projektu w ramach polityk organizacji",
+      "Wyłącznie Kierownik Zespołu",
+      "Każdy interesariusz niezależnie",
+      "Dostawca narzędzia do raportowania"
+    ],
+    "correct": 0,
+    "explanation": "Rada Projektu określa potrzebny poziom i typ dokumentacji w ramach uzgodnionych polityk biznesowych."
+  },
+  {
+    "type": "standard",
+    "question": "Który element należy do wysokopoziomowej zawartości PID?",
+    "options": [
+      "Project approach: rozwiązanie i metoda dostarczania",
+      "Każda prywatna notatka członka zespołu",
+      "Historia wszystkich zamkniętych wpisów Daily Log",
+      "Kod źródłowy produktu specjalistycznego"
+    ],
+    "correct": 0,
+    "explanation": "Project approach jest jednym z elementów PID; opisuje wybór rozwiązania i sposób dostarczania opcji biznesowej."
+  },
+  {
+    "type": "negative",
+    "question": "Który element NIE jest typowym składnikiem Project Log?",
+    "options": [
+      "Risk Register",
+      "Lessons Log",
+      "Quality Register",
+      "Project Plan"
+    ],
+    "correct": 3,
+    "explanation": "Project Plan należy do PID i planowania; Project Log obejmuje dynamiczne logi oraz rejestry."
+  },
+  {
+    "type": "standard",
+    "question": "Jaki jest główny charakter Project Log?",
+    "options": [
+      "Dynamiczny zapis działań, zdarzeń i stanu projektu",
+      "Niezmienna baza autoryzacyjna zatwierdzana tylko raz",
+      "Opis wyłącznie końcowego produktu projektu",
+      "Umowa handlowa z każdym dostawcą"
+    ],
+    "correct": 0,
+    "explanation": "Project Log jest dynamiczny i utrzymuje aktualny oraz historyczny obraz działań i postępów."
+  },
+  {
+    "type": "standard",
+    "question": "Które DWA są wspólnymi danymi wpisu w Project Log? 1. Unikalny identyfikator. 2. Status. 3. Pełny Project Plan. 4. Struktura Rady Projektu. Wybierz JEDNĄ poprawną kombinację.",
+    "options": [
+      "1 i 2",
+      "1 i 3",
+      "2 i 4",
+      "3 i 4"
+    ],
+    "correct": 0,
+    "explanation": "Identyfikator i status należą do wspólnych pól wpisu; Project Plan i struktura Rady są informacjami zarządczymi poza pojedynczym wpisem logu."
   }
 ]

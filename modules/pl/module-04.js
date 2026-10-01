@@ -110,6 +110,90 @@ window.MODULE_DATA[4] = {
       ],
       "correct": 2,
       "explanation": "Prognozowane przekroczenie tolerancji etapu wymaga eskalacji do poziomu, który tę tolerancję delegował."
+    },
+    {
+      "type": "standard",
+      "question": "Rada Projektu uznaje, że dla SnakeBite wystarczą krótkie cyfrowe instrukcje zamiast rozbudowanego podręcznika procedur. Czy jest to zgodne z PRINCE2?",
+      "options": [
+        "Nie, każda praktyka wymaga osobnego podręcznika",
+        "Tak, jeśli zapis wspiera decyzje i polityki organizacji",
+        "Tak, ale tylko po zamknięciu projektu",
+        "Nie, format dokumentacji ustala wyłącznie dostawca"
+      ],
+      "correct": 1,
+      "explanation": "PRINCE2 nie narzuca formatu ani objętości dokumentacji. Rada Projektu ustala potrzebny poziom i typ zapisu w ramach polityk organizacji."
+    },
+    {
+      "type": "standard",
+      "question": "Do zespołu SnakeBite dołącza nowa osoba i chce szybko poznać cel, zakres, role, plany oraz sposób zarządzania. Od czego powinna zacząć?",
+      "options": [
+        "Od pojedynczego wpisu Daily Log",
+        "Od PID jako głównej bazy odniesienia",
+        "Wyłącznie od Risk Register",
+        "Od End Project Report"
+      ],
+      "correct": 1,
+      "explanation": "PID daje kierunek i zakres oraz pozwala nowej osobie zrozumieć, czym jest projekt i jak jest zarządzany."
+    },
+    {
+      "type": "standard",
+      "question": "Zosia zapisuje możliwość przyszłego opóźnienia dostawcy API. Gdzie powinien znaleźć się ten wpis w Project Log?",
+      "options": [
+        "W Risk Register",
+        "W Quality Register",
+        "W Product Register",
+        "W zatwierdzonej bazie PID"
+      ],
+      "correct": 0,
+      "explanation": "Niepewne przyszłe zdarzenie jest ryzykiem i powinno zostać zapisane w Risk Register należącym do Project Log."
+    },
+    {
+      "type": "standard",
+      "question": "Test wykazał, że API już nie spełnia uzgodnionego czasu odpowiedzi. Gdzie należy zapisać tę sprawę?",
+      "options": [
+        "Tylko w Lessons Log",
+        "W Issue Register jako bieżące zagadnienie",
+        "Wyłącznie w Project Plan",
+        "W Business Case jako osiągniętą korzyść"
+      ],
+      "correct": 1,
+      "explanation": "Niespełnione uzgodnione wymaganie jest bieżącym zagadnieniem i trafia do Issue Register."
+    },
+    {
+      "type": "standard",
+      "question": "Kamil rejestruje wynik testu obciążenia rankingu: 1,8 s przy celu nie większym niż 2 s. Który składnik Project Log jest właściwy?",
+      "options": [
+        "Quality Register",
+        "Daily Log",
+        "Lessons Log",
+        "Issue Register"
+      ],
+      "correct": 0,
+      "explanation": "Wyniki działań kontroli jakości zapisuje się w Quality Register."
+    },
+    {
+      "type": "standard",
+      "question": "Zosia tworzy nowy wpis w Project Log. Który zestaw danych najlepiej odpowiada wspólnym polom wpisu?",
+      "options": [
+        "Identyfikator, daty, autor, status i szczegóły",
+        "Wyłącznie nazwa projektu i budżet",
+        "Tylko opis produktu oraz kryteria akceptacji",
+        "Jedynie data zamknięcia i podpis Executive"
+      ],
+      "correct": 0,
+      "explanation": "Wspólne dane obejmują m.in. identyfikator, datę zapisania, autora, datę aktualizacji, status, klasyfikację i szczegóły."
+    },
+    {
+      "type": "standard",
+      "question": "W PID SnakeBite zapisano sposób zarządzania komunikacją, jakością, ryzykiem i zagadnieniami. Jak nazywa się ta grupa informacji?",
+      "options": [
+        "Management approaches",
+        "Project logs",
+        "Specialist products",
+        "Exception Reports"
+      ],
+      "correct": 0,
+      "explanation": "Management approaches opisują procedury, techniki, standardy i odpowiedzialności stosowane w poszczególnych obszarach zarządzania."
     }
   ],
   "examQuiz": [
@@ -316,6 +400,102 @@ window.MODULE_DATA[4] = {
       ],
       "correct": 1,
       "explanation": "Rozdział 4 odróżnia techniki PRINCE2 od technik dodatkowych; pominięcie lub zastąpienie techniki PRINCE2 wymaga dostosowania metody."
+    },
+    {
+      "type": "standard",
+      "question": "Dlaczego praktyki wymagają określonego sposobu traktowania każdego aspektu zarządzania?",
+      "options": [
+        "Aby procesy PRINCE2 mogły działać skutecznie",
+        "Aby każda praktyka zastąpiła jeden proces",
+        "Aby wyeliminować potrzebę dostosowania",
+        "Aby wszystkie projekty tworzyły identyczne dokumenty"
+      ],
+      "correct": 0,
+      "explanation": "Konsekwentne stosowanie praktyk zapewnia perspektywy zarządcze potrzebne do skutecznego działania procesów."
+    },
+    {
+      "type": "standard",
+      "question": "Od czego według PRINCE2 może zależeć sposób zastosowania praktyk?",
+      "options": [
+        "Wyłącznie od liczby stron PID",
+        "Od skali, ryzyka, ludzi, organizacji i złożoności",
+        "Tylko od preferencji dostawcy",
+        "Wyłącznie od zastosowanego oprogramowania"
+      ],
+      "correct": 1,
+      "explanation": "Wszystkie praktyki są obowiązkowe, ale ich zastosowanie dostosowuje się do skali, ryzyka, ludzi, organizacji i złożoności lub prostoty projektu."
+    },
+    {
+      "type": "standard",
+      "question": "Które stwierdzenie o dokumentowaniu procedur, technik i standardów jest prawdziwe?",
+      "options": [
+        "PRINCE2 wymaga jednego szablonu dla każdej organizacji",
+        "Od kilku akapitów do obszernej instrukcji",
+        "Każde podejście musi być osobnym dokumentem papierowym",
+        "Dokumentacja jest zbędna, jeśli projekt używa narzędzia cyfrowego"
+      ],
+      "correct": 1,
+      "explanation": "PRINCE2 nie narzuca formatu; dokumentacja może mieć od kilku akapitów do kompleksowej instrukcji."
+    },
+    {
+      "type": "standard",
+      "question": "Kto ustala poziom i typ dokumentacji praktyk potrzebny do zarządzania projektem?",
+      "options": [
+        "Rada Projektu w ramach polityk organizacji",
+        "Wyłącznie Kierownik Zespołu",
+        "Każdy interesariusz niezależnie",
+        "Dostawca narzędzia do raportowania"
+      ],
+      "correct": 0,
+      "explanation": "Rada Projektu określa potrzebny poziom i typ dokumentacji w ramach uzgodnionych polityk biznesowych."
+    },
+    {
+      "type": "standard",
+      "question": "Który element należy do wysokopoziomowej zawartości PID?",
+      "options": [
+        "Project approach: rozwiązanie i metoda dostarczania",
+        "Każda prywatna notatka członka zespołu",
+        "Historia wszystkich zamkniętych wpisów Daily Log",
+        "Kod źródłowy produktu specjalistycznego"
+      ],
+      "correct": 0,
+      "explanation": "Project approach jest jednym z elementów PID; opisuje wybór rozwiązania i sposób dostarczania opcji biznesowej."
+    },
+    {
+      "type": "negative",
+      "question": "Który element NIE jest typowym składnikiem Project Log?",
+      "options": [
+        "Risk Register",
+        "Lessons Log",
+        "Quality Register",
+        "Project Plan"
+      ],
+      "correct": 3,
+      "explanation": "Project Plan należy do PID i planowania; Project Log obejmuje dynamiczne logi oraz rejestry."
+    },
+    {
+      "type": "standard",
+      "question": "Jaki jest główny charakter Project Log?",
+      "options": [
+        "Dynamiczny zapis działań, zdarzeń i stanu projektu",
+        "Niezmienna baza autoryzacyjna zatwierdzana tylko raz",
+        "Opis wyłącznie końcowego produktu projektu",
+        "Umowa handlowa z każdym dostawcą"
+      ],
+      "correct": 0,
+      "explanation": "Project Log jest dynamiczny i utrzymuje aktualny oraz historyczny obraz działań i postępów."
+    },
+    {
+      "type": "standard",
+      "question": "Które DWA są wspólnymi danymi wpisu w Project Log? 1. Unikalny identyfikator. 2. Status. 3. Pełny Project Plan. 4. Struktura Rady Projektu. Wybierz JEDNĄ poprawną kombinację.",
+      "options": [
+        "1 i 2",
+        "1 i 3",
+        "2 i 4",
+        "3 i 4"
+      ],
+      "correct": 0,
+      "explanation": "Identyfikator i status należą do wspólnych pól wpisu; Project Plan i struktura Rady są informacjami zarządczymi poza pojedynczym wpisem logu."
     }
   ],
   "flashcards": [
@@ -394,6 +574,46 @@ window.MODULE_DATA[4] = {
     {
       "q": "Technika PRINCE2 a technika dodatkowa — czym różni się ich pominięcie?",
       "a": "Dodatkową technikę można pominąć lub zastąpić zależnie od kontekstu; pominięcie lub zastąpienie techniki PRINCE2 wymaga dostosowania metody."
+    },
+    {
+      "q": "Dlaczego praktyki trzeba stosować konsekwentnie?",
+      "a": "Ponieważ zapewniają określone traktowanie aspektów zarządzania potrzebne do skutecznego działania procesów PRINCE2."
+    },
+    {
+      "q": "Od jakich czynników zależy sposób zastosowania praktyk?",
+      "a": "Od skali, ryzyka, ludzi i organizacji uczestniczących oraz złożoności lub prostoty projektu."
+    },
+    {
+      "q": "Czy PRINCE2 narzuca format i objętość dokumentacji praktyk?",
+      "a": "Nie. Może to być kilka akapitów albo rozbudowana instrukcja; liczy się informacja potrzebna do zarządzania i decyzji."
+    },
+    {
+      "q": "Kto ustala poziom i typ dokumentacji praktyk?",
+      "a": "Rada Projektu, uwzględniając swoje potrzeby decyzyjne i uzgodnione polityki biznesowe."
+    },
+    {
+      "q": "Jakie są trzy podstawowe zastosowania PID?",
+      "a": "Potwierdzenie solidnej podstawy projektu, baza do oceny postępów i zagadnień oraz uzgodnione źródło odniesienia dla organizacji projektu."
+    },
+    {
+      "q": "Wymień główne składniki PID.",
+      "a": "Project definition, Project approach, Business case, struktura zespołu zarządzania i role, management approaches, Project plan oraz podsumowanie dostosowania PRINCE2."
+    },
+    {
+      "q": "Jaki jest cel Project Log?",
+      "a": "Przechowywanie dynamicznych bieżących i historycznych zapisów zagadnień, lekcji, produktów, jakości, ryzyka oraz innych działań i zdarzeń."
+    },
+    {
+      "q": "Jakie logi i rejestry może obejmować Project Log?",
+      "a": "Issue Register, Lessons Log, Product Register, Quality Register, Risk Register oraz Daily Log."
+    },
+    {
+      "q": "Jakie są wspólne pola wpisu Project Log?",
+      "a": "Unikalny identyfikator, data zapisania, autor, data aktualizacji, status, potrzebna klasyfikacja i szczegóły."
+    },
+    {
+      "q": "PID a Project Log — najkrótsze rozróżnienie?",
+      "a": "PID to uzgodniona baza zarządcza projektu; Project Log to dynamiczne zapisy jego bieżącego i historycznego przebiegu."
     }
   ]
 };

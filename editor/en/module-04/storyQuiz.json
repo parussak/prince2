@@ -1,1 +1,194 @@
-[]
+[
+  {
+    "type": "standard",
+    "question": "The API supplier announces a possible delay, but the due date has not passed. How should Zosia classify this information?",
+    "options": [
+      "A risk concerning a future event",
+      "A closed quality issue",
+      "An approved scope change",
+      "A benefit already achieved"
+    ],
+    "correct": 0,
+    "explanation": "The delay is still uncertain, so it should be assessed as a risk."
+  },
+  {
+    "type": "standard",
+    "question": "A test confirms that the delivered API version fails the agreed response time. What should be assessed?",
+    "options": [
+      "Only a new risk forecast, with no issue",
+      "An off-specification as an issue",
+      "An automatically approved request for change",
+      "The financial result after project closure"
+    ],
+    "correct": 1,
+    "explanation": "Failure to meet an agreed requirement is an off-specification requiring assessment and a decision."
+  },
+  {
+    "type": "standard",
+    "question": "Maya proposes a two-player mode outside the approved scope. What is Zosia's first appropriate action?",
+    "options": [
+      "Tell Tomek to start work immediately",
+      "Increase the stage tolerance herself",
+      "Record and assess a request for change",
+      "Close the Issue Register until stage end"
+    ],
+    "correct": 2,
+    "explanation": "A proposed change to the approved scope must be recorded, assessed for impact and decided within the appropriate authority."
+  },
+  {
+    "type": "standard",
+    "question": "Kamil assesses technical feasibility while Maya explains user needs. Which practice structures roles and representation of interests?",
+    "options": [
+      "Risk",
+      "Organizing",
+      "Progress",
+      "Quality"
+    ],
+    "correct": 1,
+    "explanation": "Organizing defines responsibilities and representation of business, user and supplier interests."
+  },
+  {
+    "type": "standard",
+    "question": "Zosia compares the delay and mode change with the budget and schedule. Which practice answers how, how much and when?",
+    "options": [
+      "Plans",
+      "Quality",
+      "Issues",
+      "Business case"
+    ],
+    "correct": 0,
+    "explanation": "The plans practice defines how, at what cost and when products will be delivered."
+  },
+  {
+    "type": "standard",
+    "question": "Artur asks whether the game remains worth investing in after the change. Which practice supports that assessment?",
+    "options": [
+      "Organizing",
+      "Business case",
+      "Quality",
+      "Risk"
+    ],
+    "correct": 1,
+    "explanation": "The business case practice continually assesses investment justification and expected benefits."
+  },
+  {
+    "type": "standard",
+    "question": "Zosia records API quality results and issue status in the appropriate registers. Which wider management product contains these changing records?",
+    "options": [
+      "The PID as the only log",
+      "The Project Log",
+      "Only the Project Plan",
+      "Only the End Project Report"
+    ],
+    "correct": 1,
+    "explanation": "The Project Log includes the Quality Register and Issue Register; the PID provides the management framework."
+  },
+  {
+    "type": "standard",
+    "question": "Tomek wants to implement an extra feature without a decision because the team works agile. How should Zosia respond?",
+    "options": [
+      "Stop applying the issues practice",
+      "Use the agreed change assessment and authorization procedure",
+      "Turn every practice into a separate sprint",
+      "Transfer board authority to a developer"
+    ],
+    "correct": 1,
+    "explanation": "Agile delivery can be combined with PRINCE2 while retaining all practices and agreed decision authority."
+  },
+  {
+    "type": "standard",
+    "question": "The forecast after the API analysis exceeds stage tolerance. What action follows from managing progress?",
+    "options": [
+      "Increase the stage budget herself",
+      "Ignore the forecast until project end",
+      "Escalate the forecast exception to the Project Board",
+      "Close the project without authorization"
+    ],
+    "correct": 2,
+    "explanation": "A forecast stage-tolerance breach must be escalated to the level that delegated the tolerance."
+  },
+  {
+    "type": "standard",
+    "question": "The Project Board decides that concise digital instructions are sufficient for SnakeBite instead of a large procedures manual. Is this consistent with PRINCE2?",
+    "options": [
+      "No, every practice requires a separate manual",
+      "Yes, if the record supports decisions and business policies",
+      "Yes, but only after project closure",
+      "No, only the supplier selects the format"
+    ],
+    "correct": 1,
+    "explanation": "PRINCE2 does not prescribe format or volume. The Project Board determines what is needed within business policies."
+  },
+  {
+    "type": "standard",
+    "question": "A new person joins SnakeBite and wants to understand objectives, scope, roles, plans and management arrangements. Where should they start?",
+    "options": [
+      "A single Daily Log entry",
+      "The PID as the main agreed reference",
+      "Only the Risk Register",
+      "The End Project Report"
+    ],
+    "correct": 1,
+    "explanation": "The PID gives direction and scope and helps a newcomer understand the project and how it is managed."
+  },
+  {
+    "type": "standard",
+    "question": "Zosia records the possibility of a future API supplier delay. Where should it appear in the Project Log?",
+    "options": [
+      "Risk Register",
+      "Quality Register",
+      "Product Register",
+      "Approved PID baseline"
+    ],
+    "correct": 0,
+    "explanation": "An uncertain future event is a risk and belongs in the Risk Register within the Project Log."
+  },
+  {
+    "type": "standard",
+    "question": "A test shows that the API already fails the agreed response time. Where should the matter be recorded?",
+    "options": [
+      "Only the Lessons Log",
+      "The Issue Register as a current issue",
+      "Only the Project Plan",
+      "Business case as an achieved benefit"
+    ],
+    "correct": 1,
+    "explanation": "A failure to meet an agreed requirement is a current issue and belongs in the Issue Register."
+  },
+  {
+    "type": "standard",
+    "question": "Kamil records a ranking load-test result of 1.8 seconds against a target of no more than 2 seconds. Which Project Log component is appropriate?",
+    "options": [
+      "Quality Register",
+      "Daily Log",
+      "Lessons Log",
+      "Issue Register"
+    ],
+    "correct": 0,
+    "explanation": "Results of quality-control activities are recorded in the Quality Register."
+  },
+  {
+    "type": "standard",
+    "question": "Zosia creates a new Project Log entry. Which set best represents the common entry fields?",
+    "options": [
+      "Identifier, dates, author, status and details",
+      "Only project name and budget",
+      "Only product description and acceptance criteria",
+      "Only closure date and Executive signature"
+    ],
+    "correct": 0,
+    "explanation": "Common data includes identifier, date logged, logged by, date updated, status, classification and details."
+  },
+  {
+    "type": "standard",
+    "question": "The SnakeBite PID records how communication, quality, risk and issues will be managed. What is this group of information called?",
+    "options": [
+      "Management approaches",
+      "Project logs",
+      "Specialist products",
+      "Exception Reports"
+    ],
+    "correct": 0,
+    "explanation": "Management approaches describe procedures, techniques, standards and responsibilities for management areas."
+  }
+]
